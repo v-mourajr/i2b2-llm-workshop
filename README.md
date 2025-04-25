@@ -1,8 +1,8 @@
-![MGB Logo](./images/mgb-logo.png)
+![MGB Logo](./images/transmart-logo.png)
 
-# CAIBILS Mongan LLM Workshop
+# i2b2 tranSMART LLM Workshop: Using LLM to search for patient notes
 
-Welcome to the CAIBILS Mongan LLM Workshop repository. This project is part of a training module focused on large language models (LLMs) and their applications. The core components of this repository are Jupyter notebooks designed to guide users through various concepts and practical implementations.
+Welcome to the i2b2 tranSMART LLM Workshop repository. This project is part of a training module focused on large language models (LLMs) and their applications. The core components of this repository are Jupyter notebooks designed to guide users through various concepts and practical implementations.
 
 ## Prerequisites
 
