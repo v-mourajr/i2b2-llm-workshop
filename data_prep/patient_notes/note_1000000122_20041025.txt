@@ -1,0 +1,68 @@
+**Visit Information:**
+- Patient Num: 1000000122
+- Visit Date: 10/25/2004
+
+**Subjective:**
+This is a 6-year-old Indian female who has been receiving care at our clinic for over two years and speaks German. She presents today for a follow-up visit regarding her chronic asthma, which has exacerbated recently. The patient’s mother expresses concern about an increased frequency of wheezing and shortness of breath over the past week, especially during physical activities and sleep. The patient was last evaluated for an acute upper respiratory infection three weeks ago, and since that time, she has had consistent symptoms of nasal congestion, cough, and throat irritation.
+
+The patient has a significant past medical history of asthma, with multiple documented episodes of acute exacerbations. Additionally, she has a history of acute bronchiolitis, anaphylactic shock due to a peanut allergy, and recurrent otitis media. No surgical history is noted. 
+
+She is currently prescribed Atrovent 18 mcg/inh aerosol, which she takes as needed for respiratory symptoms, and Prednisolone Acetate 5mg tablets are used during exacerbations. For her gastroesophageal reflux disease (GERD), she is on Zantac 1 mg/ml solution. The patient’s mother reports adherence to the medication regimen but notes no significant improvement in symptoms during this particular exacerbation.
+
+**Objective:**
+- **Vital Signs:**
+  - Blood Pressure: 90/60 mmHg
+  - Heart Rate: 102 bpm
+  - Respiratory Rate: 26 breaths/min
+  - Temperature: 98.2 °F
+  - Oxygen Saturation: 95% on room air
+  
+- **General Appearance:**
+  - Alert and cooperative female child, in mild respiratory distress
+  
+- **Cardiovascular:**
+  - Regular rate and rhythm, no murmurs
+  
+- **Respiratory:**
+  - Bilateral expiratory wheezes, decreased breath sounds at the bases, use of accessory muscles noted
+  
+- **Abdomen:**
+  - Soft, non-tender, no organomegaly
+  
+- **Musculoskeletal:**
+  - Normal range of motion, no joint swelling or tenderness
+  
+- **Neurological:**
+  - Alert and oriented, no focal deficits
+  
+- **Skin:**
+  - No rashes or lesions, no signs of eczema exacerbation
+
+The patient’s mother provided results from a recent urinalysis that revealed normal glucose, ketones, nitrites, and occult blood levels, within the expected ranges. White blood cells were also within normal limits, suggesting no active infection.
+
+**Assessment:**
+This 6-year-old female has chronic asthmatic symptoms compounded by recent upper respiratory infection leading to an exacerbation. In addition to chronic asthma, other pertinent diagnoses include a history of anaphylactic shock from peanut allergy, acute bronchitis episodes, congenital respiratory abnormalities, pneumonia, and intermittent GERD.
+
+**Plan:**
+1. **Asthma Management:**
+   - Increase the frequency of Atrovent use as each episode of acute exacerbation occurs.
+   - Continue Prednisolone 5 mg tablets for the duration of the current exacerbation.
+   - Add a short course of an oral steroid taper for improved long-term inflammation control.
+   - Referral to an asthma specialist for potential adjustment in the long-term asthma care plan.
+   - Educate the patient’s mother on recognizing early symptoms of exacerbation and when to seek urgent care.
+
+2. **Allergy Management:**
+   - Continue to avoid peanut exposure strictly.
+   - Educate the patient’s mother on the administration of an epinephrine auto-injector for anaphylactic episodes.
+
+3. **Infection and Upper Respiratory Management:**
+   - Increase the frequency of follow-up to monitor potential progression from viral to bacterial etiology requiring further intervention.
+   - Continue supportive care with adequate hydration and humidified air.
+
+4. **GERD Management:**
+   - Continue Zantac 1 mg/ml solution with close monitoring for gastroesophageal symptoms.
+
+**Follow-Up:**
+- Instruct patient’s mother to contact the clinic if symptoms worsen or do not improve within a week, or if further evaluation of test results is needed.
+- Schedule a follow-up appointment in one week to reassess her respiratory status and overall management plan.
+- Ensure the patient’s mother understands the care plan and educate her comprehensively on recognizing early signs of exacerbation and handling anaphylactic emergencies.

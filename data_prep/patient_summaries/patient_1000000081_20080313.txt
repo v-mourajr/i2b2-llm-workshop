@@ -1,0 +1,102 @@
+demographics
+patient_num: 1000000081  age: 14
+patient_num: 1000000081  sex: M
+patient_num: 1000000081  race: black
+patient_num: 1000000081  language: spanish
+patient_num: 1000000081  vital_status: alive
+patient_num: 1000000081  earliest fact: Jan 14 2002 12:00AM
+patient_num: 1000000081  latest fact: Mar 13 2008 12:00AM
+patient_num: 1000000081  range in days: 2250
+totals
+patient_num: 1000000081  distinct concepts: 97
+patient_num: 1000000081  total facts: 357
+patient_num: 1000000081  total encounters: 68
+patient_num: 1000000081  total asthma: 11
+descriptive
+patient_num: 1000000081  asthma code: ICD9:493.92  name: Asthma, unspecified type, with acute exacerbation  count: 3
+patient_num: 1000000081  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 9
+patient_num: 1000000081  diagnosis code: ICD9:786.7  name: Abnormal chest sounds  count: 2
+patient_num: 1000000081  diagnosis code: ICD9:781.2  name: Abnormality of gait  count: 3
+patient_num: 1000000081  diagnosis code: ICD9:466.19  name: Acute bronchiolitis due to other infectious organisms  count: 2
+patient_num: 1000000081  diagnosis code: ICD9:466.11  name: Acute bronchiolitis due to respiratory syncytial virus (RSV)  count: 1
+patient_num: 1000000081  diagnosis code: ICD9:381.00  name: Acute nonsuppurative otitis media, unspecified  count: 2
+patient_num: 1000000081  diagnosis code: ICD9:465.9  name: Acute upper respiratory infections of unspecified site  count: 8
+patient_num: 1000000081  diagnosis code: ICD9:995.3  name: Allergy, unspecified, not elsewhere classified  count: 3
+patient_num: 1000000081  diagnosis code: ICD9:493.92  name: Asthma, unspecified type, with acute exacerbation  count: 3
+patient_num: 1000000081  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 9
+patient_num: 1000000081  diagnosis code: ICD9:770.7  name: Chronic respiratory disease arising in the perinatal period  count: 1
+patient_num: 1000000081  diagnosis code: ICD9:64.0  name: Circumcision  count: 1
+patient_num: 1000000081  diagnosis code: ICD9:372.30  name: Conjunctivitis, unspecified  count: 1
+patient_num: 1000000081  diagnosis code: ICD9:692.9  name: Contact dermatitis and other eczema, unspecified cause  count: 4
+patient_num: 1000000081  diagnosis code: ICD9:786.2  name: Cough  count: 7
+patient_num: 1000000081  diagnosis code: ICD9:343.0  name: Diplegic infantile cerebral palsy  count: 3
+patient_num: 1000000081  diagnosis code: ICD9:779.3  name: Feeding problems in newborn  count: 1
+patient_num: 1000000081  diagnosis code: ICD9:780.6  name: Fever  count: 4
+patient_num: 1000000081  diagnosis code: ICD9:750.15  name: Macroglossia  count: 1
+patient_num: 1000000081  diagnosis code: ICD9:873.0  name: Open wound of scalp, without mention of complication  count: 1
+patient_num: 1000000081  diagnosis code: ICD9:780.57  name: Other and unspecified sleep apnea  count: 1
+patient_num: 1000000081  diagnosis code: ICD9:478.29  name: Other diseases of pharynx or nasopharynx  count: 2
+patient_num: 1000000081  diagnosis code: ICD9:786.09  name: Other dyspnea and respiratory abnormality  count: 1
+patient_num: 1000000081  diagnosis code: ICD9:579.8  name: Other specified intestinal malabsorption  count: 2
+patient_num: 1000000081  diagnosis code: ICD9:486  name: Pneumonia, organism unspecified  count: 2
+patient_num: 1000000081  diagnosis code: ICD9:518.0  name: Pulmonary collapse  count: 1
+patient_num: 1000000081  diagnosis code: ICD9:782.1  name: Rash and other nonspecific skin eruption  count: 1
+patient_num: 1000000081  diagnosis code: ICD9:V20.2  name: Routine infant or child health check  count: 9
+patient_num: 1000000081  diagnosis code: ICD9:V50.2  name: Routine or ritual circumcision  count: 1
+patient_num: 1000000081  diagnosis code: ICD9:V82.5  name: Screening for chemical poisoning and other contamination  count: 1
+patient_num: 1000000081  diagnosis code: ICD9:V30.00  name: Single liveborn, born in hospital, delivered without mention of cesarean section  count: 3
+patient_num: 1000000081  diagnosis code: ICD9:333.7  name: Symptomatic torsion dystonia  count: 3
+patient_num: 1000000081  diagnosis code: ICD9:783  name: Symptoms concerning nutrition, metabolism, and development  count: 1
+patient_num: 1000000081  diagnosis code: ICD9:520.7  name: Teething syndrome  count: 1
+patient_num: 1000000081  diagnosis code: ICD9:382.9  name: Unspecified otitis media  count: 1
+patient_num: 1000000081  diagnosis code: ICD9:787.03  name: Vomiting alone  count: 2
+patient_num: 1000000081  diagnosis code: ICD9:786.07  name: Wheezing  count: 3
+patient_num: 1000000081  medication code: NDC:00364021702  name: Prednisolone Acetate 5mg tablet Schein Pharmaceuticals Inc  count: 4
+patient_num: 1000000081  laboratory code: LOINC:763-3  name: Abs Bands Manual (Group:ABANDS)  count: 1
+patient_num: 1000000081  laboratory code: LOINC:26444-0  name: Abs Basos (Group:ABASOP)  count: 2
+patient_num: 1000000081  laboratory code: LOINC:704-7  name: Abs Basos Auto (Group:ABASOS)  count: 2
+patient_num: 1000000081  laboratory code: LOINC:26449-9  name: Abs Eos (Group:AEOSN)  count: 2
+patient_num: 1000000081  laboratory code: LOINC:711-2  name: Abs EOS Auto (Group:AEOS)  count: 2
+patient_num: 1000000081  laboratory code: LOINC:26474-7  name: Abs Lymphs (Group:ALYMP)  count: 3
+patient_num: 1000000081  laboratory code: LOINC:731-0  name: Abs Lymphs Auto (Group:ALYMPHS)  count: 2
+patient_num: 1000000081  laboratory code: LOINC:26484-6  name: Abs Monos (Group:AMONS)  count: 3
+patient_num: 1000000081  laboratory code: LOINC:742-7  name: Abs Monos Auto (Group:AMONOS)  count: 2
+patient_num: 1000000081  laboratory code: LOINC:26499-4  name: Abs Neuts (Group:ANEU)  count: 3
+patient_num: 1000000081  laboratory code: LOINC:752-6  name: Abs Neuts Auto (Group:ANEUTS)  count: 2
+patient_num: 1000000081  laboratory code: LOINC:1751-7  name: Albumin (Group:ALB)  count: 1
+patient_num: 1000000081  laboratory code: LOINC:1742-6  name: ALT (SGPT) (Group:SGPT)  count: 1
+patient_num: 1000000081  laboratory code: LOINC:702-1  name: Anisocytosis (Group:ANISO)  count: 1
+patient_num: 1000000081  laboratory code: LOINC:1920-8  name: AST (SGOT) (Group:SGOT)  count: 1
+patient_num: 1000000081  laboratory code: LOINC:735-1  name: Atypical Lymphs (Group:ATYPS)  count: 1
+patient_num: 1000000081  laboratory code: LOINC:764-1  name: Bands - Manual (Group:BAND)  count: 1
+patient_num: 1000000081  laboratory code: LOINC:30180-4  name: Basophils (Group:BASOP)  count: 1
+patient_num: 1000000081  laboratory code: LOINC:706-2  name: Basophils - Auto (Group:BASOS)  count: 2
+patient_num: 1000000081  laboratory code: LOINC:X2036-5  name: Diff Method (Group:DIFMET)  count: 1
+patient_num: 1000000081  laboratory code: LOINC:X2012-1  name: Differential Request (Group:DIFFR)  count: 3
+patient_num: 1000000081  laboratory code: LOINC:1968-7  name: Direct Bilirubin (Group:DBILI)  count: 2
+patient_num: 1000000081  laboratory code: LOINC:26450-7  name: Eosinophils (Group:EOSP)  count: 1
+patient_num: 1000000081  laboratory code: LOINC:713-8  name: Eosinophils - Auto (Group:EOS)  count: 2
+patient_num: 1000000081  laboratory code: LOINC:2336-6  name: Globulin (Group:GLOB)  count: 1
+patient_num: 1000000081  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 7
+patient_num: 1000000081  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 6
+patient_num: 1000000081  laboratory code: LOINC:765-8  name: Hypersegmented Neuts (Group:HYPSEG)  count: 1
+patient_num: 1000000081  laboratory code: LOINC:2462-0  name: IgE (Group:IGE)  count: 1
+patient_num: 1000000081  laboratory code: LOINC:17789-9  name: LUC# (Group:LUC)  count: 1
+patient_num: 1000000081  laboratory code: LOINC:17788-1  name: LUC% (Group:LUCP)  count: 1
+patient_num: 1000000081  laboratory code: LOINC:26478-8  name: Lymphocytes (Group:LYMP)  count: 3
+patient_num: 1000000081  laboratory code: LOINC:736-9  name: Lymphocytes - Auto (Group:LYMPHS)  count: 2
+patient_num: 1000000081  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 6
+patient_num: 1000000081  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 6
+patient_num: 1000000081  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 6
+patient_num: 1000000081  laboratory code: LOINC:741-9  name: Microcytes (Group:MICROC)  count: 1
+patient_num: 1000000081  laboratory code: LOINC:26485-3  name: Monocytes (Group:MON)  count: 3
+patient_num: 1000000081  laboratory code: LOINC:5905-5  name: Monocytes - Auto (Group:MONOS)  count: 2
+patient_num: 1000000081  laboratory code: LOINC:26511-6  name: Neutrophils (Group:NEUT)  count: 3
+patient_num: 1000000081  laboratory code: LOINC:770-8  name: Neutrophils - Auto (Group:POLYS)  count: 2
+patient_num: 1000000081  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 6
+patient_num: 1000000081  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 6
+patient_num: 1000000081  laboratory code: LOINC:6742-1  name: RBC Morph Manual (Group:RCM-M)  count: 3
+patient_num: 1000000081  laboratory code: LOINC:788-0  name: RDW (Group:RDW)  count: 6
+patient_num: 1000000081  laboratory code: LOINC:1975-2  name: Total Bilirubin (Group:TBILI)  count: 2
+patient_num: 1000000081  laboratory code: LOINC:2885-2  name: Total Protein (Group:TP)  count: 1
+patient_num: 1000000081  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 6

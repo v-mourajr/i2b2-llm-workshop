@@ -1,0 +1,109 @@
+demographics
+patient_num: 1000000100  age: 10
+patient_num: 1000000100  sex: M
+patient_num: 1000000100  race: hispanic
+patient_num: 1000000100  language: english
+patient_num: 1000000100  vital_status: alive
+patient_num: 1000000100  earliest fact: Aug  8 1997 12:00AM
+patient_num: 1000000100  latest fact: Jun 20 2001 12:00AM
+patient_num: 1000000100  range in days: 1412
+totals
+patient_num: 1000000100  distinct concepts: 104
+patient_num: 1000000100  total facts: 221
+patient_num: 1000000100  total encounters: 16
+patient_num: 1000000100  total asthma: 4
+descriptive
+patient_num: 1000000100  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 4
+patient_num: 1000000100  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 4
+patient_num: 1000000100  diagnosis code: ICD9:742.3  name: Congenital hydrocephalus  count: 1
+patient_num: 1000000100  diagnosis code: ICD9:96.71  name: Continuous mechanical ventilation for less than 96 consecutive hours  count: 1
+patient_num: 1000000100  diagnosis code: ICD9:96.6  name: Enteral infusion of concentrated nutritional substances  count: 1
+patient_num: 1000000100  diagnosis code: ICD9:780.6  name: Fever  count: 2
+patient_num: 1000000100  diagnosis code: ICD9:345.3  name: Grand mal status, epileptic  count: 1
+patient_num: 1000000100  diagnosis code: ICD9:474.12  name: Hypertrophy of adenoids alone  count: 1
+patient_num: 1000000100  diagnosis code: ICD9:343.9  name: Infantile cerebral palsy, unspecified  count: 2
+patient_num: 1000000100  diagnosis code: ICD9:96.04  name: Insertion of endotracheal tube  count: 1
+patient_num: 1000000100  diagnosis code: ICD9:996.59  name: Mechanical complication of other implant and internal device, not elsewhere classified  count: 1
+patient_num: 1000000100  diagnosis code: ICD9:322.0  name: Nonpyogenic meningitis  count: 1
+patient_num: 1000000100  diagnosis code: ICD9:780.39  name: Other convulsions  count: 1
+patient_num: 1000000100  diagnosis code: ICD9:518.89  name: Other diseases of lung, not elsewhere classified  count: 3
+patient_num: 1000000100  diagnosis code: ICD9:786.09  name: Other dyspnea and respiratory abnormality  count: 2
+patient_num: 1000000100  diagnosis code: ICD9:784.9  name: Other symptoms involving head and neck  count: 1
+patient_num: 1000000100  diagnosis code: ICD9:486  name: Pneumonia, organism unspecified  count: 1
+patient_num: 1000000100  diagnosis code: ICD9:507.0  name: Pneumonitis due to inhalation of food or vomitus  count: 3
+patient_num: 1000000100  diagnosis code: ICD9:V45.2  name: Postsurgical presence of cerebrospinal fluid drainage device  count: 1
+patient_num: 1000000100  diagnosis code: ICD9:518.3  name: Pulmonary eosinophilia  count: 1
+patient_num: 1000000100  diagnosis code: ICD9:03.31  name: Spinal tap  count: 1
+patient_num: 1000000100  diagnosis code: ICD9:319  name: Unspecified mental retardation  count: 1
+patient_num: 1000000100  diagnosis code: ICD9:382.9  name: Unspecified otitis media  count: 2
+patient_num: 1000000100  medication code: NDC:00597008214  name: Atrovent 18 mcg/inh aerosol Boehringer-Ingelheim  count: 4
+patient_num: 1000000100  medication code: NDC:00071447545  name: Dilantin 50 mg/ml solution Parke-Davis  count: 3
+patient_num: 1000000100  medication code: NDC:50458045045  name: Propulsid 1 mg/ml suspension Janssen Pharmaceuticals  count: 3
+patient_num: 1000000100  medication code: NDC:00089074121  name: Qvar 80 mcg/inh aerosol with adapter 3 M Pharmaceuticals  count: 4
+patient_num: 1000000100  laboratory code: LOINC:763-3  name: Abs Bands Manual (Group:ABANDS)  count: 1
+patient_num: 1000000100  laboratory code: LOINC:704-7  name: Abs Basos Auto (Group:ABASOS)  count: 1
+patient_num: 1000000100  laboratory code: LOINC:711-2  name: Abs EOS Auto (Group:AEOS)  count: 1
+patient_num: 1000000100  laboratory code: LOINC:731-0  name: Abs Lymphs Auto (Group:ALYMPHS)  count: 1
+patient_num: 1000000100  laboratory code: LOINC:732-8  name: Abs Lymphs Manual (Group:ALYMPH)  count: 1
+patient_num: 1000000100  laboratory code: LOINC:742-7  name: Abs Monos Auto (Group:AMONOS)  count: 1
+patient_num: 1000000100  laboratory code: LOINC:743-5  name: Abs Monos Manual (Group:AMONO)  count: 1
+patient_num: 1000000100  laboratory code: LOINC:753-4  name: Abs Neuts Manual (Group:ANEUT)  count: 1
+patient_num: 1000000100  laboratory code: LOINC:1751-7  name: Albumin (Group:ALB)  count: 1
+patient_num: 1000000100  laboratory code: LOINC:1742-6  name: ALT (SGPT) (Group:SGPT)  count: 1
+patient_num: 1000000100  laboratory code: LOINC:702-1  name: Anisocytosis (Group:ANISO)  count: 2
+patient_num: 1000000100  laboratory code: LOINC:2019-8  name: Arterial PCO2 (Group:APCO2)  count: 3
+patient_num: 1000000100  laboratory code: LOINC:2744-1  name: Arterial pH (Group:APH)  count: 3
+patient_num: 1000000100  laboratory code: LOINC:2703-7  name: Arterial PO2 (Group:APO2)  count: 3
+patient_num: 1000000100  laboratory code: LOINC:1920-8  name: AST (SGOT) (Group:SGOT)  count: 1
+patient_num: 1000000100  laboratory code: LOINC:764-1  name: Bands - Manual (Group:BAND)  count: 2
+patient_num: 1000000100  laboratory code: LOINC:707-0  name: Basophils - Manual (Group:BASO)  count: 1
+patient_num: 1000000100  laboratory code: LOINC:3094-0  name: Blood Urea Nitrogen (Group:BUN)  count: 2
+patient_num: 1000000100  laboratory code: LOINC:2000-8  name: Calcium (Group:CA)  count: 1
+patient_num: 1000000100  laboratory code: LOINC:2020-6  name: Capillary PCO2 (Group:CPCO2)  count: 1
+patient_num: 1000000100  laboratory code: LOINC:2745-8  name: Capillary pH (Group:CPH)  count: 1
+patient_num: 1000000100  laboratory code: LOINC:2704-5  name: Capillary PO2 (Group:CPO2)  count: 1
+patient_num: 1000000100  laboratory code: LOINC:2075-0  name: Chloride (Group:CL)  count: 1
+patient_num: 1000000100  laboratory code: LOINC:2160-0  name: Creatinine (Group:CRE)  count: 2
+patient_num: 1000000100  laboratory code: LOINC:2342-4  name: CSF Glucose (Group:CSF-GLU)  count: 1
+patient_num: 1000000100  laboratory code: LOINC:2880-3  name: CSF Total Protein (Group:CSF-TP)  count: 1
+patient_num: 1000000100  laboratory code: LOINC:13532-7  name: CSF Xanthochromia (Group:CSF-XA)  count: 1
+patient_num: 1000000100  laboratory code: LOINC:X2012-1  name: Differential Request (Group:DIFFR)  count: 3
+patient_num: 1000000100  laboratory code: LOINC:1968-7  name: Direct Bilirubin (Group:DBILI)  count: 2
+patient_num: 1000000100  laboratory code: LOINC:714-6  name: Eosinophils - Manual (Group:EO)  count: 1
+patient_num: 1000000100  laboratory code: LOINC:3255-7  name: Fibrinogen (Group:FIB)  count: 1
+patient_num: 1000000100  laboratory code: LOINC:3151-8  name: FIO2 (Group:FIO2)  count: 4
+patient_num: 1000000100  laboratory code: LOINC:2336-6  name: Globulin (Group:GLOB)  count: 1
+patient_num: 1000000100  laboratory code: LOINC:6777-7  name: Glucose (Group:GLU)  count: 2
+patient_num: 1000000100  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 3
+patient_num: 1000000100  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 3
+patient_num: 1000000100  laboratory code: LOINC:728-6  name: Hypochromia (Group:HYPO)  count: 1
+patient_num: 1000000100  laboratory code: LOINC:737-7  name: Lymphocytes - Manual (Group:LYMPH)  count: 1
+patient_num: 1000000100  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 3
+patient_num: 1000000100  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 3
+patient_num: 1000000100  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 3
+patient_num: 1000000100  laboratory code: LOINC:741-9  name: Microcytes (Group:MICROC)  count: 1
+patient_num: 1000000100  laboratory code: LOINC:744-3  name: Monocytes - Manual (Group:MONO)  count: 1
+patient_num: 1000000100  laboratory code: LOINC:769-0  name: Neutrophils - Manual (Group:POLY)  count: 2
+patient_num: 1000000100  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 3
+patient_num: 1000000100  laboratory code: LOINC:11125-2  name: PLT Comments (Group:P-COM)  count: 1
+patient_num: 1000000100  laboratory code: LOINC:9317-9  name: PLT Estimate (Group:PLTEST)  count: 1
+patient_num: 1000000100  laboratory code: LOINC:779-9  name: Poikilocytosis (Group:POIK)  count: 2
+patient_num: 1000000100  laboratory code: LOINC:10378-8  name: Polychromasia (Group:POLYCH)  count: 1
+patient_num: 1000000100  laboratory code: LOINC:2823-3  name: Potassium (Group:K)  count: 3
+patient_num: 1000000100  laboratory code: LOINC:5902-2  name: PT (Group:PT)  count: 1
+patient_num: 1000000100  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 3
+patient_num: 1000000100  laboratory code: LOINC:6742-1  name: RBC Morph Manual (Group:RCM-M)  count: 3
+patient_num: 1000000100  laboratory code: LOINC:788-0  name: RDW (Group:RDW)  count: 2
+patient_num: 1000000100  laboratory code: LOINC:2951-2  name: Sodium (Group:NA)  count: 2
+patient_num: 1000000100  laboratory code: LOINC:1975-2  name: Total Bilirubin (Group:TBILI)  count: 2
+patient_num: 1000000100  laboratory code: LOINC:2885-2  name: Total Protein (Group:TP)  count: 1
+patient_num: 1000000100  laboratory code: LOINC:1959-6  name: Unspecified HCO3 (Group:HC03)  count: 3
+patient_num: 1000000100  laboratory code: LOINC:11557-6  name: Unspecified PCO2 (Group:BPCO2)  count: 1
+patient_num: 1000000100  laboratory code: LOINC:11558-4  name: Unspecified pH (Group:BPH)  count: 1
+patient_num: 1000000100  laboratory code: LOINC:11556-8  name: Unspecified PO2 (Group:BPO2)  count: 1
+patient_num: 1000000100  laboratory code: LOINC:3084-1  name: Uric Acid (Group:URIC)  count: 1
+patient_num: 1000000100  laboratory code: LOINC:2021-4  name: Venous PCO2 (Group:VPCO2)  count: 1
+patient_num: 1000000100  laboratory code: LOINC:2746-6  name: Venous pH (Group:VPH)  count: 1
+patient_num: 1000000100  laboratory code: LOINC:2705-2  name: Venous PO2 (Group:VPO2)  count: 1
+patient_num: 1000000100  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 3
+patient_num: 1000000100  laboratory code: LOINC:11156-7  name: WBC Comments (Group:W-COM)  count: 1

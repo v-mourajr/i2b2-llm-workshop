@@ -1,0 +1,64 @@
+### Visit Information:
+- Patient Num: 1000000132
+- Visit Date: 11/20/2009
+
+### Subjective:
+This is a 13-year-old Hispanic male who has been receiving care at our clinic for over 6 years. He speaks German and is here today for a follow-up regarding his chronic asthma. His guardians report ongoing management challenges, primarily nocturnal and exercise-induced exacerbations. Despite compliance with his prescribed medications — Beclomethasone (220 mcg inhaler) and rescue Albuterol (90 mcg) — his symptoms have recently intensified, with nocturnal awakenings and daytime limitations noted.
+
+The patient lives in a stable, supportive, and smoke-free environment. He regularly attends school and engages in limited physical activities. There has been a potential increase in allergen exposure following the recent adoption of a cat, though causality with symptom exacerbations has not been definitively established. He denies chest pain, fever, unexplained weight loss, or night sweats. His asthma was diagnosed at the age of 4, and he has not undergone any surgical interventions. There are no known allergies.
+
+### Objective:
+**Vital Signs:**
+- Blood Pressure: 108/68 mmHg
+- Heart Rate: 95 bpm
+- Respiratory Rate: 22 breaths per minute
+- Temperature: 98.7°F (37.1°C)
+- Oxygen Saturation: 97% on room air
+
+**General Appearance:**
+The patient appears well-nourished, in no acute distress, and is cooperative throughout the examination.
+
+**Cardiovascular:**
+- Heart sounds are clear with no murmurs, rubs, or gallops. The rhythm is regular.
+
+**Respiratory:**
+- Auscultation detects bilateral wheezing, more prominent in the upper lung fields. There are no crackles. No retractions or accessory muscle use were noted.
+
+**Abdomen:**
+- The abdomen is soft and non-tender, with no palpable organomegaly.
+
+**Musculoskeletal:**
+- Normal range of motion is present in all joints, without evidence of swelling or tenderness.
+
+**Neurological:**
+- The patient is alert and well-oriented, with intact cranial nerves. Motor and sensory examinations are normal.
+
+**Skin:**
+- The skin appears healthy, without rashes, lesions, or discoloration.
+
+Recent laboratory tests, including those monitoring lymphocytes, basophils, bilirubin, eosinophils, glucose, hematocrit, and hemoglobin, are within normal ranges, indicating no immediate concerns.
+
+### Assessment:
+1. **Primary Diagnosis:**
+   - Chronic Asthma with nocturnal and exercise-induced exacerbations.
+
+2. **Secondary Diagnoses:**
+   - Developmental language disorder
+   - Attention deficit disorder of childhood with hyperactivity
+   - Infantile autism
+
+### Plan:
+1. **Asthma Management:**
+   - Continue current inhaled medications: Beclomethasone (220 mcg inhaler) twice daily and Albuterol (90 mcg) as a rescue inhaler.
+   - Introduce Montelukast (5 mg chewable tablet) once daily in the evening to improve control of nocturnal symptoms.
+   - Discuss allergen management strategies, especially in light of the recent pet adoption, to minimize asthma triggers at home.
+
+2. **Follow-Up:**
+   - Schedule a follow-up in four weeks to assess medication efficacy and symptom improvement.
+   - Instruct guardians to monitor the patient closely for any worsening of symptoms or increased use of the rescue inhaler and to seek immediate care if severe respiratory distress occurs.
+
+3. **Patient Education:**
+   - Provide thorough instructions on the use and maintenance of inhalers.
+   - Discuss the importance of medication adherence and potential side effects of Montelukast, including monitoring for behavioral changes.
+
+The patient's guardians have confirmed their understanding of the plan and their commitment to adhering to the new medication regimen and follow-up instructions.

@@ -1,0 +1,71 @@
+demographics
+patient_num: 1000000011  age: 53
+patient_num: 1000000011  sex: F
+patient_num: 1000000011  race: white
+patient_num: 1000000011  language: english
+patient_num: 1000000011  vital_status: alive
+patient_num: 1000000011  earliest fact: Aug  6 1998 12:00AM
+patient_num: 1000000011  latest fact: May 14 2001 12:00AM
+patient_num: 1000000011  range in days: 1012
+totals
+patient_num: 1000000011  distinct concepts: 67
+patient_num: 1000000011  total facts: 290
+patient_num: 1000000011  total encounters: 41
+patient_num: 1000000011  total asthma: 3
+descriptive
+patient_num: 1000000011  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 3
+patient_num: 1000000011  diagnosis code: ICD9:789.3  name: Abdominal or pelvic swelling, mass, or lump  count: 1
+patient_num: 1000000011  diagnosis code: ICD9:466.0  name: Acute bronchitis  count: 2
+patient_num: 1000000011  diagnosis code: ICD9:461.9  name: Acute sinusitis, unspecified  count: 1
+patient_num: 1000000011  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 3
+patient_num: 1000000011  diagnosis code: ICD9:V58.3  name: Attention to surgical dressings and sutures  count: 1
+patient_num: 1000000011  diagnosis code: ICD9:724.5  name: Backache, unspecified  count: 1
+patient_num: 1000000011  diagnosis code: ICD9:233.1  name: Carcinoma in situ of cervix uteri  count: 3
+patient_num: 1000000011  diagnosis code: ICD9:87.21  name: Contrast myelogram  count: 1
+patient_num: 1000000011  diagnosis code: ICD9:722.10  name: Displacement of lumbar intervertebral disc without myelopathy  count: 5
+patient_num: 1000000011  diagnosis code: ICD9:622.1  name: Dysplasia of cervix (uteri)  count: 3
+patient_num: 1000000011  diagnosis code: ICD9:228.00  name: Hemangioma of unspecified site  count: 2
+patient_num: 1000000011  diagnosis code: ICD9:03.92  name: Injection of other agent into spinal canal  count: 2
+patient_num: 1000000011  diagnosis code: ICD9:99.23  name: Injection of steroid  count: 2
+patient_num: 1000000011  diagnosis code: ICD9:218.1  name: Intramural leiomyoma of uterus  count: 1
+patient_num: 1000000011  diagnosis code: ICD9:724.2  name: Lumbago  count: 3
+patient_num: 1000000011  diagnosis code: ICD9:721.3  name: Lumbosacral spondylosis without myelopathy  count: 2
+patient_num: 1000000011  diagnosis code: ICD9:180.9  name: Malignant neoplasm of cervix uteri, unspecified  count: 1
+patient_num: 1000000011  diagnosis code: ICD9:183.0  name: Malignant neoplasm of ovary  count: 1
+patient_num: 1000000011  diagnosis code: ICD9:722.93  name: Other and unspecified disc disorder of lumbar region  count: 1
+patient_num: 1000000011  diagnosis code: ICD9:780.9  name: Other general symptoms  count: 2
+patient_num: 1000000011  diagnosis code: ICD9:718.81  name: Other joint derangement, not elsewhere classified, involving shoulder region  count: 2
+patient_num: 1000000011  diagnosis code: ICD9:724.3  name: Sciatia  count: 3
+patient_num: 1000000011  diagnosis code: ICD9:V78.8  name: Screening for other disorders of blood and blood-forming organs  count: 1
+patient_num: 1000000011  diagnosis code: ICD9:218.0  name: Submucous leiomyoma of uterus  count: 1
+patient_num: 1000000011  diagnosis code: ICD9:218.2  name: Subserous leiomyoma of uterus  count: 1
+patient_num: 1000000011  diagnosis code: ICD9:68.4  name: Total abdominal hysterectomy  count: 1
+patient_num: 1000000011  diagnosis code: ICD9:786.50  name: Unspecified chest pain  count: 1
+patient_num: 1000000011  diagnosis code: ICD9:401.9  name: Unspecified essential hypertension  count: 1
+patient_num: 1000000011  diagnosis code: ICD9:382.9  name: Unspecified otitis media  count: 1
+patient_num: 1000000011  laboratory code: LOINC:704-7  name: Abs Basos Auto (Group:ABASOS)  count: 3
+patient_num: 1000000011  laboratory code: LOINC:711-2  name: Abs EOS Auto (Group:AEOS)  count: 3
+patient_num: 1000000011  laboratory code: LOINC:731-0  name: Abs Lymphs Auto (Group:ALYMPHS)  count: 3
+patient_num: 1000000011  laboratory code: LOINC:742-7  name: Abs Monos Auto (Group:AMONOS)  count: 3
+patient_num: 1000000011  laboratory code: LOINC:752-6  name: Abs Neuts Auto (Group:ANEUTS)  count: 3
+patient_num: 1000000011  laboratory code: LOINC:706-2  name: Basophils - Auto (Group:BASOS)  count: 3
+patient_num: 1000000011  laboratory code: LOINC:2342-4  name: CSF Glucose (Group:CSF-GLU)  count: 1
+patient_num: 1000000011  laboratory code: LOINC:2880-3  name: CSF Total Protein (Group:CSF-TP)  count: 1
+patient_num: 1000000011  laboratory code: LOINC:13532-7  name: CSF Xanthochromia (Group:CSF-XA)  count: 1
+patient_num: 1000000011  laboratory code: LOINC:713-8  name: Eosinophils - Auto (Group:EOS)  count: 3
+patient_num: 1000000011  laboratory code: LOINC:2119-6  name: HCG-Quant (Group:HCG,QT)  count: 2
+patient_num: 1000000011  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 5
+patient_num: 1000000011  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 5
+patient_num: 1000000011  laboratory code: LOINC:17790-7  name: LShift (Group:LShift)  count: 1
+patient_num: 1000000011  laboratory code: LOINC:736-9  name: Lymphocytes - Auto (Group:LYMPHS)  count: 3
+patient_num: 1000000011  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 5
+patient_num: 1000000011  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 5
+patient_num: 1000000011  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 5
+patient_num: 1000000011  laboratory code: LOINC:5905-5  name: Monocytes - Auto (Group:MONOS)  count: 3
+patient_num: 1000000011  laboratory code: LOINC:770-8  name: Neutrophils - Auto (Group:POLYS)  count: 3
+patient_num: 1000000011  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 5
+patient_num: 1000000011  laboratory code: LOINC:5902-2  name: PT (Group:PT)  count: 1
+patient_num: 1000000011  laboratory code: LOINC:5898-2  name: PTT (Group:PTT)  count: 1
+patient_num: 1000000011  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 5
+patient_num: 1000000011  laboratory code: LOINC:788-0  name: RDW (Group:RDW)  count: 5
+patient_num: 1000000011  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 5

@@ -1,0 +1,64 @@
+**Visit Information:**
+Patient Num: 1000000070  
+Visit Date: Dec 28, 2001
+
+**Subjective:**
+This is a 30-year-old Black male who has been receiving care at our clinic regularly for asthma management. He speaks primarily German and presents today for a follow-up visit. The patient reports frequent asthma exacerbations, which have become more common since his last visit. He experiences shortness of breath and wheezing, particularly at night and during physical exertion. He continues to use his Maxair Autohaler 0.2 mg/inhalation as prescribed, which offers temporary relief, but symptoms recur after a few hours. Additionally, he mentions persistent edema, especially in the lower extremities, and ongoing joint pain in the legs, which he rates as 7 out of 10. This discomfort limits his physical activities and exacerbates his respiratory symptoms. He has no history of recent injuries but continues to suffer from chronic back pain, which impacts his daily functioning significantly.
+
+His past medical history includes unspecified asthma, lower leg injuries, an old disruption of the anterior cruciate ligament, and back pain. He has undergone arthroscopy of the knee and a follow-up examination related to it. He has not reported any significant surgical history apart from knee-related procedures.
+
+The patient denies the use of tobacco and alcohol. He has a sedentary lifestyle due to his desk job, which he acknowledges could contribute to his current health issues. He has no known drug allergies.
+
+**Objective:**
+Vital Signs:
+- Blood Pressure: 120/78 mmHg
+- Heart Rate: 80 bpm
+- Respiratory Rate: 20 breaths/min
+- Temperature: 98.4°F (36.9°C)
+- Oxygen Saturation: 95% on room air
+
+General Appearance:
+The patient appears well-groomed and is in no acute distress. He is alert and oriented to time, place, and person.
+
+Cardiovascular:
+Heart sounds are regular with no murmurs, gallops, or rubs. Peripheral pulses are strong and symmetric. Mild pitting edema is observed in the lower extremities.
+
+Respiratory:
+Respiratory effort is mildly labored with slight wheezing on expiration. There are no crackles or rales. The use of accessory muscles is noted.
+
+Abdomen:
+The abdomen is soft, non-tender, and non-distended. Bowel sounds are present in all quadrants.
+
+Musculoskeletal:
+There is no deformity or misalignment. Mild tenderness is noted upon palpation of the lumbar spine with pain elicited during flexion and extension. Examination of the lower extremities reveals mild swelling without erythema or warmth.
+
+Neurological:
+The patient has normal deep tendon reflexes and intact sensory and motor function in all extremities.
+
+Skin:
+Skin is warm and dry with no rashes or lesions.
+
+Laboratory Findings:
+Recent laboratory evaluations reveal normal levels in albumin, ALT, AST, and BUN. Hematocrit, Hemoglobin, MCV, MCH, and MCHC are within standard ranges. Total bilirubin and significant components such as basophils and eosinophils have shown no abnormal counts. A complete blood count indicated no notable leukocytosis or anemia.
+
+**Assessment:**
+The patient is suffering from chronic asthma with recent exacerbations likely exacerbated by physical activity and environmental factors. Chronic edema and joint pain in the lower extremities are worsening his quality of life, while persistent back pain is further aggravating his overall health status.
+
+**Plan:**
+1. **Asthma:**
+   - Continue usage of Maxair Autohaler as needed.
+   - Start a trial of daily inhaled corticosteroids to manage and reduce asthma exacerbation frequency.
+   - Referral to Pulmonology for further evaluation and potential adjustment of the long-term asthma management strategy.
+
+2. **Edema and Joint Pain:**
+   - Recommend compression stockings for lower extremity edema.
+   - Suggest leg elevation when sitting and advise engaging in low-impact exercises like swimming or cycling to improve circulation.
+   - Prescribe NSAIDs for joint pain management, with a contingency to refer to Rheumatology if symptoms persist.
+
+3. **Back Pain:**
+   - Refer to Physical Therapy for customized exercises and pain management techniques.
+   - Recommend ergonomic adjustments at the workplace to prevent further strain.
+
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if further evaluation is indicated by test results. Schedule follow-up in one month to review the effectiveness of the treatment plan and make necessary adjustments.
+
+In closing, the patient confirmed his understanding of the treatment plan and expressed commitment to adhere to the recommendations provided. Comprehensive patient education regarding asthma management, lifestyle changes, and the importance of follow-up care was undertaken.

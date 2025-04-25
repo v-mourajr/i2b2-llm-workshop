@@ -1,0 +1,68 @@
+**Visit Information:**
+
+- Patient Num: 1000000033
+- Visit Date: 05/29/2009
+
+**Subjective:**
+
+This is a 30-year-old Asian male who communicates primarily in Spanish. He has been receiving care at this clinic for approximately 12 years and presents today for a follow-up regarding his asthma management. The patient has a notable history of asthma, documented as unspecified type, both with and without status asthmaticus, and extrinsic asthma. Currently, he reports an increase in symptoms over the past month, including frequent wheezing, shortness of breath, and nocturnal coughing that severely disrupts his sleep. Despite utilizing his albuterol inhaler daily, he experiences only transient relief. He denies any recent fever, chest pain, hematemesis, or hemoptysis.
+
+The patient’s medical history includes recurrent episodes of acute pharyngitis, occasional abdominal pain, and abnormal weight loss. His current regimen consists of an albuterol inhaler for acute episodes and fluticasone propionate for maintenance, although he occasionally misses his evening doses. He is not taking any herbal supplements or additional medications.
+
+Socially, the patient is a high school student residing with his parents in an environment containing fans, which may contribute to dust circulation but does not have any pets. He denies smoking or alcohol consumption.
+
+**Objective:**
+
+- **Vital Signs:**
+  - Blood Pressure: 120/80 mmHg
+  - Heart Rate: 80 bpm
+  - Respiratory Rate: 20 breaths/min
+  - Temperature: 37.2°C
+  - Oxygen Saturation: 96% on room air
+
+- **General Appearance:**
+  The patient is alert and cooperative, displaying slight anxiety but no acute distress.
+
+- **Cardiovascular:**
+  Regular rate and rhythm without murmurs, rubs, or gallops.
+
+- **Respiratory:**
+  Bilateral expiratory wheezing is noted, accompanied by mild intercostal retractions. Chest expansion is symmetrical with no crackles or rhonchi. Lung sounds are clear otherwise.
+
+- **Abdomen:**
+  The abdomen is soft, non-tender, and exhibits normal bowel sounds in all quadrants.
+
+- **Musculoskeletal:**
+  Normal muscle tone and strength, with no swelling or tenderness.
+
+- **Neurological:**
+  The patient is fully alert and oriented. Cranial nerves II-XII are intact with no focal deficits.
+
+- **Skin:**
+  The skin is clear, with no rashes, lesions, or other abnormalities. Normal turgor and color are present.
+
+Laboratory tests, including monitoring of AST and ALT, as well as creatinine and specific gravity from urine tests, showed no significant abnormalities during recent assessments.
+
+**Assessment:**
+
+The patient’s primary concern is recurrent asthma, presently undergoing exacerbation. Additionally, he has a history of abdominal pain and weight loss, alongside anxiety and recurrent acute pharyngitis that may complicate the management of his asthma.
+
+**Plan:**
+
+1. **Asthma Management:**
+   - Reinforce the importance of adherence to prescribed medications, particularly consistent use of fluticasone propionate and correct albuterol inhaler technique.
+   - Provide a spacer device to optimize inhaler medication delivery.
+   - Educate the patient on environmental control measures, such as using HEPA filters and maintaining a dust-free home environment to reduce exposure to asthma triggers.
+
+2. **Follow-Up:**
+   - Schedule a follow-up appointment in four weeks to evaluate asthma control and treatment response.
+   - Advise the patient to return sooner if symptoms worsen or do not improve.
+
+3. **Environmental Control:**
+   - Refer the patient to a social worker for an assessment to recommend changes that could minimize exposure to asthma triggers in the home environment.
+
+4. **Patient Education:**
+   - Emphasize the need to contact the clinic if there is no improvement or if symptoms aggravate.
+   - Review the asthma action plan thoroughly, ensuring the patient understands how to manage exacerbations and recognize when to seek emergency care.
+
+The patient understood and agreed with the plan. Detailed instructions on medication adherence and minimizing asthma triggers were provided. Follow-up care will be monitored closely to ensure optimal management of his symptoms and overall well-being.

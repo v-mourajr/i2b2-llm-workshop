@@ -1,0 +1,59 @@
+Visit Information:
+    - Patient Num: 1000000044
+    - Visit Date: 12/31/1998
+
+Subjective:
+    - Chief Complaints & History of Present Illness:
+        This is a 5-year-old Asian male presenting for a routine general medical examination. His parents report that he is generally in good health with no recent illnesses or complaints.
+    - Past Medical & Surgical History:
+        The patient has not had any significant past medical or surgical history.
+    - Medications & Supplements:
+        He is not currently taking any medications or supplements.
+    - Social History:
+        The patient resides with his parents and attends preschool. There are no smokers in the household. He has a generally balanced diet and engages in physical activities typical for his age.
+    - Allergies:
+        There are no known allergies.
+    - Symptom Details:
+        The parents report that the patient is active and has no complaints of difficulty breathing, cough, or wheezing. He has a good appetite and normal sleep patterns.
+    - Additional Narrative:
+        The family has tried to maintain a healthy lifestyle by encouraging outdoor play and balanced meals. There have been no recent changes in his condition or routine.
+
+Objective:
+    - Vital Signs:
+        - Blood Pressure: 92/56 mmHg
+        - Heart Rate: 90 beats per minute
+        - Respiratory Rate: 22 breaths per minute
+        - Temperature: 98.6°F
+        - Oxygen Saturation: 99% on room air
+    - General Appearance:
+        The child appears well-nourished, well-developed, and in no acute distress.
+    - Cardiovascular:
+        Normal S1 and S2 heart sounds. No murmurs, rubs, or gallops.
+    - Respiratory:
+        Lungs are clear to auscultation bilaterally. No wheezing, rales, or rhonchi. There is symmetrical chest expansion.
+    - Abdomen:
+        Soft, non-tender, no organomegaly. Bowel sounds are present and normal.
+    - Musculoskeletal:
+        Normal range of motion in all extremities, no deformities or swelling.
+    - Neurological:
+        The patient is alert and oriented for age, with normal reflexes and appropriate developmental responses.
+    - Skin:
+        No rashes, lesions, or bruising.
+
+Assessment:
+    - Diagnosis or Clinical Impression:
+        The patient is a healthy 5-year-old male presenting for a routine well-child checkup. The physical examination is unremarkable.
+
+Plan:
+    - Continue with a balanced diet and regular physical activity.
+    - Ensure routine vaccinations are up-to-date.
+    - Schedule the next routine checkup in one year unless any health concerns arise before then.
+    - Educate parents on maintaining a smoke-free environment and the importance of regular outdoor play for their child’s development.
+
+Follow-Up:
+    - Instructions for emergent follow-up care or monitoring:
+        Instruct parents to contact the clinic if the child develops any new symptoms like fever, persistent cough, or difficulty breathing.
+    - Follow-Up for persistent, changing, or worsening symptoms:
+        Regular monitoring during routine yearly checkups is advised.
+    - Patient Education & Understanding of the Plan:
+        Educated parents on the importance of regular health checkups and a healthy lifestyle. The parents verbalized understanding of the plan and agreed to follow up as advised.

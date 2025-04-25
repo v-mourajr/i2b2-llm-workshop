@@ -1,0 +1,140 @@
+demographics
+patient_num: 1000000090  age: 43
+patient_num: 1000000090  sex: M
+patient_num: 1000000090  race: indian
+patient_num: 1000000090  language: german
+patient_num: 1000000090  vital_status: alive
+patient_num: 1000000090  earliest fact: Mar  3 2003 12:00AM
+patient_num: 1000000090  latest fact: May 30 2010 12:00AM
+patient_num: 1000000090  range in days: 2645
+totals
+patient_num: 1000000090  distinct concepts: 138
+patient_num: 1000000090  total facts: 664
+patient_num: 1000000090  total encounters: 105
+patient_num: 1000000090  total asthma: 30
+descriptive
+patient_num: 1000000090  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 17
+patient_num: 1000000090  asthma code: ICD9:493.00  name: Extrinsic asthma without mention of status asthmaticus  count: 15
+patient_num: 1000000090  diagnosis code: ICD9:789.00  name: Abdominal pain, unspecified site  count: 1
+patient_num: 1000000090  diagnosis code: ICD9:309.28  name: Adjustment reaction with mixed emotional features  count: 1
+patient_num: 1000000090  diagnosis code: ICD9:477.8  name: Allergic rhinitis due to other allergen  count: 15
+patient_num: 1000000090  diagnosis code: ICD9:477.0  name: Allergic rhinitis due to pollen  count: 27
+patient_num: 1000000090  diagnosis code: ICD9:477.9  name: Allergic rhinitis, cause unspecified  count: 1
+patient_num: 1000000090  diagnosis code: ICD9:300.00  name: Anxiety state, unspecified  count: 3
+patient_num: 1000000090  diagnosis code: ICD9:E966  name: Assault by cutting and piercing instrument  count: 1
+patient_num: 1000000090  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 17
+patient_num: 1000000090  diagnosis code: ICD9:717.7  name: Chondromalacia of patella  count: 1
+patient_num: 1000000090  diagnosis code: ICD9:V65.40  name: Counseling NOS  count: 1
+patient_num: 1000000090  diagnosis code: ICD9:311  name: Depressive disorder, not elsewhere classified  count: 3
+patient_num: 1000000090  diagnosis code: ICD9:520.6  name: Disturbances in tooth eruption  count: 2
+patient_num: 1000000090  diagnosis code: ICD9:373.31  name: Eczematous dermatitis of eyelid  count: 1
+patient_num: 1000000090  diagnosis code: ICD9:493.00  name: Extrinsic asthma without mention of status asthmaticus  count: 15
+patient_num: 1000000090  diagnosis code: ICD9:991.2  name: Frostbite of foot  count: 1
+patient_num: 1000000090  diagnosis code: ICD9:99.21  name: Injection of antibiotic  count: 1
+patient_num: 1000000090  diagnosis code: ICD9:99.29  name: Injection or infusion of other therapeutic or prophylactic substance  count: 1
+patient_num: 1000000090  diagnosis code: ICD9:919.4  name: Insect bite, nonvenomous, of other, multiple, and unspecified sites, without mention of infection  count: 1
+patient_num: 1000000090  diagnosis code: ICD9:873.40  name: Open wound of face, unspecified site, uncomplicated  count: 1
+patient_num: 1000000090  diagnosis code: ICD9:706.1  name: Other acne  count: 11
+patient_num: 1000000090  diagnosis code: ICD9:558.9  name: Other and unspecified noninfectious gastroenteritis and colitis  count: 1
+patient_num: 1000000090  diagnosis code: ICD9:691.8  name: Other atopic dermatitis and related conditions  count: 3
+patient_num: 1000000090  diagnosis code: ICD9:372.14  name: Other chronic allergic conjunctivitis  count: 1
+patient_num: 1000000090  diagnosis code: ICD9:709.09  name: Other dyschromia  count: 1
+patient_num: 1000000090  diagnosis code: ICD9:V70.3  name: Other general medical examination for administrative purposes  count: 1
+patient_num: 1000000090  diagnosis code: ICD9:780.79  name: Other malaise and fatigue  count: 3
+patient_num: 1000000090  diagnosis code: ICD9:704.8  name: Other specified diseases of hair and hair follicles  count: 3
+patient_num: 1000000090  diagnosis code: ICD9:719.40  name: Pain in joint, site unspecified  count: 2
+patient_num: 1000000090  diagnosis code: ICD9:729.5  name: Pain in limb  count: 1
+patient_num: 1000000090  diagnosis code: ICD9:785.1  name: Palpitations  count: 1
+patient_num: 1000000090  diagnosis code: ICD9:782.1  name: Rash and other nonspecific skin eruption  count: 1
+patient_num: 1000000090  diagnosis code: ICD9:V70.0  name: Routine general medical examination at a health care facility  count: 4
+patient_num: 1000000090  diagnosis code: ICD9:V74.5  name: Screening examination for venereal disease  count: 1
+patient_num: 1000000090  diagnosis code: ICD9:706.2  name: Sebaceous cyst  count: 2
+patient_num: 1000000090  diagnosis code: ICD9:989.5  name: Toxic effect of venom  count: 7
+patient_num: 1000000090  diagnosis code: ICD9:995.2  name: Unspecified adverse effect of drug, medicinal and biological substance (due) to correct medicinal substance properly administered  count: 1
+patient_num: 1000000090  diagnosis code: ICD9:279.9  name: Unspecified disorder of immune mechanism  count: 1
+patient_num: 1000000090  diagnosis code: ICD9:698.9  name: Unspecified pruritic disorder  count: 3
+patient_num: 1000000090  diagnosis code: ICD9:845.00  name: Unspecified site of ankle sprain  count: 1
+patient_num: 1000000090  medication code: NDC:00005306343  name: Albuterol Sulfate 4mg tablet ESI Lederle Generics  count: 4
+patient_num: 1000000090  medication code: NDC:00088110947  name: Allegra 180mg tablet extended release Aventis Pharmaceuticals  count: 4
+patient_num: 1000000090  medication code: NDC:00456404001  name: Celexa 40mg tablet Forest Pharmaceuticals  count: 4
+patient_num: 1000000090  medication code: NDC:00173045301  name: Flonase 0.05 mg/inh spray Glaxo Wellcome  count: 8
+patient_num: 1000000090  medication code: NDC:51079004120  name: Folic Acid 1mg tablet UDL Laboratories Inc  count: 4
+patient_num: 1000000090  medication code: NDC:51079041721  name: Lorazepam 0.5mg tablet UDL Laboratories Inc  count: 8
+patient_num: 1000000090  medication code: NDC:00006027531  name: Singulair 5mg tablet chewable Merck & Co. Inc  count: 6
+patient_num: 1000000090  medication code: NDC:00045052660  name: Tylox 500mg-5mg capsule Janssen Pharmaceuticals  count: 3
+patient_num: 1000000090  medication code: NDC:00536479901  name: Vitamin E with mixed tocopherols 400 iu capsule Watson/Rugby Laboratories Inc  count: 8
+patient_num: 1000000090  medication code: NDC:00173044702  name: Zofran 8mg tablet Glaxo Wellcome  count: 4
+patient_num: 1000000090  laboratory code: LOINC:26444-0  name: Abs Basos (Group:ABASOP)  count: 2
+patient_num: 1000000090  laboratory code: LOINC:26449-9  name: Abs Eos (Group:AEOSN)  count: 2
+patient_num: 1000000090  laboratory code: LOINC:26474-7  name: Abs Lymphs (Group:ALYMP)  count: 2
+patient_num: 1000000090  laboratory code: LOINC:26484-6  name: Abs Monos (Group:AMONS)  count: 2
+patient_num: 1000000090  laboratory code: LOINC:26499-4  name: Abs Neuts (Group:ANEU)  count: 2
+patient_num: 1000000090  laboratory code: LOINC:1751-7  name: Albumin (Group:ALB)  count: 5
+patient_num: 1000000090  laboratory code: LOINC:1742-6  name: ALT (SGPT) (Group:SGPT)  count: 4
+patient_num: 1000000090  laboratory code: LOINC:8246-1  name: Amorph Crystals (Group:UAS-AMOR)  count: 1
+patient_num: 1000000090  laboratory code: LOINC:1798-8  name: Amylase (Group:AMY)  count: 1
+patient_num: 1000000090  laboratory code: LOINC:10466-1  name: Anion Gap (Group:ANION)  count: 1
+patient_num: 1000000090  laboratory code: LOINC:1920-8  name: AST (SGOT) (Group:SGOT)  count: 5
+patient_num: 1000000090  laboratory code: LOINC:5769-5  name: Bacteria (Group:UAS-BACT)  count: 1
+patient_num: 1000000090  laboratory code: LOINC:30180-4  name: Basophils (Group:BASOP)  count: 2
+patient_num: 1000000090  laboratory code: LOINC:5770-3  name: Bilirubin (Group:UA-BILI)  count: 2
+patient_num: 1000000090  laboratory code: LOINC:3094-0  name: Blood Urea Nitrogen (Group:BUN)  count: 4
+patient_num: 1000000090  laboratory code: LOINC:2000-8  name: Calcium (Group:CA)  count: 2
+patient_num: 1000000090  laboratory code: LOINC:2028-9  name: Carbon Dioxide (Group:CO2)  count: 4
+patient_num: 1000000090  laboratory code: LOINC:9830-1  name: Cardiac Risk Ratio (Group:CardRR)  count: 3
+patient_num: 1000000090  laboratory code: LOINC:9439-1  name: Casts (Group:CASTS)  count: 1
+patient_num: 1000000090  laboratory code: LOINC:2075-0  name: Chloride (Group:CL)  count: 4
+patient_num: 1000000090  laboratory code: LOINC:9830-1  name: Chol/HDL Ratio (Group:CHOL/HDL)  count: 3
+patient_num: 1000000090  laboratory code: LOINC:2093-3  name: Cholesterol (Group:CHOL)  count: 6
+patient_num: 1000000090  laboratory code: LOINC:6773-6  name: CK-MB QUANT (Group:CPK-MB)  count: 1
+patient_num: 1000000090  laboratory code: LOINC:5778-6  name: Color (Group:UA-COLOR)  count: 2
+patient_num: 1000000090  laboratory code: LOINC:2157-6  name: CPK (Group:CPK)  count: 1
+patient_num: 1000000090  laboratory code: LOINC:2160-0  name: Creatinine (Group:CRE)  count: 4
+patient_num: 1000000090  laboratory code: LOINC:X4005-4  name: Crystals (Group:UAS-CRYS)  count: 1
+patient_num: 1000000090  laboratory code: LOINC:X2012-1  name: Differential Request (Group:DIFFR)  count: 2
+patient_num: 1000000090  laboratory code: LOINC:1968-7  name: Direct Bilirubin (Group:DBILI)  count: 6
+patient_num: 1000000090  laboratory code: LOINC:26450-7  name: Eosinophils (Group:EOSP)  count: 2
+patient_num: 1000000090  laboratory code: LOINC:4537-7  name: ESR (Group:ESR)  count: 1
+patient_num: 1000000090  laboratory code: LOINC:2336-6  name: Globulin (Group:GLOB)  count: 1
+patient_num: 1000000090  laboratory code: LOINC:6777-7  name: Glucose (Group:GLU)  count: 5
+patient_num: 1000000090  laboratory code: LOINC:5792-7  name: Glucose - UA (Group:UA-GLUC)  count: 2
+patient_num: 1000000090  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 8
+patient_num: 1000000090  laboratory code: LOINC:2086-7  name: HDL (Group:HDL)  count: 5
+patient_num: 1000000090  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 8
+patient_num: 1000000090  laboratory code: LOINC:2462-0  name: IgE (Group:IGE)  count: 1
+patient_num: 1000000090  laboratory code: LOINC:5797-6  name: Ketones (Group:UA-KET)  count: 2
+patient_num: 1000000090  laboratory code: LOINC:2090-9  name: LDL (Group:LDL)  count: 5
+patient_num: 1000000090  laboratory code: LOINC:3040-3  name: Lipase (Group:LIPS)  count: 1
+patient_num: 1000000090  laboratory code: LOINC:26478-8  name: Lymphocytes (Group:LYMP)  count: 2
+patient_num: 1000000090  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 8
+patient_num: 1000000090  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 8
+patient_num: 1000000090  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 8
+patient_num: 1000000090  laboratory code: LOINC:26485-3  name: Monocytes (Group:MON)  count: 2
+patient_num: 1000000090  laboratory code: LOINC:8247-9  name: Mucous (Group:UAS-MUC)  count: 1
+patient_num: 1000000090  laboratory code: LOINC:26511-6  name: Neutrophils (Group:NEUT)  count: 2
+patient_num: 1000000090  laboratory code: LOINC:5802-4  name: Nitrites (Group:UA-NIT)  count: 2
+patient_num: 1000000090  laboratory code: LOINC:5794-3  name: Occult Blood (Group:UA-BLD)  count: 2
+patient_num: 1000000090  laboratory code: LOINC:11279-7  name: Other/Comments (Group:UAS-COM)  count: 1
+patient_num: 1000000090  laboratory code: LOINC:5803-2  name: PH (Group:UA-PH)  count: 2
+patient_num: 1000000090  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 8
+patient_num: 1000000090  laboratory code: LOINC:2823-3  name: Potassium (Group:K)  count: 5
+patient_num: 1000000090  laboratory code: LOINC:5804-0  name: Protein (Group:UA-ALB)  count: 2
+patient_num: 1000000090  laboratory code: LOINC:5902-2  name: PT (Group:PT)  count: 1
+patient_num: 1000000090  laboratory code: LOINC:6301-6  name: PT-INR (Group:PT-INR)  count: 1
+patient_num: 1000000090  laboratory code: LOINC:5898-2  name: PTT (Group:PTT)  count: 1
+patient_num: 1000000090  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 8
+patient_num: 1000000090  laboratory code: LOINC:5808-1  name: RBC - Urine Sed (Group:UAS-RBC)  count: 1
+patient_num: 1000000090  laboratory code: LOINC:788-0  name: RDW (Group:RDW)  count: 8
+patient_num: 1000000090  laboratory code: LOINC:2951-2  name: Sodium (Group:NA)  count: 4
+patient_num: 1000000090  laboratory code: LOINC:5811-5  name: Specific Gravity (Group:UA-SPGR)  count: 2
+patient_num: 1000000090  laboratory code: LOINC:11277-1  name: Squamous Cells (Group:UAS-SQUA)  count: 1
+patient_num: 1000000090  laboratory code: LOINC:1975-2  name: Total Bilirubin (Group:TBILI)  count: 10
+patient_num: 1000000090  laboratory code: LOINC:2885-2  name: Total Protein (Group:TP)  count: 2
+patient_num: 1000000090  laboratory code: LOINC:2571-8  name: Triglycerides (Group:TRIG)  count: 6
+patient_num: 1000000090  laboratory code: LOINC:10839-9  name: Troponin-I (Group:TROP-I)  count: 1
+patient_num: 1000000090  laboratory code: LOINC:3016-3  name: TSH (Group:TSH)  count: 3
+patient_num: 1000000090  laboratory code: LOINC:5767-9  name: Turbidity (Group:UA-TURB)  count: 1
+patient_num: 1000000090  laboratory code: LOINC:5818-0  name: Urobilinogen (Group:UA-UROBI)  count: 2
+patient_num: 1000000090  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 8
+patient_num: 1000000090  laboratory code: LOINC:5821-4  name: WBC - Urine Sed (Group:UAS-WBC)  count: 1
+patient_num: 1000000090  laboratory code: LOINC:5799-2  name: WBC Screen (Group:UA-WBC)  count: 2

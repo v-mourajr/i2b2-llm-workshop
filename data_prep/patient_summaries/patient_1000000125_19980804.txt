@@ -1,0 +1,34 @@
+demographics
+patient_num: 1000000125  age: 22
+patient_num: 1000000125  sex: F
+patient_num: 1000000125  race: indian
+patient_num: 1000000125  language: german
+patient_num: 1000000125  vital_status: alive
+patient_num: 1000000125  earliest fact: Aug  4 1998 12:00AM
+patient_num: 1000000125  latest fact: Aug  4 1998 12:00AM
+patient_num: 1000000125  range in days: 0
+totals
+patient_num: 1000000125  distinct concepts: 1
+patient_num: 1000000125  total facts: 1
+patient_num: 1000000125  total encounters: 1
+patient_num: 1000000125  total asthma: 1
+descriptive
+patient_num: 1000000125  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 1
+patient_num: 1000000125  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 1
+demographics
+patient_num: 1000000125  age: 25
+patient_num: 1000000125  sex: F
+patient_num: 1000000125  race: indian
+patient_num: 1000000125  language: german
+patient_num: 1000000125  vital_status: alive
+patient_num: 1000000125  earliest fact: Aug  4 1998 12:00AM
+patient_num: 1000000125  latest fact: Aug  4 1998 12:00AM
+patient_num: 1000000125  range in days: 0
+totals
+patient_num: 1000000125  distinct concepts: 1
+patient_num: 1000000125  total facts: 1
+patient_num: 1000000125  total encounters: 1
+patient_num: 1000000125  total asthma: 1
+descriptive
+patient_num: 1000000125  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 1
+patient_num: 1000000125  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 1

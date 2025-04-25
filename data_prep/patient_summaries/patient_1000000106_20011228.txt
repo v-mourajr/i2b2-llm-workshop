@@ -1,0 +1,90 @@
+demographics
+patient_num: 1000000106  age: 21
+patient_num: 1000000106  sex: M
+patient_num: 1000000106  race: indian
+patient_num: 1000000106  language: spanish
+patient_num: 1000000106  vital_status: alive
+patient_num: 1000000106  earliest fact: Sep  2 1997 12:00AM
+patient_num: 1000000106  latest fact: Dec 28 2001 12:00AM
+patient_num: 1000000106  range in days: 1578
+totals
+patient_num: 1000000106  distinct concepts: 84
+patient_num: 1000000106  total facts: 210
+patient_num: 1000000106  total encounters: 24
+patient_num: 1000000106  total asthma: 4
+descriptive
+patient_num: 1000000106  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 4
+patient_num: 1000000106  diagnosis code: ICD9:462  name: Acute pharyngitis  count: 2
+patient_num: 1000000106  diagnosis code: ICD9:V54.0  name: Aftercare involving removal of fracture plate or other internal fixation device  count: 1
+patient_num: 1000000106  diagnosis code: ICD9:995.1  name: Angioneurotic edema, not elsewhere classified  count: 1
+patient_num: 1000000106  diagnosis code: ICD9:E935.6  name: Antirheumatics (antiphlogistics) causing adverse effects in therapeutic use  count: 1
+patient_num: 1000000106  diagnosis code: ICD9:78.17  name: Application of external fixation device, tibia and fibula  count: 1
+patient_num: 1000000106  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 4
+patient_num: 1000000106  diagnosis code: ICD9:353.0  name: Brachial plexus lesions  count: 2
+patient_num: 1000000106  diagnosis code: ICD9:723.1  name: Cervicalgia  count: 1
+patient_num: 1000000106  diagnosis code: ICD9:823.22  name: Closed fracture of shaft of fibula with tibia  count: 2
+patient_num: 1000000106  diagnosis code: ICD9:823.82  name: Closed fracture of unspecified part of fibula with tibia  count: 1
+patient_num: 1000000106  diagnosis code: ICD9:79.06  name: Closed reduction of fracture of tibia and fibula without internal fixation  count: 1
+patient_num: 1000000106  diagnosis code: ICD9:V72.6  name: Laboratory examination  count: 1
+patient_num: 1000000106  diagnosis code: ICD9:355.9  name: Mononeuritis of unspecified site  count: 3
+patient_num: 1000000106  diagnosis code: ICD9:V07.2  name: Need for prophylactic immunotherapy  count: 1
+patient_num: 1000000106  diagnosis code: ICD9:706.1  name: Other acne  count: 3
+patient_num: 1000000106  diagnosis code: ICD9:558.9  name: Other and unspecified noninfectious gastroenteritis and colitis  count: 1
+patient_num: 1000000106  diagnosis code: ICD9:V54.8  name: Other orthopedic aftercare  count: 2
+patient_num: 1000000106  diagnosis code: ICD9:729.5  name: Pain in limb  count: 1
+patient_num: 1000000106  diagnosis code: ICD9:78.67  name: Removal of implanted device from tibia and fibula  count: 1
+patient_num: 1000000106  diagnosis code: ICD9:93.94  name: Respiratory medication administered by nebulizer  count: 1
+patient_num: 1000000106  diagnosis code: ICD9:V20.2  name: Routine infant or child health check  count: 2
+patient_num: 1000000106  diagnosis code: ICD9:E928.9  name: Unspecified accident  count: 1
+patient_num: 1000000106  diagnosis code: ICD9:824.8  name: Unspecified fracture of ankle, closed  count: 3
+patient_num: 1000000106  diagnosis code: ICD9:89.37  name: Vital capacity determination  count: 1
+patient_num: 1000000106  laboratory code: LOINC:704-7  name: Abs Basos Auto (Group:ABASOS)  count: 1
+patient_num: 1000000106  laboratory code: LOINC:711-2  name: Abs EOS Auto (Group:AEOS)  count: 1
+patient_num: 1000000106  laboratory code: LOINC:731-0  name: Abs Lymphs Auto (Group:ALYMPHS)  count: 1
+patient_num: 1000000106  laboratory code: LOINC:742-7  name: Abs Monos Auto (Group:AMONOS)  count: 1
+patient_num: 1000000106  laboratory code: LOINC:752-6  name: Abs Neuts Auto (Group:ANEUTS)  count: 1
+patient_num: 1000000106  laboratory code: LOINC:1751-7  name: Albumin (Group:ALB)  count: 1
+patient_num: 1000000106  laboratory code: LOINC:10466-1  name: Anion Gap (Group:ANION)  count: 1
+patient_num: 1000000106  laboratory code: LOINC:702-1  name: Anisocytosis (Group:ANISO)  count: 1
+patient_num: 1000000106  laboratory code: LOINC:1920-8  name: AST (SGOT) (Group:SGOT)  count: 1
+patient_num: 1000000106  laboratory code: LOINC:735-1  name: Atypical Lymphs (Group:ATYPS)  count: 1
+patient_num: 1000000106  laboratory code: LOINC:764-1  name: Bands - Manual (Group:BAND)  count: 1
+patient_num: 1000000106  laboratory code: LOINC:706-2  name: Basophils - Auto (Group:BASOS)  count: 1
+patient_num: 1000000106  laboratory code: LOINC:707-0  name: Basophils - Manual (Group:BASO)  count: 1
+patient_num: 1000000106  laboratory code: LOINC:3094-0  name: Blood Urea Nitrogen (Group:BUN)  count: 2
+patient_num: 1000000106  laboratory code: LOINC:2028-9  name: Carbon Dioxide (Group:CO2)  count: 1
+patient_num: 1000000106  laboratory code: LOINC:2075-0  name: Chloride (Group:CL)  count: 1
+patient_num: 1000000106  laboratory code: LOINC:2160-0  name: Creatinine (Group:CRE)  count: 2
+patient_num: 1000000106  laboratory code: LOINC:1968-7  name: Direct Bilirubin (Group:DBILI)  count: 2
+patient_num: 1000000106  laboratory code: LOINC:713-8  name: Eosinophils - Auto (Group:EOS)  count: 1
+patient_num: 1000000106  laboratory code: LOINC:714-6  name: Eosinophils - Manual (Group:EO)  count: 1
+patient_num: 1000000106  laboratory code: LOINC:2336-6  name: Globulin (Group:GLOB)  count: 1
+patient_num: 1000000106  laboratory code: LOINC:6777-7  name: Glucose (Group:GLU)  count: 1
+patient_num: 1000000106  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 2
+patient_num: 1000000106  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 2
+patient_num: 1000000106  laboratory code: LOINC:728-6  name: Hypochromia (Group:HYPO)  count: 1
+patient_num: 1000000106  laboratory code: LOINC:2532-0  name: LDH (Group:LDH)  count: 2
+patient_num: 1000000106  laboratory code: LOINC:736-9  name: Lymphocytes - Auto (Group:LYMPHS)  count: 1
+patient_num: 1000000106  laboratory code: LOINC:737-7  name: Lymphocytes - Manual (Group:LYMPH)  count: 2
+patient_num: 1000000106  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 2
+patient_num: 1000000106  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 2
+patient_num: 1000000106  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 2
+patient_num: 1000000106  laboratory code: LOINC:5905-5  name: Monocytes - Auto (Group:MONOS)  count: 1
+patient_num: 1000000106  laboratory code: LOINC:744-3  name: Monocytes - Manual (Group:MONO)  count: 1
+patient_num: 1000000106  laboratory code: LOINC:770-8  name: Neutrophils - Auto (Group:POLYS)  count: 1
+patient_num: 1000000106  laboratory code: LOINC:769-0  name: Neutrophils - Manual (Group:POLY)  count: 2
+patient_num: 1000000106  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 2
+patient_num: 1000000106  laboratory code: LOINC:9317-9  name: PLT Estimate (Group:PLTEST)  count: 2
+patient_num: 1000000106  laboratory code: LOINC:779-9  name: Poikilocytosis (Group:POIK)  count: 1
+patient_num: 1000000106  laboratory code: LOINC:10378-8  name: Polychromasia (Group:POLYCH)  count: 1
+patient_num: 1000000106  laboratory code: LOINC:2823-3  name: Potassium (Group:K)  count: 1
+patient_num: 1000000106  laboratory code: LOINC:5902-2  name: PT (Group:PT)  count: 1
+patient_num: 1000000106  laboratory code: LOINC:5898-2  name: PTT (Group:PTT)  count: 1
+patient_num: 1000000106  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 2
+patient_num: 1000000106  laboratory code: LOINC:6742-1  name: RBC Morph Manual (Group:RCM-M)  count: 1
+patient_num: 1000000106  laboratory code: LOINC:788-0  name: RDW (Group:RDW)  count: 1
+patient_num: 1000000106  laboratory code: LOINC:2951-2  name: Sodium (Group:NA)  count: 1
+patient_num: 1000000106  laboratory code: LOINC:10381-2  name: Target Cells (Group:TARGET)  count: 1
+patient_num: 1000000106  laboratory code: LOINC:1975-2  name: Total Bilirubin (Group:TBILI)  count: 2
+patient_num: 1000000106  laboratory code: LOINC:2885-2  name: Total Protein (Group:TP)  count: 1
+patient_num: 1000000106  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 2

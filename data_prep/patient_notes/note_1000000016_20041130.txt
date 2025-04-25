@@ -1,0 +1,105 @@
+**Visit Information:**
+- Patient Num: 1000000016
+- Visit Date: 11/30/2004
+
+**Subjective:**
+
+This is a 22-year-old Indian female who has attended our clinic for approximately six years. She speaks German and has an extensive history of asthma with frequent exacerbations. The patient has come today for a follow-up visit to discuss ongoing concerns related to her asthma and review recent lab results. She reports a notable increase in frequency and severity of asthma symptoms, including a persistent cough, shortness of breath on exertion, and occasional chest tightness, particularly during cold weather.
+
+The patient has a medical history that includes bronchitis, chronic pharyngitis, cardiomegaly, scoliosis, and anemia. She is currently taking inhaled corticosteroids and a short-acting beta agonist (SABA) for her asthma management. She adheres to her medication regimen and uses her inhaler regularly during asthma attacks. She describes her asthma as manageable with her current treatment but is concerned about the recent increase in symptoms.
+
+**Past Medical & Surgical History:**
+- Asthma (frequent exacerbations)
+- Bronchitis
+- Chronic pharyngitis
+- Cardiomegaly
+- Scoliosis
+- Anemia
+
+No surgical history is documented.
+
+**Medications & Supplements:**
+- Inhaled corticosteroids
+- Short-acting beta agonist (SABA)
+
+The patient does not take herbal supplements or non-prescription medications.
+
+**Social History:**
+The patient is a college student residing with her family. She maintains a relatively active lifestyle and participates in sports, despite her asthma, though she limits strenuous activity during poor air quality days. She does not use tobacco, alcohol, or illicit substances.
+
+**Allergies:**
+No known allergies.
+
+**Symptom Details:**
+- Chief Complaint: Increased frequency of asthma symptoms.
+- Onset: Gradual increase over the past month.
+- Location: Respiratory system.
+- Duration: Recurrent symptoms for the last month.
+- Characteristics: Persistent cough, shortness of breath, and chest tightness.
+- Alleviating factors: Use of inhaled medications.
+- Aggravating factors: Physical exertion, exposure to allergens, and cold air.
+- Severity: Moderate.
+
+**Additional Narrative:**
+She has not tried additional non-pharmacological interventions for her symptoms. The patient feels that her current medication regimen is generally effective but expresses concern about the recent escalation of symptoms.
+
+**Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 115/75 mmHg
+- Heart Rate: 78 bpm
+- Respiratory Rate: 18 breaths/min
+- Temperature: 98.4°F (36.9°C)
+- Oxygen Saturation: 96% on room air
+
+**General Appearance:**
+The patient appears well-nourished and is in no apparent distress. She is alert and cooperative during the examination.
+
+**Cardiovascular:**
+The cardiovascular exam reveals normal heart sounds with a regular rate and rhythm. There are no murmurs, gallops, or rubs auscultated.
+
+**Respiratory:**
+Auscultation of the lungs is clear bilaterally, though mild wheezing is noted upon forced expiration. There are no rales or rhonchi detected.
+
+**Abdomen:**
+The abdomen is soft, non-tender, and non-distended with normal bowel sounds.
+
+**Musculoskeletal:**
+Curvature of the spine consistent with scoliosis is noted, but there are no new deformities or joint tenderness. The patient exhibits a full range of motion in all extremities without pain.
+
+**Neurological:**
+The patient is alert and oriented to person, place, and time. Cranial nerves II-XII are intact, and no motor or sensory deficits are observed.
+
+**Skin:**
+The skin is warm and dry without any rashes or lesions.
+
+**Assessment:**
+
+**Diagnosis or Clinical Impression:**
+The patient has asthma with an increased frequency of exacerbations, predominantly in response to allergens and physical activity. There is a concurrent history of recurring bronchitis, chronic pharyngitis, scoliosis, and cardiomegaly that may impact her respiratory function.
+
+**Issue/Problem/Request 1:**
+**Assessment:**
+- Increased frequency of asthma exacerbations.
+- Differential Diagnosis: Allergic triggers, changes in weather, possible respiratory infections.
+
+**Diagnostic Tests:**
+- Lung function tests (Spirometry) to evaluate the extent of airway obstruction.
+- Allergy testing to identify specific environmental or occupational triggers.
+
+**Treatment Plan:**
+- Continue the current regimen of inhaled corticosteroids and SABA as needed.
+- Consider adding a leukotriene receptor antagonist to reduce the frequency of exacerbations if the current treatment proves insufficient.
+- Educate the patient on the importance of avoiding known triggers and adhering strictly to her asthma action plan.
+- Referral to a pulmonologist for comprehensive management and possible modification of the treatment plan.
+
+**Follow-Up:**
+
+**Instructions for emergent follow-up care or monitoring:**
+Instruct the patient to contact the clinic if symptoms worsen, do not improve within a week, or if new symptoms, such as fever or a persistent cough, develop.
+
+**Follow-Up for persistent, changing, or worsening symptoms:**
+Schedule a follow-up appointment in one month to review spirometry results and evaluate the efficacy of the current asthma management plan.
+
+**Patient Education & Understanding of the Plan:**
+The patient was advised on the importance of continued adherence to asthma medications and trigger avoidance. The education included recognizing early signs of asthma exacerbation and using rescue inhalers appropriately. The patient confirmed understanding and expressed confidence in the care plan.

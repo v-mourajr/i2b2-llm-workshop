@@ -1,0 +1,51 @@
+**Visit Information:**
+- Patient Num: 1000000101
+- Visit Date: 12/22/2006
+
+**Subjective:**
+This is a 60-year-old Asian male who speaks Spanish and has been accessing care at our clinic for numerous musculoskeletal ailments over several years. Presently, he is here for a follow-up regarding his chronic bone and joint issues. He reports that he has been experiencing persistent lower back pain, which is particularly severe in the mornings and after extended periods of sitting. He also suffers from intermittent hip pain, exacerbated by weight-bearing activities, and occasional neck pain that radiates to his shoulders upon certain movements. These conditions significantly affect his day-to-day activities.
+
+His past medical history includes several musculoskeletal conditions such as disorders of bone and cartilage, lumbar and cervical sprains, and osteoarthrosis in the pelvic region and thigh. Furthermore, he's had surgeries including an excision of an intervertebral disc and treatment for a bucket handle tear of the meniscus. Previously, he has also been treated for contusion of the hip.
+
+Currently, he manages his pain with acetaminophen and relies on a daily multivitamin. He denies any known allergies and is not using any herbal supplements. Socially, the patient's life is largely sedentary due to his ongoing pain. He is a non-smoker and has abstained from alcohol use.
+
+**Objective:**
+Vital signs today include:
+- Blood Pressure: 140/85 mmHg
+- Heart Rate: 78 bpm
+- Respiratory Rate: 16 breaths per minute
+- Temperature: 98.6°F
+- Oxygen Saturation: 98% on room air.
+
+The patient presents as well-nourished but in mild distress due to pain. On cardiovascular examination, heart sounds are normal with no murmurs, gallops, or rubs detected. Respiratory examination reveals clear breath sounds bilaterally without any wheezing or crackles. Abdominal examination is normal, with the abdomen being soft, non-tender, and without organomegaly.
+
+Musculoskeletal examination shows significant tenderness in the lower lumbar region and pelvic area, along with a decreased range of motion in the lumbar spine. Hip joint palpation induces pain, and there is tenderness in the cervical spine with painful but normal motion on rotation. No joint swelling or erythema is noted.
+
+Neurological examination shows no focal deficits; reflexes and sensory responses are intact. Skin examination reveals normal findings without any lesions or abnormalities.
+
+Laboratory results include:
+- Erythrocyte Sedimentation Rate (ESR): Normal.
+- Complete Blood Count (CBC): Hemoglobin, Hematocrit, White Blood Cell Count, and Platelets all within normal limits.
+- Blood Urea Nitrogen (BUN): Normal.
+- Electrolytes (Sodium, Potassium, Chloride, Carbon Dioxide): Normal.
+- Calcium, Phosphorus, Magnesium: Normal.
+- Urinalysis including Specific Gravity, pH, Glucose, Ketones, Protein, Bilirubin, and Urobilinogen shows normal results.
+
+**Assessment:**
+1. Chronic lower back pain, likely linked to osteoarthrosis and previous lumbar sprain.
+2. Ongoing hip pain that intensifies with weight-bearing, possibly due to past contusion and current osteoarthrosis.
+3. Persistent neck pain, largely musculoskeletal in etiology.
+
+**Plan:**
+1. Continue the patient's current regimen of acetaminophen, considering dose adjustments if pain relief proves inadequate.
+2. Recommend physical therapy focusing on core strengthening and improving the range of motion for the lower back and hips.
+3. Prescribe NSAIDs to manage pain and inflammation, with instructions to monitor for any gastrointestinal side effects.
+4. Order a Comprehensive Metabolic Panel (CMP) and repeat ESR to further assess any potential underlying inflammatory processes.
+5. Arrange a follow-up appointment in 6 weeks to reevaluate symptom management and the patient’s response to therapy.
+6. Educate the patient on the importance of adhering to the physical therapy regimen, maintaining an active lifestyle within his tolerance, avoiding prolonged sitting, and taking regular breaks.
+
+**Patient Education & Understanding of the Plan:**
+The patient has been educated about the importance of adhering to the prescribed physical therapy exercises and medication schedule, along with the need for lifestyle modifications. He has been advised to take NSAIDs with food to minimize gastrointestinal discomfort. He understands the treatment plan and is aware of the need to contact the clinic if his symptoms worsen, do not improve, or if further evaluation is indicated based on test results.
+
+**Follow-Up:**
+The patient is scheduled to return in 6 weeks for a reassessment. Adjustments to the treatment plan, including potential advanced imaging studies, will be considered based on his progress and symptom persistence. He has been instructed to seek emergent care if he experiences any severe worsening of his symptoms in the interim.

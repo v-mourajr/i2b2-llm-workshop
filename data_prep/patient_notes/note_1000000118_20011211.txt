@@ -1,0 +1,45 @@
+**Visit Information:**
+- Patient Num: 1000000118
+- Visit Date: December 11, 2001
+
+**Subjective:**
+This is an encounter with a 27-year-old Black male who prefers communicating in Spanish. He has been receiving treatment at the clinic consistently for approximately 3 years. Presenting today for a follow-up visit, the patient reports experiencing recurrent shortness of breath and a productive cough for the past two weeks, which he primarily attributes to his asthma. He describes the cough as producing yellow mucus and indicates that his symptoms worsen at night and in the early morning. Despite his use of albuterol, he often feels tightness in his chest and has increased the frequency of inhaler use recently without significant relief. He also reports occasional wheezing and finds some comfort in steam inhalation.
+
+Regarding his past medical history, he is diagnosed with asthma and has undergone multiple surgical procedures for ear deformities stemming from sustained open wounds. His surgical history includes pedicle or flap graft attachments and plastic repairs. The patient has a history of acute bronchitis, assault-related injuries, and associated deformities of the auricle.
+
+Medications the patient is currently using include an albuterol inhaler, which he employs as needed. He adheres to this regimen diligently, although his usage has escalated due to exacerbated symptoms. He is not on any dietary supplements or other alternative treatments. Socially, the patient does not currently hold employment and lives with his family. He has a recorded history of assault that likely contributes to some of his injuries. He denies any known drug allergies.
+
+Regarding symptom specifics, the patient notes that the productive cough began two weeks ago with mild to moderate chest tightness. Despite frequent use of his inhaler, he has not achieved substantial symptom relief. Aggravating factors include lying down and nighttime, while steam inhalation seems to alleviate some of the discomfort. He has not been consistently using a peak flow meter.
+
+**Objective:**
+Vital signs are recorded as follows:
+- Blood Pressure: 120/80 mmHg
+- Heart Rate: 84 beats per minute
+- Respiratory Rate: 22 breaths per minute
+- Temperature: 98.6 °F
+- Oxygen Saturation: 97% on room air
+
+On general examination, the patient appears alert, oriented, and slightly anxious but not in acute distress. Cardiac examination revealed normal heart sounds with no audible murmurs, rubs, or gallops. Respiratory assessment showed decreased breath sounds with noted expiratory wheezes bilaterally, prolonged expirations, and a mild increase in respiratory effort. No rales or rhonchi were detected. The abdomen was non-tender and non-distended with normal bowel sounds. Musculoskeletal examination showed no significant deformities beyond the surgical sites on the ears, and no edema or joint abnormalities were observed. Neurologically, the patient presented with grossly intact functions, and no focal deficits were noted. The skin examination revealed healed surgical scars on the ears and otherwise appeared normal with no signs of infection or active wounds.
+
+**Assessment:**
+The clinical impression for this patient includes an asthma exacerbation complicated by his persistent cough and wheezing.
+
+- Asthma:
+  - Assessment: Current symptoms are indicative of an asthma exacerbation.
+  - Diagnostic Tests: Consideration for peak flow monitoring and spirometry.
+  - Treatment Plan: Increase the use of albuterol inhaler to 4 times daily and introduce inhaled corticosteroids. Encourage continued use of steam inhalation for symptomatic relief. Appointment with a pulmonologist if symptoms do not improve.
+
+- Chronic Ear Issues:
+  - Assessment: History of multiple surgeries for ear deformities.
+  - Diagnostic Tests: No additional testing required presently due to lack of new symptoms.
+  - Treatment Plan: Ongoing monitoring for signs of infection or recurrent symptoms, patient education on symptoms of complications, and immediate follow-up if new issues emerge.
+
+**Plan:**
+- Encourage patient to adhere to prescribed medication adjustments, especially the increased usage of albuterol and the addition of inhaled corticosteroids.
+- Educate on the importance of regular peak flow monitoring and provide a peak flow meter if not already available.
+- Advise patient to seek immediate medical attention if symptoms worsen or show no sign of improvement within a week.
+- Plan a follow-up visit in two weeks to reassess asthma control and make necessary medication adjustments.
+- Ensure patient understands and acknowledges the treatment plan, including the use of non-pharmacological interventions like steam inhalation.
+- He is counselled on recognizing symptoms that necessitate urgent care, emphasizing the importance of contacting the clinic should his condition deteriorate.
+
+Instruct patient clearly on the management plan and confirm their understanding and compliance adherence.

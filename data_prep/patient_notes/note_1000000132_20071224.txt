@@ -1,0 +1,69 @@
+Patient Num: 1000000132  
+Visit Date: 12/24/2007
+
+---
+
+This is a 10-year-old Hispanic male who has been receiving care at our clinic for approximately 4 years. He speaks German and presents today for a follow-up on his chronic asthma, which has been somewhat managed with medications but is complicated by occasional nocturnal and exercise-induced exacerbations. The patient’s guardians report these exacerbations have occurred more frequently over the past few weeks, particularly at night. They describe compliance with his inhaled corticosteroid and short-acting bronchodilator regimen. The patient lives in a smoke-free home with his parents and two siblings, and the recent adoption of a cat has added potential allergen exposure, though no direct correlation with symptom exacerbation has been observed.
+
+### Subjective:
+
+Upon questioning, the patient denies any chest pain but admits to occasional difficulty in catching his breath, especially during physical activities. There have been no associated symptoms like fever, unexplained weight loss, or night sweats. His asthma was diagnosed at the age of 5, and he has not undergone any surgical procedures. He is currently taking Beclomethasone (80 mcg) as an inhaler twice daily and Albuterol (90 mcg) as a rescue inhaler, which he uses approximately once a week. The guardians report that the medications are fairly effective, but they seek additional strategies to manage and prevent the nighttime symptoms.
+
+The patient has no known drug or food allergies. In his social context, he engages in school and physical activities within his limitations due to asthma. His family environment is supportive and cognizant of asthma triggers.
+
+### Objective:
+
+- **Vital Signs:**
+  - Blood Pressure: 110/70 mmHg
+  - Heart Rate: 98 bpm
+  - Respiratory Rate: 24 breaths per minute
+  - Temperature: 98.6°F (37°C)
+  - Oxygen Saturation: 96% on room air
+
+- **General Appearance:**
+  The patient is well-nourished, appears in no acute distress, and is alert and cooperative during the examination.
+
+- **Cardiovascular:**
+  Heart sounds are normal, with a regular rate and rhythm. No murmurs, rubs, or gallops are detected.
+
+- **Respiratory:**
+  Auscultation reveals mild wheezing bilaterally, more pronounced in the upper lobes. There are no crackles or rhonchi, and no use of accessory muscles is observed.
+
+- **Abdomen:**
+  Examination reveals a soft abdomen, non-tender, and without hepatosplenomegaly.
+
+- **Musculoskeletal:**
+  The patient shows normal range of motion in all joints, with no swelling or tenderness observed.
+
+- **Neurological:**
+  The patient is oriented, with no signs of cranial nerve dysfunction and normal motor and sensory function.
+
+- **Skin:**
+  No rashes, lesions, or discoloration are noted.
+
+Recently reviewed laboratory tests revealed values within normal limits for various common tests, including lymphocytes, basophils, bilirubin, eosinophils, glucose, hematocrit, hemoglobin, and others, indicating no acute or alarming deviations.
+
+### Assessment:
+
+1. **Primary Diagnosis:**
+   - Chronic Asthma with nocturnal and exercise-induced exacerbations.
+
+2. **Secondary Diagnoses:**
+   - There were no additional secondary diagnoses made during this visit.
+
+### Plan:
+
+1. **Asthma Management:**
+   - Continue with the current medications: Beclomethasone inhaler twice daily and Albuterol inhaler as needed.
+   - Initiate Montelukast (4 mg chewable tablet) once daily in the evening to help manage nighttime symptoms.
+   - Educate on allergen avoidance strategies, particularly since the family has recently adopted a cat, and discuss ways to reduce allergen exposure in the home.
+
+2. **Follow-Up:**
+   - Schedule a follow-up appointment in four weeks to evaluate the effectiveness of the new medication regimen and address any ongoing issues.
+   - Advise the patient’s guardians to contact the clinic if symptoms worsen or do not improve within a week, or if the patient experiences severe respiratory distress or increased use of the rescue inhaler.
+
+3. **Patient Education:**
+   - Provided detailed instructions on the proper use of inhalers and emphasized the importance of adherence to the prescribed treatment regimen.
+   - Discussed the potential side effects of Montelukast, including behavioral changes, and the necessity to monitor these closely.
+
+The patient and his guardians have understood the management plan thoroughly and expressed their dedication to follow through with the recommended treatment changes.

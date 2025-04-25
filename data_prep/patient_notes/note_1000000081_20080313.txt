@@ -1,0 +1,64 @@
+**Visit Information:**
+
+- Patient Num: 1000000081
+- Visit Date: 03/13/2008
+
+**Subjective:**
+
+This is a 14-year-old Black male who has been attending our clinic for over six years. The patient is Spanish-speaking and accompanied by his mother for a follow-up due to chronic asthma, a condition he was diagnosed with several years ago. His medical history highlights multiple exacerbations, with the most recent flare-up occurring a week ago. Despite taking Prednisolone Acetate 5mg tablets during these episodes, his symptoms have not significantly improved. He continues to experience persistent wheezing, a night-time cough, and difficulties in breathing that are exacerbated by a recent mild fever and nasal congestion. 
+
+His past medical history includes episodes of acute bronchiolitis, recurrent upper respiratory infections, nasal and chest congestion, and general allergy issues. Socially, the patient resides in a smoke-free environment, regularly attends school, and has no pets that may trigger his asthma. There are no known drug allergies or any other adverse drug reactions reported. The patient’s symptomatology extends to nightly exacerbated cough, noticeable wheezing, and periodic breathing difficulty coupled with a mild fever and nasal congestion persisting over the last two days.
+
+**Objective:**
+
+- **Vital Signs:**
+  - Blood Pressure: 102/65 mmHg
+  - Heart Rate: 92 bpm
+  - Respiratory Rate: 24 breaths per minute
+  - Temperature: 37.8°C (100.0°F)
+  - Oxygen Saturation: 95% on room air
+
+- **General Appearance:**
+The patient appears slightly fatigued but is alert and cooperative during examination.
+
+- **Cardiovascular:**
+Cardiac examination reveals a regular rhythm with no murmurs or gallops. Peripheral pulses are strong and symmetric.
+
+- **Respiratory:**
+An examination reveals diffuse bilateral wheezing, especially during expiration, with a prolonged expiratory phase. Mild intercostal retractions are observed, indicating increased respiratory effort. No rhonchi or crackles are detected.
+
+- **Abdomen:**
+The abdomen is soft, non-tender, and non-distended with normoactive bowel sounds.
+
+- **Musculoskeletal:**
+The patient displays a full range of motion in all extremities without any swelling or tenderness. Muscle strength is symmetrical and normal.
+
+- **Neurological:**
+The patient is alert and oriented with cranial nerves II-XII intact and no focal neurological deficits.
+
+- **Skin:**
+The skin examination indicates it is warm, dry, and without any rashes or lesions.
+
+**Assessment:**
+
+The patient presents with chronic asthma, currently experiencing an acute exacerbation likely due to a viral upper respiratory infection. Secondary considerations include the management of associated mild fever and nasal congestion.
+
+**Plan:**
+
+1. **Asthma Management:**
+   - Increase the dose of Prednisolone Acetate as per the exacerbation protocol to help reduce airway inflammation.
+   - Prescribe an inhaled bronchodilator, such as Albuterol, to be used as needed for acute symptomatic relief.
+   - Re-educate the patient and his mother on the correct usage of asthma inhalers and spacers to ensure effective administration and better asthma control.
+   - Schedule a follow-up appointment in two weeks to evaluate asthma management and make necessary adjustments.
+
+2. **Infection Management:**
+   - Monitor the patient’s fever and general status closely. If symptoms persist beyond one week or deteriorate, perform a chest X-ray to exclude pneumonia.
+   - Recommend over-the-counter antipyretics such as Acetaminophen for fever management and ensure the patient remains well-hydrated.
+
+3. **Additional Recommendations:**
+   - Emphasize the importance of maintaining a smoke-free home and limiting exposure to known asthma triggers.
+   - Discuss the potential benefits of allergy testing to identify additional triggers that might exacerbate his asthma symptoms.
+
+**Follow-Up:**
+
+Instruct the patient and his caregivers to seek immediate medical attention if there is no symptom improvement or if a deterioration in his condition is noted within the week. Schedule a follow-up appointment in two weeks to reassess ongoing asthma management and monitor the patient's overall respiratory health. Ensure that both the patient and his mother understand the medication regimen, the importance of adherence, and recognize signs of potential asthma exacerbations.

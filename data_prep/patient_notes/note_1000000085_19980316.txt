@@ -1,0 +1,93 @@
+# Narrative Physician’s Note
+
+**Visit Information**
+- Patient Num: 1000000085
+- Visit Date: 03/16/1998
+
+**Subjective:**
+This is a 52-year-old Indian female who has been receiving care at our clinic for various conditions over the past month. She speaks English fluently. She presents today for a follow-up appointment, primarily to address concerns related to her asthma and to manage ongoing gynecological issues.
+
+The patient reports that her asthma symptoms, which include intermittent wheezing and shortness of breath, have largely been under control with her inhaler. However, she mentions experiencing increased coughing episodes at night, which disrupt her sleep. She denies any recent upper respiratory infections.
+
+In terms of her gynecological history, she has had a significant past medical history of cervicitis and endocervicitis, endometriosis of the uterus, and several leiomyomas. She has undergone total abdominal hysterectomy and other operative procedures to manage these conditions. She also deals with hypopotassemia and other disorders of menstruation that have caused abnormal bleeding.
+
+She is currently taking albuterol as a rescue inhaler for her asthma and has been diligent with her usage. Additionally, she is on a potassium supplement to manage her hypokalemia. She denies using any herbal supplements.
+
+Her social history reveals that she is a non-smoker and does not consume alcohol. She is married and has two adult children. She manages a sedentary job and leads a relatively inactive lifestyle due to her health issues.
+
+The patient experiences disrupted sleep due to nocturnal asthma symptoms and reports mild abdominal discomfort related to her gynecological conditions. She has tried using a humidifier at night which she finds somewhat helpful for her asthma symptoms. She denies any recent fevers or significant weight changes.
+
+**Objective:**
+- **Vital Signs:**
+  - Blood Pressure: 120/80 mmHg
+  - Heart Rate: 78 bpm
+  - Respiratory Rate: 18 breaths/min
+  - Temperature: 98.6°F (37°C)
+  - Oxygen Saturation: 96% on room air
+
+- **General Appearance:** 
+The patient appears well-nourished and in no apparent distress.
+
+- **Cardiovascular:**
+Heart sounds are clear with a regular rate and rhythm. No murmurs, gallops, or rubs.
+
+- **Respiratory:**
+Lungs are clear to auscultation bilaterally with no wheezing noted. Breath sounds are equal and symmetric. No use of accessory muscles noted during respiration.
+
+- **Abdomen:**
+Soft, non-distended, and non-tender. No masses or organomegaly. Bowel sounds present and normal.
+
+- **Musculoskeletal:**
+No joint swelling or deformities. Full range of motion in all extremities. 
+
+- **Neurological:**
+Alert and oriented to person, place, and time. Cranial nerves II-XII intact. Motor strength is 5/5 in all extremities.
+
+- **Skin:**
+No rashes, lesions, or abnormal findings noted.
+
+- **Lab Findings:**
+1. Albumin: Normal.
+2. AST: Within normal limits.
+3. Blood Urea Nitrogen: Normal.
+4. Serum potassium: Low (consistent with hypopotassemia).
+
+**Assessment:**
+
+1. **Asthma, unspecified without mention of status asthmaticus:**
+   The patient's asthma is stable, with good control on current medications, although there are nocturnal symptoms that need addressing.
+
+2. **Gynecological conditions (leiomyoma of the uterus, endometriosis, cervicitis, and others):**
+   Ongoing monitoring required. Symptoms are managed post-hysterectomy.
+
+3. **Hypopotassemia:**
+   Ongoing management with potassium supplements.
+
+**Plan:**
+
+1. **Asthma:**
+   - Continue current albuterol use as needed.
+   - Add a long-acting beta-agonist (LABA) to help control nocturnal symptoms.
+   - Recommend the patient use a humidifier at night to ease breathing.
+   - Follow-up in one month to reassess control and adjust therapy as needed.
+
+2. **Gynecological Conditions:**
+   - No new treatment needed at this appointment. Continue with current postoperative care.
+   - Advise on monitoring for any new symptoms and follow up with gynecologist as scheduled.
+
+3. **Hypopotassemia:**
+   - Continue potassium supplements.
+   - Recheck serum potassium levels at the next visit.
+
+**Follow-Up:**
+
+- Instruct patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.
+- Follow-up appointment in one month for reassessment of asthma control and repeat blood tests to monitor hypokalemia.
+
+**Patient Education & Understanding of the Plan:**
+
+- Discussed the importance of adhering to the treatment plan for asthma.
+- Patient understands the need to monitor symptoms and use inhalers as prescribed.
+- Educated about the signs of low potassium levels and the importance of dietary intake of potassium.
+
+The patient verbalized understanding and is in agreement with the plan.

@@ -1,0 +1,59 @@
+Visit Information:
+    - Patient Num: 1000000072
+    - Visit Date: 12/25/2001
+
+Subjective:
+    This is a 5-year-old Asian male with a history of asthma, presenting for a follow-up visit. He speaks Spanish as his primary language. The primary concern for today's visit includes wheezing and increased shortness of breath over the past week, particularly at night. His mother reports that he has experienced three significant asthma exacerbations in the past year requiring hospitalization. He is currently using albuterol via inhaler as needed, approximately three times a week, and has a fluticasone inhaler as part of his regular medication regimen. He has also had a recent bout of fever that lasted for three days, which has since resolved. His past medical history includes recurrent otitis media and candidiasis. There are no known allergies. The patient’s lifestyle factors include attending kindergarten and living in a smoke-free household. His mother has been monitoring his symptoms closely and has noticed no other new concerning signs.
+
+Objective:
+    Vital Signs:
+        - Blood Pressure: 95/60 mmHg
+        - Heart Rate: 110 bpm
+        - Respiratory Rate: 28 breaths per minute
+        - Temperature: 98.6°F
+        - Oxygen Saturation: 95% on room air
+
+    General Appearance:
+        The child appears well-nourished and in no acute distress.
+    
+    Cardiovascular:
+        Normal S1 and S2 with no murmurs, gallops, or rubs.
+    
+    Respiratory:
+        Increased work of breathing noted with mild intercostal retractions. Expiratory wheezing heard bilaterally upon auscultation.
+    
+    Abdomen:
+        Soft, non-tender, non-distended with no hepatosplenomegaly.
+    
+    Musculoskeletal:
+        Normal muscle tone and strength for age. No deformities or swelling noted.
+    
+    Neurological:
+        Alert and oriented with age-appropriate developmental milestones. Cranial nerves II-XII intact.
+    
+    Skin:
+        No rashes, lesions, or pallor observed.
+
+Assessment:
+    The patient presents with an exacerbation of asthma. The likely differential diagnosis includes viral upper respiratory infection exacerbating asthma. No signs of bacterial infection or severe respiratory distress are noted at this time. 
+
+    Additional issues include a resolved febrile episode possibly linked to asthma exacerbation and a history of multiple asthma-related hospitalizations requiring close monitoring and a possible asthma management plan review.
+
+Plan:
+    - Asthma Management:
+        The patient will continue using albuterol inhaler as needed. Increase the frequency of fluticasone to twice daily. Arrange for a structured asthma action plan that includes peak flow monitoring.
+        Prescribe a short course of oral corticosteroids if symptoms do not improve within 48 hours.
+        Schedule a follow-up visit in two weeks to assess control and medication adjustment. Referral to a pediatric pulmonologist may be considered if exacerbations persist.
+    
+    - Diagnostic Tests:
+        Request a follow-up complete blood count (CBC) to monitor for infection and to ensure resolution of anemia indicators.
+    
+    - Patient Education:
+        Educate the patient's mother on recognizing early signs of asthma exacerbation and appropriate use of medications. Discuss avoiding known asthma triggers.
+        Instruct on proper inhaler technique and the importance of adherence to the prescribed regimen.
+
+Follow-Up:
+    - Instruct the patient’s mother to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.
+    - Plan another follow-up appointment in two weeks to reassess asthma control and review management plan adjustments.
+
+The patient’s mother understands and agrees with the treatment plan and instructions provided.

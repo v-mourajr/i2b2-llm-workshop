@@ -1,0 +1,129 @@
+demographics
+patient_num: 1000000114  age: 32
+patient_num: 1000000114  sex: F
+patient_num: 1000000114  race: hispanic
+patient_num: 1000000114  language: english
+patient_num: 1000000114  vital_status: alive
+patient_num: 1000000114  earliest fact: Jul 29 2003 12:00AM
+patient_num: 1000000114  latest fact: Oct 13 2009 12:00AM
+patient_num: 1000000114  range in days: 2268
+totals
+patient_num: 1000000114  distinct concepts: 121
+patient_num: 1000000114  total facts: 619
+patient_num: 1000000114  total encounters: 76
+patient_num: 1000000114  total asthma: 13
+descriptive
+patient_num: 1000000114  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 11
+patient_num: 1000000114  asthma code: ICD9:493.02  name: Extrinsic asthma with acute exacerbation  count: 4
+patient_num: 1000000114  diagnosis code: ICD9:789.07  name: Abdominal pain, generalized  count: 1
+patient_num: 1000000114  diagnosis code: ICD9:462  name: Acute pharyngitis  count: 1
+patient_num: 1000000114  diagnosis code: ICD9:461.9  name: Acute sinusitis, unspecified  count: 3
+patient_num: 1000000114  diagnosis code: ICD9:465.9  name: Acute upper respiratory infections of unspecified site  count: 2
+patient_num: 1000000114  diagnosis code: ICD9:477.0  name: Allergic rhinitis due to pollen  count: 2
+patient_num: 1000000114  diagnosis code: ICD9:477.9  name: Allergic rhinitis, cause unspecified  count: 7
+patient_num: 1000000114  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 11
+patient_num: 1000000114  diagnosis code: ICD9:724.5  name: Backache, unspecified  count: 2
+patient_num: 1000000114  diagnosis code: ICD9:216.9  name: Benign neoplasm of skin, site unspecified  count: 3
+patient_num: 1000000114  diagnosis code: ICD9:233.1  name: Carcinoma in situ of cervix uteri  count: 2
+patient_num: 1000000114  diagnosis code: ICD9:564.00  name: Constipation, unspecified  count: 1
+patient_num: 1000000114  diagnosis code: ICD9:692.9  name: Contact dermatitis and other eczema, unspecified cause  count: 1
+patient_num: 1000000114  diagnosis code: ICD9:786.2  name: Cough  count: 2
+patient_num: 1000000114  diagnosis code: ICD9:693.1  name: Dermatitis due to food taken internally  count: 1
+patient_num: 1000000114  diagnosis code: ICD9:625.3  name: Dysmenorrhea  count: 2
+patient_num: 1000000114  diagnosis code: ICD9:622.10  name: Dysplasia of cervix, unspecified  count: 2
+patient_num: 1000000114  diagnosis code: ICD9:719.06  name: Effusion of lower leg joint  count: 2
+patient_num: 1000000114  diagnosis code: ICD9:V25.01  name: Encounter for general counseling on prescription of oral contraceptives  count: 1
+patient_num: 1000000114  diagnosis code: ICD9:V25.9  name: Encounter for unspecified contraceptive management  count: 1
+patient_num: 1000000114  diagnosis code: ICD9:127.4  name: Enterobiasis  count: 2
+patient_num: 1000000114  diagnosis code: ICD9:493.02  name: Extrinsic asthma with acute exacerbation  count: 4
+patient_num: 1000000114  diagnosis code: ICD9:V17.3  name: Family history of ischemic heart disease  count: 1
+patient_num: 1000000114  diagnosis code: ICD9:784.0  name: Headache  count: 1
+patient_num: 1000000114  diagnosis code: ICD9:569.3  name: Hemorrhage of rectum and anus  count: 2
+patient_num: 1000000114  diagnosis code: ICD9:564.1  name: Irritable bowel syndrome  count: 1
+patient_num: 1000000114  diagnosis code: ICD9:611.71  name: Mastodynia  count: 1
+patient_num: 1000000114  diagnosis code: ICD9:346.90  name: Migraine, unspecified, without mention of intractable migraine  count: 1
+patient_num: 1000000114  diagnosis code: ICD9:622.11  name: Mild dysplasia of cervix  count: 2
+patient_num: 1000000114  diagnosis code: ICD9:729.1  name: Mylagia and myositis, unspecified  count: 1
+patient_num: 1000000114  diagnosis code: ICD9:787.02  name: Nausea alone  count: 1
+patient_num: 1000000114  diagnosis code: ICD9:792.1  name: Nonspecific abnormal findings in stool contents  count: 1
+patient_num: 1000000114  diagnosis code: ICD9:794.8  name: Nonspecific abnormal results of function study of liver  count: 1
+patient_num: 1000000114  diagnosis code: ICD9:272.4  name: Other and unspecified hyperlipidemia  count: 2
+patient_num: 1000000114  diagnosis code: ICD9:786.59  name: Other chest pain  count: 2
+patient_num: 1000000114  diagnosis code: ICD9:719.46  name: Pain in joint involving lower leg  count: 3
+patient_num: 1000000114  diagnosis code: ICD9:705.21  name: Primary focal hyperhidrosis  count: 1
+patient_num: 1000000114  diagnosis code: ICD9:272.0  name: Pure hypercholesterolemia  count: 3
+patient_num: 1000000114  diagnosis code: ICD9:V70.0  name: Routine general medical examination at a health care facility  count: 9
+patient_num: 1000000114  diagnosis code: ICD9:V72.31  name: Routine gynelogical exam  count: 2
+patient_num: 1000000114  diagnosis code: ICD9:V77.91  name: Screening for lipoid disorders  count: 1
+patient_num: 1000000114  diagnosis code: ICD9:V76.51  name: Screening for malignant neoplasms of colon  count: 1
+patient_num: 1000000114  diagnosis code: ICD9:V76.2  name: Screening for malignant neoplasms of the cervix  count: 7
+patient_num: 1000000114  diagnosis code: ICD9:V72.3  name: Special investigations and examinations  count: 5
+patient_num: 1000000114  diagnosis code: ICD9:786.50  name: Unspecified chest pain  count: 2
+patient_num: 1000000114  diagnosis code: ICD9:455.6  name: Unspecified hemorrhoids without mention of complication  count: 3
+patient_num: 1000000114  diagnosis code: ICD9:599.0  name: Urinary tract infection, site not specified  count: 3
+patient_num: 1000000114  diagnosis code: ICD9:616.10  name: Vaginitis and vulvovaginitis, unspecified  count: 1
+patient_num: 1000000114  medication code: NDC:00005306343  name: Albuterol Sulfate 4mg tablet ESI Lederle Generics  count: 16
+patient_num: 1000000114  medication code: NDC:00088110947  name: Allegra 180mg tablet extended release Aventis Pharmaceuticals  count: 8
+patient_num: 1000000114  medication code: NDC:00173033602  name: Beconase 0.042 mg/inh aerosol with adapter Glaxo Wellcome  count: 4
+patient_num: 1000000114  medication code: NDC:00085123301  name: Claritin-D 24 Hour 10mg-240mg tablet extended release Schering Corporation  count: 3
+patient_num: 1000000114  medication code: NDC:00121042204  name: Codeine Phosphate-Guaifenesin 10mg-100 mg/5ml syrup Pharmaceutical Assoc Inc Div Beach Products  count: 3
+patient_num: 1000000114  medication code: NDC:54092041430  name: Colace sodium 150 mg/15ml liquid Roberts Pharmaceutical Corporation  count: 4
+patient_num: 1000000114  medication code: NDC:00025016124  name: Demulen 1/35 35 mcg-1mg tablet Searle  count: 4
+patient_num: 1000000114  medication code: NDC:00085085401  name: Elocon 0.1% lotion Schering Corporation  count: 4
+patient_num: 1000000114  medication code: NDC:00173045301  name: Flonase 0.05 mg/inh spray Glaxo Wellcome  count: 8
+patient_num: 1000000114  medication code: NDC:00173049800  name: Flovent 110 mcg/inh aerosol with adapter Glaxo Wellcome  count: 4
+patient_num: 1000000114  medication code: NDC:00173049900  name: Flovent 220 mcg/inh aerosol with adapter Glaxo Wellcome  count: 4
+patient_num: 1000000114  medication code: NDC:00071015723  name: Lipitor 40mg tablet Parke-Davis  count: 4
+patient_num: 1000000114  medication code: NDC:00052028106  name: Mircette biphasic tablet Organon  count: 3
+patient_num: 1000000114  medication code: NDC:58177030304  name: Naproxen Enteric Coated 500mg enteric coated tablet Ethex Corporation  count: 4
+patient_num: 1000000114  medication code: NDC:00085119701  name: Nasonex 50 mcg/inh spray Schering Corporation  count: 4
+patient_num: 1000000114  medication code: NDC:00781183010  name: Promethazine Hydrochloride 25mg tablet Geneva Pharmaceuticals  count: 8
+patient_num: 1000000114  medication code: NDC:54198011808  name: Senna-Relief Childs Syrup 218 mg/5ml syrup Liquipharm Inc  count: 4
+patient_num: 1000000114  medication code: NDC:00006027531  name: Singulair 5mg tablet chewable Merck & Co. Inc  count: 6
+patient_num: 1000000114  medication code: NDC:00641276641  name: Sulfamethoxazole-Trimethoprim 80mg-16 mg/ml solution ESI Lederle Generics  count: 8
+patient_num: 1000000114  medication code: NDC:50580007012  name: Vermox 100mg tablet chewable Janssen Pharmaceuticals  count: 4
+patient_num: 1000000114  medication code: NDC:00069315083  name: Zithromax IV 500mg powder for injection Pfizer U.S. Pharmaceuticals  count: 4
+patient_num: 1000000114  laboratory code: LOINC:1751-7  name: Albumin (Group:ALB)  count: 4
+patient_num: 1000000114  laboratory code: LOINC:1742-6  name: ALT (SGPT) (Group:SGPT)  count: 4
+patient_num: 1000000114  laboratory code: LOINC:10466-1  name: Anion Gap (Group:ANION)  count: 1
+patient_num: 1000000114  laboratory code: LOINC:1920-8  name: AST (SGOT) (Group:SGOT)  count: 4
+patient_num: 1000000114  laboratory code: LOINC:15152-2  name: Bili Conjugated (Group:CBILI)  count: 1
+patient_num: 1000000114  laboratory code: LOINC:15153-0  name: Bili Unconjugated (Group:UBILI)  count: 1
+patient_num: 1000000114  laboratory code: LOINC:3094-0  name: Blood Urea Nitrogen (Group:BUN)  count: 4
+patient_num: 1000000114  laboratory code: LOINC:2000-8  name: Calcium (Group:CA)  count: 3
+patient_num: 1000000114  laboratory code: LOINC:14815-5  name: Calculated LDL (Group:LDLCAL)  count: 1
+patient_num: 1000000114  laboratory code: LOINC:2028-9  name: Carbon Dioxide (Group:CO2)  count: 4
+patient_num: 1000000114  laboratory code: LOINC:9830-1  name: Cardiac Risk Ratio (Group:CardRR)  count: 5
+patient_num: 1000000114  laboratory code: LOINC:2075-0  name: Chloride (Group:CL)  count: 4
+patient_num: 1000000114  laboratory code: LOINC:9830-1  name: Chol/HDL Ratio (Group:CHOL/HDL)  count: 5
+patient_num: 1000000114  laboratory code: LOINC:2093-3  name: Cholesterol (Group:CHOL)  count: 6
+patient_num: 1000000114  laboratory code: LOINC:2160-0  name: Creatinine (Group:CRE)  count: 4
+patient_num: 1000000114  laboratory code: LOINC:1968-7  name: Direct Bilirubin (Group:DBILI)  count: 2
+patient_num: 1000000114  laboratory code: LOINC:2336-6  name: Globulin (Group:GLOB)  count: 2
+patient_num: 1000000114  laboratory code: LOINC:6777-7  name: Glucose (Group:GLU)  count: 4
+patient_num: 1000000114  laboratory code: LOINC:2119-6  name: HCG-Quant (Group:HCG,QT)  count: 1
+patient_num: 1000000114  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 4
+patient_num: 1000000114  laboratory code: LOINC:2086-7  name: HDL (Group:HDL)  count: 6
+patient_num: 1000000114  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 4
+patient_num: 1000000114  laboratory code: LOINC:13965-9  name: Homocyst(e)ine (Group:PBH)  count: 1
+patient_num: 1000000114  laboratory code: LOINC:13965-9  name: Homocysteine (Group:HCYS)  count: 1
+patient_num: 1000000114  laboratory code: LOINC:2090-9  name: LDL (Group:LDL)  count: 5
+patient_num: 1000000114  laboratory code: LOINC:2579-1  name: LH (Group:LH,CHM)  count: 1
+patient_num: 1000000114  laboratory code: LOINC:10835-7  name: Lipoprotein (a) (Group:LP(a))  count: 1
+patient_num: 1000000114  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 4
+patient_num: 1000000114  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 4
+patient_num: 1000000114  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 4
+patient_num: 1000000114  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 4
+patient_num: 1000000114  laboratory code: LOINC:2823-3  name: Potassium (Group:K)  count: 4
+patient_num: 1000000114  laboratory code: LOINC:2842-3  name: Prolactin (Group:PRL)  count: 1
+patient_num: 1000000114  laboratory code: LOINC:5902-2  name: PT (Group:PT)  count: 1
+patient_num: 1000000114  laboratory code: LOINC:6301-6  name: PT-INR (Group:PT-INR)  count: 1
+patient_num: 1000000114  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 4
+patient_num: 1000000114  laboratory code: LOINC:788-0  name: RDW (Group:RDW)  count: 2
+patient_num: 1000000114  laboratory code: LOINC:2951-2  name: Sodium (Group:NA)  count: 4
+patient_num: 1000000114  laboratory code: LOINC:1975-2  name: Total Bilirubin (Group:TBILI)  count: 8
+patient_num: 1000000114  laboratory code: LOINC:2885-2  name: Total Protein (Group:TP)  count: 4
+patient_num: 1000000114  laboratory code: LOINC:2571-8  name: Triglycerides (Group:TRIG)  count: 6
+patient_num: 1000000114  laboratory code: LOINC:3016-3  name: TSH (Group:TSH)  count: 2
+patient_num: 1000000114  laboratory code: LOINC:2092-5  name: VLDL (Group:VLDL)  count: 1
+patient_num: 1000000114  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 4

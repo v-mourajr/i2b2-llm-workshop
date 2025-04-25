@@ -1,0 +1,46 @@
+**Visit Information:**
+    - Patient Num: 1000000003
+    - Visit Date: 12/13/2001
+    
+**Subjective:**
+The patient is a 33-year-old Asian male, speaking German, who presents for a follow-up regarding chronic neck and back pain. He has a longstanding history of these issues, initially diagnosed as cervicalgia with a history of neck sprain and lumbar sprain. The neck pain radiates to his shoulders and is exacerbated by prolonged sitting or computer work, while the lower back pain is consistent and dull, worsening with physical activity but slightly relieved by periods of rest. The patient denies recent trauma but reports occasional stiffness.
+
+His past medical history includes alopecia and atopic dermatitis, and he has had occasional viral warts, though they are not currently active. He does not have a significant surgical history. Presently, the patient manages his pain with nonsteroidal anti-inflammatory drugs (NSAIDs), which provide partial relief. He also uses a topical emollient for his atopic dermatitis, which he reports has been moderately effective and well-tolerated.
+
+Socially, he leads a sedentary lifestyle due to his office job. He does not smoke and drinks alcohol socially. He lives alone and has a supportive family nearby. He maintains a healthy diet. There are no known drug allergies. The severity of his pain has been consistent, rated at 6/10, with physical therapy providing only temporary relief. He reports no additional recent changes.
+
+**Objective:**
+Vital signs are within normal limits: blood pressure is 120/80 mmHg, heart rate 72 bpm, respiratory rate 16 breaths per minute, and temperature at 36.8°C. Oxygen saturation is 99% on room air.
+
+The patient appears well-nourished and in no acute distress. Cardiovascular examination reveals regular heart sounds with no abnormal findings. On respiratory examination, lung fields are clear with no wheezing or rales. The abdominal examination is unremarkable with no tenderness or mass. 
+
+Musculoskeletal examination shows tenderness over the cervical spine and lumbar areas with palpable muscle spasm. Range of motion is restricted in the cervical and lumbar regions with noted discomfort during flexion and extension. No deformities are apparent, and there are no neurovascular deficits. The neurological exam shows no focal deficits, intact cranial nerves, and symmetric reflexes. Skin examination reveals no new lesions or signs of atopic dermatitis and no active warts.
+
+Recent laboratory results include a routine metabolic panel, showing normal albumin and total protein levels, and slightly elevated but stable creatinine. Liver function tests including AST and bilirubin are within normal limits. Complete blood count and differential are unremarkable.
+
+**Assessment:**
+1. Chronic neck and back pain, likely attributable to musculoskeletal strain and suboptimal ergonomics.
+   - Considerations include myofascial pain syndrome and intervertebral disc disorders.
+
+2. Alopecia and atopic dermatitis, currently well-managed.
+   - Differential includes eczema and contact dermatitis.
+
+3. History of viral warts, currently inactive.
+
+**Plan:**
+For chronic neck and back pain:
+1. Continue NSAIDs for pain management and consider the addition of muscle relaxants for symptomatic relief of spasms.
+2. Refer to physical therapy with an emphasis on core strengthening and postural correction.
+3. Evaluate ergonomic adjustments to his workspace to reduce strain, such as chair height and monitor placement.
+4. If pain persists, recommend consultation with a pain specialist for further management.
+
+For alopecia and atopic dermatitis:
+1. Continue current topical emollient use.
+2. Maintain advice on avoiding known irritants and using hypoallergenic products.
+
+For general wellness:
+1. Encourage a regular exercise regimen, aiming for at least 30 minutes of moderate exercise five times a week.
+2. Promote a balanced diet, adequate hydration, and reduction of sedentary behavior.
+
+Follow-Up:
+The patient is advised to contact the clinic if his symptoms persist or worsen within a week, or if new symptoms emerge. A follow-up appointment is scheduled in four weeks to assess progress and make any necessary adjustments to his treatment plan. The patient concurs with and understands the management plan.

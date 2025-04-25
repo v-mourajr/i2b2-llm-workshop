@@ -1,0 +1,50 @@
+Visit Information:
+- Patient Num: 1000000061
+- Visit Date: August 24, 2009
+
+Subjective:
+This is a 42-year-old Asian male, who primarily speaks Spanish, presenting today for a follow-up appointment regarding his asthma management. The patient has a well-documented history of various forms of asthma, including unspecified type with acute exacerbation, status asthmaticus, and extrinsic and intrinsic asthma with acute exacerbation. Recently, he has experienced an increase in nocturnal asthma symptoms, necessitating frequent use of his albuterol inhaler. 
+
+In addition to asthma, the patient has a history of acute respiratory infections, acute pharyngitis, allergic rhinitis, backache, obesity, and atrial dysrhythmia. He also reports ongoing thoracic spine pain and recent developments of musculoskeletal pain and effusion in the lower leg joint. There is a longstanding issue of esophageal reflux, for which he takes Prilosec.
+
+The patient is currently on the following medications: albuterol sulfate tablets, Flovent inhaler, Flonase spray, Nizoral shampoo, prednisone tablets for acute exacerbations, and Prilosec for esophageal reflux. He reports that while the medications are effective, the asthma control seems to be deteriorating at night recently. Also, he denies any known drug allergies. 
+
+Socially, the patient works in construction, which involves heavy physical labor. He lives alone and faces significant challenges in his efforts to quit smoking. He disclosed that he continues to smoke approximately a pack a day despite attempts to reduce it. He does not report any new hospitalizations or surgeries since his last visit. 
+
+Objective:
+Upon examination, the patient appeared well-groomed and in no acute distress. Vital signs are as follows: blood pressure 120/80 mmHg, heart rate 75 beats per minute, respiratory rate 20 breaths per minute, temperature 98.7°F, and oxygen saturation 98% on room air.
+
+Cardiovascular examination revealed a regular rate and rhythm with no murmurs, gallops, or rubs, and peripheral pulses were intact and symmetrical.
+
+Respiratory examination showed clear bilateral breath sounds with a notable intermittent wheeze on forced expiration and some mild chest tightness, although chest expansion was symmetrical.
+
+Abdominal examination was unremarkable with soft, non-tender, non-distended findings, and no palpable masses. Musculoskeletal assessment noted mild tenderness and muscle spasm along the thoracic spine and continued swelling in the left knee with a well-healed scar from a previous injury.
+
+Neurological examination showed no focal deficits, with normal cranial nerve function, motor strength, and sensory responses. Skin assessment did not reveal active rashes or new lesions.
+
+Recent laboratory findings indicated stable values in hematocrit, hemoglobin, red blood cells, lymphocytes, neutrophils, and white blood cells. The metabolic panel, including albumin, ALT, AST, creatinine, and glucose levels, was within normal limits.
+
+Assessment:
+1. Asthma: The patient's asthma is clinically significant and appears to have some worsening of symptoms, particularly nocturnal, suggesting a need for adjustment in management strategy.
+2. Thoracic Spine Pain: Likely secondary to spasm and strain related to heavy physical labor, exacerbated by occupational activities.
+3. Post-Wound Recovery (Left Knee): Mild swelling likely related to residual inflammation from a prior injury.
+4. Obesity: Contributing to physical strain and potentially worsening asthma and musculoskeletal pain.
+
+Plan:
+1. Asthma:
+   - Continue albuterol sulfate as needed for rescue.
+   - Increase the dose of inhaled corticosteroid (Flovent) for better symptom control, especially at night.
+   - Strongly advising smoking cessation, referring the patient to a smoking cessation program, and educating him on the impact of smoking on asthma.
+2. Thoracic Spine Pain:
+   - Prescribe ibuprofen as needed for pain relief.
+   - Refer to physical therapy to develop a muscle strengthening regimen and recommend ergonomic adjustments during work.
+3. Post-Wound Recovery:
+   - Continue monitoring for any potential complications such as infection.
+   - Recommend intermittent ice application and elevation of the leg to reduce swelling.
+   - Consider referral to orthopedics if symptoms persist.
+4. Obesity:
+   - Discuss dietary modifications and the potential need for referral to a weight management program.
+   - Encourage regular physical activity within the patient's limitations.
+
+Follow-Up:
+The patient was instructed to contact the clinic if symptoms worsen or do not improve within a week or if test results indicate a need for further evaluation. A follow-up appointment was scheduled for four weeks to reassess asthma control, pain management, and overall health progress. The plan and instructions were explained in Spanish to ensure comprehension and adherence to the proposed management strategy.

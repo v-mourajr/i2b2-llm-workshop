@@ -1,0 +1,43 @@
+demographics
+patient_num: 1000000097  age: 21
+patient_num: 1000000097  sex: M
+patient_num: 1000000097  race: white
+patient_num: 1000000097  language: spanish
+patient_num: 1000000097  vital_status: alive
+patient_num: 1000000097  earliest fact: Jul 17 1997 12:00AM
+patient_num: 1000000097  latest fact: Nov  1 2001 12:00AM
+patient_num: 1000000097  range in days: 1568
+totals
+patient_num: 1000000097  distinct concepts: 36
+patient_num: 1000000097  total facts: 78
+patient_num: 1000000097  total encounters: 22
+patient_num: 1000000097  total asthma: 2
+descriptive
+patient_num: 1000000097  asthma code: ICD9:493.00  name: Extrinsic asthma without mention of status asthmaticus  count: 2
+patient_num: 1000000097  diagnosis code: ICD9:309.28  name: Adjustment reaction with mixed emotional features  count: 4
+patient_num: 1000000097  diagnosis code: ICD9:314.01  name: Attention deficit disorder of childhood with hyperactivity  count: 3
+patient_num: 1000000097  diagnosis code: ICD9:724.5  name: Backache, unspecified  count: 3
+patient_num: 1000000097  diagnosis code: ICD9:924.11  name: Contusion of knee  count: 1
+patient_num: 1000000097  diagnosis code: ICD9:493.00  name: Extrinsic asthma without mention of status asthmaticus  count: 2
+patient_num: 1000000097  diagnosis code: ICD9:300.14  name: Multiple personality  count: 2
+patient_num: 1000000097  diagnosis code: ICD9:300.4  name: Neurotic depression  count: 7
+patient_num: 1000000097  diagnosis code: ICD9:719.46  name: Pain in joint involving lower leg  count: 1
+patient_num: 1000000097  diagnosis code: ICD9:V70.0  name: Routine general medical examination at a health care facility  count: 1
+patient_num: 1000000097  diagnosis code: ICD9:V79.3  name: Screening for developmental handicaps in early childhood  count: 1
+patient_num: 1000000097  diagnosis code: ICD9:842.10  name: Sprain of unspecified site of hand  count: 1
+patient_num: 1000000097  diagnosis code: ICD9:480.9  name: Viral pneumonia, unspecified  count: 1
+patient_num: 1000000097  laboratory code: LOINC:8246-1  name: Amorph Crystals (Group:UAS-AMOR)  count: 1
+patient_num: 1000000097  laboratory code: LOINC:5769-5  name: Bacteria (Group:UAS-BACT)  count: 1
+patient_num: 1000000097  laboratory code: LOINC:5770-3  name: Bilirubin (Group:UA-BILI)  count: 1
+patient_num: 1000000097  laboratory code: LOINC:5778-6  name: Color (Group:UA-COLOR)  count: 1
+patient_num: 1000000097  laboratory code: LOINC:5792-7  name: Glucose - UA (Group:UA-GLUC)  count: 1
+patient_num: 1000000097  laboratory code: LOINC:5797-6  name: Ketones (Group:UA-KET)  count: 1
+patient_num: 1000000097  laboratory code: LOINC:5802-4  name: Nitrites (Group:UA-NIT)  count: 1
+patient_num: 1000000097  laboratory code: LOINC:5794-3  name: Occult Blood (Group:UA-BLD)  count: 1
+patient_num: 1000000097  laboratory code: LOINC:5803-2  name: PH (Group:UA-PH)  count: 1
+patient_num: 1000000097  laboratory code: LOINC:5804-0  name: Protein (Group:UA-ALB)  count: 1
+patient_num: 1000000097  laboratory code: LOINC:5808-1  name: RBC - Urine Sed (Group:UAS-RBC)  count: 1
+patient_num: 1000000097  laboratory code: LOINC:5811-5  name: Specific Gravity (Group:UA-SPGR)  count: 1
+patient_num: 1000000097  laboratory code: LOINC:5767-9  name: Turbidity (Group:UA-TURB)  count: 1
+patient_num: 1000000097  laboratory code: LOINC:5818-0  name: Urobilinogen (Group:UA-UROBI)  count: 1
+patient_num: 1000000097  laboratory code: LOINC:5799-2  name: WBC Screen (Group:UA-WBC)  count: 1

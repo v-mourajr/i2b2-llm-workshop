@@ -1,0 +1,85 @@
+**Visit Information:**
+
+- Patient Num: 1000000005
+- Visit Date: 07/06/2007
+
+**Subjective:**
+
+This is a 35-year-old Hispanic female who has been under our care for the last decade, presenting on 07/06/2007 for a follow-up related to her chronic asthma management. The patient reports an increase in asthma symptoms over the past month, including frequent episodes of shortness of breath, wheezing, and a persistent dry cough, particularly at night. She has increased use of her rescue inhaler (albuterol) from once a week to multiple times per day, which has provided only limited relief.
+
+The patient has a significant past medical history of asthma with recurrent exacerbations, as well as bouts of abdominal pain manifesting as epigastric and upper left quadrant discomfort. She also has a documented history of sarcoidosis, irritable bowel syndrome, cervicalgia, a history of drug and opioid abuse, and a diagnosis of mental disorders during the antepartum period in her last pregnancy.
+
+The patient is currently on a medication regimen that includes a combination inhaler (fluticasone/salmeterol) for maintenance and albuterol for rescue use. She also uses Singulair (montelukast) for asthma control and Gastrocrom for mast cell stabilization. She adheres to her medication schedule but has needed the rescue medication more frequently, indicating suboptimal asthma control. The patient denies any current drug or opioid use and states that she does not smoke nor consume alcohol. She lives with her family and works as a cashier in a retail store, where exposure to dust and other environmental irritants is frequent. Additionally, she mentions prolonged standing at her job, which occasionally worsens her respiratory symptoms.
+
+**Objective:**
+
+- **Vital Signs:**
+  - Blood Pressure: 118/76 mmHg
+  - Heart Rate: 82 bpm
+  - Respiratory Rate: 21 breaths per minute
+  - Temperature: 98.5°F (36.9°C)
+  - Oxygen Saturation: 93% on room air
+
+- **General Appearance:**
+The patient appears alert, well-groomed, and mildly anxious. She exhibits mild tachypnea with noticeable use of accessory muscles for breathing but is not in acute distress.
+
+- **Cardiovascular:**
+Heart sounds are clear and regular, with no murmurs, gallops, or rubs auscultated.
+
+- **Respiratory:**
+Bilateral wheezes are noted, more pronounced in the lower lung fields. Air entry is decreased bilaterally with no rhonchi or rales detected.
+
+- **Abdomen:**
+The abdomen is soft and non-tender, with no organomegaly or masses palpable. Bowel sounds are present and normal.
+
+- **Musculoskeletal:**
+The patient shows no abnormalities such as joint swelling or deformities. Muscle strength and range of motion are within normal limits across all extremities.
+
+- **Neurological:**
+Cranial nerves II-XII are grossly intact. Reflexes are 2+ bilaterally, and muscle strength is 5/5 in all major muscle groups.
+
+- **Skin:**
+The skin is clear without evidence of rashes, lesions, or abnormal pigmentation.
+
+**Assessment:**
+
+1. **Chronic Asthma:**
+The patient has a notable increase in asthma symptoms likely exacerbated by occupational and environmental factors.
+2. **Recurrent Respiratory Infections:**
+A history of multiple respiratory infections which could be contributing to current symptomatology.
+3. **Abdominal Pain:**
+Recurrent episodes of abdominal pain in various quadrants; differential includes irritable bowel syndrome and potential gastrointestinal involvement secondary to sarcoidosis. 
+4. **Sarcoidosis:**
+Chronic condition that may be contributing to respiratory difficulty, requiring ongoing monitoring.
+5. **Irritable Bowel Syndrome:**
+Chronic condition presenting with recurrent abdominal pain and change in bowel habits.
+6. **Cervicalgia:**
+Chronic neck pain possibly related to posture or previous injuries.
+
+**Plan:**
+
+1. **Asthma Management:**
+   - Continue fluticasone/salmeterol for maintenance therapy and albuterol as a rescue medication.
+   - Initiate a 5-day course of oral corticosteroids (prednisone) to manage the acute exacerbation.
+   - Evaluate the necessity of adjusting the maintenance inhaler dosage in the follow-up visit.
+
+2. **Diagnostic Tests:**
+   - Perform spirometry to determine the current pulmonary function and assess asthma severity.
+   - Order a chest X-ray to rule out any other underlying conditions such as pneumonia or complications related to sarcoidosis.
+   - Schedule comprehensive pulmonary function tests if the initial spirometry indicates significant impairment.
+
+3. **Further Referrals:**
+   - Refer to a pulmonologist for detailed evaluation and management, particularly if there is inadequate response to current treatment.
+   - Consider gastroenterology referral if abdominal complaints persist, suspecting potential sarcoidosis-related gastrointestinal involvement.
+   
+4. **Lifestyle Modifications and Education:**
+   - Educate the patient on the importance of avoiding known asthma triggers, proper inhaler techniques, and the early use of rescue inhalers.
+   - Emphasize the importance of adhering to follow-ups and emergent care advice, particularly noting signs of severe exacerbation such as difficulty speaking or cyanosis.
+   - Counsel the patient on lifestyle modifications such as reducing exposure to respiratory irritants at work and implementing stress management strategies.
+
+**Follow-Up:**
+
+- The patient is instructed to contact the clinic if symptoms worsen or do not improve within a week, or if follow-up test results indicate a need for further evaluation.
+- A follow-up appointment is scheduled two weeks from today to assess the patient’s response to the current treatment plan and adjust as necessary.
+- The patient has been informed regarding the treatment adjustments, follow-up plans, and lifestyle changes, affirming her understanding and commitment.
+

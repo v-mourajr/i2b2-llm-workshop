@@ -1,0 +1,60 @@
+Visit Information:
+- Patient Num: 1000000017
+- Visit Date: 11/12/1998
+
+This is a 38-year-old Black male who has been receiving care at our clinic for approximately 13 months. He speaks English and presents today, 11/12/1998, for follow-up concerning his asthma and other chronic health issues.
+
+Subjective:
+The patient reports experiencing increased shortness of breath and wheezing over the past week, particularly exacerbated by cold weather and physical exertion. He mentions that his daily activities have been significantly impacted due to these respiratory symptoms. He denies chest pain, fever, or productive cough. He also reports a history of osteoarthrosis involving his lower leg, causing intermittent pain and stiffness. The patient has been diagnosed with anemia and has a past medical history of pneumonia and other lung diseases.
+
+His current medications include albuterol inhaler for rescue inhalation as needed, which he uses approximately twice daily, and a low-dose inhaled corticosteroid for daily maintenance. He takes acetaminophen for osteoarthrosis-related pain as needed.
+
+Social history reveals that the patient works as a construction laborer which can aggravate his respiratory symptoms due to dust and physical exertion. He is a non-smoker and consumes alcohol occasionally.
+
+No known allergies have been reported. The patient currently denies any significant side effects from his medications and has adhered to his prescribed regimen.
+
+Objective:
+Vital Signs:
+- Blood Pressure: 130/85 mmHg
+- Heart Rate: 80 beats per minute
+- Respiratory Rate: 18 breaths per minute
+- Temperature: 98.6°F (37°C)
+- Oxygen Saturation: 95% on room air
+
+General Appearance: Alert, oriented, and in no acute distress.
+Cardiovascular: Regular rate and rhythm, no murmurs, gallops, or rubs.
+Respiratory: Mild expiratory wheezes heard bilaterally. No use of accessory muscles for respiration. Clear to percussion.
+Abdomen: Soft, non-tender, no organomegaly.
+Musculoskeletal: Mild tenderness over the lower leg. No swelling or erythema. Full range of motion in all extremities, albeit with some discomfort noted.
+Neurological: Intact cranial nerves, strength 5/5 in all extremities, no focal deficits.
+Skin: Normal turgor, no rashes or lesions.
+
+Assessment:
+1. Asthma, unspecified without mention of status asthmaticus: The patient's symptoms of wheezing and shortness of breath indicate a likely exacerbation, likely triggered by environmental factors.
+2. Anemia, unspecified: The patient's records reveal a history of anemia, ongoing monitoring of hemoglobin and hematocrit levels indicates mild current anemia.
+3. Osteoarthrosis involving lower leg: Chronic pain and stiffness, managed with analgesics, requires ongoing monitoring.
+4. History of pneumonia and other lung diseases: No current symptoms, but vigilant monitoring is necessary given the underlying respiratory conditions.
+
+Plan:
+1. For asthma exacerbation:
+- Continue with albuterol inhaler as needed. Increase inhaled corticosteroid dosage with close follow-up in 2 weeks.
+- Recommend using a peak flow meter to monitor daily lung function.
+- Referral to a pulmonologist for further management and to consider adding a long-acting bronchodilator.
+- Patient education on identifying and avoiding asthma triggers.
+
+2. For anemia:
+- Monitor ongoing lab results including complete blood count (CBC). Plan to repeat hemoglobin and hematocrit in 1 month.
+- Discuss dietary modification to include iron-rich foods and possibly start an oral iron supplement.
+
+3. For osteoarthrosis:
+- Continue acetaminophen for pain management.
+- Encourage low-impact physical activity and consider referral to physical therapy for lower limb strengthening exercises.
+
+4. For history of pneumonia and other lung diseases:
+- Ensure vaccination status is up to date, particularly influenza and pneumococcal vaccines.
+- Regular follow-up to monitor respiratory symptoms and chest auscultation findings.
+
+Follow-Up:
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. Further follow-up appointment set in two weeks to review asthma management and repeat CBC to assess anemia. 
+
+The patient was educated about the importance of adhering to asthma medication, avoiding triggers, and proper inhaler technique. He verbalized understanding and agreed with the plan.

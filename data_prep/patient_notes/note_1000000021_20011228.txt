@@ -1,0 +1,79 @@
+This is a 26-year-old Black male who speaks Spanish, presenting to our clinic on December 28, 2001, for a follow-up of his asthma, which he has been managing with medications and clinic supervision for approximately 2 years. He reports an increase in wheezing and shortness of breath over the past week, which he attributes to the colder weather and recent upper respiratory infection.
+
+**Subjective:**
+- Chief Complaints & History of Present Illness:
+  This patient reports escalated symptoms of asthma, which include wheezing, dyspnea, and coughing, particularly at night and during physical exertion over the past week. He denies any chest pain or fever. He admits to difficulty adhering to his asthma medication regimen due to forgetfulness.
+
+- Past Medical & Surgical History:
+  The patient has a documented history of asthma, both with and without status asthmaticus, allergic rhinitis, chronic rhinitis, acute pharyngitis, and a previous diagnosis of back pain. He has no significant surgical history.
+
+- Medications & Supplements:
+  He is currently prescribed Albuterol Sulfate 4mg tablets, which he uses during asthma exacerbations. No herbal supplements or other medications reported.
+
+- Social History:
+  Patient lives alone and works in a shipping warehouse, an environment that sometimes exacerbates his respiratory issues. He is a non-smoker and occasionally consumes alcohol on the weekends.
+
+- Allergies:
+  No known drug allergies.
+
+- Symptom Details:
+  Symptoms of wheezing and dyspnea are exacerbated by cold air and physical exertion and partially alleviated by using Albuterol. He denies hemoptysis, chest pain, or fever but mentions some nocturnal symptoms affecting sleep.
+
+**Objective:**
+- Vital Signs:
+  - Blood Pressure: 118/76 mmHg
+  - Heart Rate: 88 bpm
+  - Respiratory Rate: 20 breaths/min
+  - Temperature: 98.6 °F
+  - Oxygen Saturation: 94% on room air
+
+- General Appearance:
+  The patient appears slightly anxious but is in no acute distress.
+
+- Cardiovascular:
+  Regular rate and rhythm with no murmurs, rubs, or gallops.
+
+- Respiratory:
+  Diffuse expiratory wheezes noted on auscultation, bilaterally. Prolonged expiratory phase. No use of accessory muscles observed.
+
+- Abdomen:
+  Soft, non-tender, and non-distended. Bowel sounds present in all quadrants.
+
+- Musculoskeletal:
+  No musculoskeletal deformities. Full range of motion in all extremities.
+
+- Neurological:
+  Alert and oriented. Cranial nerves II-XII intact. No focal deficits.
+
+- Skin:
+  No rashes or lesions. Normal color.
+
+**Assessment:**
+1. **Asthma, unspecified without mention of status asthmaticus**:
+   - The patient is experiencing an exacerbation likely triggered by environmental and infectious factors.
+   
+2. **Chronic rhinitis** and **Allergic rhinitis**:
+   - Contributing to upper respiratory irritation and possibly exacerbating asthma symptoms.
+   
+3. **Acute pharyngitis**:
+   - Recent infection possibly aggravating his asthma.
+
+**Plan:**
+1. **Asthma Management**:
+   - Continue Albuterol Sulfate 4mg as needed for acute symptoms. Educate the patient on the importance of adherence. Initiate Fluticasone inhaler 2 puffs twice daily for better control of symptoms.
+   - Provide a peak flow meter to monitor daily lung function and identify early signs of exacerbation.
+
+2. **Diagnostic Tests**:
+   - Order a chest X-ray to rule out other causes of the cough.
+   - Perform routine pulmonary function tests to assess the severity of asthma.
+   
+3. **Management of Rhinitis and Pharyngitis**:
+   - Prescribe a nasal corticosteroid spray for chronic rhinitis.
+   - Educate on avoidance of known allergens and proper nasal hygiene.
+
+4. **Follow-Up**:
+   - Schedule a follow-up appointment in 2 weeks to assess asthma control and adherence to the new inhaler regimen.
+   - Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.
+   - Emphasize that any new or worsening symptoms, such as hemoptysis, severe chest pain, or significant dyspnea, should prompt immediate medical attention.
+
+The patient has been educated on the new treatment plan, including medication use, peak flow monitoring, and allergen avoidance. Understanding confirmed.

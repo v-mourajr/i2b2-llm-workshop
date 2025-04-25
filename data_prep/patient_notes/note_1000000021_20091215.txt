@@ -1,0 +1,66 @@
+Visit Information:
+  - Patient Num: 1000000021
+  - Visit Date: 12/15/2009
+
+Subjective:
+This is a 35-year-old Black male who has been receiving care at our clinic for approximately 10 years. He speaks Spanish and presents today for a follow-up appointment to address his chronic asthma and recent respiratory symptoms. The patient reports that his asthma symptoms have increased over the past two weeks, with frequent wheezing, shortness of breath, and nocturnal coughing that disturb his sleep. He notes these symptoms are exacerbated by exposure to cold air and physical exertion. He admits to occasional non-adherence to his medication regimen but has not experienced any chest pain, fever, or hemoptysis. He uses his Albuterol inhaler more frequently due to heightened symptom severity.
+
+He has a past medical history of multiple asthma types, including episodes with and without status asthmaticus, allergic and chronic rhinitis, and episodes of acute pharyngitis. His history also includes abdominal pain, backache, and abnormal weight loss. He is currently on Albuterol Sulfate, Allegra-D, and Pulmicort Turbuhaler. The patient lives alone and works in a shipping warehouse, which might be contributing to his respiratory difficulties. He denies smoking but admits to occasional alcohol consumption on weekends. He has no known drug allergies.
+
+Objective:
+  - Vital Signs:
+    - Blood Pressure: 126/82 mmHg
+    - Heart Rate: 88 bpm
+    - Respiratory Rate: 20 breaths/min
+    - Temperature: 98.5 °F
+    - Oxygen Saturation: 95% on room air
+
+  - General Appearance:
+    The patient appears slightly anxious but in no acute distress. He is coughing intermittently.
+
+  - Cardiovascular:
+    Regular rate and rhythm, no murmurs, rubs, or gallops.
+
+  - Respiratory:
+    Bilateral expiratory wheezes with a prolonged expiratory phase. Mild use of accessory muscles during inspiration and expiration is noted.
+
+  - Abdomen:
+    Soft, non-tender, non-distended with normal bowel sounds.
+
+  - Musculoskeletal:
+    No joint deformities, swelling, or tenderness. Full range of motion was observed.
+
+  - Neurological:
+    Alert and oriented, cranial nerves II-XII intact, no focal deficits.
+
+  - Skin:
+    No rashes, lesions, or discoloration.
+
+Assessment:
+1. **Asthma, unspecified without mention of status asthmaticus**:
+    The patient's current presentation with increased wheezing, shortness of breath, and nocturnal coughing points to a likely asthma exacerbation. Potential contributing factors include poor medication adherence and environmental triggers at his workplace.
+
+2. **Chronic and Allergic rhinitis**:
+    Recurrent episodes of rhinitis may be exacerbating his asthma and contributing to his persistent respiratory symptoms.
+
+3. **Acute pharyngitis**:
+    This condition can exacerbate cough and upper respiratory symptoms, further complicating his asthma management.
+
+Plan:
+1. **Asthma Management**:
+    - Continue Albuterol Sulfate as needed for acute symptoms.
+    - Increase the dosage of Pulmicort Turbuhaler to 2 puffs twice daily to improve control of chronic symptoms.
+    - Educate the patient on the importance of adherence to the inhaled corticosteroid regimen.
+
+2. **Diagnostic Tests**:
+    - Order a chest X-ray to rule out other causes of persistent cough and shortness of breath.
+    - Perform routine pulmonary function tests to assess the current severity of asthma.
+
+3. **Management of Rhinitis and Pharyngitis**:
+    - Prescribe Fluticasone propionate nasal spray 2 sprays per nostril once daily to manage chronic and allergic rhinitis.
+    - Educate the patient on allergen avoidance, nasal hygiene, and the use of saline nasal rinses.
+
+Follow-Up:
+- Schedule a follow-up appointment in 2 weeks to reassess asthma control and adherence to the updated inhaler regimen.
+- Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate the need for further evaluation.
+- Provide detailed patient education on the importance of adhering to the prescribed treatment plan, including medication use, peak flow monitoring, and allergen avoidance strategies. The patient has confirmed understanding and acknowledgment of the treatment instructions.

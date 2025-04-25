@@ -1,0 +1,68 @@
+**Visit Information:**
+
+- Patient Num: 1000000131
+- Visit Date: 08/31/1998
+
+**Subjective:**
+
+This is an 11-year-old Asian male who speaks English. He presents today for a follow-up evaluation primarily for asthma management. The patient has a known history of asthma, both unspecified and extrinsic, without mention of status asthmaticus. Over the past few weeks, he reports experiencing increased wheezing and shortness of breath, especially during physical activities such as playing basketball, which occurs daily. He denies nocturnal symptoms or significant coughing at night. 
+
+His past medical history is notable for multiple respiratory conditions, including acute bronchitis and acute upper respiratory infections, as well as episodes of unspecified otitis media. The patient also has a history of hypertrophy of adenoids and unspecified paralysis of the vocal cords, both of which have been managed conservatively.
+
+Current medications include albuterol inhaler, which he uses as needed for asthma symptoms, and a daily maintenance inhalation corticosteroid. The patient and his family have been consistent with medication adherence. No significant side effects have been reported. 
+
+In terms of social history, the patient lives with his parents and is a grade school student. The family keeps the home environment smoke-free, and there are no pets that may act as asthma triggers. There are no known allergies reported.
+
+Symptom onset typically correlates with increased physical exertion or during exposure to allergens, which tend to be seasonal in their pattern. He notices symptom improvement with rest and the use of his albuterol inhaler.
+
+**Objective:**
+
+- Vital Signs: 
+  - Blood Pressure: 108/72 mmHg
+  - Heart Rate: 88 bpm
+  - Respiratory Rate: 20 breaths/min
+  - Temperature: 98.6°F
+  - Oxygen Saturation: 96% on room air
+
+- General Appearance: Patient appears well-developed and well-nourished. Alert and oriented to person, place, and time. No acute distress.
+
+- Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops.
+
+- Respiratory: Mild wheezing heard bi-basally, no crackles or rales. Symmetrical chest expansion. No use of accessory muscles. Normal percussion notes.
+
+- Abdomen: Soft, non-tender, no organomegaly or masses.
+
+- Musculoskeletal: Full range of motion, no joint swelling or deformities.
+
+- Neurological: CN II-XII intact, normal motor strength, sensation, reflexes, and coordination.
+
+- Skin: No rashes or lesions. Skin warm and dry.
+
+Recent laboratory findings including a complete blood count (CBC) revealed normal white blood cell count, with a slight increase in eosinophils. Thyroid panel results, including T4 and TSH, are within normal limits. Kidney function tests including urine creatinine and sodium are unremarkable. 
+
+**Assessment:**
+
+The primary diagnosis remains asthma (both unspecified and extrinsic types), currently stable with noted episodes of increased symptoms likely due to physical activity exacerbation. Secondary diagnosis includes a history of acute bronchitis and acute upper respiratory infections, currently asymptomatic but requiring ongoing monitoring.
+
+The patient's past history of chronic serous otitis media, hypertrophy of adenoids, and vocal cord issues remain stable with no current symptomatic concerns.
+
+**Plan:**
+
+1. Asthma Management:
+   - Continue with current medication regimen, including albuterol inhaler as a rescue medication and daily inhaled corticosteroid.
+   - Educate the patient and family on the importance of avoiding known triggers.
+   - Encourage the use of peak flow meter to monitor lung function, especially before and after activities.
+   - Schedule follow-up pulmonary function tests to evaluate the current asthma control.
+
+2. Seasonal Allergies:
+   - Begin a trial of a non-drowsy antihistamine given the seasonal pattern of symptoms.
+   - Monitor for any improvements and possible adjustments needed in allergy management.
+
+3. Supportive Care:
+   - Reinforce adherence to asthma action plan.
+   - Ensure influenza vaccination for the upcoming season.
+   - Continue follow-up visits to monitor and adjust treatment as necessary.
+
+Instruct patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. The family demonstrated understanding of the treatment plan and all instructions provided during this visit. 
+
+Next routine follow-up in 3 months, sooner if symptoms do not stabilize or new concerns arise.

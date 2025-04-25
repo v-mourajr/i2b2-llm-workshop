@@ -1,0 +1,34 @@
+**Visit Information:**
+- Patient Number: 1000000127
+- Visit Date: 07/24/2007
+
+**Subjective:**
+This is a 19-year-old Indian male who has been receiving care at our clinic since April 14, 1997. He speaks German and is here today for a follow-up appointment relating to persistent asthma symptoms. The patient reports ongoing episodes of coughing, wheezing, and shortness of breath, particularly at night, which have not been adequately controlled by his current therapy. He is currently using an albuterol inhaler as needed for acute symptoms and a leukotriene receptor antagonist daily for maintenance.
+
+Despite his adherence to the prescribed regimen and no significant changes in his environment, he continues to experience significant symptoms and some decrease in his ability to exercise. Additionally, he feels more fatigued than usual. There are no new known exposures or triggers, and his family is concerned about the effectiveness of his current management plan and seeks additional intervention.
+
+**Objective:**
+On physical examination, the patient’s vital signs were recorded as follows: blood pressure of 116/72 mmHg, heart rate 88 bpm, respiratory rate 20 breaths per minute, temperature 98.8°F, and oxygen saturation 97% on room air. The patient appeared alert but exhibited moderate respiratory distress with prominent audible wheezing noted.
+
+The cardiovascular examination was normal with a regular rate and rhythm and no murmurs. The respiratory examination revealed decreased breath sounds bilaterally, with noticeable expiratory wheezes on auscultation, although no accessory muscle use or cyanosis was observed. Abdominal examination was unremarkable, with a soft, non-tender abdomen and normal bowel sounds. Musculoskeletal assessment indicated normal range of motion without deformities. Neurological examination showed intact cranial nerves, normal reflexes, and no focal deficits. Skin examination was clear without rashes or lesions.
+
+**Assessment:**
+- **Primary Diagnosis:**
+  - Asthma, unspecified without mention of status asthmaticus: The persistence of nocturnal symptoms, decreased exercise tolerance, and prominent wheezing signal an ongoing need for a robust management plan reassessment.
+
+- **Secondary Diagnoses:**
+  - Allergic rhinitis: Repeated nasal symptoms that likely exacerbate asthma.
+  - Unspecified gingival and periodontal disease: Previously noted but not the focus of today’s visit.
+
+**Plan:**
+- **Asthma Management:**
+  - Update the asthma action plan to enhance nocturnal control.
+  - Add a low-dose inhaled corticosteroid to the current regimen.
+  - Educate on the regular use of a peak flow meter for home monitoring.
+  - Schedule follow-up in 4 to 6 weeks to review the impact of new treatments.
+
+- **Allergic Rhinitis:**
+  - Introduce a daily non-sedating antihistamine to manage allergen-induced asthma triggers.
+
+**Follow-Up Instructions:**
+The patient and his family are informed to contact the clinic if symptoms do not improve within a week, worsen, or any issues arise with the new treatment plan. The next follow-up appointment is scheduled for one month to reassess asthma control and overall medication efficacy, ensuring the patient’s understanding and compliance with the management plan.

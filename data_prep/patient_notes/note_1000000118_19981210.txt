@@ -1,0 +1,71 @@
+Visit Information:
+    - Patient Num: 1000000118
+    - Visit Date: December 10, 1998
+
+Subjective:
+    - Chief Complaints & History of Present Illness:
+        This is a 24-year-old Black male who has been receiving care at our clinic for approximately 1.5 years, presenting today for follow-up. He reports experiencing episodes of shortness of breath and a persistent cough over the past two weeks, which he attributes to his asthma. He mentions that these episodes are more frequent at night and in the early morning. He has also noticed an increase in the amount of mucus produced and some wheezing. 
+
+    - Past Medical & Surgical History:
+        The patient has a history of asthma, unspecified, without mention of status asthmaticus. He has also had multiple issues with open wounds, particularly involving the ears, leading to acquired deformities and subsequent surgical interventions, including graft attachment and plastic repair. 
+
+    - Medications & Supplements:
+        The patient is currently on albuterol, using his inhaler as needed for asthma symptoms. He reports good compliance but states that the inhaler usage has increased recently due to his symptoms. He is not taking any vitamin supplements or alternative medications.
+
+    - Social History:
+        The patient is a native Spanish speaker and prefers communicating in Spanish. He is currently unemployed and lives with his family. He mentions a history of being assaulted, which has resulted in some of his past injuries.
+
+    - Allergies:
+        No known drug allergies have been reported by the patient.
+
+    - Symptom Details:
+        The patient describes his cough as being productive with yellowish mucus that has been present for approximately two weeks. Shortness of breath is described as worse when lying down and during nighttime. He experiences mild to moderate chest tightness, without significant improvement from using his inhaler.
+
+    - Additional Narrative:
+        Upon inquiry, the patient acknowledges not using a peak flow meter regularly. He has found some relief with steam inhalation and warm fluids. There have been no new injuries or significant changes in his condition related to past reconstructive surgeries.
+
+Objective:
+    - Vital Signs:
+        - Blood Pressure: 120/80 mmHg
+        - Heart Rate: 84 beats per minute
+        - Respiratory Rate: 22 breaths per minute
+        - Temperature: 98.6 °F
+        - Oxygen Saturation: 97% on room air
+
+    - General Appearance:
+        The patient appears alert and oriented, with a slightly anxious demeanor but in no acute distress.
+
+    - Cardiovascular:
+        Heart sounds normal with no murmurs, rubs, or gallops noted.
+
+    - Respiratory:
+        Breath sounds are decreased with expiratory wheezes noted bilaterally. There are prolonged expirations and a mild increase in respiratory effort. No rales or rhonchi were heard.
+
+    - Abdomen:
+        Non-tender, non-distended, with normal bowel sounds.
+
+    - Musculoskeletal:
+        No significant deformities aside from surgical sites on the ears. No edema or joint abnormalities.
+
+    - Neurological:
+        Grossly intact. No focal deficits noted.
+
+    - Skin:
+        Healed surgical scars on ears, no signs of infection or active wound. Skin otherwise normal in appearance.
+
+Assessment:
+    - Diagnosis or Clinical Impression:
+        The patient is presenting with symptoms suggesting an asthma exacerbation.
+    - Asthma:
+        Assessment: Likely diagnosis is asthma exacerbation.
+        Diagnostic Tests: Peak flow monitoring and spirometry may be considered.
+        Treatment Plan: Increase the use of albuterol inhaler to 4 times daily and add inhaled corticosteroids, continue with steam inhalation, and monitor symptoms closely. Referral to a pulmonologist if symptoms persist.
+    - Chronic Ear Issues:
+        Assessment: Past medical history includes multiple surgical repairs for ear deformities.
+        Diagnostic Tests: No additional testing required currently as there are no new symptoms.
+        Treatment Plan: Continue monitoring for recurrent symptoms or complications, educate on signs of infection, and encourage follow-up if issues arise.
+
+Follow-Up:
+    - Instructions for emergent follow-up care or monitoring: Instruct patient to contact the clinic if symptoms worsen or do not improve within a week, or if new symptoms develop. 
+    - Follow-Up for persistent, changing, or worsening symptoms: Reassess asthma symptoms in 2 weeks, adjust medications as necessary.
+    - Patient Education & Understanding of the Plan: The patient was educated on the importance of adherence to the treatment plan and using a peak flow meter. He acknowledges understanding and is willing to follow the prescribed interventions.

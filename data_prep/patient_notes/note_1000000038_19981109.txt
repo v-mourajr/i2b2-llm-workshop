@@ -1,0 +1,68 @@
+Visit Information:
+    - Patient Num: 1000000038
+    - Visit Date: 11/09/1998
+
+This is a 20-year-old Asian male who has been receiving care at our clinic since September 15, 1997. He speaks English and presents today for a follow-up visit. He has been previously diagnosed with asthma and has had recurrent issues with injuries and conditions related to his lower extremities.
+
+Subjective:
+The patient presents today with complaints of shortness of breath, which he attributes to recent asthma exacerbations. He reports that his symptoms have become more frequent and severe, particularly at night and upon exertion. He uses an Albuterol inhaler as needed, which provides temporary relief, but he finds it increasingly less effective over the past month. He also describes occasional wheezing and a persistent, dry cough.
+
+Regarding his past medical history, the patient has been previously diagnosed with asthma, unspecified, without mention of status asthmaticus. He has also experienced an effusion of the ankle and foot joint, as well as other and unspecified injuries to the knee, leg, ankle, and foot. He had an unspecified fracture of the ankle and an ankle sprain, both of which were treated without surgical intervention.
+
+Current medications include Albuterol Sulfate 4mg tablets for asthma management and Desquam-X 10% gel for skin treatment. He reports using the Albuterol more frequently due to his asthma symptoms, with four uses daily on average over the past week. He denies any adverse reactions to these medications.
+
+Social history reveals that the patient is a college student, living in a dormitory. He does not smoke, drink alcohol, or use recreational drugs. There are no known allergies.
+
+The patient's symptoms began approximately one month ago, worsening at night and with physical activity. The inhaler provides short-term relief, but symptoms return within a few hours. He has tried to limit outdoor activities to avoid allergens, but without significant improvement.
+
+Objective:
+Vital Signs:
+    - Blood Pressure: 120/80 mmHg
+    - Heart Rate: 82 bpm
+    - Respiratory Rate: 20 breaths per minute
+    - Temperature: 98.6°F
+    - Oxygen Saturation: 95% on room air
+
+General Appearance: The patient appears alert, oriented, and in no acute distress. He is slightly anxious, likely due to his breathing difficulties.
+
+Cardiovascular: Normal S1 and S2, no murmurs, rubs, or gallops. Peripheral pulses are strong and equal bilaterally.
+
+Respiratory: Diminished breath sounds bilaterally with expiratory wheezing heard in all lung fields. No rales or crackles noted. The patient exhibits mild use of accessory muscles while breathing.
+
+Abdomen: Soft, non-tender, non-distended. Bowel sounds are present and normoactive across all quadrants.
+
+Musculoskeletal: Full range of motion in all joints without evident swelling or deformity. No tenderness on palpation of the knees, ankles, or feet.
+
+Neurological: The patient is alert and oriented to person, place, and time. Cranial nerves II-XII are intact. Motor and sensory functions are normal.
+
+Skin: Erythematous acne lesions on the face, consistent with a known history of acne vulgaris. No signs of infection or significant inflammation.
+
+Assessment:
+The patient presents with an exacerbation of asthma, likely triggered by environmental factors or inadequate management of current therapy. This exacerbation is evidenced by increased frequency and severity of symptoms, and decreased effectiveness of the Albuterol inhaler.
+
+He continues to manage symptoms related to past injuries to his lower extremities, including the knee and ankle. There are no current signs of injury or acute issue with these areas today.
+
+Plan:
+1. Asthma Management:
+    - Increase Albuterol inhaler usage to 2 puffs every 4 hours as needed for acute symptoms.
+    - Start a low-dose inhaled corticosteroid (e.g., Fluticasone) daily to reduce chronic inflammation and prevent exacerbations. 
+    - Educate the patient on proper inhaler technique and the importance of adherence to the new regimen.
+    - Schedule a follow-up appointment in 4 weeks to assess control and reassess the treatment plan.
+    - Review the possibility of allergen testing and referral to an allergist for further management.
+
+2. Lower Extremity Issues:
+    - Continue with current non-pharmacological management, including rest, elevation, and proper footwear.
+    - Patient is advised to return if any new symptoms or worsening of ankle pain or swelling occur.
+
+3. General Health:
+    - Encourage the patient to maintain an active and healthy lifestyle, with attention to avoiding known asthma triggers.
+    - Patient education on monitoring for signs of condition worsening and when to seek urgent care.
+
+Instruct patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.
+
+Follow-Up:
+Instruct the patient to monitor symptoms closely and contact the clinic if there is no improvement or deterioration in condition. A follow-up appointment has been scheduled for 4 weeks to reassess asthma control and overall health. 
+
+Patient education provided on the management plan, and patient verbalizes understanding and agreement with the proposed care strategy. Education materials provided on asthma management and inhaler use.
+
+The patient left the clinic in stable condition, with no immediate distress.

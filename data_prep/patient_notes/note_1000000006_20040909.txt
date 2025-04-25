@@ -1,0 +1,45 @@
+This is a 30-year-old Black female, a native Spanish speaker, who has been receiving care at our clinic for the past several years. She presents today, 09/09/2004, for a follow-up visit due to ongoing issues with asthma management. She is currently experiencing asthma symptoms including wheezing, dyspnea, and chest tightness, which are exacerbated by exposure to allergens and physical activity and predominantly occur at night. Despite adhering to her prescribed regimen, including albuterol as needed and a daily inhaled corticosteroid, she reports occasional nocturnal asthma attacks. 
+
+Her medical history is significant for both extrinsic and unspecified asthma, acute pharyngitis, acute suppurative otitis media, conjunctivitis, cellulitis, and a range of allergic reactions. She reports past and present use of medications including albuterol, inhaled corticosteroids, and antihistamines, with overall good adherence though she struggles with nighttime symptoms.
+
+Her social history is notable for being a university student, living with her parents. She reports a good family support system and denies past or present use of tobacco, alcohol, or illicit substances. She is not sexually active presently and has no known drug allergies or significant surgical history.
+
+**Subjective:**
+- Chief Complaint: Persisting asthma symptoms and nighttime exacerbations, frequent episodes of acute pharyngitis.
+- Symptoms: Wheezing, difficulty breathing, chest tightness, triggered by allergens and exercise, predominantly at night.
+- Medication Adherence: Good, but nighttime symptoms persist.
+
+**Objective:**
+- Vital Signs:
+  - Blood Pressure: 120/78 mmHg
+  - Heart Rate: 75 bpm
+  - Respiratory Rate: 18 breaths per minute
+  - Temperature: 37.0°C (98.6°F)
+  - Oxygen Saturation: 97% on room air
+
+Upon physical examination, the patient appears well-nourished and in no acute distress. The cardiovascular exam reveals a regular heart rate and rhythm with no murmurs, rubs, or gallops. The respiratory exam shows no wheezes or crackles at rest, although mild expiratory wheezes are noted on forced expiration. The abdominal exam reveals no tenderness or organomegaly. The musculoskeletal exam shows full range of motion without swelling or tenderness. Neurologically, she is alert and oriented, with intact cranial nerves. The skin exam is unremarkable, with no rashes or signs of infection observed.
+
+**Assessment:**
+The patient has asthma, both unspecified and extrinsic types, with exacerbations primarily occurring nocturnally. Her condition is complicated by a history of recurrent pharyngitis and episodes of acute suppurative otitis media and recurrent allergic reactions.
+
+1. **Asthma Management:**
+   - Ongoing control of asthma with prescribed inhalers and antihistamines.
+   - No acute exacerbation but requires close monitoring due to nocturnal symptoms.
+
+2. **Acute Pharyngitis:**
+   - Recurrent episodes suggest a need for further evaluation and potential antibiotic therapy.
+
+3. **Allergy and Otitis Media Management:**
+   - Persistent allergic reactions and history of ear infections which need specialist consultation.
+
+**Plan:**
+1. Continue current asthma management regimen including albuterol PRN and daily inhaled corticosteroid.
+2. Educate the patient on allergen avoidance strategies and the importance of medication adherence.
+3. Initiate a short course of oral antibiotics for acute pharyngitis.
+4. Prescribe loratadine to manage ongoing allergy symptoms.
+5. Refer to an ENT specialist to assess and manage recurrent otitis media.
+6. Encourage lifestyle adjustments such as adequate hydration, balanced nutrition, and regular exercise.
+7. Schedule routine lung function tests (spirometry) to monitor asthma control and adjust treatment as needed.
+
+**Follow-Up:**
+The patient is advised to contact the clinic if symptoms worsen or do not improve within a week. A follow-up appointment is scheduled for four weeks to reassess her condition and adjust her treatment plan as necessary. Patient education was provided on medication use, asthma action plan adherence, and allergen avoidance, and the patient demonstrated understanding and agreed to the follow-up plan.

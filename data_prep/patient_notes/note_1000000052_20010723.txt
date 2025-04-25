@@ -1,0 +1,106 @@
+Visit Information:
+- Patient Num: 1000000052
+- Visit Date: 07/23/2001
+
+This is a 30-year-old Asian male who has been a patient at our clinic for approximately 3 months. He is a Spanish speaker and presents today for follow-up on injuries related to a recent traumatic amputation of his fingers. He has been followed up diligently since the accident, which necessitated surgical intervention.
+
+Subjective:
+Chief Complaints & History of Present Illness:
+The patient reports persistent pain and occasional numbness in his remaining fingers following a recent amputation procedure. He describes the pain as a "sharp, throbbing" sensation that intermittently follows physical activity or strain. The injury was sustained in an accident involving specified machinery approximately a month ago, leading to an amputation of his right index and middle fingers. He states that the last few weeks have involved significant physical and emotional adjustment to the loss of his fingers.
+
+Past Medical & Surgical History:
+The recent traumatic amputation of the right index and middle fingers required a disarticulation surgery. There is also a history of minor injuries associated with this machinery accident but no previous surgeries of note.
+
+Medications & Supplements:
+The patient is currently prescribed an analgesic (Acetaminophen) for pain management, which has provided moderate relief. He is also on antibiotics (Amoxicillin) to prevent infection post-surgery. He reports taking a daily multivitamin supplement but denies any use of herbal supplements.
+
+Social History:
+The patient resides with his family and is employed as a machinist, which led to the recent injury. He denies tobacco or alcohol use and emphasizes a diet high in fruits and vegetables. Physical activity has been limited due to his recent surgery and ongoing recovery.
+
+Allergies:
+The patient reports no known drug allergies.
+
+Symptom Details:
+Pain onset is usually post-activity and peaks at night, occasionally disturbing his sleep. The numbness, though not constant, tends to occur in colder temperatures or when placing strain on his hand.
+
+Additional Narrative:
+Non-pharmacological interventions include the use of a custom-made hand brace and physical therapy aimed at improving function and strength in his remaining fingers. The patient has attended therapy sessions twice a week and reports some improvement in dexterity and strength. No side effects from his medications have been reported. He states fluctuations in symptom intensity but has adhered to all prescribed treatments and modifications.
+
+Objective:
+Vital Signs:
+- Blood Pressure: 122/78 mmHg
+- Heart Rate: 72 bpm
+- Respiratory Rate: 16 breaths per minute
+- Temperature: 98.6°F
+- Oxygen Saturation: 98% on room air
+
+General Appearance:
+The patient appears well-groomed and alert. He is wearing a hand brace and moves with caution but without acute distress.
+
+Cardiovascular:
+Heart sounds are regular, with no murmurs or abnormal rhythms detected. Peripheral pulses are strong and symmetrical.
+
+Respiratory:
+Breath sounds are clear bilaterally, with no wheezes, rales, or rhonchi. The patient has a regular respiratory rate and rhythm.
+
+Abdomen:
+The abdomen is soft, non-tender, with normoactive bowel sounds. No masses or organomegaly are noted.
+
+Musculoskeletal:
+Examination of the right hand reveals well-healed surgical scars over the areas of amputation. There is no sign of infection or discharge. Remaining fingers exhibit intact capillary refill and moderate range of motion with some pain on extreme movements. The strength is reduced in the affected hand but improving.
+
+Neurological:
+No focal deficits noted. The patient is oriented to time, place, and person. Cranial nerves II-XII are intact. Sensation in the remaining fingers of the right hand is diminished compared to the left hand.
+
+Skin:
+Skin across the body appears intact, with no rashes or lesions. The surgical site shows proper healing.
+
+Assessment:
+Diagnosis or Clinical Impression:
+The patient's primary diagnoses include traumatic amputation of right index and middle fingers, ongoing post-surgical recovery, and secondary pain and numbness.
+
+Issue/Problem/Request 1:
+Assessment:
+- Likely diagnosis: Post-traumatic pain and numbness
+- Differential diagnosis: Neuropathy, surgical site infection
+
+Diagnostic Tests:
+- Planned investigations: Nerve conduction studies, follow-up X-rays of the hand to evaluate bone healing
+
+Treatment Plan:
+- Continue current analgesic regimen, consider a switch to a longer-acting pain medication if symptoms persist.
+- Regular physical therapy to enhance hand function. 
+
+Issue/Problem/Request 2:
+Assessment:
+- Likely diagnosis: Psychological adjustment issues post-amputation
+- Differential diagnosis: Depression, anxiety
+
+Diagnostic Tests:
+- Screening for depression and anxiety
+
+Treatment Plan:
+- Referral to a mental health professional for counseling.
+- Consider short-term anxiolytic medication if needed.
+
+Issue/Problem/Request 3:
+Assessment:
+- Likely diagnosis: Risk of infection at the surgical site
+- Differential diagnosis: None currently, preventive assessment
+
+Diagnostic Tests:
+- No immediate tests planned
+
+Treatment Plan:
+- Continue course of antibiotics until completion.
+- Regular wound care and hygiene reinforcement.
+
+Follow-Up:
+Instructions for emergent follow-up care or monitoring:
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.
+
+Follow-Up for persistent, changing, or worsening symptoms:
+Patient is to return for a follow-up visit in two weeks to reassess pain management and the progress with physical therapy, and at the same time address any psychological concerns that may arise.
+
+Patient Education & Understanding of the Plan:
+Patient was educated on the importance of adhering to pain management strategies, physical therapy, hygiene for the surgical site, and the potential benefits of mental health support. The patient verbalized understanding and agreed with the proposed plan.

@@ -1,0 +1,66 @@
+Visit Information:
+    - Patient Num: 1000000099
+    - Visit Date: July 30, 2001
+
+Subjective:
+This is a 28-year-old Black male who has been receiving care at our clinic. He speaks German and presents today for a follow-up visit. The patient's primary complaint is persistent wheezing and cough that has not improved despite recent medication adjustments for his asthma. He reports experiencing shortness of breath, particularly at night, interrupting his sleep. He states that these symptoms are similar to past asthma exacerbations. 
+
+The patient has been without any significant change in his medical or surgical history since his last visit. He continues to use his prescribed inhaled corticosteroids and short-acting beta agonists when required. He denies any hospitalizations or emergency room visits for asthma exacerbations in the recent past, however, his symptoms are aggravated by exposure to dust and cold air.
+
+The patient is not using any additional supplements or non-prescription remedies. He has no known allergies to medications, foods, or environmental factors. He works in a sedentary occupation and does not engage in regular physical exercise, which may contribute to his ongoing respiratory symptoms. There is no history of smoking, and he consumes alcohol occasionally.
+
+Objective:
+Vital Signs:
+    - Blood Pressure: 120/80 mmHg
+    - Heart Rate: 78 beats per minute
+    - Respiratory Rate: 20 breaths per minute
+    - Temperature: 98.6°F
+    - Oxygen Saturation: 96% on room air
+
+General Appearance:
+The patient appears alert, oriented, comfortably seated, and in no apparent distress.
+
+Cardiovascular:
+Heart sounds are normal with no murmurs, gallops, or rubs. Peripheral pulses are intact and symmetric.
+
+Respiratory:
+There is mild wheezing heard on auscultation bilaterally with prolonged expiratory phase. No rales or rhonchi are noted. The respiratory effort is slightly increased, with mild use of accessory muscles during deep inspiration.
+
+Abdomen:
+The abdomen is non-tender, with normal bowel sounds in all four quadrants. No hepatosplenomegaly or masses are palpated.
+
+Musculoskeletal:
+There is no joint swelling or tenderness. Motor strength is 5/5 in all extremities.
+
+Neurological:
+The patient is alert and oriented, with normal cranial nerve function. Reflexes are 2+ throughout, and sensation is intact.
+
+Skin:
+The skin is warm, dry, and without rashes or lesions noted.
+
+Laboratory Results:
+Recent lab results, including Hematocrit, Hemoglobin, Lymphocytes, Mean Corpuscular Hemoglobin, Mean Corpuscular Hemoglobin Concentration, Mean Corpuscular Volume, Monocytes, Neutrophils, Red Blood Cells, and White Blood Cells, are within normal ranges.
+
+Assessment:
+The clinical impression is of a 28-year-old male with a history of asthma, currently experiencing suboptimal control of his symptoms. These symptoms are likely exacerbated by environmental factors such as dust and cold air. 
+
+Plan:
+1. Asthma Management:
+    Assessment:
+        - The primary diagnosis remains asthma.
+        - Differential diagnoses include chronic obstructive pulmonary disease (COPD), allergic bronchitis, and reactive airway disease.
+    Diagnostic Tests:
+        - Perform pulmonary function testing (spirometry) to assess the severity of asthma and to help tailor therapy.
+    Treatment Plan:
+        - Continue with inhaled corticosteroids at the current low-dose maintenance level.
+        - Add a leukotriene receptor antagonist to improve symptom control.
+        - Educate the patient on proper inhaler technique and the importance of adherence to the treatment regimen.
+        - Consider referral to an asthma specialist if symptoms do not show significant improvement.
+2. Follow-Up:
+    - Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week. Follow-up visit planned in 4 weeks to reassess symptom control and review lab and pulmonary function results.
+3. Patient Education:
+    - Discuss the importance of avoiding known asthma triggers such as dust and cold air.
+    - Encourage the patient to engage in regular moderate physical activity as tolerated.
+    - Ensure the patient understands the action plan for managing asthma exacerbations.
+
+In conclusion, the patient will continue his current asthma medications with the addition of a leukotriene receptor antagonist. Pulmonary function testing will be performed to further assess his condition. A follow-up visit is scheduled in four weeks to evaluate the efficacy of the adjusted management plan and further adjust therapeutic interventions if needed.

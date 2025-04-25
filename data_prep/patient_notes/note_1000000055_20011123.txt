@@ -1,0 +1,59 @@
+Visit Information:
+- Patient Num: 1000000055
+- Visit Date: November 23, 2001
+
+Subjective:
+This is an 11-year-old Hispanic female presenting for a follow-up visit to manage her asthma. She has been under our care for three years, with a recorded history of unspecified asthma that has resulted in multiple visits. Her asthma is typically well-controlled with medication, but her mother reports a recent increase in symptom frequency. Over the past month, she has experienced a notable rise in nocturnal coughing and shortness of breath, particularly during physical activities at school.
+
+The patient's past medical history includes various respiratory abnormalities and multiple episodes of abdominal pain and fever. She has also been treated for cystitis, tonsillitis, and allergic rhinitis. There is no significant surgical history.
+
+Currently, she is on inhaled albuterol as needed for asthma, and she takes a daily low-dose inhaled corticosteroid. There have been no recent changes to her medication regimen. The patient lives with her mother in a pet-free and smoke-free home environment. She is in elementary school and engages in moderate physical activities. There are no known drug allergies.
+
+The cough started around a month ago and has been persistent, worsening at night. Shortness of breath occurs with moderate physical exertion and is relieved by rest and use of her rescue inhaler. The mother notes an exacerbation in symptoms with seasonal changes but reports no significant side effects from the medications.
+
+Objective:
+Vital Signs:
+- Blood Pressure: 104/66 mmHg
+- Heart Rate: 88 bpm
+- Respiratory Rate: 22 breaths per minute
+- Temperature: 98.6°F
+- Oxygen Saturation: 97% on room air
+
+General Appearance: 
+The patient is well-nourished, in no acute distress, but exhibits an intermittent non-productive cough.
+
+Cardiovascular:
+Normal heart sounds with no murmurs, gallops, or rubs detected.
+
+Respiratory:
+The patient exhibits mildly increased respiratory effort, with expiratory wheezes auscultated bilaterally, more prominent in the lower lung fields. No use of accessory muscles noted.
+
+Abdomen:
+Soft, non-tender, with normal bowel sounds.
+
+Musculoskeletal:
+Normal range of motion with no joint swelling or tenderness.
+
+Neurological:
+Alert and oriented with no focal neurologic deficits.
+
+Skin:
+Warm, dry, with no rashes or lesions.
+
+Assessment:
+The patient has a documented history of asthma, currently symptomatic with increased nocturnal coughing and activity-related dyspnea.
+1. Asthma exacerbation:
+   - Primary diagnosis likely asthma exacerbation.
+   - Differential diagnoses include respiratory infection or other obstructive lung diseases.
+   - Plan: Increase the dosage of inhaled corticosteroids and continue albuterol as needed. Educate mother on an asthma action plan. Plan for spirometry to assess lung function and peak flow measurements. Consider allergy testing if symptoms persist. Referral to a pediatric pulmonologist if no improvement.
+2. Nocturnal cough:
+   - Likely diagnosis: Nocturnal cough possibly due to asthma.
+   - Differential diagnoses: Gastroesophageal reflux or postnasal drip.
+   - Plan: Trial of nighttime antihistamine if necessary and reinforcing asthma management measures.
+3. Activity-related dyspnea:
+   - Likely diagnosis: Shortness of breath likely due to exercise-induced bronchospasm.
+   - Differential diagnosis: General dyspnea associated with physical exertion.
+   - Plan: Pre-exercise use of albuterol. Monitoring of oxygen saturation during physical activities. Adjust activities to be asthma-friendly and avoid identified triggers.
+
+Follow-Up:
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. Schedule a follow-up appointment in one month or sooner if symptoms exacerbate. The mother and patient were educated about asthma triggers and the importance of medication adherence. They confirmed understanding and the necessity of follow-up care.

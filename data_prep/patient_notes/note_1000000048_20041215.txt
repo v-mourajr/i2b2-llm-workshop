@@ -1,0 +1,40 @@
+**Visit Information:**
+
+- **Patient Num:** 1000000048
+- **Visit Date:** Dec 15, 2004
+
+**Subjective:**
+
+This is a 9-year-old Hispanic female who has been receiving care at our clinic for approximately 5 years. She speaks Spanish and presents today for follow-up care. The patient’s primary caregiver reports that she has been experiencing fever and a persistent cough for the past few days. Additionally, the patient seems more irritable than usual, which is causing concern. The patient has a history of acute pharyngitis, esophageal reflux, diaper rash, and upper respiratory infections. Her current medications include over-the-counter acetaminophen for fever, which has been partially effective, and omeprazole for esophageal reflux, which she has been on for several months with good effect. 
+
+The patient lives in a single-parent household with her mother, who is her primary caregiver. The mother reports that the patient attends school regularly but has had more absences recently due to recurrent illnesses. There are no known herbal supplements being used. There are no reported allergies.
+
+The patient’s symptoms include an intermittent fever that peaks in the evening at 38.5°C (101.3°F) and a cough that worsens at night, causing occasional night sweats. The cough is non-productive and has been persistent for the last 5 days. The patient’s oral intake has decreased due to throat discomfort, and she has shown a reduced appetite over the last few days. The severity of the symptoms has been moderate, with some relief from fever following acetaminophen administration.
+
+**Objective:**
+
+Vital signs from today’s visit show a blood pressure of 100/60 mmHg, a heart rate of 105 bpm, a respiratory rate of 22 breaths per minute, a temperature of 38.5°C (101.3°F), and an oxygen saturation of 98%.
+
+Upon examination, the patient appears tired, flushed, and slightly irritable, but alert and responsive. Cardiovascular assessment reveals normal heart sounds without murmurs, rubs, or gallops. On respiratory examination, there are clear breath sounds bilaterally with no wheezes, rhonchi, or crackles. The abdomen is soft and non-tender with no organomegaly or palpable masses. The musculoskeletal examination shows normal muscle tone and a full range of motion without joint swelling or tenderness. Neurologically, the patient is alert and oriented, with normal reflexes and no focal deficits noted. The skin examination shows mild diaper rash, which the caregiver reports is a chronic issue but appears to be in a stable condition currently.
+
+Recent laboratory results reveal a slightly elevated white blood cell count, suggestive of a recent or ongoing infection. Urinalysis from the last visit indicated mild bacteriuria, which has resolved according to clinical symptoms and normal follow-up urinalysis findings.
+
+**Assessment:**
+
+The primary diagnosis is an acute febrile illness, likely of viral etiology, given the patient’s symptoms and recent history of upper respiratory infections. Secondary issues include mild dehydration secondary to reduced oral intake due to discomfort from pharyngitis, and esophageal reflux which appears to be well controlled with current medication.
+
+**Plan:**
+
+1. **Symptomatic Management:** Continue administering over-the-counter acetaminophen for fever management, ensuring proper dosing intervals. Recommend non-pharmacological interventions such as tepid sponging and use of a humidifier to alleviate the cough and throat discomfort.
+
+2. **Hydration and Nutrition:** Encouraging increased fluid intake to address mild dehydration and maintain adequate hydration. Ensure the patient drinks small, frequent sips of water and oral rehydration solutions if necessary.
+
+3. **Nutritional Monitoring:** Monitor the patient’s oral intake and weight. If reduced appetite persists, advise the caregiver to offer soft, palatable foods and consider nutritional supplementation.
+
+4. **Follow-Up Laboratory Tests:** If the fever persists beyond 48 hours or new symptoms arise, plan for a complete blood count (CBC) and repeat urinalysis to rule out bacterial infection or other underlying conditions.
+
+5. **Caregiver Education:** Educate the caregiver on monitoring for signs of worsening conditions, including higher fever, increased lethargy, or persistent irritability. Provide guidance on the importance of hydration and supportive care measures during the illness.
+
+6. **Follow-Up Appointment:** Schedule a follow-up visit in one week to reassess the patient’s condition and evaluate the effectiveness of the current management plan. Adjust treatment as necessary based on clinical findings.
+
+Instruct the patient’s caregiver to contact the clinic if symptoms worsen or do not improve within a week or if any worrisome signs develop. Emphasize the need for vigilance in monitoring fluid intake and overall comfort measures.

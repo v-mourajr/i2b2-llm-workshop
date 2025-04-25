@@ -1,0 +1,60 @@
+**Visit Information:**
+
+- **Patient Num:** 1000000106
+- **Visit Date:** December 28, 2001
+
+**Subjective:**
+
+This is a 21-year-old Indian male who speaks Spanish and has been receiving care at our clinic for asthma for the past few years. The primary purpose of today’s visit is following up for asthma management and additional concerns. The patient reports recurrent episodes of wheezing and shortness of breath, which predominantly occur during nighttime. He expresses concern about the frequency of these episodes, although they are somewhat alleviated by using his rescue inhaler. Additionally, he notes intermittent chest tightness and a persistent need to clear his throat. 
+
+In his past medical history, he has notable diagnoses such as unspecified asthma, acute pharyngitis, brachial plexus lesions, cervicalgia, and closed fracture of the fibula and tibia, among others. He has no significant surgical history aside from orthopedic procedures related to a past fracture. The patient currently uses an albuterol inhaler, which he admits needing more frequently than prescribed. He denies the use of herbal supplements.
+
+He is a college student, lives with his parents, and denies smoking or alcohol use. He does not partake in intense physical activities. Allergies were not disclosed. He reports his symptoms are aggravated by cold weather and strenuous physical activity but finds relief when resting or using his rescue inhaler. 
+
+**Objective:**
+
+- **Vital Signs:**
+  - Blood Pressure: 115/75 mmHg
+  - Heart Rate: 80 bpm
+  - Respiratory Rate: 18 breaths per minute
+  - Temperature: 98.6°F (37°C)
+  - Oxygen Saturation: 98% on room air
+
+- **General Appearance:** The patient is alert, well-nourished, and in no acute distress.
+
+- **Cardiovascular:** Normal heart sounds with a regular rate and rhythm. No murmurs, rubs, or gallops.
+
+- **Respiratory:** Mild wheezing on forced expiration, with clear lungs upon auscultation otherwise. No rhonchi or crackles were noted. The patient exhibits minimal accessory muscle use during breathing.
+
+- **Abdomen:** Non-distended, with normoactive bowel sounds. No tenderness on palpation.
+
+- **Musculoskeletal:** Full range of motion without joint swelling or tenderness.
+
+- **Neurological:** Alert and oriented to person, place, and time. Cranial nerves II-XII intact. Motor strength is 5/5 bilaterally in all extremities.
+
+- **Skin:** Intact without rashes, lesions, or cyanosis.
+
+- **Lab Findings:** Previous lab results, including hematocrit, hemoglobin, white and red blood cells, and platelets, were mostly within normal ranges. There were indications of anisocytosis and polychromasia, suggesting slight variability in red blood cell size and shape. Coagulation profiles (PT and PTT) were normal.
+
+**Assessment:**
+
+The patient's clinical presentation is consistent with chronic asthma, specifically unspecified without mention of status asthmaticus. Given the frequency of his symptoms and the described inadequate symptom control despite regular albuterol use, the current regimen appears to require adjustment. The mild wheezing noted on forced expiration during the physical exam and the need for rescue medication point to a necessity for long-term asthma control therapy.
+
+**Plan:**
+
+1. Continue the use of the albuterol inhaler but stress the importance of avoiding overuse which could lead to tolerance.
+2. Initiate treatment with a low-dose inhaled corticosteroid to help manage night-time symptoms and reduce reliance on the rescue inhaler.
+3. Schedule a comprehensive pulmonary function test (spirometry) to evaluate the severity of the asthma and better guide future treatment.
+4. Educate the patient on identifying and avoiding asthma triggers such as cold air exposure and intense physical exertion.
+5. Refer to an asthma educator to develop a detailed action plan, including the potential consideration of a long-acting beta-agonist for improved symptom control.
+6. Arrange a follow-up appointment in two months to evaluate symptom control efficacy and review spirometry outcomes.
+
+**Follow-Up:**
+
+The patient is advised to contact the clinic if symptoms worsen or do not improve within a week, or if any emergent issues arise requiring further evaluation. His inhaler technique will be reviewed during the follow-up visit to ensure correct usage. The patient affirms understanding the management plan and is committed to adhering to prescribed preventive measures.
+
+---
+
+**Narrative Physician’s Note completed:**
+
+The patient has been comprehensively reassessed today with a detailed follow-up plan that prioritizes both pharmacological and non-pharmacological management strategies tailored to his chronic asthma and overall health. Continued monitoring and patient education remain critical to improving his clinical outcomes.

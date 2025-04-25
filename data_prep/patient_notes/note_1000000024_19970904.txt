@@ -1,0 +1,80 @@
+Visit Information:
+    - Patient Num: 1000000024
+    - Visit Date: 09/04/1997
+
+Subjective:
+    - Chief Complaints & History of Present Illness:
+        This is a 20-year-old Black male who presents to the clinic today for a follow-up visit after being diagnosed with asthma. He reports that he has been experiencing intermittent wheezing and shortness of breath, particularly during physical activity and at night. He describes his symptoms as mild to moderate in severity and notes that they are somewhat relieved by the use of his prescribed inhaler. However, he feels that the symptoms have slightly increased in frequency over the past week. 
+
+    - Past Medical & Surgical History:
+        The patient has a history of asthma, diagnosed in childhood. There are no significant surgical histories reported. He denies any history of hospitalizations related to asthma exacerbations.
+
+    - Medications & Supplements:
+        The patient is currently taking albuterol (rescue inhaler) as needed for acute asthma symptoms. He has also been prescribed a daily maintenance inhaler (fluticasone) which he has been using consistently. He reports no side effects from his medications.
+
+    - Social History:
+        The patient is a college student who engages in occasional physical activities including basketball. He does not smoke and denies any use of recreational drugs. He consumes alcohol socially. He lives in a shared dormitory and has no known environmental allergies.
+
+    - Allergies:
+        No known drug allergies. 
+
+    - Symptom Details:
+        His asthma symptoms include shortness of breath, chest tightness, and wheezing, primarily experienced during the night and related to physical exertion. He also reports an occasional dry cough. The onset of these symptoms has been noticeable over the past week, with no significant changes in severity.
+
+    - Additional Narrative:
+        He has attempted to manage his symptoms by using his rescue inhaler with some relief. He denies any new triggers or environmental changes. Adherence to maintenance inhaler use is noted, and he is aware of the importance of regular use. He expresses concern over the increasing frequency of symptoms.
+
+Objective:
+    - Vital Signs:
+        - Blood Pressure: 122/78 mmHg
+        - Heart Rate: 72 bpm
+        - Respiratory Rate: 18 breaths/min
+        - Temperature: 98.6°F (37°C)
+        - Oxygen Saturation: 97% on room air
+
+    - General Appearance:
+        The patient appears well-nourished, well-developed, and in no acute distress.
+
+    - Cardiovascular:
+        Normal S1 S2, no murmurs, gallops, or rubs. Peripheral pulses palpable and symmetric.
+
+    - Respiratory:
+        Lungs are clear to auscultation bilaterally with mild expiratory wheezing. No use of accessory muscles or signs of respiratory distress noted.
+
+    - Abdomen:
+        Soft, non-tender, with no organomegaly or masses. Normal bowel sounds.
+
+    - Musculoskeletal:
+        No musculoskeletal abnormalities observed. Full range of motion in all extremities.
+
+    - Neurological:
+        Alert and oriented to person, place, and time. No focal deficits noted.
+
+    - Skin:
+        Skin is warm, dry, and intact with no rashes or lesions.
+
+Assessment:
+    - Diagnosis or Clinical Impression:
+        The patient presents with symptoms consistent with asthma. His history and physical examination support the diagnosis, with no new evidence suggesting an alternative etiology at this time.
+        
+    - Issue/Problem/Request 1: Asthma
+        Assessment:
+            - The patient is experiencing mild to moderate intermittent asthma exacerbations that appear to be slightly increasing in frequency.
+            - Differential diagnosis: Respiratory infection, allergic rhinitis
+        Diagnostic Tests:
+            - Spirometry to assess lung function
+            - Consider allergen testing if clinically indicated
+        Treatment Plan:
+            - Continue using albuterol as a rescue inhaler.
+            - Increase the dosage of the maintenance inhaler (fluticasone) and reassess symptoms in one month.
+            - Patient education on asthma triggers, importance of adherence to prescribed medications, and appropriate use of inhalers.
+
+Follow-Up:
+    - Instructions for emergent follow-up care or monitoring:
+        Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.
+    
+    - Follow-Up for persistent, changing, or worsening symptoms:
+        Schedule a follow-up appointment in one month to reassess asthma control and response to the adjusted treatment plan.
+
+    - Patient Education & Understanding of the Plan:
+        The patient has been educated on the importance of medication adherence, recognizing early symptoms of asthma exacerbations, and avoiding known triggers. He verbalizes understanding and agreement with the treatment plan.

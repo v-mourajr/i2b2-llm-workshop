@@ -1,0 +1,60 @@
+**Visit Information:**
+- Patient Num: 1000000094
+- Visit Date: 09/01/2009
+
+**Subjective:**
+This is a 14-year-old Hispanic female who has been a regular patient in our clinic for approximately 8 years, primarily receiving care for asthma management. Her primary language is English. The patient currently presents for a follow-up visit, expressing ongoing difficulties in controlling her asthma. She is accompanied by her mother.
+
+The patient reports frequent asthma exacerbations, particularly during colder weather and post-exercise. These exacerbations are marked by episodes of wheezing and shortness of breath. Despite the use of an albuterol inhaler as needed, the frequency of these episodes remains concerning. Her mother additionally mentions that the patient’s symptoms have been aggravated by recent episodes of viral respiratory infections, characterized by symptoms such as a recurring cough and occasional wheezing.
+
+Her past medical history is significant for unspecified asthma, extrinsic asthma, and intrinsic asthma with previous acute exacerbations. She also has a history of multiple respiratory infections, including acute bronchiolitis, sinusitis, and allergic rhinitis. There have been no surgical interventions in her history, and her vaccinations are up to date.
+
+**Objective:**
+Vital Signs:
+- Blood Pressure: 100/64 mmHg
+- Heart Rate: 92 bpm
+- Respiratory Rate: 22 breaths/min
+- Temperature: 98.4°F
+- Oxygen Saturation: 97% on room air
+
+General Appearance: The patient appears alert, and cooperative, and does not exhibit any signs of acute distress. 
+
+Cardiovascular: Normal S1 and S2 sounds are present without murmurs, rubs, or gallops.
+
+Respiratory: Mild wheezing is audible bilaterally during forced expiration, though no rales or rhonchi are detected. The lung fields are clear on auscultation.
+
+Abdomen: The abdomen is soft and non-tender with normal bowel sounds across all quadrants.
+
+Musculoskeletal: No abnormalities were noted. The patient has normal muscle tone and strength and demonstrates a full range of motion without pain or deformities.
+
+Neurological: The patient is alert, oriented, and exhibits no neurological deficits.
+
+Skin: The examination revealed warm, dry skin with no visible rashes or lesions.
+
+Laboratory Results (recent):
+A recent complete blood count revealed mild anisocytosis and slightly elevated atypical lymphocytes, indicative of minor viral infections or allergic responses. The remainder of the CBC, including hematocrit, hemoglobin, MCV, MCHC, and platelet counts, was within normal limits. 
+
+**Assessment:**
+The primary concern remains the management of asthma, particularly due to the frequent exacerbations reported by the patient. The recurrent respiratory symptoms and variations noted in laboratory results suggest a chronic course of asthma without any signs of an acute infectious condition.
+
+1. Asthma, unspecified, without mention of status asthmaticus.
+2. Chronic asthma with an allergic component.
+3. Potential contribution of recent viral infection to the exacerbations.
+
+**Plan:**
+- **Treatment Plan:**
+    - Continue albuterol inhaler as needed for acute asthma symptoms.
+    - Initiate a low-dose daily inhaled corticosteroid (Flovent) to manage and reduce the frequency of asthma exacerbations.
+    - Education will be provided on new medication adherence and proper inhaler technique.
+- **Further Investigations:**
+    - Routine monitoring of asthma control via peak flow meter to track lung function.
+    - Referral to pulmonology if symptoms persist or worsen despite the new therapy.
+- **Follow-Up:**
+    - Schedule a follow-up visit in three months to review asthma management and the effectiveness of the corticosteroid therapy.
+    - Advise the mother to maintain a symptom diary for tracking triggers, frequency, and severity of asthma episodes.
+    - Immediate return to the clinic if significant respiratory distress or unrelieved symptoms occur.
+
+**Patient Education & Understanding of the Plan:**
+Patient and mother were educated on the importance of adherence to the new inhaled corticosteroid therapy, appropriate inhaler use, recognizing early signs of asthma exacerbation, and managing acute episodes. They received educational materials on asthma management and expressed understanding and agreement with the plan. The next follow-up appointment was scheduled.
+
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate the need for further evaluation.

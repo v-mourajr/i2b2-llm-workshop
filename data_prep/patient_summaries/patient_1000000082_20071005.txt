@@ -1,0 +1,147 @@
+demographics
+patient_num: 1000000082  age: 52
+patient_num: 1000000082  sex: F
+patient_num: 1000000082  race: hispanic
+patient_num: 1000000082  language: german
+patient_num: 1000000082  vital_status: alive
+patient_num: 1000000082  earliest fact: Jul 19 2000 12:00AM
+patient_num: 1000000082  latest fact: Oct  5 2007 12:00AM
+patient_num: 1000000082  range in days: 2634
+totals
+patient_num: 1000000082  distinct concepts: 141
+patient_num: 1000000082  total facts: 618
+patient_num: 1000000082  total encounters: 69
+patient_num: 1000000082  total asthma: 5
+descriptive
+patient_num: 1000000082  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 5
+patient_num: 1000000082  diagnosis code: ICD9:913.1  name: Abrasion or friction burn of elbow, forearm, and wrist, infected  count: 1
+patient_num: 1000000082  diagnosis code: ICD9:914.1  name: Abrasion or friction burn of hand(s) except finger(s) alone, infected  count: 1
+patient_num: 1000000082  diagnosis code: ICD9:466.0  name: Acute bronchitis  count: 1
+patient_num: 1000000082  diagnosis code: ICD9:565.1  name: Anal fistula  count: 3
+patient_num: 1000000082  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 5
+patient_num: 1000000082  diagnosis code: ICD9:E906.5  name: Bite by unspecified animal  count: 2
+patient_num: 1000000082  diagnosis code: ICD9:E906.3  name: Bite of other animal except arthropod  count: 1
+patient_num: 1000000082  diagnosis code: ICD9:682.4  name: Cellulitis and abscess of hand, except fingers and thumb  count: 2
+patient_num: 1000000082  diagnosis code: ICD9:682.3  name: Cellulitis and abscess of upper arm and forearm  count: 2
+patient_num: 1000000082  diagnosis code: ICD9:786.2  name: Cough  count: 8
+patient_num: 1000000082  diagnosis code: ICD9:521.0  name: Dental caries  count: 3
+patient_num: 1000000082  diagnosis code: ICD9:311  name: Depressive disorder, not elsewhere classified  count: 1
+patient_num: 1000000082  diagnosis code: ICD9:619.1  name: Digestive-genital tract fistula, female  count: 9
+patient_num: 1000000082  diagnosis code: ICD9:780.6  name: Fever  count: 1
+patient_num: 1000000082  diagnosis code: ICD9:959.01  name: Head injury, unspecified  count: 2
+patient_num: 1000000082  diagnosis code: ICD9:569.3  name: Hemorrhage of rectum and anus  count: 2
+patient_num: 1000000082  diagnosis code: ICD9:959.09  name: Injury of face and neck  count: 1
+patient_num: 1000000082  diagnosis code: ICD9:722.73  name: Intervertebral disc disorder with myelopathy, lumbar region  count: 1
+patient_num: 1000000082  diagnosis code: ICD9:677  name: Late effect of complication of pregnancy, childbirth, and the puerperium  count: 1
+patient_num: 1000000082  diagnosis code: ICD9:787.01  name: Nausea with vomiting  count: 1
+patient_num: 1000000082  diagnosis code: ICD9:847.0  name: Neck sprain  count: 2
+patient_num: 1000000082  diagnosis code: ICD9:V05.3  name: Need for prophylactic vaccination and inoculation against viral hepatitis  count: 1
+patient_num: 1000000082  diagnosis code: ICD9:795.5  name: Nonspecific reaction to tuberculin skin test without active tuberculosis  count: 1
+patient_num: 1000000082  diagnosis code: ICD9:278.00  name: Obesity, unspecified  count: 1
+patient_num: 1000000082  diagnosis code: ICD9:882.0  name: Open wound of hand except fingers alone, without mention of complication  count: 2
+patient_num: 1000000082  diagnosis code: ICD9:959.1  name: Other and unspecified injury to trunk  count: 5
+patient_num: 1000000082  diagnosis code: ICD9:87.49  name: Other chest x-ray  count: 1
+patient_num: 1000000082  diagnosis code: ICD9:733.99  name: Other disorders of bone and cartilage  count: 2
+patient_num: 1000000082  diagnosis code: ICD9:786.09  name: Other dyspnea and respiratory abnormality  count: 2
+patient_num: 1000000082  diagnosis code: ICD9:86.04  name: Other incision with drainage of skin and subcutaneous tissue  count: 1
+patient_num: 1000000082  diagnosis code: ICD9:569.49  name: Other specified disorders of rectum and anus  count: 2
+patient_num: 1000000082  diagnosis code: ICD9:305.90  name: Other, mixed, or unspecified drug abuse, unspecified use  count: 1
+patient_num: 1000000082  diagnosis code: ICD9:998.6  name: Persistent postoperative fistula  count: 3
+patient_num: 1000000082  diagnosis code: ICD9:V72.81  name: Preoperative cardiovascular examination  count: 4
+patient_num: 1000000082  diagnosis code: ICD9:V72.84  name: Preoperative examination, unspecified  count: 1
+patient_num: 1000000082  diagnosis code: ICD9:70.73  name: Repair of rectovaginal fistula  count: 2
+patient_num: 1000000082  diagnosis code: ICD9:V70.0  name: Routine general medical examination at a health care facility  count: 1
+patient_num: 1000000082  diagnosis code: ICD9:786.05  name: Shortness of breath  count: 1
+patient_num: 1000000082  diagnosis code: ICD9:721.90  name: Spondylosis of unspecified site without mention of myelopathy  count: 2
+patient_num: 1000000082  diagnosis code: ICD9:724.4  name: Thoracic or lumbosacral neuritis or radiculitis, unspecified  count: 4
+patient_num: 1000000082  diagnosis code: ICD9:309.9  name: Unspecified adjustment reaction  count: 1
+patient_num: 1000000082  diagnosis code: ICD9:525.9  name: Unspecified disorder of the teeth and supporting structures  count: 2
+patient_num: 1000000082  diagnosis code: ICD9:V70.9  name: Unspecified general medical examination  count: 2
+patient_num: 1000000082  diagnosis code: ICD9:787.03  name: Vomiting alone  count: 2
+patient_num: 1000000082  medication code: NDC:00025542134  name: Ambien 10mg tablet Searle  count: 4
+patient_num: 1000000082  medication code: NDC:59762332801  name: Clindamycin Hydrochloride 150mg capsule Greenstone Limited  count: 4
+patient_num: 1000000082  medication code: NDC:00085006906  name: Garamycin 40 mg/ml solution Schering Corporation  count: 3
+patient_num: 1000000082  medication code: NDC:00469042525  name: Multilyte-20 solution Fujisawa  count: 2
+patient_num: 1000000082  medication code: NDC:16837065205  name: Mylanta Fast Acting 400mg-400mg-40 mg/5ml suspension Johnson and Johnson/Merck  count: 2
+patient_num: 1000000082  medication code: NDC:00186091542  name: Pulmicort Turbuhaler 200 mcg/inh aerosol with adapter Astra-Zeneca Pharmaceuticals  count: 8
+patient_num: 1000000082  medication code: NDC:00173052100  name: Serevent Diskus 50 mcg powder Glaxo Wellcome  count: 4
+patient_num: 1000000082  medication code: NDC:00006027531  name: Singulair 5mg tablet chewable Merck & Co. Inc  count: 6
+patient_num: 1000000082  medication code: NDC:00245012112  name: Uniserts 120mg suppository Upsher-Smith Laboratories Inc  count: 4
+patient_num: 1000000082  laboratory code: LOINC:26444-0  name: Abs Basos (Group:ABASOP)  count: 2
+patient_num: 1000000082  laboratory code: LOINC:704-7  name: Abs Basos Auto (Group:ABASOS)  count: 3
+patient_num: 1000000082  laboratory code: LOINC:26449-9  name: Abs Eos (Group:AEOSN)  count: 2
+patient_num: 1000000082  laboratory code: LOINC:711-2  name: Abs EOS Auto (Group:AEOS)  count: 3
+patient_num: 1000000082  laboratory code: LOINC:26474-7  name: Abs Lymphs (Group:ALYMP)  count: 2
+patient_num: 1000000082  laboratory code: LOINC:731-0  name: Abs Lymphs Auto (Group:ALYMPHS)  count: 3
+patient_num: 1000000082  laboratory code: LOINC:26484-6  name: Abs Monos (Group:AMONS)  count: 2
+patient_num: 1000000082  laboratory code: LOINC:742-7  name: Abs Monos Auto (Group:AMONOS)  count: 3
+patient_num: 1000000082  laboratory code: LOINC:26499-4  name: Abs Neuts (Group:ANEU)  count: 2
+patient_num: 1000000082  laboratory code: LOINC:752-6  name: Abs Neuts Auto (Group:ANEUTS)  count: 3
+patient_num: 1000000082  laboratory code: LOINC:1751-7  name: Albumin (Group:ALB)  count: 1
+patient_num: 1000000082  laboratory code: LOINC:8246-1  name: Amorph Crystals (Group:UAS-AMOR)  count: 1
+patient_num: 1000000082  laboratory code: LOINC:10466-1  name: Anion Gap (Group:ANION)  count: 2
+patient_num: 1000000082  laboratory code: LOINC:1920-8  name: AST (SGOT) (Group:SGOT)  count: 1
+patient_num: 1000000082  laboratory code: LOINC:5769-5  name: Bacteria (Group:UAS-BACT)  count: 1
+patient_num: 1000000082  laboratory code: LOINC:30180-4  name: Basophils (Group:BASOP)  count: 2
+patient_num: 1000000082  laboratory code: LOINC:706-2  name: Basophils - Auto (Group:BASOS)  count: 3
+patient_num: 1000000082  laboratory code: LOINC:5770-3  name: Bilirubin (Group:UA-BILI)  count: 2
+patient_num: 1000000082  laboratory code: LOINC:3094-0  name: Blood Urea Nitrogen (Group:BUN)  count: 7
+patient_num: 1000000082  laboratory code: LOINC:2000-8  name: Calcium (Group:CA)  count: 2
+patient_num: 1000000082  laboratory code: LOINC:2028-9  name: Carbon Dioxide (Group:CO2)  count: 7
+patient_num: 1000000082  laboratory code: LOINC:9439-1  name: Casts (Group:CASTS)  count: 1
+patient_num: 1000000082  laboratory code: LOINC:2075-0  name: Chloride (Group:CL)  count: 7
+patient_num: 1000000082  laboratory code: LOINC:2093-3  name: Cholesterol (Group:CHOL)  count: 1
+patient_num: 1000000082  laboratory code: LOINC:5778-6  name: Color (Group:UA-COLOR)  count: 2
+patient_num: 1000000082  laboratory code: LOINC:2160-0  name: Creatinine (Group:CRE)  count: 7
+patient_num: 1000000082  laboratory code: LOINC:X4005-4  name: Crystals (Group:UAS-CRYS)  count: 1
+patient_num: 1000000082  laboratory code: LOINC:X2036-5  name: Diff Method (Group:DIFMET)  count: 1
+patient_num: 1000000082  laboratory code: LOINC:X2012-1  name: Differential Request (Group:DIFFR)  count: 3
+patient_num: 1000000082  laboratory code: LOINC:1968-7  name: Direct Bilirubin (Group:DBILI)  count: 2
+patient_num: 1000000082  laboratory code: LOINC:26450-7  name: Eosinophils (Group:EOSP)  count: 2
+patient_num: 1000000082  laboratory code: LOINC:713-8  name: Eosinophils - Auto (Group:EOS)  count: 3
+patient_num: 1000000082  laboratory code: LOINC:2336-6  name: Globulin (Group:GLOB)  count: 1
+patient_num: 1000000082  laboratory code: LOINC:6777-7  name: Glucose (Group:GLU)  count: 7
+patient_num: 1000000082  laboratory code: LOINC:5792-7  name: Glucose - UA (Group:UA-GLUC)  count: 2
+patient_num: 1000000082  laboratory code: LOINC:2119-6  name: HCG-Quant (Group:HCG,QT)  count: 1
+patient_num: 1000000082  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 7
+patient_num: 1000000082  laboratory code: LOINC:2086-7  name: HDL (Group:HDL)  count: 1
+patient_num: 1000000082  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 7
+patient_num: 1000000082  laboratory code: LOINC:2462-0  name: IgE (Group:IGE)  count: 1
+patient_num: 1000000082  laboratory code: LOINC:5797-6  name: Ketones (Group:UA-KET)  count: 2
+patient_num: 1000000082  laboratory code: LOINC:2532-0  name: LDH (Group:LDH)  count: 2
+patient_num: 1000000082  laboratory code: LOINC:26478-8  name: Lymphocytes (Group:LYMP)  count: 2
+patient_num: 1000000082  laboratory code: LOINC:736-9  name: Lymphocytes - Auto (Group:LYMPHS)  count: 3
+patient_num: 1000000082  laboratory code: LOINC:11554-3  name: Magnesium (Group:MG)  count: 1
+patient_num: 1000000082  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 7
+patient_num: 1000000082  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 7
+patient_num: 1000000082  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 7
+patient_num: 1000000082  laboratory code: LOINC:26485-3  name: Monocytes (Group:MON)  count: 2
+patient_num: 1000000082  laboratory code: LOINC:5905-5  name: Monocytes - Auto (Group:MONOS)  count: 3
+patient_num: 1000000082  laboratory code: LOINC:8247-9  name: Mucous (Group:UAS-MUC)  count: 1
+patient_num: 1000000082  laboratory code: LOINC:26511-6  name: Neutrophils (Group:NEUT)  count: 2
+patient_num: 1000000082  laboratory code: LOINC:770-8  name: Neutrophils - Auto (Group:POLYS)  count: 3
+patient_num: 1000000082  laboratory code: LOINC:5802-4  name: Nitrites (Group:UA-NIT)  count: 2
+patient_num: 1000000082  laboratory code: LOINC:5794-3  name: Occult Blood (Group:UA-BLD)  count: 2
+patient_num: 1000000082  laboratory code: LOINC:11279-7  name: Other/Comments (Group:UAS-COM)  count: 1
+patient_num: 1000000082  laboratory code: LOINC:5803-2  name: PH (Group:UA-PH)  count: 2
+patient_num: 1000000082  laboratory code: LOINC:2777-1  name: Phosphorus (Group:PHOS)  count: 1
+patient_num: 1000000082  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 7
+patient_num: 1000000082  laboratory code: LOINC:2823-3  name: Potassium (Group:K)  count: 7
+patient_num: 1000000082  laboratory code: LOINC:5804-0  name: Protein (Group:UA-ALB)  count: 2
+patient_num: 1000000082  laboratory code: LOINC:5902-2  name: PT (Group:PT)  count: 2
+patient_num: 1000000082  laboratory code: LOINC:6301-6  name: PT-INR (Group:PT-INR)  count: 2
+patient_num: 1000000082  laboratory code: LOINC:5898-2  name: PTT (Group:PTT)  count: 2
+patient_num: 1000000082  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 7
+patient_num: 1000000082  laboratory code: LOINC:5808-1  name: RBC - Urine Sed (Group:UAS-RBC)  count: 2
+patient_num: 1000000082  laboratory code: LOINC:788-0  name: RDW (Group:RDW)  count: 7
+patient_num: 1000000082  laboratory code: LOINC:2951-2  name: Sodium (Group:NA)  count: 7
+patient_num: 1000000082  laboratory code: LOINC:5811-5  name: Specific Gravity (Group:UA-SPGR)  count: 2
+patient_num: 1000000082  laboratory code: LOINC:11277-1  name: Squamous Cells (Group:UAS-SQUA)  count: 2
+patient_num: 1000000082  laboratory code: LOINC:1975-2  name: Total Bilirubin (Group:TBILI)  count: 2
+patient_num: 1000000082  laboratory code: LOINC:2885-2  name: Total Protein (Group:TP)  count: 1
+patient_num: 1000000082  laboratory code: LOINC:5767-9  name: Turbidity (Group:UA-TURB)  count: 1
+patient_num: 1000000082  laboratory code: LOINC:3084-1  name: Uric Acid (Group:URIC)  count: 1
+patient_num: 1000000082  laboratory code: LOINC:5818-0  name: Urobilinogen (Group:UA-UROBI)  count: 2
+patient_num: 1000000082  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 7
+patient_num: 1000000082  laboratory code: LOINC:5821-4  name: WBC - Urine Sed (Group:UAS-WBC)  count: 2
+patient_num: 1000000082  laboratory code: LOINC:5799-2  name: WBC Screen (Group:UA-WBC)  count: 2

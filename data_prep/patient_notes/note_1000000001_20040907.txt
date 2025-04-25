@@ -1,0 +1,61 @@
+Visit Information:
+- Patient Num: 1000000001
+- Visit Date: 09/07/2004
+
+Subjective:
+This is a 20-year-old Black female who has been receiving care at our clinic for approximately 18 months. She speaks English and presents today for follow-up management of her asthma, alongside concerns regarding intermittent episodes of dizziness, possibly related to her documented history of hypotension.
+
+The patient reports that her asthma symptoms have been well-controlled with her current regimen, which includes a short-acting beta-agonist as needed and an inhaled corticosteroid used twice daily. However, she experiences increased dyspnea and cough with exercise or during exposure to allergens, aligned with her history of exacerbations. She also mentions episodes of lightheadedness occurring mostly when shifting from a seated to a standing position, which have been occurring with greater frequency over the past month. 
+
+She denies chest pain, syncope, or palpitations. There are no new environmental or lifestyle changes noted that would contribute to her increased symptoms. She continues to reside with her parents and has not engaged in smoking, alcohol, or illicit drug use. Known allergies include pollen and dust mites, which tend to aggravate her asthma symptoms.
+
+Past medical and surgical history indicates frequent asthma exacerbations, managed primarily through medication adjustments. No recent hospitalizations or significant surgical interventions have been documented.
+
+Objective:
+Vital Signs:
+- Blood Pressure: 100/65 mmHg
+- Heart Rate: 80 bpm
+- Respiratory Rate: 18 breaths/minute
+- Temperature: 98.6°F
+- Oxygen Saturation: 97% on room air
+
+General Appearance: The patient appears well-groomed and in no acute distress. She is alert and oriented to person, place, and time.
+
+Cardiovascular: Heart rate is regular with no murmurs, gallops, or rubs. Peripheral pulses are intact and symmetrical.
+
+Respiratory: Lungs are clear to auscultation bilaterally with mild wheezing noted at the bases. No use of accessory muscles or retractions observed. Chest expansion is symmetric.
+
+Abdomen: Abdomen is soft and non-tender with no organomegaly or masses appreciated.
+
+Musculoskeletal: No joint deformities, swelling, or tenderness. Muscle strength is 5/5 in all extremities.
+
+Neurological: Cranial nerves II-XII intact, reflexes normal, sensation intact to light touch. No focal deficits noted.
+
+Skin: Skin is warm, dry, and without rashes or lesions.
+
+Recent lab results include:
+- WBC, RBC, HGB, HCT, MCV, MCH, MCHC, RDW, PLT - all within normal range.
+- Differential count for Basophils, Eosinophils, Lymphocytes, Monocytes, Neutrophils - within normal parameters.
+
+Assessment:
+- Primary diagnosis: Asthma, unspecified type, with a history of acute exacerbations.
+- Secondary diagnosis: Hypotension, unspecified - consistent with episodes of dizziness and low blood pressure readings.
+
+Plan:
+1. Asthma:
+   - Continue current inhaled corticosteroid regimen.
+   - Prescribe a long-acting beta-agonist to manage exercise-induced symptoms.
+   - Provide a peak flow meter and educate on its use to monitor daily lung function at home.
+   - Recommend avoidance of known allergens and adherence to prescribed medication regimen.
+   - Follow up in 3 months for reassessment or sooner if exacerbations occur.
+
+2. Hypotension:
+   - Encourage adequate hydration and increase salt intake as appropriate.
+   - Teach postural hypotension management techniques, such as rising slowly from a seated or lying position.
+   - Suggest wearing compression stockings to improve venous return.
+   - Schedule a follow-up appointment in 1 month to reassess symptoms and blood pressure.
+
+Patient Education & Follow-Up:
+Instruct patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. Educate the patient on recognizing signs of worsening asthma and dizziness management. Confirm the patient's understanding and agreement with the plan. 
+
+The patient appears committed to adhering to her treatment protocol and will return for follow-up visits as scheduled.

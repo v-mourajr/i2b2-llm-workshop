@@ -1,0 +1,87 @@
+**Visit Information:**
+- Patient Num: 1000000049
+- Visit Date: November 26, 2007
+
+---
+
+**Subjective:**
+
+This is a 42-year-old Black male who speaks Spanish and has been receiving care at our clinic for approximately 10 years. He presents today for the management of his asthma, noting a significant increase in symptoms such as wheezing and shortness of breath over the past two weeks. These symptoms are predominantly worsened by physical exertion and nighttime, causing disturbances in his sleep. He mentions a history of severe asthma attacks, including an episode of status asthmaticus.
+
+The patient has a medical history of allergic rhinitis, generalized and unspecific abdominal pain, and backaches often linked to his work in construction. He has not undergone any surgical procedures related to these conditions. For his allergic rhinitis, he takes over-the-counter antihistamines as needed.
+
+Socially, he lives with his family and continues to be exposed to various respiratory irritants through his occupational environment. He denies smoking or alcohol consumption and aims to maintain a balanced diet. His physical activity has been limited due to the exacerbation of his respiratory symptoms. He has no known medication allergies.
+
+Currently, he uses albuterol sulfate 4 mg tablets and Flovent 110 mcg/inh aerosol daily for his asthma management. Despite this, he occasionally forgets doses of his inhaled corticosteroid. He uses a humidifier at night and practices breathing exercises which offer moderate relief.
+
+---
+
+**Objective:**
+
+- **Vital Signs:** 
+    - Blood Pressure: 120/82 mmHg
+    - Heart Rate: 80 bpm
+    - Respiratory Rate: 22 breaths per minute
+    - Temperature: 98.6°F
+    - Oxygen Saturation: 96% on room air
+
+- **General Appearance:**
+    The patient appears alert and oriented, though displays mild respiratory distress. He is well-nourished and hydrated.
+
+- **Cardiovascular:**
+    Regular rhythm with normal S1 and S2 sounds, no murmurs, gallops, or rubs.
+
+- **Respiratory:**
+    Audible bilateral wheezing, particularly in the lower lung fields. No use of accessory muscles or cyanosis. Symmetrical chest expansion noted.
+
+- **Abdomen:**
+    Soft, non-tender, non-distended with normal bowel sounds.
+
+- **Musculoskeletal:**
+    Full range of motion in all joints without deformities or tenderness.
+
+- **Neurological:**
+    Alert and oriented x 3, no focal neurological deficits.
+
+- **Skin:**
+    Warm and dry, no rashes or lesions observed.
+
+Recent lab tests including hematocrit, hemoglobin, MCV, WBC, BUN, creatinine, sodium, potassium, chloride, CO2 levels, and absolute counts of neutrophils, monocytes, and lymphocytes were within normal ranges.
+
+---
+
+**Assessment:**
+
+The patient has poorly controlled asthma aggravated by factors such as occupational exposure and inconsistent medication adherence. Other considerations include:
+
+- Allergic rhinitis
+- Episodic abdominal pain likely managed with conservative treatments
+- Chronic backache possibly related to construction work
+
+---
+
+**Plan:**
+
+1. **Asthma Management:**
+    - Educate on proper inhaler technique, considering the use of a spacer.
+    - Add a leukotriene receptor antagonist to the current treatment regimen.
+    - Review and update the patient's asthma action plan emphasizing trigger avoidance and management.
+    - Monitor closely with a four-week follow-up for re-evaluation and adjustments as needed.
+
+2. **Allergic Rhinitis Management:**
+    - Continue with over-the-counter antihistamines.
+    - Advise measures to mitigate allergen exposure, including the use of protective masks at work.
+
+3. **Lifestyle and Occupational Adjustments:**
+    - Recommend minimizing exposure to potential respiratory irritants.
+    - Suggest ergonomic modifications at work to alleviate musculoskeletal strain.
+
+---
+
+**Follow-Up:**
+
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if any new symptoms emerge. Reinforce the importance of medication adherence and the need for follow-up appointments to monitor and manage his conditions. A subsequent follow-up visit is scheduled for four weeks to reassess asthma control and overall health.
+
+**Patient Education:**
+
+Extensively discussed the importance of consistency in asthma medication use. Emphasized identifying and avoiding environmental triggers, particularly in the workplace. Reiterated the value of daily management practices such as using a humidifier and performing breathing exercises regularly. The patient understands and agrees with the management plan and commits to improving adherence and follow-up compliance.

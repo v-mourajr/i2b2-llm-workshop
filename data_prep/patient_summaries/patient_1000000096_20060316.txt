@@ -1,0 +1,218 @@
+demographics
+patient_num: 1000000096  age: 74
+patient_num: 1000000096  sex: F
+patient_num: 1000000096  race: black
+patient_num: 1000000096  language: spanish
+patient_num: 1000000096  vital_status: alive
+patient_num: 1000000096  earliest fact: May  8 1997 12:00AM
+patient_num: 1000000096  latest fact: Mar 16 2006 12:00AM
+patient_num: 1000000096  range in days: 3234
+totals
+patient_num: 1000000096  distinct concepts: 103
+patient_num: 1000000096  total facts: 432
+patient_num: 1000000096  total encounters: 39
+patient_num: 1000000096  total asthma: 8
+descriptive
+patient_num: 1000000096  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 8
+patient_num: 1000000096  diagnosis code: ICD9:88.53  name: Angiocardiography of left heart structures  count: 1
+patient_num: 1000000096  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 8
+patient_num: 1000000096  diagnosis code: ICD9:245.2  name: Chronic lymphocytic thyroiditis  count: 1
+patient_num: 1000000096  diagnosis code: ICD9:06.4  name: Complete thyroidectomy  count: 1
+patient_num: 1000000096  diagnosis code: ICD9:300.11  name: Conversion disorder  count: 1
+patient_num: 1000000096  diagnosis code: ICD9:414.01  name: Coronary atherosclerosis of native coronary artery  count: 4
+patient_num: 1000000096  diagnosis code: ICD9:311  name: Depressive disorder, not elsewhere classified  count: 2
+patient_num: 1000000096  diagnosis code: ICD9:733.90  name: Disorder of bone and cartilage, unspecified  count: 2
+patient_num: 1000000096  diagnosis code: ICD9:530.81  name: Esophageal reflux  count: 2
+patient_num: 1000000096  diagnosis code: ICD9:40.21  name: Excision of deep cervical lymph node  count: 1
+patient_num: 1000000096  diagnosis code: ICD9:240.9  name: Goiter, unspecified  count: 1
+patient_num: 1000000096  diagnosis code: ICD9:36.06  name: Insertion of coronary artety stent(s)  count: 1
+patient_num: 1000000096  diagnosis code: ICD9:781.3  name: Lack of coordination  count: 1
+patient_num: 1000000096  diagnosis code: ICD9:37.22  name: Left heart cardiac catheterization  count: 1
+patient_num: 1000000096  diagnosis code: ICD9:296.30  name: Major depressive disorder, recurrent episode, unspecified degree  count: 1
+patient_num: 1000000096  diagnosis code: ICD9:193  name: Malignant neoplasm of thyroid gland  count: 1
+patient_num: 1000000096  diagnosis code: ICD9:241.0  name: Nontoxic uninodular goiter  count: 4
+patient_num: 1000000096  diagnosis code: ICD9:412  name: Old myocardial infarction  count: 1
+patient_num: 1000000096  diagnosis code: ICD9:715.00  name: Osteoarthrosis, generalized, involving unspecified site  count: 1
+patient_num: 1000000096  diagnosis code: ICD9:715.90  name: Osteoarthrosis, unspecified whether generalized or localized, involving unspecified site  count: 1
+patient_num: 1000000096  diagnosis code: ICD9:413.9  name: Other and unspecified angina pectoris  count: 1
+patient_num: 1000000096  diagnosis code: ICD9:88.57  name: Other and unspecified coronary arteriography  count: 1
+patient_num: 1000000096  diagnosis code: ICD9:V10.87  name: Personal history of malignant neoplasm of thyroid  count: 1
+patient_num: 1000000096  diagnosis code: ICD9:272.0  name: Pure hypercholesterolemia  count: 1
+patient_num: 1000000096  diagnosis code: ICD9:729.6  name: Residual foreign body in soft tissue  count: 1
+patient_num: 1000000096  diagnosis code: ICD9:36.01  name: Single vessel percutaneous transluminal coronary angioplasty [PTCA] or coronary atherectomy without mention of thrombolytic agent  count: 1
+patient_num: 1000000096  diagnosis code: ICD9:250.00  name: type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication  count: 1
+patient_num: 1000000096  diagnosis code: ICD9:366.9  name: Unspecified cataract  count: 1
+patient_num: 1000000096  diagnosis code: ICD9:519.9  name: Unspecified disease of respiratory system  count: 1
+patient_num: 1000000096  diagnosis code: ICD9:719.92  name: Unspecified disorder of upper arm joint  count: 2
+patient_num: 1000000096  diagnosis code: ICD9:401.9  name: Unspecified essential hypertension  count: 2
+patient_num: 1000000096  diagnosis code: ICD9:244.9  name: Unspecified hypothyroidism  count: 1
+patient_num: 1000000096  diagnosis code: ICD9:300.9  name: Unspecified neurotic disorder  count: 1
+patient_num: 1000000096  laboratory code: LOINC:711-2  name: Abs EOS Auto (Group:AEOS)  count: 1
+patient_num: 1000000096  laboratory code: LOINC:1751-7  name: Albumin (Group:ALB)  count: 3
+patient_num: 1000000096  laboratory code: LOINC:1798-8  name: Amylase (Group:AMY)  count: 1
+patient_num: 1000000096  laboratory code: LOINC:1920-8  name: AST (SGOT) (Group:SGOT)  count: 1
+patient_num: 1000000096  laboratory code: LOINC:5769-5  name: Bacteria (Group:UAS-BACT)  count: 1
+patient_num: 1000000096  laboratory code: LOINC:707-0  name: Basophils - Manual (Group:BASO)  count: 1
+patient_num: 1000000096  laboratory code: LOINC:5770-3  name: Bilirubin (Group:UA-BILI)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:3094-0  name: Blood Urea Nitrogen (Group:BUN)  count: 5
+patient_num: 1000000096  laboratory code: LOINC:2000-8  name: Calcium (Group:CA)  count: 5
+patient_num: 1000000096  laboratory code: LOINC:2028-9  name: Carbon Dioxide (Group:CO2)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:2075-0  name: Chloride (Group:CL)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:2093-3  name: Cholesterol (Group:CHOL)  count: 1
+patient_num: 1000000096  laboratory code: LOINC:6773-6  name: CK-MB QUANT (Group:CPK-MB)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:5778-6  name: Color (Group:UA-COLOR)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:2157-6  name: CPK (Group:CPK)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:2160-0  name: Creatinine (Group:CRE)  count: 3
+patient_num: 1000000096  laboratory code: LOINC:714-6  name: Eosinophils - Manual (Group:EO)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:4537-7  name: ESR (Group:ESR)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:2336-6  name: Globulin (Group:GLOB)  count: 3
+patient_num: 1000000096  laboratory code: LOINC:6777-7  name: Glucose (Group:GLU)  count: 4
+patient_num: 1000000096  laboratory code: LOINC:5792-7  name: Glucose - UA (Group:UA-GLUC)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 6
+patient_num: 1000000096  laboratory code: LOINC:2086-7  name: HDL (Group:HDL)  count: 1
+patient_num: 1000000096  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 6
+patient_num: 1000000096  laboratory code: LOINC:5797-6  name: Ketones (Group:UA-KET)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:2532-0  name: LDH (Group:LDH)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:2090-9  name: LDL (Group:LDL)  count: 1
+patient_num: 1000000096  laboratory code: LOINC:736-9  name: Lymphocytes - Auto (Group:LYMPHS)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:737-7  name: Lymphocytes - Manual (Group:LYMPH)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 6
+patient_num: 1000000096  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 6
+patient_num: 1000000096  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 6
+patient_num: 1000000096  laboratory code: LOINC:5905-5  name: Monocytes - Auto (Group:MONOS)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:744-3  name: Monocytes - Manual (Group:MONO)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:770-8  name: Neutrophils - Auto (Group:POLYS)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:769-0  name: Neutrophils - Manual (Group:POLY)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:5802-4  name: Nitrites (Group:UA-NIT)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:5794-3  name: Occult Blood (Group:UA-BLD)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:5803-2  name: PH (Group:UA-PH)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:2777-1  name: Phosphorus (Group:PHOS)  count: 4
+patient_num: 1000000096  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 6
+patient_num: 1000000096  laboratory code: LOINC:9317-9  name: PLT Estimate (Group:PLTEST)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:2823-3  name: Potassium (Group:K)  count: 3
+patient_num: 1000000096  laboratory code: LOINC:5804-0  name: Protein (Group:UA-ALB)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:5898-2  name: PTT (Group:PTT)  count: 1
+patient_num: 1000000096  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 6
+patient_num: 1000000096  laboratory code: LOINC:5808-1  name: RBC - Urine Sed (Group:UAS-RBC)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:6742-1  name: RBC Morph Manual (Group:RCM-M)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:788-0  name: RDW (Group:RDW)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:2951-2  name: Sodium (Group:NA)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:5811-5  name: Specific Gravity (Group:UA-SPGR)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:1975-2  name: Total Bilirubin (Group:TBILI)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:2885-2  name: Total Protein (Group:TP)  count: 3
+patient_num: 1000000096  laboratory code: LOINC:2571-8  name: Triglycerides (Group:TRIG)  count: 1
+patient_num: 1000000096  laboratory code: LOINC:3016-3  name: TSH (Group:TSH)  count: 1
+patient_num: 1000000096  laboratory code: LOINC:5767-9  name: Turbidity (Group:UA-TURB)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:5818-0  name: Urobilinogen (Group:UA-UROBI)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 6
+patient_num: 1000000096  laboratory code: LOINC:5821-4  name: WBC - Urine Sed (Group:UAS-WBC)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:5799-2  name: WBC Screen (Group:UA-WBC)  count: 2
+demographics
+patient_num: 1000000096  age: 77
+patient_num: 1000000096  sex: F
+patient_num: 1000000096  race: black
+patient_num: 1000000096  language: spanish
+patient_num: 1000000096  vital_status: alive
+patient_num: 1000000096  earliest fact: May  8 1997 12:00AM
+patient_num: 1000000096  latest fact: Mar 16 2006 12:00AM
+patient_num: 1000000096  range in days: 3234
+totals
+patient_num: 1000000096  distinct concepts: 103
+patient_num: 1000000096  total facts: 432
+patient_num: 1000000096  total encounters: 39
+patient_num: 1000000096  total asthma: 8
+descriptive
+patient_num: 1000000096  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 8
+patient_num: 1000000096  diagnosis code: ICD9:88.53  name: Angiocardiography of left heart structures  count: 1
+patient_num: 1000000096  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 8
+patient_num: 1000000096  diagnosis code: ICD9:245.2  name: Chronic lymphocytic thyroiditis  count: 1
+patient_num: 1000000096  diagnosis code: ICD9:06.4  name: Complete thyroidectomy  count: 1
+patient_num: 1000000096  diagnosis code: ICD9:300.11  name: Conversion disorder  count: 1
+patient_num: 1000000096  diagnosis code: ICD9:414.01  name: Coronary atherosclerosis of native coronary artery  count: 4
+patient_num: 1000000096  diagnosis code: ICD9:311  name: Depressive disorder, not elsewhere classified  count: 2
+patient_num: 1000000096  diagnosis code: ICD9:733.90  name: Disorder of bone and cartilage, unspecified  count: 2
+patient_num: 1000000096  diagnosis code: ICD9:530.81  name: Esophageal reflux  count: 2
+patient_num: 1000000096  diagnosis code: ICD9:40.21  name: Excision of deep cervical lymph node  count: 1
+patient_num: 1000000096  diagnosis code: ICD9:240.9  name: Goiter, unspecified  count: 1
+patient_num: 1000000096  diagnosis code: ICD9:36.06  name: Insertion of coronary artety stent(s)  count: 1
+patient_num: 1000000096  diagnosis code: ICD9:781.3  name: Lack of coordination  count: 1
+patient_num: 1000000096  diagnosis code: ICD9:37.22  name: Left heart cardiac catheterization  count: 1
+patient_num: 1000000096  diagnosis code: ICD9:296.30  name: Major depressive disorder, recurrent episode, unspecified degree  count: 1
+patient_num: 1000000096  diagnosis code: ICD9:193  name: Malignant neoplasm of thyroid gland  count: 1
+patient_num: 1000000096  diagnosis code: ICD9:241.0  name: Nontoxic uninodular goiter  count: 4
+patient_num: 1000000096  diagnosis code: ICD9:412  name: Old myocardial infarction  count: 1
+patient_num: 1000000096  diagnosis code: ICD9:715.00  name: Osteoarthrosis, generalized, involving unspecified site  count: 1
+patient_num: 1000000096  diagnosis code: ICD9:715.90  name: Osteoarthrosis, unspecified whether generalized or localized, involving unspecified site  count: 1
+patient_num: 1000000096  diagnosis code: ICD9:413.9  name: Other and unspecified angina pectoris  count: 1
+patient_num: 1000000096  diagnosis code: ICD9:88.57  name: Other and unspecified coronary arteriography  count: 1
+patient_num: 1000000096  diagnosis code: ICD9:V10.87  name: Personal history of malignant neoplasm of thyroid  count: 1
+patient_num: 1000000096  diagnosis code: ICD9:272.0  name: Pure hypercholesterolemia  count: 1
+patient_num: 1000000096  diagnosis code: ICD9:729.6  name: Residual foreign body in soft tissue  count: 1
+patient_num: 1000000096  diagnosis code: ICD9:36.01  name: Single vessel percutaneous transluminal coronary angioplasty [PTCA] or coronary atherectomy without mention of thrombolytic agent  count: 1
+patient_num: 1000000096  diagnosis code: ICD9:250.00  name: type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication  count: 1
+patient_num: 1000000096  diagnosis code: ICD9:366.9  name: Unspecified cataract  count: 1
+patient_num: 1000000096  diagnosis code: ICD9:519.9  name: Unspecified disease of respiratory system  count: 1
+patient_num: 1000000096  diagnosis code: ICD9:719.92  name: Unspecified disorder of upper arm joint  count: 2
+patient_num: 1000000096  diagnosis code: ICD9:401.9  name: Unspecified essential hypertension  count: 2
+patient_num: 1000000096  diagnosis code: ICD9:244.9  name: Unspecified hypothyroidism  count: 1
+patient_num: 1000000096  diagnosis code: ICD9:300.9  name: Unspecified neurotic disorder  count: 1
+patient_num: 1000000096  laboratory code: LOINC:711-2  name: Abs EOS Auto (Group:AEOS)  count: 1
+patient_num: 1000000096  laboratory code: LOINC:1751-7  name: Albumin (Group:ALB)  count: 3
+patient_num: 1000000096  laboratory code: LOINC:1798-8  name: Amylase (Group:AMY)  count: 1
+patient_num: 1000000096  laboratory code: LOINC:1920-8  name: AST (SGOT) (Group:SGOT)  count: 1
+patient_num: 1000000096  laboratory code: LOINC:5769-5  name: Bacteria (Group:UAS-BACT)  count: 1
+patient_num: 1000000096  laboratory code: LOINC:707-0  name: Basophils - Manual (Group:BASO)  count: 1
+patient_num: 1000000096  laboratory code: LOINC:5770-3  name: Bilirubin (Group:UA-BILI)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:3094-0  name: Blood Urea Nitrogen (Group:BUN)  count: 5
+patient_num: 1000000096  laboratory code: LOINC:2000-8  name: Calcium (Group:CA)  count: 5
+patient_num: 1000000096  laboratory code: LOINC:2028-9  name: Carbon Dioxide (Group:CO2)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:2075-0  name: Chloride (Group:CL)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:2093-3  name: Cholesterol (Group:CHOL)  count: 1
+patient_num: 1000000096  laboratory code: LOINC:6773-6  name: CK-MB QUANT (Group:CPK-MB)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:5778-6  name: Color (Group:UA-COLOR)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:2157-6  name: CPK (Group:CPK)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:2160-0  name: Creatinine (Group:CRE)  count: 3
+patient_num: 1000000096  laboratory code: LOINC:714-6  name: Eosinophils - Manual (Group:EO)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:4537-7  name: ESR (Group:ESR)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:2336-6  name: Globulin (Group:GLOB)  count: 3
+patient_num: 1000000096  laboratory code: LOINC:6777-7  name: Glucose (Group:GLU)  count: 4
+patient_num: 1000000096  laboratory code: LOINC:5792-7  name: Glucose - UA (Group:UA-GLUC)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 6
+patient_num: 1000000096  laboratory code: LOINC:2086-7  name: HDL (Group:HDL)  count: 1
+patient_num: 1000000096  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 6
+patient_num: 1000000096  laboratory code: LOINC:5797-6  name: Ketones (Group:UA-KET)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:2532-0  name: LDH (Group:LDH)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:2090-9  name: LDL (Group:LDL)  count: 1
+patient_num: 1000000096  laboratory code: LOINC:736-9  name: Lymphocytes - Auto (Group:LYMPHS)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:737-7  name: Lymphocytes - Manual (Group:LYMPH)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 6
+patient_num: 1000000096  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 6
+patient_num: 1000000096  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 6
+patient_num: 1000000096  laboratory code: LOINC:5905-5  name: Monocytes - Auto (Group:MONOS)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:744-3  name: Monocytes - Manual (Group:MONO)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:770-8  name: Neutrophils - Auto (Group:POLYS)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:769-0  name: Neutrophils - Manual (Group:POLY)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:5802-4  name: Nitrites (Group:UA-NIT)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:5794-3  name: Occult Blood (Group:UA-BLD)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:5803-2  name: PH (Group:UA-PH)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:2777-1  name: Phosphorus (Group:PHOS)  count: 4
+patient_num: 1000000096  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 6
+patient_num: 1000000096  laboratory code: LOINC:9317-9  name: PLT Estimate (Group:PLTEST)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:2823-3  name: Potassium (Group:K)  count: 3
+patient_num: 1000000096  laboratory code: LOINC:5804-0  name: Protein (Group:UA-ALB)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:5898-2  name: PTT (Group:PTT)  count: 1
+patient_num: 1000000096  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 6
+patient_num: 1000000096  laboratory code: LOINC:5808-1  name: RBC - Urine Sed (Group:UAS-RBC)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:6742-1  name: RBC Morph Manual (Group:RCM-M)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:788-0  name: RDW (Group:RDW)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:2951-2  name: Sodium (Group:NA)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:5811-5  name: Specific Gravity (Group:UA-SPGR)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:1975-2  name: Total Bilirubin (Group:TBILI)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:2885-2  name: Total Protein (Group:TP)  count: 3
+patient_num: 1000000096  laboratory code: LOINC:2571-8  name: Triglycerides (Group:TRIG)  count: 1
+patient_num: 1000000096  laboratory code: LOINC:3016-3  name: TSH (Group:TSH)  count: 1
+patient_num: 1000000096  laboratory code: LOINC:5767-9  name: Turbidity (Group:UA-TURB)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:5818-0  name: Urobilinogen (Group:UA-UROBI)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 6
+patient_num: 1000000096  laboratory code: LOINC:5821-4  name: WBC - Urine Sed (Group:UAS-WBC)  count: 2
+patient_num: 1000000096  laboratory code: LOINC:5799-2  name: WBC Screen (Group:UA-WBC)  count: 2

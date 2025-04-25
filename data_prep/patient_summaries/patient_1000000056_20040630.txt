@@ -1,0 +1,34 @@
+demographics
+patient_num: 1000000056  age: 7
+patient_num: 1000000056  sex: F
+patient_num: 1000000056  race: black
+patient_num: 1000000056  language: german
+patient_num: 1000000056  vital_status: alive
+patient_num: 1000000056  earliest fact: Jun  2 2003 12:00AM
+patient_num: 1000000056  latest fact: Jun 30 2004 12:00AM
+patient_num: 1000000056  range in days: 394
+totals
+patient_num: 1000000056  distinct concepts: 26
+patient_num: 1000000056  total facts: 37
+patient_num: 1000000056  total encounters: 5
+patient_num: 1000000056  total asthma: 2
+descriptive
+patient_num: 1000000056  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 1
+patient_num: 1000000056  asthma code: ICD9:493.00  name: Extrinsic asthma without mention of status asthmaticus  count: 1
+patient_num: 1000000056  diagnosis code: ICD9:477.9  name: Allergic rhinitis, cause unspecified  count: 1
+patient_num: 1000000056  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 1
+patient_num: 1000000056  diagnosis code: ICD9:277.00  name: Cystic fibrosis without mention of meconium ileus  count: 1
+patient_num: 1000000056  diagnosis code: ICD9:493.00  name: Extrinsic asthma without mention of status asthmaticus  count: 1
+patient_num: 1000000056  diagnosis code: ICD9:691.8  name: Other atopic dermatitis and related conditions  count: 2
+patient_num: 1000000056  diagnosis code: ICD9:V30.00  name: Single liveborn, born in hospital, delivered without mention of cesarean section  count: 2
+patient_num: 1000000056  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 1
+patient_num: 1000000056  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 1
+patient_num: 1000000056  laboratory code: LOINC:2462-0  name: IgE (Group:IGE)  count: 1
+patient_num: 1000000056  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 1
+patient_num: 1000000056  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 1
+patient_num: 1000000056  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 1
+patient_num: 1000000056  laboratory code: LOINC:4545-0  name: MHCT (Group:MHCT)  count: 1
+patient_num: 1000000056  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 1
+patient_num: 1000000056  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 1
+patient_num: 1000000056  laboratory code: LOINC:788-0  name: RDW (Group:RDW)  count: 1
+patient_num: 1000000056  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 1

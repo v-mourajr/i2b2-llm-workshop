@@ -1,0 +1,63 @@
+**Visit Information:**
+- Patient Number: 1000000028
+- Visit Date: December 27, 2001
+
+**Subjective:**
+This is a 33-year-old Hispanic male who has been followed in our clinic for the past 3 years for asthma. He speaks German and presents today for a follow-up regarding his asthma management. The patient reports an increase in wheezing and shortness of breath over the past two weeks, with symptoms exacerbating in cold air and following physical exertion. Despite adherence to his prescribed medications, he notes no significant relief of symptoms.
+
+The patient's past medical history includes a diagnosis of asthma and situs inversus, the latter being identified incidentally and not currently requiring intervention. There are no records of previous surgical procedures.
+
+The patient currently takes albuterol PRN for acute asthma attacks and a daily inhaled corticosteroid for maintenance. He has been compliant with this regimen but expresses concern about the persistent frequency of his asthma exacerbations.
+
+Socially, he lives alone and works as a manual laborer, which sometimes intensifies his symptoms due to physical exertion and exposure to environmental triggers. He is a non-smoker and engages in social drinking, averaging 1-2 alcoholic drinks per week. There are no known allergies.
+
+He describes his wheezing as intermittent, particularly worsening in cold environments and after physical activities, with episodes lasting a few minutes to half an hour and occasionally resolving with his rescue inhaler. He has attempted non-pharmacological interventions such as using humidifiers and avoiding known triggers, but these have offered limited relief. He has not experienced any significant side effects from his asthma medications.
+
+**Objective:**
+- **Vital Signs:**
+    - Blood Pressure: 130/85 mmHg
+    - Heart Rate: 80 bpm
+    - Respiratory Rate: 22 breaths per minute
+    - Temperature: 98.6°F
+    - Oxygen Saturation: 96% on room air
+
+- **General Appearance:**
+    The patient appears well-developed, oriented, and in no acute distress, although he shows mild dyspnea upon exertion.
+
+- **Cardiovascular:**
+    Heart sounds are normal with a regular rate and rhythm. No murmurs, gallops, or rubs are noted.
+
+- **Respiratory:**
+    Bilateral wheezes are heard, more prominent in the lower lung fields. No rales or rhonchi are present. The patient exhibits a prolonged expiratory phase.
+
+- **Abdomen:**
+    The abdomen is soft and non-tender, with no hepatosplenomegaly or masses detected, and bowel sounds are normal.
+
+- **Musculoskeletal:**
+    There is no joint swelling or deformities, and he has full range of motion in all extremities.
+
+- **Neurological:**
+    The patient is alert and oriented to person, place, and time. Cranial nerves are intact, and motor strength is 5/5 in all extremities.
+
+- **Skin:**
+    The skin is warm, dry, and intact, with no rashes or lesions.
+
+**Assessment:**
+The patient’s primary diagnosis remains asthma, unspecified without mention of status asthmaticus. Seasonal and environmental factors appear to be contributing to his present symptoms. Additional diagnoses include:
+
+- Bipolar affective disorder and neurotic depression, which warrant further monitoring.
+- Episodes of cough, occasional fever, and past events of syncope without current acute concern.
+- History of obesity, hyperlipidemia, unspecified viral infections, and essential hypertension that should be managed concurrently.
+- He has experienced mechanical complications due to an internal orthopedic device and injuries to the shoulder but these are stable currently.
+
+**Plan:**
+- **Asthma Management:**
+    - Continue with the current inhaled corticosteroid and albuterol PRN.
+    - Add a long-acting bronchodilator (LABA) to better control symptoms.
+    - Order routine spirometry and peak flow measurement to assess airway obstruction and bronchodilator response.
+    - Refer to an allergist for evaluation of potential allergen triggers contributing to exacerbations.
+
+**Follow-Up:**
+- Instructions for emergent follow-up care or monitoring: Advise the patient to contact the clinic if symptoms worsen, do not improve within a week, or if test results indicate further evaluation is needed.
+- Schedule a follow-up appointment in 1 month to reassess asthma control and review spirometry results. Pending the allergist's evaluation, adjust treatment as necessary.
+- Educate the patient on proper inhaler technique and the importance of adhering to prescribed maintenance therapy. Discuss potential environmental triggers and the necessity of avoiding them. Ensure the patient understands and agrees to the asthma action plan provided.

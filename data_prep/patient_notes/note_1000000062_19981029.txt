@@ -1,0 +1,57 @@
+This is a 26-year-old White male who has been receiving care at our clinic for approximately 1.5 years. He speaks English and presents today, October 29, 1998, for a follow-up visit to manage his chronic conditions, primarily his asthma.
+
+**Visit Information:**
+    - Patient Num: 1000000062
+    - Visit Date: October 29, 1998
+
+**Subjective:**
+    The patient reports experiencing an increase in asthma symptoms over the past two weeks, including episodes of wheezing and chest tightness, that have been occurring mostly at night and early in the morning. He notes that these symptoms are not fully relieved by his current inhaler. The patient denies fever, chills, or significant weight changes recently, although he does express concern about a previous episode of abnormal weight loss. He also reports ongoing issues with chronic pharyngitis and occasional dyspnea, particularly when the air is dry or polluted.
+
+    The patient's past medical history includes a diagnosis of unspecified asthma without mention of status asthmaticus, chronic pharyngitis, recurrent sinusitis, and episodes of dyspnea. No relevant surgical history was reported. 
+
+    Currently, he is taking a combination of a short-acting beta-agonist inhaler, which he uses as needed, along with an inhaled corticosteroid. He has been adherent to his medication regimen but finds the relief from his inhaler to be temporary and often insufficient. He does not take any supplements.
+
+    The patient's social history is notable for living alone; he works as a graphic designer with no known occupational exposures contributing to his respiratory symptoms. He is a non-smoker and denies alcohol and drug use.
+
+    There are no known allergies reported.
+
+    The patient's experience with his symptoms involves frequent use of his rescue inhaler without prolonged relief, suggesting a further assessment of his treatment plan may be necessary.
+
+**Objective:**
+    - Vital Signs:
+        - Blood Pressure: 120/80 mmHg
+        - Heart Rate: 78 bpm
+        - Respiratory Rate: 18 breaths/min
+        - Temperature: 98.6°F
+        - Oxygen Saturation: 98% on room air
+
+    - General Appearance: The patient appears in no acute distress, alert, and oriented, with appropriate affect and demeanor.
+    
+    - Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops noted.
+    
+    - Respiratory: Expiratory wheezes heard bilaterally, no crackles or rhonchi. Slight intercostal retractions noted. 
+      
+    - Abdomen: Nondistended, soft, non-tender with normal bowel sounds. No hepatosplenomegaly.
+      
+    - Musculoskeletal: No joint swelling or deformities, good range of motion without pain.
+    
+    - Neurological: Alert and oriented X 3, cranial nerves II-XII intact, motor strength 5/5 in all extremities.
+    
+    - Skin: No rashes or lesions, normal turgor.
+
+    - Relevant laboratory findings from previous visits include consistently monitored CBC parameters such as HGB, HCT, RBC, WBC, PLT which have been within normal limits.
+
+**Assessment:**
+    This patient presents with exacerbation of his chronic asthma, likely due to environmental triggers or suboptimal control with his current medication regimen. He also has a history of chronic pharyngitis and recurrent sinusitis which may be contributing factors.
+
+**Plan:**
+    - Adjust the current asthma management by increasing the dose of his inhaled corticosteroid. Prescribe a long-acting beta-agonist to be used in combination with the inhaled corticosteroid.
+    - Educate the patient on the correct inhaler techniques and the importance of avoiding known triggers.
+    - Recommend a follow-up appointment in one month to reassess symptom control.
+    - Order a spirometry test to evaluate lung function and confirm the efficacy of the new treatment regimen.
+    - Consider a referral to a pulmonologist for advanced management should symptoms persist or worsen.
+    - Encourage the patient to continue monitoring his symptoms and use a peak flow meter daily.
+    - Provide the patient with educational materials on asthma management and environmental control measures at home.
+
+**Follow-Up:**
+    Instruct patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. Emphasize the importance of adherence to the updated medication regimen and proper inhaler technique. Instruct him to return for a follow-up visit in one month or sooner if necessary.

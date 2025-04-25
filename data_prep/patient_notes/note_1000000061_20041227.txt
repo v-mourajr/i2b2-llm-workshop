@@ -1,0 +1,52 @@
+**Visit Information:**
+- Patient Num: 1000000061
+- Visit Date: December 27, 2004
+
+**Subjective:**
+This is a 36-year-old Asian male who communicates primarily in Spanish, presenting to our clinic for a follow-up regarding his currently controlled but intermittently symptomatic asthma, along with pain management for his thoracic spine and evaluation of a previously treated knee wound. He has been under our care for approximately 7 years. The current visit mainly focuses on persistent muscle spasm and pain in the thoracic spine, which he rates as moderate in intensity and aggravated with physical activity, particularly at his construction job. He reports that his asthma is managed with an albuterol inhaler, but he has noted increased need for its use at night over the past few weeks.
+
+The open wound on his left knee, which had previously been treated, shows significant healing progress. However, the patient still experiences occasional discomfort and mild swelling without any recent trauma or systemic symptoms such as fever or unexplained weight loss.
+
+He follows a medication regimen, including the usage of an albuterol inhaler for asthma. He denies any recent hospitalizations or surgeries. Socially, he lives alone, desires to stop smoking, currently consuming about one pack of cigarettes daily. He abstains from alcohol and illicit drugs. There are no known allergies, and no new or unusual symptoms have been reported beyond his noted complaints.
+
+**Objective:**
+Vital signs recorded during today's visit are within normal limits with blood pressure at 125/85 mmHg, heart rate at 78 beats per minute, respiratory rate at 18 breaths per minute, a temperature of 98.6°F, and oxygen saturation at 97% on room air. 
+
+On general appearance, the patient is alert, oriented, and appears well-groomed with no signs of acute distress.
+
+The cardiovascular examination reveals a regular heart rate and rhythm without murmurs, gallops, or rubs. Peripheral pulses are symmetrical and palpably strong bilaterally.
+
+During the respiratory examination, clear bilateral breath sounds were noted without wheezing or crackles. Chest expansion demonstrated good symmetry.
+
+The abdominal examination is notably normal with no tenderness, palpable masses, or evidence of organomegaly.
+
+Musculoskeletal examination indicates tenderness and paraspinal muscle spasm in the thoracic spine region. The knee examination reveals a well-healed scar with mild residual swelling over the left knee, no signs of erythema or localized heat present.
+
+Neurological assessment shows intact cranial nerves II-XII, with full strength (5/5) in all extremities, and no sensory deficits detected.
+
+Skin examination was unremarkable with no new rashes or lesions.
+
+Laboratory investigations show stable and normal parameters for hematocrit, hemoglobin, red blood cells, lymphocytes, neutrophils, monocytes, platelets, and white blood cells, indicating no acute hematological abnormalities.
+
+**Assessment:**
+1. Asthma: The patient's asthma is managed with an albuterol inhaler; however, increased nocturnal symptoms indicate possible uncontrolled asthma requiring an adjustment in his therapeutic plan.
+2. Thoracic spine pain: Presentation suggests a mechanical origin, likely exacerbated by his manual work duties as a construction worker.
+3. Post-surgical open wound of the left knee: Showing good healing but mild inflammation and residual discomfort.
+
+**Plan:**
+1. Asthma:
+   - Continue the use of albuterol inhaler as needed.
+   - Introduce a low-dose inhaled corticosteroid (ICS) to mitigate nocturnal symptoms.
+   - Strongly encourage smoking cessation by referring him to a smoking cessation program and discussing associated benefits specific to asthma care.
+
+2. Thoracic Spine Pain:
+   - Recommend nonsteroidal anti-inflammatory drugs (NSAIDs) such as ibuprofen for pain management as required.
+   - Provide a referral to a physical therapist for a tailored exercise program aimed at strengthening the back and core muscles.
+   - Guide proper body mechanics and ergonomics to reduce work-related strain.
+
+3. Open Wound of Knee:
+   - Continue monitoring for any signs of infection or progressive symptoms.
+   - Advise the use of ice application and leg elevation to reduce swelling.
+   - Consider an orthopedic specialist referral if symptoms persist or worsen, potentially requiring further intervention.
+
+The patient has been instructed to seek immediate attention if symptoms deteriorate or fail to improve within a week, or if further evaluation is deemed necessary based on laboratory or clinical findings. A follow-up consultation in 4 weeks has been scheduled to monitor asthma control evolution and thoracic spine pain management, reinforcing understanding and adherence to the outlined treatment plan provided in Spanish.

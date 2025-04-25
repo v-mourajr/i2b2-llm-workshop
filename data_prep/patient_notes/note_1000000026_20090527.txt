@@ -1,0 +1,54 @@
+\nPlease note: In all sections below, include details only if they can be inferred from the ICD9, NDC, or LOINC codes provided in the patient_summary; otherwise, leave blank.\n
+
+Visit Information:
+    - Patient Num: 1000000026
+    - Visit Date: 05/27/2009
+
+Subjective:
+This is a 66-year-old White male, German-speaking, who has been receiving care at our clinic for several years due to chronic conditions, primarily asthma. He presented today for a follow-up regarding his asthma and other comorbidities. The patient reports an increase in shortness of breath and wheezing over the past week, predominantly in the evenings. He admits to occasionally missing doses of his inhaler, which he attributes to forgetfulness. He manages his symptoms using air purifiers and avoiding known triggers but notes that physical activity exacerbates his symptoms.
+
+The patient has a significant medical history that includes multiple episodes of status asthmaticus, chronic obstructive asthma, acute myocardial infarctions, chronic ischemic heart disease, and anemia. He has previously undergone a colonoscopy and multiple cardiovascular examinations, including coronary arteriography and the insertion of coronary artery stents. Recently, he has had no recurrence of gastrointestinal symptoms, following treatment for gastrointestinal hemorrhage.
+
+Currently, he is prescribed Midazolam Hydrochloride 1 mg/ml solution for sedation, which causes drowsiness but is well-tolerated. His past medications include Cefazolin Sodium, Droperidol, Heparin Sodium, and Integrelin. Socially, he is retired, lives alone, does not smoke, and occasionally consumes alcohol. He has no known drug allergies. His asthma symptoms are somewhat relieved by inhaler use, though non-compliance has recently worsened his condition. Nocturnal wheezing and breathlessness in the evenings are particularly troubling for him.
+
+Objective:
+Vital Signs:
+- Blood Pressure: 130/85 mmHg
+- Heart Rate: 82 bpm
+- Respiratory Rate: 20 breaths per minute
+- Temperature: 98.6°F
+- Oxygen Saturation: 95% on room air
+
+General Appearance:
+The patient appears well-nourished and in no acute distress.
+
+Cardiovascular:
+Regular heart rate and rhythm with no murmurs, gallops, or rubs.
+
+Respiratory:
+Clear to auscultation bilaterally with a prolonged expiratory phase. Occasional wheeze noted on forced exhalation.
+
+Abdomen:
+Non-tender, no hepatosplenomegaly or masses. Bowel sounds present.
+
+Musculoskeletal:
+Full range of motion in all extremities without tenderness or swelling.
+
+Neurological:
+Alert and oriented to person, place, and time. Cranial nerves II-XII intact.
+
+Skin:
+Warm, dry, without rashes or lesions.
+
+Assessment:
+This patient’s primary diagnosis is asthma, encompassing unspecified type with history of status asthmaticus and chronic obstructive asthma. He is currently experiencing exacerbations likely due to non-adherence to his inhaler regimen. His secondary diagnoses include chronic ischemic heart disease with a history of multiple myocardial infarctions and a resolved gastrointestinal hemorrhage, with no current symptoms.
+
+Plan:
+1. Emphasize the importance of regular inhaler use to the patient. Consider adding a long-acting bronchodilator to his treatment regimen. Schedule pulmonary function tests to evaluate current lung function. If deemed necessary by test results, refer the patient to a pulmonologist for comprehensive asthma management.
+   
+2. Continue regular follow-up with gastroenterology. Monitor for any signs of recurrent gastrointestinal bleeding, and advise immediate reporting of any issues.
+
+3. Maintain regular monitoring for ischemic heart disease. Assess the current cardiovascular medication regimen and adjust if needed based on this assessment.
+
+Follow-Up:
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results suggest the need for further evaluation. The patient understood the plan and acknowledged the importance of medication compliance. A follow-up appointment has been scheduled for one month to reassess his asthma control and cardiovascular status.

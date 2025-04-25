@@ -1,0 +1,72 @@
+### Visit Information:
+- Patient Num: 1000000092
+- Visit Date: 09/03/2009
+
+### Subjective:
+This is a 41-year-old Black male who has been a patient in our clinic since June 16, 1998. He presents today for a follow-up visit focusing on his chronic asthma and recent exacerbations. The patient reports an increase in wheezing, chest tightness, and shortness of breath over the past week, particularly at night and with physical exertion. Despite his adherence to the current medication regimen, which includes Albuterol Sulfate, Beconase, and Serevent Diskus, his symptoms have worsened, particularly when exposed to cold air. He has not experienced fever, chills, or recent weight loss.
+
+His medical history is significant for asthma, allergic rhinitis, bronchitis, depressive disorder, episodic gastrointestinal hemorrhage, slow transit constipation, hemorrhoids, and chronic sinusitis. The patient’s asthma is well-documented and has been managed with a combination of medications and lifestyle adjustments. Occasionally, he admits to missing doses of his medications.
+
+Socially, the patient is a non-smoker, lives with his spouse, works in an office setting, and denies any illicit drug use. He is fluent in English and reports no known drug allergies. For non-pharmacological management, he has been using a humidifier at home and avoiding known asthma triggers, though these measures have provided limited relief recently.
+
+### Objective:
+**Vital Signs:**
+- Blood Pressure: 130/85 mmHg
+- Heart Rate: 82 bpm
+- Respiratory Rate: 18 breaths per minute
+- Temperature: 98.7°F
+- Oxygen Saturation: 96% on room air
+
+**General Appearance:**
+The patient appears well-nourished and is in no acute distress, though mild dyspnea is observed.
+
+**Cardiovascular:**
+The cardiovascular examination reveals a regular heart rhythm with no murmurs, gallops, or rubs. Peripheral pulses are strong and intact.
+
+**Respiratory:**
+Auscultation reveals inspiratory and expiratory wheezing bilaterally. There are no rales or rhonchi, though minimal use of accessory muscles is noted.
+
+**Abdomen:**
+The abdomen is soft, non-tender, and non-distended, with active bowel sounds present in all quadrants.
+
+**Musculoskeletal:**
+The musculoskeletal examination shows no joint swelling or tenderness. The patient has a full range of motion in all extremities.
+
+**Neurological:**
+Neurologically, the patient is alert and oriented to person, place, and time. Cranial nerves II-XII are intact, and reflexes are normal.
+
+**Skin:**
+The skin examination reveals it to be warm and dry, without rashes or lesions.
+
+Recent laboratory results, including liver function tests (AST and ALT), were within normal limits. Routine blood tests, such as white blood cell count, eosinophils, and the baseline metabolic panel, showed no significant abnormalities.
+
+### Assessment:
+The patient is experiencing an exacerbation of chronic asthma, likely exacerbated by environmental triggers and seasonal changes. Symptoms of increased wheezing and chest tightness indicate that his current asthma management plan needs adjustment to prevent acute episodes.
+
+Secondary issues include ongoing management of allergic rhinitis, depressive disorder, and gastrointestinal concerns. His slightly elevated cardiovascular risk requires monitoring, though no acute issues are currently present.
+
+### Plan:
+1. **Medication Adjustment:**
+   - Increase the dosage of the inhaled corticosteroid.
+   - Continue the short-acting beta-agonist (Albuterol Sulfate) for acute symptom relief as needed.
+
+2. **Diagnostic Tests:**
+   - Perform repeat spirometry to evaluate the patient's current lung function and adjustment needs for asthma management.
+   - Conduct an allergy panel to identify any newly developed or potential allergens contributing to the exacerbations.
+
+3. **Referral:**
+   - Refer the patient to a pulmonary specialist for a comprehensive evaluation and detailed management plan for asthma.
+
+4. **Patient Education:**
+   - Discuss the critical importance of medication adherence and the potential consequences of missed doses.
+   - Provide strategies for avoiding known asthma triggers, including the use of a humidifier and minimizing exposure to cold air and vigorous exercise.
+   - Educate the patient about the use of a peak flow meter to monitor asthma symptoms and maintain effective control.
+
+5. **Follow-Up:**
+   - Arrange a follow-up appointment in two weeks to reassess asthma control and symptom management.
+   - Advise the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results necessitate further evaluation.
+
+6. **Emergency Instructions:**
+   - Ensure the patient understands the signs of acute asthma exacerbations and the necessity of seeking emergent care if respiratory distress occurs.
+
+The patient demonstrated an understanding of the treatment plan and agreed to comply with the prescribed modifications.

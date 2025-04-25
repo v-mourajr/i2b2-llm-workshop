@@ -1,0 +1,44 @@
+Visit Information:
+- Patient Num: 1000000076
+- Visit Date: 12/21/2004
+
+Subjective:
+This is a 57-year-old Black male who has been receiving care at our clinic for approximately 4 years. His primary language is German, and he presented today for a follow-up appointment primarily to address his asthma management. He reports that his last asthma exacerbation occurred about two weeks ago, requiring increased use of his rescue inhaler. The patient describes persistent symptoms of coughing and episodes of dyspnea, which are most notably worsened by physical exertion and exposure to allergens. These symptoms have been consistent over several months despite adherence to his prescribed medication regimen, including an inhaled corticosteroid and a short-acting beta-agonist. Additionally, he mentions using antihistamines as needed for allergic symptoms.
+
+His medical history includes asthma and allergic rhinitis, along with a previous report of limb pain. There is no past surgical history. Presently, he does not use any herbal supplements. The patient is a non-smoker, consumes alcohol sparingly, and has attempted to limit exposure to secondhand smoke in his living environment. There are no known drug allergies.
+
+His respiratory symptoms began worsening with the onset of colder weather last autumn and have been persistent, with varying severity. Aggravating factors include dust and cold air, while respiratory medications provide partial relief. He rates his dyspnea and cough as moderate in severity.
+
+Objective:
+Vital signs recorded today include Blood Pressure at 130/85 mmHg, Heart Rate of 88 beats per minute, Respiratory Rate of 20 breaths per minute, Temperature of 98.6°F, and Oxygen Saturation of 95% on room air.
+- General Appearance: The patient appears in no acute distress, well-nourished, and alert.
+- Cardiovascular: Regular rate and rhythm, no murmurs, gallops, or rubs detected.
+- Respiratory: Auscultation reveals occasional wheezing bilaterally with a prolonged expiratory phase, but no crackles or rhonchi. Oxygen saturation is slightly reduced.
+- Abdomen: Soft, non-tender, non-distended with normal bowel sounds.
+- Musculoskeletal: No joint swelling or deformities observed. Full range of motion in all extremities, though the patient reports tenderness in the lower limbs without visible abnormalities.
+- Neurological: Alert and oriented to person, place, and time. Cranial nerves II-XII intact, and motor and sensory exams are grossly normal.
+- Skin: No rashes, lesions, or cyanosis observed.
+
+Assessment:
+The patient’s primary diagnosis remains asthma, unspecified without mention of status asthmaticus. Additionally, he has allergic rhinitis and a chronic cough, likely secondary to his asthma and allergic conditions. Secondary considerations include other dyspneas and respiratory abnormalities. The limb pain complaint persists but is less clinically significant compared to his respiratory issues.
+
+Plan:
+1. Asthma and Respiratory Management:
+   - Continue with current use of inhaled corticosteroid and rescue inhaler.
+   - Increase the inhaled corticosteroid dosing frequency during acute episodes if needed.
+   - Consider introducing a long-acting beta-agonist if symptoms persist.
+   - Educate the patient on the proper use of a peak flow meter for asthma control monitoring.
+   - Schedule spirometry to assess lung function more accurately.
+   - Referral to a respiratory specialist for further management.
+
+2. Allergic Rhinitis:
+   - Continue antihistamines as needed.
+   - Recommend an allergy assessment to identify and avoid triggers.
+   - Consider a trial of nasal corticosteroids if symptoms persist.
+
+3. General Symptom Management:
+   - Advise routine use of a humidifier to alleviate cough symptoms.
+   - Suggest physical therapy for limb pain if it continues to be bothersome.
+
+Follow-Up:
+Instruct the patient to contact the clinic if asthma symptoms worsen or do not improve within a week. Schedule a follow-up appointment in three months to re-evaluate asthma control and response to medication adjustments. The patient has been educated about the management plan, recognizing the signs of exacerbation, and ensuring proper medication usage.

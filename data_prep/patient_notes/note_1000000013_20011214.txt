@@ -1,0 +1,71 @@
+**Visit Information:**
+
+- **Patient Num:** 1000000013
+- **Visit Date:** 12/14/2001
+
+**Subjective:**
+
+This is a 75-year-old Black female who has been under the clinic's care. She speaks German and is presenting today, 12/14/2001, for a follow-up visit to evaluate ongoing fatigue and generalized weakness. She reports that these symptoms have continued to be a significant concern and have become more pronounced over the past few weeks. The fatigue is unrelenting and not relieved by rest, and she occasionally experiences mild headaches and dizziness.
+
+The patient has a known medical history of hypertension, type 2 diabetes mellitus, benign neoplasm of the colon, and congestive heart failure. She underwent a cholecystectomy several years ago without complications. Her medications include metformin 500 mg twice daily for diabetes, lisinopril 10 mg once daily for hypertension, and atorvastatin 20 mg once daily for hyperlipidemia. She has been compliant with her medications and does not report any adverse side effects.
+
+In her social history, the patient is retired and lives alone. She does not smoke and consumes alcohol occasionally. She describes her lifestyle as relatively sedentary due to her chronic fatigue, which has moderately limited her ability to engage in physical activities.
+
+The patient has no known allergies. She emphasizes that her fatigue is pervasive, constant, and rates it as a 7 out of 10 in severity. Rest seems to aggravate her dizziness and sometimes her headaches, but moving around, though challenging, provides slight relief.
+
+In managing her symptoms, she has tried increasing her rest periods and making dietary adjustments to include more iron-rich foods but has not noticed significant improvement.
+
+**Objective:**
+
+- **Vital Signs:**
+  - Blood Pressure: 150/94 mmHg
+  - Heart Rate: 80 beats per minute
+  - Respiratory Rate: 18 breaths per minute
+  - Temperature: 98.5°F
+  - Oxygen Saturation: 96% on room air
+
+- **General Appearance:** The patient appears well-nourished but displays signs of fatigue. No acute distress is noted.
+- **Cardiovascular:** Regular rate and rhythm, no murmurs, rubs, or gallops. Carotid pulses are strong and equal bilaterally. No jugular venous distension.
+- **Respiratory:** Lungs are clear to auscultation bilaterally with no wheezes, crackles, or rales.
+- **Abdomen:** Soft, non-distended, and non-tender with normal bowel sounds. No masses or organomegaly palpated.
+- **Musculoskeletal:** No visible joint swelling or tenderness. Muscle strength is 4/5 across all extremities, with slight limitations due to reported generalized weakness.
+- **Neurological:** The patient is alert and oriented to person, place, and time. Cranial nerves II-XII are intact. No focal neurological deficits detected.
+- **Skin:** Skin is intact with no rashes, lesions, or bruising.
+
+Relevant laboratory results obtained from today's visit demonstrate:
+- Absolute counts of lymphocytes, monocytes, and neutrophils were within the normal range.
+- Hematocrit and hemoglobin levels were within the normal range.
+- Mean corpuscular hemoglobin, mean corpuscular hemoglobin concentration, and red blood cell count were all within normal limits.
+- No abnormalities detected in the platelet count or white blood cell count.
+
+**Assessment:**
+
+Considering the patient's clinical presentation and laboratory findings, the following issues were identified:
+
+**Issue/Problem/Request 1: Fatigue and Generalized Weakness**
+- **Assessment:** The patient's symptoms and normal laboratory findings suggest a likely diagnosis of anemia of chronic disease, potential early stages of renal insufficiency, or non-anemic iron deficiency.
+- **Diagnostic Tests:** To further evaluate, I will order an iron panel including ferritin, transferrin saturation, and total iron-binding capacity (TIBC).
+- **Treatment Plan:** Should anemia be confirmed, initiate oral iron supplementation. Monitor hemoglobin and hematocrit levels closely, and continue dietary counseling to ensure adequate iron intake.
+
+**Issue/Problem/Request 2: Hypertension**
+- **Assessment:** The hypertension appears to be well-controlled, but the persistent fatigue warrants an evaluation for secondary causes, possibly related to renal pathology.
+- **Diagnostic Tests:** Conduct renal function tests including blood urea nitrogen (BUN) and creatinine levels to exclude any underlying renal contribution.
+- **Treatment Plan:** Maintain the current antihypertensive medication regimen and reinforce lifestyle modifications such as sodium restriction and progressive physical activity.
+
+**Issue/Problem/Request 3: Type 2 Diabetes Mellitus**
+- **Assessment:** Diabetes is currently managed with metformin, but the persistent symptoms may indicate suboptimal glycemic control.
+- **Diagnostic Tests:** Perform an HbA1c test to determine long-term blood glucose control.
+- **Treatment Plan:** Based on HbA1c results, consider adjusting antidiabetic medications. If needed, refer the patient to an endocrinologist for further management.
+
+**Plan:**
+
+1. Obtain a detailed iron panel and renal function tests to evaluate the cause of the patient's fatigue and weakness.
+2. Schedule a follow-up visit in 4 weeks to review test results and reassess treatment efficacy.
+3. Continue current medications while emphasizing adherence and potential dietary improvements.
+4. Offer dietary advice focusing on iron-rich foods and limit sodium intake to manage hypertension.
+5. Encourage the patient to engage in mild exercise to enhance cardiovascular health.
+6. Educate the patient on recognizing signs of worsening conditions and ensure she contacts the clinic if there is no improvement or if symptoms deteriorate within the week.
+
+**Follow-Up:**
+
+Instruct the patient to contact the clinic if her symptoms do not improve or worsen within the next week, or if the test results reveal any alarming concerns. Set up a follow-up appointment in 4 weeks to review the outcome of these interventions and adjust the treatment plan as necessary. Ensure the patient fully understands the plan and the importance of medication adherence and lifestyle modifications.

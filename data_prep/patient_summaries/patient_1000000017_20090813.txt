@@ -1,0 +1,127 @@
+demographics
+patient_num: 1000000017  age: 50
+patient_num: 1000000017  sex: M
+patient_num: 1000000017  race: black
+patient_num: 1000000017  language: english
+patient_num: 1000000017  vital_status: alive
+patient_num: 1000000017  earliest fact: Oct  3 1997 12:00AM
+patient_num: 1000000017  latest fact: Aug 13 2009 12:00AM
+patient_num: 1000000017  range in days: 4332
+totals
+patient_num: 1000000017  distinct concepts: 122
+patient_num: 1000000017  total facts: 647
+patient_num: 1000000017  total encounters: 74
+patient_num: 1000000017  total asthma: 8
+descriptive
+patient_num: 1000000017  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 8
+patient_num: 1000000017  diagnosis code: ICD9:285.9  name: Anemia, unspecified  count: 1
+patient_num: 1000000017  diagnosis code: ICD9:80.26  name: Arthroscopy of knee  count: 2
+patient_num: 1000000017  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 8
+patient_num: 1000000017  diagnosis code: ICD9:490  name: Bronchitis, not specified as acute or chronic  count: 1
+patient_num: 1000000017  diagnosis code: ICD9:89.41  name: Cardiovascular stress test using treadmill  count: 1
+patient_num: 1000000017  diagnosis code: ICD9:45.23  name: Colonoscopy  count: 1
+patient_num: 1000000017  diagnosis code: ICD9:078.11  name: Condyloma acuminatum  count: 1
+patient_num: 1000000017  diagnosis code: ICD9:786.2  name: Cough  count: 2
+patient_num: 1000000017  diagnosis code: ICD9:717.2  name: Derangement of posterior horn of medial meniscus  count: 1
+patient_num: 1000000017  diagnosis code: ICD9:470  name: Deviated nasal septum  count: 1
+patient_num: 1000000017  diagnosis code: ICD9:733.90  name: Disorder of bone and cartilage, unspecified  count: 1
+patient_num: 1000000017  diagnosis code: ICD9:719.06  name: Effusion of lower leg joint  count: 2
+patient_num: 1000000017  diagnosis code: ICD9:80.6  name: Excision of semilunar cartilage of knee  count: 1
+patient_num: 1000000017  diagnosis code: ICD9:V17.3  name: Family history of ischemic heart disease  count: 4
+patient_num: 1000000017  diagnosis code: ICD9:578.9  name: Hemorrhage of gastrointestinal tract, unspecified  count: 2
+patient_num: 1000000017  diagnosis code: ICD9:780.53  name: Hypersomnia with sleep apnea  count: 1
+patient_num: 1000000017  diagnosis code: ICD9:564.1  name: Irritable bowel syndrome  count: 1
+patient_num: 1000000017  diagnosis code: ICD9:782.2  name: Localized superficial swelling, mass, or lump  count: 2
+patient_num: 1000000017  diagnosis code: ICD9:718.10  name: Loose body in joint, site unspecified  count: 1
+patient_num: 1000000017  diagnosis code: ICD9:717.6  name: Loose body in knee  count: 1
+patient_num: 1000000017  diagnosis code: ICD9:780.7  name: Malaise and fatigue  count: 1
+patient_num: 1000000017  diagnosis code: ICD9:715.36  name: Osteoarthrosis, localized, not specified whether primary or secondary, involving lower leg  count: 2
+patient_num: 1000000017  diagnosis code: ICD9:715.96  name: Osteoarthrosis, unspecified whether generalized or localized, involving lower leg  count: 5
+patient_num: 1000000017  diagnosis code: ICD9:715.90  name: Osteoarthrosis, unspecified whether generalized or localized, involving unspecified site  count: 2
+patient_num: 1000000017  diagnosis code: ICD9:717.3  name: Other and unspecified derangement of medial meniscus  count: 2
+patient_num: 1000000017  diagnosis code: ICD9:80.16  name: Other arthrotomy of knee  count: 1
+patient_num: 1000000017  diagnosis code: ICD9:786.59  name: Other chest pain  count: 4
+patient_num: 1000000017  diagnosis code: ICD9:518.89  name: Other diseases of lung, not elsewhere classified  count: 2
+patient_num: 1000000017  diagnosis code: ICD9:786.09  name: Other dyspnea and respiratory abnormality  count: 2
+patient_num: 1000000017  diagnosis code: ICD9:38.99  name: Other puncture of vein  count: 1
+patient_num: 1000000017  diagnosis code: ICD9:714.89  name: Other specified inflammatory polyarthropathies  count: 1
+patient_num: 1000000017  diagnosis code: ICD9:078.19  name: Other specified viral warts  count: 1
+patient_num: 1000000017  diagnosis code: ICD9:83.42  name: Other tenonectomy  count: 1
+patient_num: 1000000017  diagnosis code: ICD9:727.05  name: Other tenosynovitis or hand and wrist  count: 6
+patient_num: 1000000017  diagnosis code: ICD9:719.40  name: Pain in joint, site unspecified  count: 1
+patient_num: 1000000017  diagnosis code: ICD9:486  name: Pneumonia, organism unspecified  count: 2
+patient_num: 1000000017  diagnosis code: ICD9:272.0  name: Pure hypercholesterolemia  count: 1
+patient_num: 1000000017  diagnosis code: ICD9:714.0  name: Rheumatoid arthritis  count: 3
+patient_num: 1000000017  diagnosis code: ICD9:V74.8  name: Screening examination for other specified bacterial and spirochetal diseases  count: 1
+patient_num: 1000000017  diagnosis code: ICD9:786.05  name: Shortness of breath  count: 4
+patient_num: 1000000017  diagnosis code: ICD9:727.00  name: Synovitis and tenosynovitis, unspecified  count: 2
+patient_num: 1000000017  diagnosis code: ICD9:786.50  name: Unspecified chest pain  count: 2
+patient_num: 1000000017  diagnosis code: ICD9:717.9  name: Unspecified internal derangement of knee  count: 2
+patient_num: 1000000017  diagnosis code: ICD9:382.9  name: Unspecified otitis media  count: 1
+patient_num: 1000000017  medication code: NDC:10019002805  name: Midazolam Hydrochloride 1 mg/ml solution Baxter Pharmaceutical Products Inc  count: 3
+patient_num: 1000000017  laboratory code: LOINC:704-7  name: Abs Basos Auto (Group:ABASOS)  count: 3
+patient_num: 1000000017  laboratory code: LOINC:711-2  name: Abs EOS Auto (Group:AEOS)  count: 3
+patient_num: 1000000017  laboratory code: LOINC:731-0  name: Abs Lymphs Auto (Group:ALYMPHS)  count: 3
+patient_num: 1000000017  laboratory code: LOINC:742-7  name: Abs Monos Auto (Group:AMONOS)  count: 3
+patient_num: 1000000017  laboratory code: LOINC:752-6  name: Abs Neuts Auto (Group:ANEUTS)  count: 3
+patient_num: 1000000017  laboratory code: LOINC:1751-7  name: Albumin (Group:ALB)  count: 2
+patient_num: 1000000017  laboratory code: LOINC:1742-6  name: ALT (SGPT) (Group:SGPT)  count: 2
+patient_num: 1000000017  laboratory code: LOINC:1798-8  name: Amylase (Group:AMY)  count: 2
+patient_num: 1000000017  laboratory code: LOINC:10466-1  name: Anion Gap (Group:ANION)  count: 2
+patient_num: 1000000017  laboratory code: LOINC:1920-8  name: AST (SGOT) (Group:SGOT)  count: 4
+patient_num: 1000000017  laboratory code: LOINC:706-2  name: Basophils - Auto (Group:BASOS)  count: 4
+patient_num: 1000000017  laboratory code: LOINC:5770-3  name: Bilirubin (Group:UA-BILI)  count: 2
+patient_num: 1000000017  laboratory code: LOINC:3094-0  name: Blood Urea Nitrogen (Group:BUN)  count: 5
+patient_num: 1000000017  laboratory code: LOINC:2000-8  name: Calcium (Group:CA)  count: 3
+patient_num: 1000000017  laboratory code: LOINC:2028-9  name: Carbon Dioxide (Group:CO2)  count: 5
+patient_num: 1000000017  laboratory code: LOINC:2075-0  name: Chloride (Group:CL)  count: 5
+patient_num: 1000000017  laboratory code: LOINC:2093-3  name: Cholesterol (Group:CHOL)  count: 3
+patient_num: 1000000017  laboratory code: LOINC:6773-6  name: CK-MB QUANT (Group:CPK-MB)  count: 2
+patient_num: 1000000017  laboratory code: LOINC:5778-6  name: Color (Group:UA-COLOR)  count: 2
+patient_num: 1000000017  laboratory code: LOINC:2157-6  name: CPK (Group:CPK)  count: 2
+patient_num: 1000000017  laboratory code: LOINC:2160-0  name: Creatinine (Group:CRE)  count: 6
+patient_num: 1000000017  laboratory code: LOINC:1968-7  name: Direct Bilirubin (Group:DBILI)  count: 4
+patient_num: 1000000017  laboratory code: LOINC:713-8  name: Eosinophils - Auto (Group:EOS)  count: 4
+patient_num: 1000000017  laboratory code: LOINC:4537-7  name: ESR (Group:ESR)  count: 6
+patient_num: 1000000017  laboratory code: LOINC:3246-6  name: Fibrin Split Products/D-Dimer (Group:FSP/DD)  count: 1
+patient_num: 1000000017  laboratory code: LOINC:2336-6  name: Globulin (Group:GLOB)  count: 2
+patient_num: 1000000017  laboratory code: LOINC:6777-7  name: Glucose (Group:GLU)  count: 6
+patient_num: 1000000017  laboratory code: LOINC:5792-7  name: Glucose - UA (Group:UA-GLUC)  count: 2
+patient_num: 1000000017  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 13
+patient_num: 1000000017  laboratory code: LOINC:2086-7  name: HDL (Group:HDL)  count: 2
+patient_num: 1000000017  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 13
+patient_num: 1000000017  laboratory code: LOINC:5797-6  name: Ketones (Group:UA-KET)  count: 2
+patient_num: 1000000017  laboratory code: LOINC:2090-9  name: LDL (Group:LDL)  count: 2
+patient_num: 1000000017  laboratory code: LOINC:3040-3  name: Lipase (Group:LIPS)  count: 2
+patient_num: 1000000017  laboratory code: LOINC:736-9  name: Lymphocytes - Auto (Group:LYMPHS)  count: 4
+patient_num: 1000000017  laboratory code: LOINC:11554-3  name: Magnesium (Group:MG)  count: 1
+patient_num: 1000000017  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 13
+patient_num: 1000000017  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 13
+patient_num: 1000000017  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 13
+patient_num: 1000000017  laboratory code: LOINC:5905-5  name: Monocytes - Auto (Group:MONOS)  count: 4
+patient_num: 1000000017  laboratory code: LOINC:770-8  name: Neutrophils - Auto (Group:POLYS)  count: 4
+patient_num: 1000000017  laboratory code: LOINC:5802-4  name: Nitrites (Group:UA-NIT)  count: 2
+patient_num: 1000000017  laboratory code: LOINC:5794-3  name: Occult Blood (Group:UA-BLD)  count: 2
+patient_num: 1000000017  laboratory code: LOINC:5803-2  name: PH (Group:UA-PH)  count: 2
+patient_num: 1000000017  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 13
+patient_num: 1000000017  laboratory code: LOINC:2823-3  name: Potassium (Group:K)  count: 5
+patient_num: 1000000017  laboratory code: LOINC:5804-0  name: Protein (Group:UA-ALB)  count: 2
+patient_num: 1000000017  laboratory code: LOINC:5902-2  name: PT (Group:PT)  count: 2
+patient_num: 1000000017  laboratory code: LOINC:6301-6  name: PT-INR (Group:PT-INR)  count: 2
+patient_num: 1000000017  laboratory code: LOINC:5898-2  name: PTT (Group:PTT)  count: 2
+patient_num: 1000000017  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 13
+patient_num: 1000000017  laboratory code: LOINC:5808-1  name: RBC - Urine Sed (Group:UAS-RBC)  count: 1
+patient_num: 1000000017  laboratory code: LOINC:11273-0  name: RBC Morph Auto (Group:RCM-A)  count: 1
+patient_num: 1000000017  laboratory code: LOINC:788-0  name: RDW (Group:RDW)  count: 6
+patient_num: 1000000017  laboratory code: LOINC:2951-2  name: Sodium (Group:NA)  count: 5
+patient_num: 1000000017  laboratory code: LOINC:5811-5  name: Specific Gravity (Group:UA-SPGR)  count: 2
+patient_num: 1000000017  laboratory code: LOINC:1975-2  name: Total Bilirubin (Group:TBILI)  count: 8
+patient_num: 1000000017  laboratory code: LOINC:2885-2  name: Total Protein (Group:TP)  count: 2
+patient_num: 1000000017  laboratory code: LOINC:2571-8  name: Triglycerides (Group:TRIG)  count: 2
+patient_num: 1000000017  laboratory code: LOINC:10839-9  name: Troponin-I (Group:TROP-I)  count: 2
+patient_num: 1000000017  laboratory code: LOINC:3016-3  name: TSH (Group:TSH)  count: 1
+patient_num: 1000000017  laboratory code: LOINC:5767-9  name: Turbidity (Group:UA-TURB)  count: 2
+patient_num: 1000000017  laboratory code: LOINC:5818-0  name: Urobilinogen (Group:UA-UROBI)  count: 2
+patient_num: 1000000017  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 13
+patient_num: 1000000017  laboratory code: LOINC:5821-4  name: WBC - Urine Sed (Group:UAS-WBC)  count: 1
+patient_num: 1000000017  laboratory code: LOINC:5799-2  name: WBC Screen (Group:UA-WBC)  count: 2

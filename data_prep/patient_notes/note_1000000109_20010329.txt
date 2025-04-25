@@ -1,0 +1,57 @@
+Visit Information:
+    - Patient Num: 1000000109
+    - Visit Date: March 29, 2001
+
+Subjective:
+This is a 55-year-old Hispanic male who has been receiving care at our clinic for approximately 1.5 years. He presents today for a follow-up visit, primarily concerning his asthma, which has been challenging to manage. Recently, he has experienced an exacerbation of his symptoms, including shortness of breath, chest tightness, and wheezing, particularly noticeable at night. He reports using his inhaler more frequently without significant relief. Additionally, he denies any recent infections, fever, or productive cough but mentions increased nasal congestion and rhinorrhea over the past few days.
+
+The patient’s medical history includes chronic asthma, previously diagnosed, and an upper respiratory infection treated successfully in the past. He takes an albuterol inhaler as needed, especially during episodes of dyspnea and a daily low-dose corticosteroid inhaler to manage inflammation. He notes compliance with his medication regimen but has required additional nebulizer treatments recently. He offers no reports of allergies. Non-pharmacological interventions such as avoiding known asthma triggers are in place, but he notes variable effectiveness depending on weather changes and air quality.
+
+The patient lives alone, is retired, and does light physical activity. He does not smoke but has a history of living in a house with smokers during his early years, which may contribute to his chronic respiratory issues. He states that his asthma has remained stable until this recent exacerbation.
+
+Objective:
+Vital Signs:
+    - Blood Pressure: 130/85 mmHg
+    - Heart Rate: 78 bpm
+    - Respiratory Rate: 18 breaths per minute
+    - Temperature: 98.2°F
+    - Oxygen Saturation: 94% on room air
+
+General Appearance:
+The patient appears in mild distress but is alert and oriented. He is well-nourished and in no apparent acute discomfort.
+
+Cardiovascular:
+Regular rate and rhythm, with no murmurs, rubs, or gallops noted. Peripheral pulses are strong and equal bilaterally.
+
+Respiratory:
+Increased respiratory effort noted with mild intercostal retractions. Scattered wheezes and prolonged expiratory phase heard bilaterally. No cyanosis or clubbing of the extremities. Chest X-ray review shows no acute pathology.
+
+Abdomen:
+Soft, non-tender, and without organomegaly. Bowel sounds are normoactive.
+
+Musculoskeletal:
+No joint deformities or muscle wasting observed. The patient exhibits a full range of motion with good tone.
+
+Neurological:
+Alert and oriented x3. Cranial nerves II-XII are grossly intact. Strength 5/5 in all extremities, deep tendon reflexes 2+ bilaterally.
+
+Skin:
+Warm, dry, and intact with no rashes or lesions.
+
+Assessment:
+The patient presents with an exacerbation of chronic asthma, likely aggravated by possible environmental factors and seasonal allergens. There are no signs of an active upper respiratory infection at this time. 
+
+Asthma:
+Assessment:
+    - The primary diagnosis remains chronic asthma with a current exacerbation.
+    - Differential diagnoses considered include allergic rhinitis and possible recurrence of upper respiratory infection.
+Diagnostic Tests:
+    - Peak flow measurement and spirometry are recommended to assess the severity of the airway obstruction.
+Treatment Plan:
+    - Continue current asthma medication regimen.
+    - Recommend an increase in the inhaled corticosteroid dose for better control.
+    - Prescribe a short course of oral corticosteroids (prednisone) to manage the acute exacerbation.
+    - Encourage the use of a nebulizer with bronchodilator treatments as needed.
+
+Follow-Up:
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. Follow-up in two weeks to reassess asthma control and ensure the exacerbation has resolved. Patient education provided regarding the importance of adherence to the medication plan and avoiding known triggers. He verbalizes understanding and agrees with the management plan.

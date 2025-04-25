@@ -1,0 +1,43 @@
+**Visit Information:**
+- Patient Num: 1000000085
+- Visit Date: 05/24/2010
+
+**Subjective:**
+This is a 64-year-old Indian female who has been receiving care at our clinic for over a decade. She speaks English fluently and presents today for a follow-up visit to manage her asthma and several other health issues. The primary reason for today's visit is continued nocturnal coughing episodes that interfere with her sleep, despite no recent upper respiratory infections. While using a humidifier at night provides some relief, it has proven to be only marginally beneficial. In addition, she reports experiencing mild abdominal discomfort, which she suspects is related to her ongoing gynecological history.
+
+Her past medical history includes diagnoses of cervicitis, endometriosis of the uterus and other locations, leiomyomas, hypopotassemia, and multiple abdominal surgeries, including a total abdominal hysterectomy. She has recurrent extrinsic asthma, various allergic reactions including anaphylactic shock due to food additives, and a depressive disorder.
+
+The patient adheres to her asthma regimen using an albuterol rescue inhaler and takes a potassium supplement, Allegra-D for allergies, Zoloft for depression, Garamycin for past infections, and Zantac for managing esophageal reflux. She reports no known allergies to medications. She lives a relatively sedentary lifestyle due to ongoing health issues, avoiding tobacco and alcohol. She resides with her husband and has two adult children, working in a sedentary occupation.
+
+**Objective:**
+Vital signs today are within normal limits: Blood Pressure is 118/72 mmHg, Heart Rate is 76 bpm, Respiratory Rate is 18 breaths/min, Temperature is 98.7°F, and Oxygen Saturation is 97% on room air. The patient appears well-nourished and not in any apparent distress.
+
+Cardiovascular examination reveals clear heart sounds with a regular rhythm and no murmurs. Respiratory examination finds clear lungs bilaterally without wheezing, rales, or use of accessory muscles. The abdominal examination shows a soft, non-tender abdomen with normal bowel sounds. Musculoskeletal examination reveals no joint swelling or deformities and a full range of motion in all extremities. Neurological assessment indicates that she is alert and oriented to person, place, and time with intact cranial nerves and normal motor strength. The skin examination is unremarkable, with no rashes or lesions.
+
+Recent lab results show normal albumin and aspartate aminotransferase levels, normal blood urea nitrogen, but persistently low serum potassium.
+
+**Assessment:**
+1. Asthma, unspecified: The patient's asthma is managed with current medication, though nocturnal symptoms persist, indicating a need for further management.
+2. Gynecological conditions (leiomyomas, endometriosis, cervicitis): These conditions remain stable and well-managed, requiring no new interventions currently.
+3. Hypopotassemia: Continues to require close monitoring and management with potassium supplements.
+
+**Plan:**
+1. For Asthma:
+   - Continue the use of albuterol inhaler as needed.
+   - Introduce a long-acting beta-agonist (LABA) to enhance control of nocturnal asthma symptoms.
+   - Advise the ongoing use of a humidifier at night.
+   - Schedule a follow-up in one month to reassess asthma management and make necessary adjustments.
+
+2. For Gynecological Conditions:
+   - Maintain the current postoperative care regimen.
+   - Maintain regular follow-ups with the gynecologist, with prompt attention to any new or concerning symptoms.
+
+3. For Hypopotassemia:
+   - Continue the current potassium supplement regimen.
+   - Plan for follow-up blood work to monitor potassium levels during the next visit.
+
+**Follow-Up:**
+The patient was instructed to contact the clinic if her symptoms worsen or do not improve within a week, or if any lab results indicate the need for further evaluation.
+
+**Patient Education & Understanding of the Plan:**
+The patient was provided with comprehensive education on the importance of adhering to her asthma treatment plan, recognizing the signs of low potassium, and meticulously following her medication regimen. She confirmed her understanding of the care plan, the significance of monitoring her symptoms, and proactively managing her health. She expressed comprehension and agreement with the proposed treatment plan.

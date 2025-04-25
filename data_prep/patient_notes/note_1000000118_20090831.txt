@@ -1,0 +1,48 @@
+**Visit Information:**
+ - Patient Num: 1000000118
+ - Visit Date: 08/31/2009
+
+**Subjective:**
+This is a 36-year-old Black male who has been under the care of our clinic for over a decade and communicates primarily in Spanish. He presents today for a follow-up visit, reporting an exacerbation of his asthma over the past month. The patient describes persistent episodes of shortness of breath, particularly troublesome at night and in the early mornings, coupled with a productive cough yielding yellowish mucus. He remarks that his albuterol inhaler is providing limited relief despite increased usage. Additionally, he notes frequent wheezing that moderately improves with steam inhalation.
+
+His past medical history is significant for long-standing asthma accompanied by episodes of acute bronchitis and allergic rhinitis. The patient has undergone multiple ear reconstructive surgeries due to past trauma involving an assault, which has also contributed to episodes of anxiety. He managed his asthma primarily with an albuterol inhaler and does not currently take any other medications or supplements. Socially, he resides with his family and is currently unemployed. He denies any known allergies.
+
+**Objective:**
+Vital signs were recorded as follows:
+- Blood Pressure: 122/78 mmHg
+- Heart Rate: 82 beats per minute
+- Respiratory Rate: 24 breaths per minute
+- Temperature: 98.4°F
+- Oxygen Saturation: 96% on room air
+
+The physical examination revealed the following:
+- General Appearance: The patient appeared alert, oriented, and mildly anxious but in no acute distress.
+- Cardiovascular: Regular heart rate and rhythm with no murmurs, rubs, or gallops.
+- Respiratory: Decreased breath sounds with bilateral expiratory wheezes; a prolonged expiratory phase was noted along with mild increased work of breathing, but no rales or rhonchi.
+- Abdomen: Soft, non-tender, non-distended with normal bowel sounds.
+- Musculoskeletal: No musculoskeletal abnormalities were observed aside from well-healed surgical scars on both ears.
+- Neurological: No focal neurological deficits were noted.
+- Skin: Healed surgical scars on the ears with no signs of infection or complications.
+
+**Assessment:**
+The clinical impression is that the patient is experiencing an asthma exacerbation, evidenced by the persistent productive cough, increased reliance on the albuterol inhaler, and wheezing.
+
+- Asthma:
+  - Assessment: The patient's current symptoms and physical examination findings suggest poorly controlled asthma. The increase in inhaler use without adequate relief highlights the necessity for enhanced treatment.
+  - Diagnostic Tests: Recommend peak flow monitoring and a consultation with pulmonology for spirometry and further evaluation of lung function.
+  - Treatment Plan: Start the patient on inhaled corticosteroids (e.g., fluticasone) to mitigate airway inflammation and improve symptom control. Continue the use of the albuterol inhaler up to four times daily. Provide patient education on adherence to this regimen and the use of non-pharmacological interventions like steam inhalation.
+
+- Chronic Ear Issues:
+  - Assessment: The patient has a history of ear reconstructive surgeries secondary to past trauma and now presents with well-healed surgical scars without current complications.
+  - Diagnostic Tests: No further testing is required at this time, as no new symptoms have emerged.
+  - Treatment Plan: Continue monitoring the patient. Educate the patient on the signs of potential complications such as swelling, pain, or discharge, and instruct him to report any such symptoms immediately.
+
+**Plan:**
+1. Increase the albuterol inhaler use to four times a day and introduce an inhaled corticosteroid such as fluticasone.
+2. Provide the patient with a peak flow meter and instruct him on its usage for at-home monitoring of lung function.
+3. Schedule a follow-up appointment in two weeks to evaluate the effectiveness of the treatment plan.
+4. Educate the patient on the importance of medication adherence and proper inhaler technique, as well as the utilization of non-pharmacological measures like steam inhalation.
+5. Explain the signs and symptoms that necessitate urgent medical attention, and instruct the patient to contact the clinic if his condition does not improve or worsens within a week.
+6. Ensure the patient understands the treatment plan and the need for immediate care should there be any new or worsening symptoms.
+
+The patient was instructed to adhere to these guidelines rigorously and to reach out to the clinic if his symptoms persist or if new concerns arise.

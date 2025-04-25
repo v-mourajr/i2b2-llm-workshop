@@ -1,0 +1,45 @@
+Visit Information:
+- Patient Num: 1000000067
+- Visit Date: 06/12/2010
+
+This is a 29-year-old Black female, who speaks English and has been under our care since July 31, 2000. Today she presents for follow-up for asthma management, primarily focusing on persistent respiratory symptoms.
+
+**Subjective:**
+The patient reports an increase in the frequency and severity of her asthma symptoms over the past few months. She describes experiencing episodes of coughing, wheezing, and shortness of breath, particularly at night and in the early morning. The symptoms are triggered by physical activity, dust exposure, and cold air. Her current medications include albuterol sulfate for immediate symptom relief and a corticosteroid spray for long-term management. Despite compliance with these medications, she continues to struggle with symptoms.
+
+Her medical history is significant for asthma, primarily of the unspecified type without status asthmaticus, and she has had several acute exacerbations. She also has recurrent bronchitis, a known diagnosis of pectus excavatum, and a history of abnormal Pap smears. She has experienced various viral infections in the past.
+
+She does not smoke or consume alcohol and is currently a college student living in a dormitory, which she believes may contribute to her ongoing respiratory issues due to possible environmental irritants. She denies any known allergies.
+
+Her current symptoms are characterized by frequent, non-productive nocturnal and early morning coughs that last for about 15 minutes each episode, often leaving her feeling short of breath. She rates the severity of these symptoms as 6 out of 10, with exercise exacerbating and rest or use of her rescue inhaler providing temporary relief.
+
+**Objective:**
+- Vital Signs:
+    - Blood Pressure: 118/74 mmHg
+    - Heart Rate: 80 bpm
+    - Respiratory Rate: 22 breaths per minute
+    - Temperature: 98.6°F
+    - Oxygen Saturation: 95% on room air
+
+- Physical Examination:
+    - General Appearance: She appears well, alert, and in no acute distress.
+    - Cardiovascular: Heart sounds are normal with no murmurs, rubs, or gallops.
+    - Respiratory: Bilateral wheezing noted with a prolonged expiratory phase, no crackles or rhonchi present.
+    - Abdomen: Soft, non-tender, non-distended with normal bowel sounds.
+    - Musculoskeletal: Normal range of motion in all extremities, no joint swelling or tenderness observed.
+    - Neurological: Cranial nerves II-XII intact, motor strength 5/5 in all extremities, deep tendon reflexes 2+ bilaterally.
+    - Skin: Unremarkable, no rashes, lesions, or cyanosis.
+
+**Assessment:**
+The patient has asthma, unspecified without status asthmaticus, which is currently poorly controlled. Secondary issues include a chronic cough and recurrent bronchitis, possibly exacerbated by environmental conditions in her dormitory living setting.
+
+**Plan:**
+1. Continue her current combination inhaler therapy, which includes a corticosteroid and a long-acting beta-agonist.
+2. Increase the dose of her combination inhaler during the evening to target nocturnal symptoms more effectively.
+3. Add a leukotriene receptor antagonist to her treatment plan to manage any allergic components.
+4. Schedule spirometry to evaluate her lung function and determine the extent of airway obstruction.
+5. Arrange for a chest X-ray to rule out any complications related to her pectus excavatum.
+6. Perform allergy testing to identify possible environmental allergens contributing to her symptoms.
+7. Provide patient education on avoiding known asthma triggers, proper inhaler technique, and the importance of medication adherence.
+
+The patient has been advised to contact the clinic if her symptoms do not improve or worsen over the next week, or if any diagnostics suggest further evaluation is needed. A follow-up appointment is scheduled in four weeks to review her spirometry and chest X-ray results, and to reassess her response to the adjusted treatment regimen. The patient acknowledges and understands the treatment plan and instructions provided.

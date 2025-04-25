@@ -1,0 +1,75 @@
+**Visit Information:**
+- Patient Num: 1000000122
+- Visit Date: 06/14/2010
+
+---
+
+**Subjective:**
+
+This is a 12-year-old Indian female who has been a patient at our clinic for nearly eight years. She speaks German fluently and is accompanied by her mother today for a follow-up visit regarding her chronic asthma, which has seen a recent exacerbation. According to her mother, the patient has been experiencing increased episodes of wheezing and shortness of breath over the past two weeks. These symptoms have been particularly troubling during physical activities and at night. She also reports that her daughter had an acute upper respiratory infection approximately a month ago, which seemingly resolved but left lingering symptoms such as nasal congestion, persistent cough, and throat irritation.
+
+The patient’s significant medical history includes chronic asthma with recurrent exacerbations, and at times, status asthmaticus. She has had past episodes of acute bronchiolitis, anaphylactic shock due to adverse reactions to peanuts and tree nuts, and recurrent otitis media. There is a noted family history of asthma.
+
+She is currently on multiple medications, including Atrovent 18 mcg/inh aerosol to manage respiratory symptoms and Prednisolone Acetate 5 mg tablets during acute asthma exacerbations. For allergy management, she takes Allegra 180 mg tablets and Diphenhydramine Hydrochloride 12.5 mg/5 ml liquid. Zantac 1 mg/ml solution is used as needed for GERD symptoms. Despite adherence to her medication regimen, the recent exacerbation has not markedly improved, raising concern for her mother.
+
+Her social history is notable for living in a household where smoking is prohibited, and she is an active student. She has maintained a well-controlled diet, avoiding known allergens such as peanuts and tree nuts. There are no known additional allergies beyond food-related.
+
+**Objective:**
+
+- **Vital Signs:**
+  - Blood Pressure: 90/60 mmHg
+  - Heart Rate: 100 bpm
+  - Respiratory Rate: 26 breaths/min
+  - Temperature: 98.6 °F
+  - Oxygen Saturation: 94% on room air
+  
+- **General Appearance:** 
+  - An alert and cooperative child who appears to be in moderate respiratory distress.
+  
+- **Cardiovascular:** 
+  - Regular heart rate and rhythm without murmurs or gallops.
+  
+- **Respiratory:** 
+  - Bilateral expiratory wheezes and mild retractions noted. Decreased breath sounds at both lung bases and moderate use of accessory muscles.
+  
+- **Abdomen:** 
+  - Soft, non-tender abdomen with no palpable organomegaly.
+  
+- **Musculoskeletal:** 
+  - Good range of motion with no joint tenderness or swelling.
+  
+- **Neurological:** 
+  - Alert, oriented, and without any focal neurological deficits.
+  
+- **Skin:** 
+  - No visible rashes or lesions, no current eczema.
+  
+Laboratory results from recent visits revealed normal glucose, ketones, nitrites, and occult blood levels in urinalysis. White blood cell counts were within normal limits, suggesting no ongoing infection at the moment. Repeated tests for eosinophil counts and other white blood cell subtypes reflect chronic allergic and asthmatic activity.
+
+**Assessment:**
+
+This 12-year-old female is experiencing an exacerbation of her chronic asthma, compounded by a recent upper respiratory infection. The diagnosis of chronic asthma is supported by the frequent exacerbations and historical status asthmaticus events. The patient's history of anaphylactic reactions to nuts and seeds and recurrent otitis media highlights her significant allergic predispotions, which complicates her overall health management.
+
+**Plan:**
+
+1. **Asthma Management:**
+   - Continue Atrovent inhalations, with increased frequency allowed during exacerbations.
+   - Maintain Prednisolone Acetate 5 mg tablet administration during acute episodes, with a short, tapered oral corticosteroid regimen added to reduce inflammation.
+   - Referral to a pediatric pulmonologist for potential adjustments to her long-term management plan.
+   - Provide thorough education to the mother on recognizing early exacerbation signs and the importance of prompt emergency care access.
+
+2. **Allergy Management:**
+   - Strict avoidance of known allergenic foods (peanuts and tree nuts).
+   - Ensure continued availability and understanding of the epinephrine auto-injector usage for potential anaphylactic reactions.
+
+3. **Infection Management:**
+   - Vigilant monitoring for symptom differentiation to address potential new infections promptly.
+   - Advise adequate hydration and utilization of humidifiers to ease respiratory symptoms.
+
+4. **GERD Management:**
+   - Continue with Zantac solution as needed, with careful monitoring for any persistent or worsening GERD signs.
+
+**Follow-Up:**
+- Instruct the mother to contact the clinic should symptoms worsen or fail to improve within a week, or if additional tests suggest a need for further evaluation.
+- Schedule a follow-up appointment in one week to reassess the patient’s respiratory status and overall treatment efficacy.
+- Ensure comprehensive understanding of the management plan and reinforce the importance of adherence to prescribed medications and emergency measures.

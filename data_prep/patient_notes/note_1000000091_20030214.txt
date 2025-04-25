@@ -1,0 +1,60 @@
+**Visit Information:**
+- Patient Num: 1000000091
+- Visit Date: 02/14/2003
+
+**Subjective:**
+This is a nine-year-old Asian male who has been receiving care at our clinic for three years. He speaks Spanish and presents today for a follow-up visit regarding his asthma. His mother reports that he continues to experience nocturnal wheezing and shortness of breath, particularly with physical exertion such as playing. She also notes a recent upper respiratory infection that exacerbated his asthma symptoms.
+
+The patient has a history of unspecified asthma and episodes of dyspnea. Additionally, he had neonatal jaundice shortly after birth. Currently, he is on a regimen that includes an albuterol inhaler for acute symptom relief and a daily inhaled corticosteroid (ICS) for long-term management. His mother has been consistent with medication administration, although she is concerned that symptoms may be worsening due to seasonal changes. No new allergies have been reported. Socially, the patient lives with his parents and attends school where his symptoms are closely monitored by his mother.
+
+**Objective:**
+- **Vital Signs:**
+  - Blood Pressure: 100/60 mmHg
+  - Heart Rate: 98 bpm
+  - Respiratory Rate: 22 breaths/min
+  - Temperature: 98.7°F
+  - Oxygen Saturation: 96% on room air
+
+- **General Appearance:**
+  The patient appears alert, well-nourished, and in no acute distress.
+  
+- **Cardiovascular:**
+  Heart rate regular, no murmurs or abnormal rhythms detected.
+
+- **Respiratory:**
+  Mild use of accessory muscles noted during respiration. Breath sounds are diminished at the bases with occasional wheezes. No crackles or rhonchi.
+
+- **Abdomen:**
+  Soft, non-tender, no organomegaly observed.
+
+- **Musculoskeletal:**
+  Normal muscle tone and development, no joint abnormalities.
+
+- **Neurological:**
+  Alert, interacts appropriately for age. Cranial nerves intact.
+
+- **Skin:**
+  No cyanosis or clubbing, skin clear without rashes or lesions.
+
+Recent laboratory evaluations including complete blood count indicators, such as WBC, hemoglobin, and platelets, are all within normal ranges. Bilirubin levels remain stable, with no signs of jaundice.
+
+**Assessment:**
+The patient's asthma appears to be mild persistent given his night-time symptoms and exercise-induced episodes. His upper respiratory infection has largely resolved without signs of a secondary infection. Dyspnea is noted to be mild and partially controlled with his current asthma management plan. Previous neonatal jaundice is resolved without current issues.
+
+**Plan:**
+1. **Asthma Management:**
+   - Continue current use of ICS daily and albuterol as needed for acute symptoms.
+   - Implement the use of a peak flow meter for daily monitoring.
+   - Provide education on correct inhaler technique and the importance of medication adherence.
+   - Schedule a follow-up in one month to reassess asthma control and adjust treatment if necessary.
+
+2. **Acute Upper Respiratory Infection:**
+   - Reassurance and supportive care instructions given, emphasizing hydration and rest.
+   - No antibiotics are required at this time, continue monitoring for symptoms of secondary infection.
+
+3. **Further Respiratory Monitoring:**
+   - Plan for a repeat pulmonary function test (PFT) to assess lung function.
+   - Educate the mother on controlling environmental triggers like dust and smoke.
+
+**Follow-Up:**
+The patient's mother was advised to contact the clinic if the patient's symptoms worsen or do not improve within the week or if any new concerns arise. Clear instructions were given on recognizing signs that would require urgent attention. The family demonstrated understanding of the importance of adherence to the management plan. A follow-up visit has been scheduled in one month, with instructions to return sooner if symptoms change.

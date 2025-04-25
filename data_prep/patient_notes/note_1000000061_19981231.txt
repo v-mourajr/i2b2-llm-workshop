@@ -1,0 +1,60 @@
+**Visit Information:**
+- Patient Num: 1000000061
+- Visit Date: Dec 31, 1998
+
+**Subjective:**
+The patient is a 30-year-old Asian male who speaks Spanish and has been under our care intermittently. He presented today for a follow-up visit regarding ongoing issues with asthma and musculoskeletal complaints. The patient reports experiencing an increased frequency of thoracic spine pain over the past month, characterizing it as a persistent, dull ache that sometimes becomes sharp with certain movements. 
+
+He has an open wound history on his left knee and leg which he assures is healing well but notes that there is ongoing discomfort and occasional swelling. The patient denies any new trauma or systemic symptoms such as fever or weight loss. 
+
+Currently, he is on an albuterol inhaler, which he uses occasionally when he experiences shortness of breath. He claims that this provides relief, but he sometimes feels the need to use it more often at night. There have been no recent hospitalizations or surgeries.
+
+Socially, the patient lives alone, is employed as a construction worker, and smokes approximately one pack of cigarettes daily, though he has expressed interest in quitting. He denies alcohol or illicit drug use. He has no known allergies and has not noted any new symptoms other than those stated.
+
+**Objective:**
+Vital signs:
+- Blood Pressure: 125/85 mmHg
+- Heart Rate: 78 beats/minute
+- Respiratory Rate: 18 breaths/minute
+- Temperature: 98.6°F
+- Oxygen Saturation: 97% on room air
+
+General appearance: The patient is alert and oriented, in no acute distress.
+
+Cardiovascular: Heart sounds are regular with no murmurs, gallops, or rubs. Peripheral pulses are 2+ and symmetrical.
+
+Respiratory: Breath sounds are clear to auscultation bilaterally. There is no wheezing, rales, or rhonchi. Chest expansion is symmetric.
+
+Abdomen: Soft, non-tender, without hepatosplenomegaly or masses.
+
+Musculoskeletal: Tenderness is noted in the thoracic spine region with moderate paraspinal muscle spasm. The knee joint shows a well-healed scar, mild swelling, but no erythema or warmth.
+
+Neurological: Cranial nerves II-XII are intact, motor strength is 5/5 in all extremities, and sensation is intact.
+
+Skin: There are no rashes or lesions observed.
+
+Lab findings show normal hematological parameters including Hematocrit (HCT), Hemoglobin (HGB), and Red Blood Cell count (RBC). All other components including Lymphocytes, Neutrophils, Monocytes, Platelets (PLT), and White Blood Cell count (WBC) also fall within normal limits.
+
+**Assessment:**
+The patient has multiple chronic and acute conditions, primarily involving:
+1. Asthma: Controlled with the use of albuterol inhaler, though nocturnal symptoms suggest a possible adjustment in therapy.
+2. Thoracic spine pain: Likely mechanical in origin, possibly exacerbated by his physically demanding job.
+3. Status post-open wound of knee: Healing with residual discomfort likely due to mild inflammation or scar tissue.
+
+**Plan:**
+1. Asthma:
+   - Continue with albuterol inhaler as needed. 
+   - Prescribe a low-dose inhaled corticosteroid for better control of persistent nocturnal symptoms.
+   - Educate patient on smoking cessation and refer to a smoking cessation program.
+
+2. Thoracic Spine Pain:
+   - Recommend over-the-counter NSAIDs as needed for pain.
+   - Suggest physical therapy to strengthen the back and core muscles.
+   - Advise on proper body mechanics during work to prevent exacerbation.
+
+3. Open Wound of Knee:
+   - Monitor for signs of infection.
+   - Use of ice and elevation to reduce swelling.
+   - Consider referral to orthopedics if symptoms persist.
+
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. Schedule a follow-up appointment in 4 weeks to reassess asthma control and thoracic spine pain. Ensure the patient understands the treatment plan and give written instructions in Spanish for clarity.

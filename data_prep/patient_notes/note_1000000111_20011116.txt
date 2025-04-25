@@ -1,0 +1,55 @@
+**Visit Information:**
+- Patient Number: 1000000111
+- Visit Date: November 16, 2001
+
+**Subjective:**
+This is a 41-year-old Black male currently under care at our clinic for chronic asthma management. Over the past three months, he has reported frequent episodes of chest tightness and wheezing, particularly at night. These symptoms are exacerbated by exposure to strong odors and cold air. Additionally, the patient has had prior incidents involving toxic fumes, with symptoms managed successfully in the past. He uses an albuterol inhaler as needed and a daily low-dose inhaled corticosteroid. Though there has been improvement, he continues to experience nighttime disturbances and considers his asthma inadequately controlled. 
+
+The patient works in construction, frequently encountering dust and particulate matter, which he believes aggravates his symptoms. He lives alone, has no history of smoking, and denies substance abuse. He has experienced unresolved allergies but reports no recent respiratory infections. Furthermore, he has no known drug or food allergies.
+
+**Objective:**
+Vital Signs:
+- Blood Pressure: 130/85 mmHg
+- Heart Rate: 82 beats per minute
+- Respiratory Rate: 18 breaths per minute
+- Temperature: 98.6°F 
+- Oxygen Saturation: 97% on room air
+
+General Appearance:
+The patient is alert, oriented, and in no acute distress. He presents as well-nourished and well-groomed.
+
+Cardiovascular:
+Heart sounds are regular without murmurs, rubs, or gallops.
+
+Respiratory:
+Bilateral breath sounds are clear with occasional end-expiratory wheeze. There is no evident use of accessory muscles, and the diaphragm moves symmetrically with respiration.
+
+Abdomen:
+The abdomen is soft and non-tender, with no masses or organomegaly. Bowel sounds are normal.
+
+Musculoskeletal:
+No joint swelling or deformities are noted. Range of motion in all extremities is normal.
+
+Neurological:
+Cranial nerves II-XII are intact. Reflexes are normal and symmetrical with no focal deficits.
+
+Skin:
+No rashes, lesions, or cyanosis; the skin is warm and dry.
+
+Laboratory Results from Prior Visit:
+- Comprehensive metabolic panel (including Amylase, BUN, CO2, Chloride, Creatinine, Glucose) was within normal limits.
+- Complete blood count components (HCT, HGB, MCH, MCHC, MCV, PLT, Potassium, RBC, Sodium, WBC) were also within normal parameters.
+
+**Assessment:**
+The patient presents with chronic, intermittent asthma, experiencing mild to moderate exacerbations primarily during nighttime. Given his occupation in construction, occupational exposure to allergens and irritants is likely a significant contributing factor. His asthma management includes daily inhaled corticosteroids and as-needed albuterol, with persistent nocturnal symptoms suggesting suboptimal control.
+
+**Plan:**
+1. Continue current asthma therapy with a daily low-dose inhaled corticosteroid and albuterol as needed.
+2. Advise using a spacer with the inhaler to improve medication efficacy.
+3. Initiate a leukotriene receptor antagonist to manage nighttime symptoms.
+4. Reinforce education regarding avoidance of known triggers, specifically in the workplace. Recommend the use of protective masks or respirators to minimize dust inhalation.
+5. Schedule a follow-up appointment in 4-6 weeks to evaluate the effectiveness of the current management plan and adjust if necessary.
+6. Instruct the patient to contact the clinic if there is a deterioration of symptoms or no improvement in the ensuing week, or if significant changes in breathing occur.
+
+**Follow-Up:**
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. The patient has been educated on the prescribed regimen's importance, especially the necessity of consistent medication use and trigger avoidance. He understands the follow-up and emergency contact instructions and agrees to adhere to the management plan.

@@ -1,0 +1,70 @@
+Visit Information:
+    - Patient Num: 1000000077
+    - Visit Date: 12/31/2009
+
+This is a 15-year-old Black male who has been receiving care at our clinic for approximately six years. He speaks Spanish, and his mother is present for translation. The patient presents today for a follow-up visit mainly due to concerns about asthma management. The patient has a notable history of asthma, characterized by both acute exacerbations and chronic symptoms without status asthmaticus. Over the past few weeks, he has experienced increased symptoms of wheezing, shortness of breath, and a nocturnal cough. These symptoms are often triggered by physical activity and exposure to cold air. Despite the regular use of Atrovent 18 mcg/inh aerosol, his symptoms have shown minimal improvement.
+
+The patient also has a history of acute bronchiolitis, anaphylactic reactions to milk products and peanuts, atopic dermatitis, failure to thrive, and recurrent otitis media. There is no history of adverse reactions to medications. His vaccination status is current, including those for pneumococcus and viral hepatitis, in line with recommended prophylactic schedules. 
+
+The patient has responded well to Atrovent in the past, but current exacerbations indicate a need for reassessment of his asthma management plan.
+
+Objective:
+Vital Signs:
+- Blood Pressure: 105/70 mmHg
+- Heart Rate: 88 bpm
+- Respiratory Rate: 24 breaths per minute
+- Temperature: 98.4°F
+- Oxygen Saturation: 92% on room air
+
+General Appearance:
+The patient appears to be slightly underweight but is otherwise well-developed for his age. He appears alert, cooperative, and does not show signs of acute distress.
+
+Cardiovascular:
+Heart sounds are regular with no murmurs detected. Capillary refill is brisk, and peripheral pulses are strong and symmetrical.
+
+Respiratory:
+On inspection, there is mild nasal flaring. Auscultation reveals bilateral expiratory wheezes, which are more pronounced in the lower lung fields. There is no significant use of accessory muscles. Breath sounds are relatively clear otherwise.
+
+Abdomen:
+The abdomen is soft and non-tender with no palpable masses. Bowel sounds are normal and present in all quadrants.
+
+Musculoskeletal:
+The patient demonstrates a normal range of motion without joint abnormalities or tenderness.
+
+Neurological:
+The patient is alert and oriented with normal reflexes. Muscle strength is rated at 5/5 bilaterally, and his behavior is appropriate for his age.
+
+Skin:
+Mild erythema and scaling typical of atopic dermatitis are present on the antecubital fossae. No signs of secondary infection or open lesions were noted.
+
+Recent laboratory results indicate that his complete blood count (CBC) is within normal limits, with particular attention to eosinophils and neutrophils. Both liver function tests (AST and ALT) and renal function tests (creatinine, BUN) are normal. The patient's IgE levels are mildly elevated, supporting the presence of an underlying allergic condition.
+
+Assessment:
+1. Asthma with Acute Exacerbation: The primary current issue involves the worsening of asthma symptoms, which necessitates additional management.
+2. Atopic Dermatitis: Mild and ongoing; can be managed with topical treatments.
+3. History of Failure to Thrive: Continuous monitoring of growth and nutritional status is required.
+4. Recurrent Otitis Media: No current flare-ups, but monitoring will continue for signs of recurrence.
+
+Plan:
+1. Asthma Management:
+   - Continue using Atrovent 18 mcg/inh aerosol as prescribed.
+   - Initiate a short course of oral corticosteroids to manage acute exacerbations.
+   - Encourage daily use of a peak flow meter to monitor lung function.
+   - Reinforce the asthma action plan, emphasizing the use of rescue inhalers and instructions on when to seek emergency care.
+
+2. Atopic Dermatitis:
+   - Maintain skin hydration with emollients.
+   - Apply low-potency topical corticosteroids during flare-ups.
+
+3. Growth and Development Monitoring:
+   - Schedule regular follow-up appointments to monitor growth and ensure adequate nutritional intake, aiming for gradual weight gain.
+
+4. Recurrent Otitis Media:
+   - Continue observing for signs of ear infection and treat them promptly if symptoms occur.
+
+5. Referrals:
+   - Referral to a pediatric pulmonologist for specialized asthma management.
+   - Referral to a dermatologist if dermatitis symptoms escalate.
+
+Follow-Up:
+The patient and his mother were instructed to contact the clinic if his symptoms do not improve within a week or if they worsen. Thorough education on medication adherence and the importance of follow-up care was provided, ensuring clear understanding. A follow-up appointment was arranged for two weeks to reassess asthma control and overall progress. Additional diagnostic tests will be determined based on clinical evaluation during follow-up visits.

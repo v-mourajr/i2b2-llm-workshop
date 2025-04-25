@@ -1,0 +1,76 @@
+**Visit Information:**
+- Patient Num: 1000000029
+- Visit Date: 05/30/2001
+
+---
+
+**Subjective:**
+
+This is a 17-year-old Hispanic male who has been a patient in our clinic for approximately three years. Fluent in English, he presents today for follow-up regarding multiple ongoing health issues including asthma, acute bronchitis, and recurrent episodes of major depressive disorder.
+
+The patient reports recent exacerbations in his asthma symptoms, including increased shortness of breath and wheezing, particularly during physical activity and at night. His chronic condition is currently managed with albuterol on an as-needed basis, which he describes as somewhat effective in relieving acute symptoms.
+
+Additionally, he has experienced a bout of acute bronchitis, characterized by a persistent cough that has lasted around two weeks. He describes yellow sputum production and episodic sore throat, consistent with his history of occasional acute pharyngitis.
+
+The patient’s mental health continues to show signs of instability. He reports ongoing feelings of hopelessness, persistently low mood, and an increasing detachment from social activities. There have been no changes in his psychotropic medication regimen, and he has not undergone any surgical procedures in the past. 
+
+The patient lives with his parents and attends high school. He denies any use of tobacco, alcohol, or illicit drugs. Besides pharmacological management, the family has implemented several lifestyle changes such as regular physical exercise and a balanced diet to help with his overall well-being. He has no known allergies and reports no significant side effects from current treatments. 
+
+**Objective:**
+
+- **Vital Signs:**
+  - Blood Pressure: 115/75 mmHg
+  - Heart Rate: 80 bpm
+  - Respiratory Rate: 18 breaths/min
+  - Temperature: 98.8°F
+  - Oxygen Saturation: 97% on room air
+
+- **General Appearance:**
+  The patient appears anxious but is cooperative and well-groomed. He does not seem to be in acute distress.
+
+- **Cardiovascular:**
+  Heart sounds are normal with a regular rate and rhythm. No murmurs, gallops, or rubs.
+
+- **Respiratory:**
+  Mild expiratory wheezes noted bilaterally. No rales or rhonchi. There is no use of accessory muscles noted with breathing.
+
+- **Abdomen:**
+  Soft, non-tender, and non-distended. Bowel sounds are present and normal. No organomegaly or abdominal masses palpated.
+
+- **Musculoskeletal:**
+  Full range of motion in all extremities with no joint swelling or deformities.
+
+- **Neurological:**
+  The patient is alert and oriented to person, place, and time. Cranial nerves II-XII are intact. Motor and sensory functions are within normal limits.
+
+- **Skin:**
+  No new rashes, lesions, or abnormalities observed. Existing benign neoplasms remain unchanged.
+
+**Assessment:**
+
+The patient presents with symptoms consistent with his history of asthma, which appears to be inadequately controlled. Acute bronchitis is likely exacerbating his respiratory symptoms. His major depressive disorder (single episode, unspecified degree) continues to significantly impact his quality of life, and his unspecified psychosis requires careful monitoring.
+
+**Plan:**
+
+1. **Asthma and Acute Bronchitis:**
+   - Continue albuterol as-needed.
+   - Prescribe a short course of oral corticosteroids (prednisone) to manage acute exacerbation.
+   - Increase daily inhaled corticosteroid (ICS) therapy to improve asthma control and reduce frequency of exacerbations.
+   - Educate on asthma action plan and peak flow monitoring.
+   
+2. **Major Depressive Disorder and Psychosis:**
+   - Commence cognitive-behavioral therapy (CBT) with weekly sessions.
+   - Discuss the initiation of selective serotonin reuptake inhibitors (SSRIs), starting with fluoxetine at a low dose and titrating based on response.
+   - Refer to a psychiatrist for further evaluation and management of psychosis.
+   - Emphasize the importance of follow-up counseling and medication adherence.
+
+3. **Clinical and Laboratory Follow-Up:**
+   - Complete blood count (CBC) and comprehensive metabolic panel (CMP) in one month to monitor for potential side effects from medication, particularly liver and kidney function.
+   - Psychological and psychiatric evaluation within the next two weeks.
+   
+4. **Follow-Up Instructions:**
+   - Reevaluate the patient in two weeks for symptom monitoring, medication efficacy, and any potential side effects.
+   - Advise immediate contact with the clinic if there is a worsening of symptoms, no improvement within a week, or adverse reactions to the newly prescribed therapies.
+
+**Patient Education & Understanding:**
+The patient and his family have been informed about the importance of adhering to the prescribed treatments and the potential side effects of medications. They have also been instructed on non-pharmacologic interventions, including maintaining a healthy lifestyle and stress management techniques, which can significantly affect overall health. The patient conveyed an understanding of the treatment plan and follow-up requirements and agreed to closely monitor symptoms and report any concerns promptly.

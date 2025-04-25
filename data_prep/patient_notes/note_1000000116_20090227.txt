@@ -1,0 +1,45 @@
+**Visit Information:**
+- Patient Num: 1000000116
+- Visit Date: 02/27/2009
+
+This is a 15-year-old Black male who has been receiving comprehensive care at our clinic since birth. He is a Spanish-speaking individual who presents today for a follow-up visit, primarily to address ongoing issues related to his asthma. He has a long-standing history of asthma, including unspecified types and extrinsic asthma without status asthmaticus, with intermittent exacerbations requiring medical attention. His medical history is further complicated by recurrent respiratory infections, such as acute bronchiolitis due to RSV, bacterial pneumonia, and frequent bouts of upper respiratory infections and otitis media.
+
+**Subjective:**
+The patient reports experiencing a marked increase in asthma symptoms over the past week. These include persistent wheezing, coughing, and shortness of breath, particularly noted at night and with exertion. His symptoms have escalated in severity, resulting in significant nocturnal awakenings and restricted physical activity due to breathlessness. The patient has been compliant with his prescribed inhalers, consisting of Albuterol and Fluticasone, but notes minimal respite from these medications recently. 
+
+He also reports a dry, barking cough and has a history of gastroesophageal reflux and esophageal irritation, which may contribute to his respiratory symptoms. The onset of the most recent exacerbation was sudden, and his symptoms are notably aggravated by physical activity and exposure to cold air. His mother remains vigilant, utilizing the nebulizer with Albuterol as recommended, which provides partial but temporary relief. There is no report of fever, chest pain, or unusual sputum production.
+
+Socially, he resides with his mother and younger sibling in a smoke-free urban home environment. He attends school regularly but has seen a decline in his participation in physical activities due to his symptoms. There are no known medication allergies. They have been formally instructed on the appropriate use of the nebulizer and other asthma management tools.
+
+**Objective:**
+Upon examination today, the patient's vital signs include a blood pressure of 110/70 mmHg, heart rate at 104 beats per minute, respiratory rate at 28 breaths per minute, temperature of 99.1°F, and an oxygen saturation of 90% on room air. 
+
+The patient appears visibly fatigued and intermittently dyspneic, with audible wheezing during the examination. Cardiovascular examination reveals a regular rhythm with no murmurs. Respiratory assessment highlights bilateral expiratory wheezing, with diminished air movement in the lower lung fields, intercostal retractions, and no significant rhonchi or stridor. The abdominal examination is benign, showing no tenderness or hepatosplenomegaly. The musculoskeletal examination is unremarkable with no overt joint swelling or limitations in movement. Neurologically, the patient is alert, oriented, and exhibits normal cognitive functions, with appropriate mood and affect. Skin examination shows no rashes, lesions, or other dermatological abnormalities.
+
+**Assessment:**
+The primary clinical impression revolves around uncontrolled asthma with acute exacerbation, likely influenced by environmental stressors or poorly managed underlying conditions. Differential considerations include potential upper respiratory tract infection or exacerbation secondary to esophageal reflux.
+
+**Plan:**
+1. **Asthma Management:**
+   - Continue Albuterol inhaler therapy, increasing the frequency to every four hours during acute exacerbation periods.
+   - Maintain daily use of Fluticasone and reassess dosages for potential adjustment.
+   - Initiate a short course of oral Prednisone to control inflammation and prevent further exacerbation.
+   - Encourage the use of a peak flow meter at home to monitor respiratory status and detect early signs of worsening symptoms.
+   
+2. **Further Diagnostic Work:**
+   - Obtain a chest X-ray if symptoms persist or worsen, to rule out secondary complications such as infection or other structural abnormalities.
+   - Monitor blood tests, including Absolute Lymphocyte Count, AST, and Total Bilirubin, to assess for any underlying infectious or inflammatory conditions.
+
+3. **Additional Measures:**
+   - Consider the addition of Montelukast if symptoms are not adequately controlled with the current regimen.
+   - Recommend dietary and lifestyle modifications to manage asthma triggers, including reflux management strategies.
+
+4. **Patient Instructions:**
+   - Educate the patient and his mother on the importance of adherence to medications, early signs of exacerbation, and proper nebulizer use.
+   - Provide a step-up action plan for managing acute episodes.
+   - Schedule a follow-up visit in one week to evaluate response to the treatment and adjust plans as necessary.
+
+The patient’s mother acknowledges understanding of the treatment adjustments and the need for close monitoring. She expresses confidence in managing the condition at home but is cognizant of the need to seek immediate medical attention should the symptoms deteriorate.
+
+**Follow-Up:**
+Instruct the patient to contact the clinic if symptoms worsen or fail to improve within a week, or if test results suggest the need for further evaluation. A follow-up consultation is scheduled in one week to reassess asthma control and the effectiveness of the current treatment strategy.

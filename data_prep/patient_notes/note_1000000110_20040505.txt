@@ -1,0 +1,44 @@
+**Visit Information:**
+- Patient Num: 1000000110
+- Visit Date: 05/05/2004
+
+**Subjective:**
+A 33-year-old Hispanic male fluent in German and who has been under our clinic's care for approximately three years presents today for a follow-up visit. He reports an increased frequency of asthma attacks over the past month, predominantly occurring at night, and states that his inhaler effectiveness seems to have diminished. Additionally, he has experienced episodes of painful respiration and two instances of syncope over the last week. There have been no hospital admissions for asthma exacerbation in the past year, and he has not had any recent upper respiratory infections.
+
+The patient uses a short-acting beta-agonist inhaler as needed and remains compliant, but he reports experiencing mild palpitations as a side effect. No herbal supplements are being taken at this time.
+
+Socially, the patient works in an office environment with no known exposure to respiratory irritants and he is a non-smoker who abstains from alcohol. He does not have any known allergies. He has attempted non-pharmacological interventions such as steam inhalation and chest percussion, which provided minimal relief.
+
+**Objective:**
+- **Vital Signs:** Blood Pressure: 120/80 mmHg, Heart Rate: 82 bpm, Respiratory Rate: 18 breaths per minute, Temperature: 98.6°F, Oxygen Saturation: 98% on room air
+- **General Appearance:** The patient appears well-nourished and in no acute distress.
+- **Cardiovascular:** Regular rate and rhythm without murmurs, gallops, or rubs.
+- **Respiratory:** Decreased breath sounds at the bases bilaterally, with mild expiratory wheezing but no crackles or rales observed. No use of accessory muscles during respiration.
+- **Abdomen:** Soft, non-tender, and without organomegaly. Bowel sounds are normal.
+- **Musculoskeletal:** Normal range of motion throughout; no joint tenderness or swelling.
+- **Neurological:** Alert and oriented to person, place, and time. Cranial nerves II-XII intact. Motor strength is 5/5 in all extremities. Reflexes are 2+ bilaterally and symmetric.
+- **Skin:** Multiple small hemangiomas noted on the arms and trunk, which are non-tender without signs of infection.
+
+Laboratory data from recent visits indicate that values for basophils, blood urea nitrogen, carbon dioxide, chloride, creatinine, and glucose are within normal limits. Complete blood count results, including eosinophils, lymphocytes, neutrophils, monocytes, and red blood cells, were normal. Electrolytes, including potassium and sodium levels, were unremarkable.
+
+**Assessment:**
+1. Asthma: The patient’s asthma is currently suboptimally controlled, with increased nocturnal exacerbations and frequent shortness of breath.
+2. Painful respiration: Likely secondary to asthma exacerbations.
+3. Syncope: Likely vasovagal in nature. Differential diagnosis includes possible cardiovascular or neurological causes.
+
+**Plan:**
+1. **Asthma:**
+    - Increase the dose of the inhaled corticosteroid regimen and introduce a long-acting beta-agonist inhaler for better control of nocturnal symptoms.
+    - Educate the patient on the use of a peak flow meter to monitor daily variability in his respiratory status.
+    - Refer the patient to pulmonology for further evaluation and management.
+
+2. **Painful respiration:**
+    - Advise the patient to continue using the short-acting beta-agonist during acute episodes.
+    - Consider prescribing a short course of oral corticosteroids if symptoms do not show improvement with an adjusted inhaler regimen.
+
+3. **Syncope:**
+    - Schedule an ECG and echocardiogram to rule out any underlying cardiac conditions.
+    - Order orthostatic blood pressure measurements to evaluate for potential hypotension-related syncope.
+
+**Follow-Up:**
+Instruct the patient to contact the clinic if his symptoms worsen or do not improve within a week, or if test results suggest further evaluation is needed. Schedule a follow-up appointment for two weeks to reassess asthma control and to review the results of the cardiac workup. Reiterate the importance of adherence to the medication regimen and proper inhaler technique. Confirm that the patient understands the treatment plan and agrees to the follow-up schedule.

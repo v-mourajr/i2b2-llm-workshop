@@ -1,0 +1,36 @@
+Visit Information:
+    - Patient Num: 1000000116
+    - Visit Date: 11/29/2004
+
+This is a 9-year-old Black male who has been receiving care at our clinic for approximately five years. He speaks Spanish and presents today, 11/29/2004, for a follow-up visit. His primary diagnosis is asthma, which has been managed with a combination of medications. He also has a history of other respiratory and skin conditions, as well as undergoing routine circumcision in infancy.
+
+**Subjective:**
+
+The patient and his mother report an exacerbation of his asthma symptoms over the past three days, characterized by frequent coughing, wheezing, and difficulty breathing. These symptoms are worse at night and after physical activity. His mother notes that he has been more fatigued than usual and has had a decreased appetite, but there has been no fever. The asthma is generally well-controlled with Albuterol and Fluticasone, though the recent bout has been particularly severe. His asthma medication regimen has not changed and has been adhered to as prescribed. Additionally, the patient has a history of acute nonsuppurative otitis media and other atopic dermatitis conditions.
+
+The patient lives in an urban environment with his mother and a younger sibling. He is in third grade and has an active lifestyle; however, his engagement in physical activities is often restricted by his asthma. There is no tobacco smoke exposure at home. No known allergies are reported. The onset of the current symptoms was abrupt, beginning three days ago. The symptoms, notably coughing and wheezing, are worse at night and are exacerbated by physical activity. Although the mother has been administering nebulizer treatments at home with some relief, she is concerned about the frequency and intensity of the exacerbations. There have been no noticeable changes in the patient’s routine or environment that could explain the increase in symptoms.
+
+**Objective:**
+
+Vital signs recorded today are blood pressure 98/62 mmHg, heart rate 95 beats per minute, respiratory rate 22 breaths per minute, temperature 98.6°F, and oxygen saturation 94% on room air.
+
+On general examination, the patient appears slightly fatigued but not in acute distress. His cardiovascular examination reveals a regular heart rate and rhythm with no murmurs, rubs, or gallops. Respiratory examination shows mild intercostal retractions and bilateral wheezes more pronounced on expiration, though no stridor or rhonchi is noted. The abdomen is soft, non-tender, and non-distended, with normal bowel sounds and no hepatosplenomegaly. Musculoskeletal assessment indicates normal tone and strength without joint swelling or tenderness. Neurologically, he is alert and oriented, with normal speech and appropriate responses. His skin is warm, dry, and free of rashes or lesions.
+
+**Assessment:**
+
+The patient likely has an acute exacerbation of asthma, potentially triggered by an unidentified allergen or a viral respiratory infection. Other considerations include environmental allergen exposure, given the absence of fever and any identifiable changes in the home environment.
+
+**Plan:**
+
+For the acute exacerbation of asthma, the treatment plan includes:
+
+1. Continuation of Albuterol as needed, with an increased frequency to every four hours during acute symptoms.
+2. Maintenance of Fluticasone for chronic asthma management.
+3. Addition of a short course of oral corticosteroids, such as Prednisone, to help reduce inflammation.
+4. Monitoring peak flow and considering a chest X-ray if symptoms persist or worsen.
+
+The patient and his mother are instructed to follow up in one week to evaluate the response to the treatment. Should symptoms worsen or fail to improve, they are advised to contact the clinic immediately. The patient’s mother was educated on the importance of strict adherence to the prescribed medication regimen and monitoring the patient's symptoms closely. She verbalized understanding and agreed to follow the outlined treatment plan. A referral to a pediatric pulmonologist will be considered if frequent exacerbations continue despite current management.
+
+**Follow-Up:**
+
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week or if test results indicate further evaluation is needed. A follow-up is scheduled for a week to assess the treatment response. The patient’s mother understands the education provided and the importance of adherence to the plan.

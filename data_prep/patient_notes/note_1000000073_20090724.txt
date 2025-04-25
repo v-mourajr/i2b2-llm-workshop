@@ -1,0 +1,70 @@
+Visit Information:
+- Patient Num: 1000000073
+- Visit Date: 07/24/2009
+
+Subjective:
+This 43-year-old Hispanic male, fluent in German, has been attending this clinic for about eleven years, primarily for asthma management. He reports intermittent exacerbations of his asthma, noted with allergen exposure and physical exertion. His symptoms of shortness of breath, wheezing, and occasional chest tightness are generally alleviated with Albuterol, though he confesses to inconsistent adherence to his Fluticasone maintenance inhaler. 
+
+His medical history is significant for hypertension, esophageal reflux, episodic joint pain, particularly chondromalacia of the patella, musculoskeletal lower back pain, and occasional dysphagia with sporadic GERD flare-ups. Medications include Lisinopril 20 mg daily for hypertension, NSAIDs for pain, and over-the-counter antacids for managing GERD. He has no allergies.
+
+Socially, he works as a translator, lives alone, maintains a balanced diet, socializes occasionally with alcohol, but does not smoke. He denies any recent upper respiratory infections, fever, weight changes, or exacerbations of his chronic conditions.
+
+Objective:
+Vital Signs:
+- Blood Pressure: 140/88 mmHg
+- Heart Rate: 80 beats per minute
+- Respiratory Rate: 18 breaths per minute
+- Temperature: 98.6°F (37°C)
+- Oxygen Saturation: 97% on room air
+
+General Appearance:
+The patient appears well-nourished, is alert, cooperative, and shows no signs of distress.
+
+Cardiovascular:
+The cardiovascular exam reveals a regular rate and rhythm without jugular venous distension. Heart sounds are clear, with no murmurs, rubs, or gallops, and peripheral pulses are strong and equal bilaterally.
+
+Respiratory:
+Respiratory examination shows clear lung fields bilaterally with no wheezes, crackles, or rhonchi. Mild respiratory effort is noted, corroborated by a non-productive cough.
+
+Abdomen:
+The abdominal examination is unremarkable with a soft, non-tender abdomen, normal bowel sounds, and no hepatosplenomegaly.
+
+Musculoskeletal:
+Mild tenderness on palpation is noted in the lower back and knee joints; no edema or deformities are present, and the range of motion in the extremities is full.
+
+Neurological:
+Neurological examination is normal, with the patient alert and oriented to person, place, and time. Cranial nerves II-XII are intact, motor strength is 5/5 bilaterally, and deep tendon reflexes are symmetric.
+
+Skin:
+No rashes, lesions, or signs of infection are observed.
+
+Assessment:
+1. Asthma with intermittent exacerbations; the condition appears stable but needs more consistent maintenance therapy.
+2. Hypertension, currently controlled with Lisinopril.
+3. GERD with occasional dysphagia, effectively managed with over-the-counter antacids.
+4. Chronic musculoskeletal pain in the lower back and knees, associated with chondromalacia of the patella.
+5. Joint pain in the lower extremities secondary to musculoskeletal conditions.
+
+Plan:
+1. Asthma:
+   - Emphasize the need for consistent use of the Fluticasone inhaler, twice daily.
+   - Continue Albuterol for acute episodes.
+   - Educate on trigger avoidance and adherence to maintenance therapy.
+   - Schedule a follow-up visit in three months to assess asthma control and medication adherence.
+
+2. Hypertension:
+   - Continue Lisinopril 20 mg daily.
+   - Advise maintaining a low-sodium diet and regular physical activity.
+   - Schedule a follow-up visit in three months to monitor blood pressure.
+
+3. GERD:
+   - Continue using over-the-counter antacids as needed.
+   - Monitor symptoms; consider referring for EGD if symptoms persist or worsen.
+
+4. Musculoskeletal Pain:
+   - Refer to physical therapy for chronic knee and back pain management.
+   - Use NSAIDs for pain relief as needed.
+   - Advise weight management and the implementation of regular moderate exercise.
+
+Follow-Up:
+The patient has been instructed to contact the clinic if symptoms worsen or do not improve within a week, or if future test results necessitate further evaluation. The patient has been educated about managing asthma, adhering to hypertension medication, and lifestyle modifications for GERD and musculoskeletal pain. The patient confirmed understanding and agreement with this plan.

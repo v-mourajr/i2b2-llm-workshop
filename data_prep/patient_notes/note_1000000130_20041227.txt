@@ -1,0 +1,74 @@
+**Visit Information:**
+- Patient Num: 1000000130
+- Visit Date: 12/27/2004
+
+This is a 25-year-old Black female who has been receiving care in our clinic for approximately five years. She speaks English and presents today, 12/27/2004, for a follow-up appointment primarily concerning her asthma management. The patient reports persistent episodes of shortness of breath and wheezing, which have continued intermittently since the last visit. These symptoms are more pronounced during the night and early mornings, where she experiences exacerbation despite using her prescribed albuterol inhaler. She notes frequent use of her inhaler, especially over the last few weeks, due to increased symptoms.
+
+In addition to her chronic asthma, the patient has a history of acute bronchitis, allergic rhinitis, and benign neoplasms of the skin located on her trunk and upper limb. There is also a documented history of acute laryngitis, neck sprain, and periodic limb pain. Her current medications include Albuterol Sulfate tablets and an inhaler, Beconase nasal spray, Kenalog-40 injections, and Promethazine Hydrochloride tablets, which she uses for symptom management. She reports a good response to these medications initially but notes a diminished effect as her symptoms continue to persist.
+
+The patient lives in an urban area, works as a retail associate, and is a non-smoker. She identifies high levels of air pollution in her living area as a potential trigger for her asthma. She has no known allergies and applies various non-pharmacological interventions, such as staying indoors on high-pollution days and using air purifiers at home. Her symptom details include nightly wheezing, shortness of breath aggravated by physical activity and outdoor exposure, and partial relief obtained through her inhaler use.
+
+**Objective:**
+- **Vital Signs:**
+  - Blood Pressure: 115/82 mmHg
+  - Heart Rate: 76 bpm
+  - Respiratory Rate: 18 breaths per minute
+  - Temperature: 98.4°F
+  - Oxygen Saturation: 97% on room air
+
+- **General Appearance:**
+  The patient is alert, oriented, and appears in mild distress, using accessory muscles slightly to aid breathing.
+
+- **Cardiovascular:**
+  Regular heart rate and rhythm, no murmurs, gallops, or rubs.
+
+- **Respiratory:**
+  The exam reveals bilateral inspiratory and expiratory wheezes, use of accessory respiratory muscles, and mild intercostal retractions. There is no cyanosis or clubbing noted, and the patient demonstrates prolonged expiratory phase during breathing.
+
+- **Abdomen:**
+  Soft, non-tender, with no palpable organomegaly or masses.
+
+- **Musculoskeletal:**
+  Full range of motion in all extremities with no tenderness or swelling noted.
+
+- **Neurological:**
+  The patient is neurologically intact with no focal deficits observed.
+
+- **Skin:**
+  Warm, dry, no rashes or new lesions noted. Existing benign neoplasms are stable.
+
+**Assessment:**
+The clinical impression is that the patient is experiencing a chronic asthma exacerbation, likely triggered by environmental factors, particularly higher air pollution levels in her urban living area.
+
+- **Issue/Problem/Request 1:**
+  - Assessment: Persistent asthma exacerbation.
+  - Diagnostic Tests: Lung function tests and possibly repeating a complete blood count to monitor for chronic allergenic or inflammatory responses.
+  - Treatment Plan:
+    - Continue the use of Albuterol inhaler, recommend increasing to every 4 hours as needed.
+    - Introduce a low-dose inhaled corticosteroid, such as fluticasone, for long-term control.
+    - Referral to pulmonology to discuss advanced management strategies including the evaluation for long-term bronchodilators or leukotriene inhibitors.
+    - Recommendation for avoiding outdoor activities during peak pollution times.
+
+- **Issue/Problem/Request 2:**
+  - Assessment: Allergic rhinitis management.
+  - Diagnostic Tests: None unless symptoms persist.
+  - Treatment Plan:
+    - Encourage continued use of Beconase nasal spray as needed.
+    - Review of environmental control measures at home.
+
+- **Issue/Problem/Request 3:**
+  - Assessment: Follow-up on benign skin neoplasms.
+  - Diagnostic Tests: Regular skin checks during routine visits.
+  - Treatment Plan:
+    - Monitor for any changes in size or character of existing lesions.
+    - No immediate action required unless new symptoms develop.
+
+**Plan:**
+- Follow-up care instructions:
+  Instruct the patient to contact the clinic immediately if symptoms worsen, do not improve within a week, or if any new symptoms develop. We will monitor her progress closely.
+
+- Patient Education:
+  Educated the patient on the importance of adherence to the newly introduced inhaled corticosteroid and correct technique for inhaler use. Discussed potential asthma triggers and emphasized strategies to minimize exposure to irritants.
+
+- Follow-Up Visit:
+  Schedule a follow-up appointment in 4-6 weeks to reassess asthma control and the effectiveness of the inhaled corticosteroids. The patient understands and agrees with the treatment plan and follow-up schedule.

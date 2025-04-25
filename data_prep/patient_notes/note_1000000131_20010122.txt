@@ -1,0 +1,68 @@
+**Visit Information:**
+
+- Patient Num: 1000000131
+- Visit Date: 01/22/2001
+
+**Subjective:**
+
+This is a 14-year-old Asian male who communicates in English and presents today for a follow-up visit to manage his asthma. The patient has an established history of asthma, classified as unspecified and extrinsic, without mention of status asthmaticus. Over the past several weeks, he has reported experiencing increased wheezing and dyspnea, particularly during physical activities such as running and playing sports, which he engages in daily. Despite this, he has not had any nocturnal symptoms or significant nocturnal coughing.
+
+The patient's past medical history includes numerous respiratory conditions, including acute bronchitis and acute upper respiratory infections, as well as recurrent episodes of unspecified otitis media. Additionally, he has a history of hypertrophied adenoids and unspecified paralysis of the vocal cords, both of which have been managed without the need for surgical intervention.
+
+Currently, he is taking an albuterol inhaler as needed for symptomatic relief and uses a daily inhaled corticosteroid as part of his asthma management. He reports good adherence to his medication regimen and has not experienced any side effects.
+
+In terms of social history, he resides in a smoke-free environment with his parents and is currently in middle school. There are no pets in the home. He has no known allergies.
+
+His wheezing and dyspnea are often exacerbated by physical exertion and exposure to allergens, which are presumably seasonal. Rest and the use of his albuterol inhaler have been effective in alleviating these symptoms.
+
+**Objective:**
+
+- Vital Signs:
+  - Blood Pressure: 108/72 mmHg
+  - Heart Rate: 88 bpm
+  - Respiratory Rate: 20 breaths/min
+  - Temperature: 98.6°F
+  - Oxygen Saturation: 96% on room air
+
+- General Appearance: The patient is well-developed and well-nourished, appearing alert and oriented to person, place, and time. He is in no acute distress.
+
+- Cardiovascular: On auscultation, he has a regular heart rate and rhythm without any murmurs, rubs, or gallops.
+
+- Respiratory: Examination reveals mild wheezing at the bases of both lungs, with no crackles or rales noted. Chest expansion is symmetrical, and there is no use of accessory muscles. Percussion of the chest yields normal results.
+
+- Abdomen: The abdomen is soft, non-tender, with no detectable organomegaly or masses.
+
+- Musculoskeletal: The patient exhibits a full range of motion in all joints, with no swelling or deformities observed.
+
+- Neurological: Cranial nerves II-XII are intact, with normal motor strength, sensation, reflexes, and coordination.
+
+- Skin: The skin is warm and dry, without any rashes or lesions.
+
+Recent laboratory tests include a complete blood count (CBC) that showed normal white blood cell counts with a mild increase in eosinophils, consistent with his asthma. Thyroid function tests (T4 and TSH) were within normal limits. Urine studies, including creatinine and sodium levels, were unremarkable.
+
+**Assessment:**
+
+The primary diagnosis is asthma, both unspecified and extrinsic, presently stable but with episodic exacerbations likely triggered by physical exertion. Additionally, there is a history of acute bronchitis and upper respiratory infections, all stable but necessitating periodic monitoring.
+
+Secondary diagnoses include chronic serous otitis media, hypertrophied adenoids, and unspecified vocal cord paralysis, all of which are currently asymptomatic.
+
+**Plan:**
+
+1. Asthma Management:
+   - Continue the current medication, including albuterol inhaler and daily inhaled corticosteroid.
+   - Educate the patient on avoidance of known asthma triggers.
+   - Advise the use of a peak flow meter to monitor lung function regularly, especially before and after physical activities.
+   - Schedule follow-up pulmonary function tests to assess present asthma control.
+
+2. Allergies:
+   - Initiate a trial of a non-drowsy antihistamine to address potential seasonal allergies.
+   - Observe for symptom improvements and adjust allergy management accordingly.
+
+3. Preventive Care:
+   - Emphasize the importance of adhering to the asthma action plan.
+   - Recommend the influenza vaccination for the upcoming season.
+   - Plan regular follow-up visits to monitor and adapt the treatment plan as needed.
+
+The patient and his family were instructed to contact the clinic if symptoms do not improve within one week or if there is a worsening of symptoms requiring further evaluation. They have demonstrated a clear understanding of the treatment plan and instructions provided during this visit.
+
+A follow-up appointment is scheduled for three months, or earlier if there are any new concerns or if symptoms become worse.

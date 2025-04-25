@@ -1,0 +1,54 @@
+**Visit Information:**
+
+- Patient Num: 1000000003
+- Visit Date: 07/23/2007
+
+**Subjective:**
+
+This is a 39-year-old Asian male who speaks German and has been a patient at our clinic since July 31, 1997. He presents today for follow-up regarding his persistent chronic neck and lower back pain. His neck pain has been present for several years and frequently radiates to his shoulders. The discomfort is exacerbated by prolonged sitting, especially when working at a computer, and is only slightly alleviated by periods of rest. The lower back pain is described as a dull, constant ache that intensifies with physical activity.
+
+The patient's past medical history is notable for alopecia, atopic dermatitis, and occasional viral warts, all of which are currently inactive. He reports no significant surgical history. The pain management up to this point has included nonsteroidal anti-inflammatory drugs (NSAIDs), which offer partial relief. He also uses topical emollients for atopic dermatitis with moderate success and no adverse effects.
+
+The patient leads a predominantly sedentary lifestyle due to his office job. He does not smoke and reports social alcohol consumption. He maintains a healthy diet and lives alone, though his family members are supportive and live nearby. He has no known drug allergies. The patient rates his pain severity at 6 out of 10 and states there have been no recent changes in his condition. He reports that physical therapy provided only temporary relief. 
+
+**Objective:**
+
+Vital signs today are stable with a blood pressure of 120/80 mmHg, heart rate of 72 bpm, respiratory rate of 16 breaths per minute, and temperature of 36.8°C. His oxygen saturation is at 99% on room air.
+
+On general examination, the patient appears well-nourished, alert, and oriented, with no signs of acute distress. Cardiovascular examination reveals regular heart sounds without any murmurs, gallops, or rubs. Respiratory examination indicates clear lung fields with no adventitious sounds.
+
+The abdominal examination is benign, non-tender, and exhibits no hepatosplenomegaly, masses, or bruits. Musculoskeletal examination reveals tenderness over the cervical and lumbar spine regions with palpable muscle spasms. Range of motion in the cervical and lumbar spine is restricted, particularly in flexion and extension, with associated discomfort. No deformities are noted. 
+
+Neurological examination shows intact cranial nerves. Reflexes are symmetric, and there is no evidence of focal deficits. Sensory and motor function examinations are normal. The skin examination shows no new lesions or signs of active atopic dermatitis or viral warts.
+
+Laboratory findings from recent evaluations include normal albumin and total protein levels. Creatinine levels were slightly elevated but stable. Liver function tests, including Aspartate Aminotransferase (AST) and bilirubin levels, were within normal limits. The complete blood count and differential were unremarkable.
+
+**Assessment:**
+
+1. Chronic neck and back pain, likely due to musculoskeletal strain and poor ergonomics.
+   - Differential diagnoses include myofascial pain syndrome and degenerative disc disease.
+  
+2. Alopecia and atopic dermatitis, currently well-controlled.
+   - Differential includes eczema and contact dermatitis.
+
+3. History of viral warts, presently inactive.
+
+**Plan:**
+
+1. For the chronic neck and back pain:
+   - Continue NSAIDs for pain management, and consider adding muscle relaxants for symptomatic relief of muscle spasms.
+   - Refer the patient to physical therapy focused on core strengthening exercises and postural correction.
+   - Recommend an ergonomic assessment of the patient’s workspace to optimize chair height, monitor placement, and overall posture during work.
+   - If the pain persists or is insufficiently relieved, consider a referral to a pain management specialist for further evaluation and treatment.
+
+2. For alopecia and atopic dermatitis:
+   - Continue the use of topical emollients.
+   - Advise the patient to avoid known irritants and use hypoallergenic skincare products.
+
+3. General health recommendations:
+   - Encourage the patient to incorporate regular physical activity into his routine, aiming for at least 30 minutes of moderate exercise five times a week.
+   - Promote a balanced diet, proper hydration, and reduction of sedentary behavior.
+
+**Follow-Up:**
+
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if new symptoms arise. The patient is scheduled for a follow-up visit in four weeks to monitor his progress and adjust treatment as needed. He has expressed understanding of and agreement with the proposed management plan.

@@ -1,0 +1,95 @@
+demographics
+patient_num: 1000000032  age: 11
+patient_num: 1000000032  sex: F
+patient_num: 1000000032  race: indian
+patient_num: 1000000032  language: spanish
+patient_num: 1000000032  vital_status: alive
+patient_num: 1000000032  earliest fact: Aug  7 2000 12:00AM
+patient_num: 1000000032  latest fact: Dec 28 2007 12:00AM
+patient_num: 1000000032  range in days: 2699
+totals
+patient_num: 1000000032  distinct concepts: 98
+patient_num: 1000000032  total facts: 315
+patient_num: 1000000032  total encounters: 43
+patient_num: 1000000032  total asthma: 10
+descriptive
+patient_num: 1000000032  asthma code: ICD9:493.91  name: Asthma, unspecified type, with status asthmaticus  count: 1
+patient_num: 1000000032  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 9
+patient_num: 1000000032  asthma code: ICD9:493.00  name: Extrinsic asthma without mention of status asthmaticus  count: 2
+patient_num: 1000000032  diagnosis code: ICD9:466.19  name: Acute bronchiolitis due to other infectious organisms  count: 3
+patient_num: 1000000032  diagnosis code: ICD9:460  name: Acute nasopharyngitis (common cold)  count: 2
+patient_num: 1000000032  diagnosis code: ICD9:477.8  name: Allergic rhinitis due to other allergen  count: 1
+patient_num: 1000000032  diagnosis code: ICD9:477.9  name: Allergic rhinitis, cause unspecified  count: 1
+patient_num: 1000000032  diagnosis code: ICD9:493.91  name: Asthma, unspecified type, with status asthmaticus  count: 1
+patient_num: 1000000032  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 9
+patient_num: 1000000032  diagnosis code: ICD9:490  name: Bronchitis, not specified as acute or chronic  count: 1
+patient_num: 1000000032  diagnosis code: ICD9:473.0  name: Chronic maxillary sinusitis  count: 1
+patient_num: 1000000032  diagnosis code: ICD9:786.2  name: Cough  count: 4
+patient_num: 1000000032  diagnosis code: ICD9:464.4  name: Croup  count: 1
+patient_num: 1000000032  diagnosis code: ICD9:277.00  name: Cystic fibrosis without mention of meconium ileus  count: 1
+patient_num: 1000000032  diagnosis code: ICD9:493.00  name: Extrinsic asthma without mention of status asthmaticus  count: 2
+patient_num: 1000000032  diagnosis code: ICD9:780.6  name: Fever  count: 2
+patient_num: 1000000032  diagnosis code: ICD9:773.1  name: Hemolytic disease due to ABO isoimmunization of fetus or newborn  count: 1
+patient_num: 1000000032  diagnosis code: ICD9:799.0  name: Hypoxemia  count: 1
+patient_num: 1000000032  diagnosis code: ICD9:786.09  name: Other dyspnea and respiratory abnormality  count: 3
+patient_num: 1000000032  diagnosis code: ICD9:V20.2  name: Routine infant or child health check  count: 5
+patient_num: 1000000032  diagnosis code: ICD9:V30.00  name: Single liveborn, born in hospital, delivered without mention of cesarean section  count: 4
+patient_num: 1000000032  diagnosis code: ICD9:382.9  name: Unspecified otitis media  count: 2
+patient_num: 1000000032  medication code: NDC:00245012112  name: Uniserts 120mg suppository Upsher-Smith Laboratories Inc  count: 4
+patient_num: 1000000032  laboratory code: LOINC:26449-9  name: Abs Eos (Group:AEOSN)  count: 1
+patient_num: 1000000032  laboratory code: LOINC:26474-7  name: Abs Lymphs (Group:ALYMP)  count: 1
+patient_num: 1000000032  laboratory code: LOINC:731-0  name: Abs Lymphs Auto (Group:ALYMPHS)  count: 1
+patient_num: 1000000032  laboratory code: LOINC:26484-6  name: Abs Monos (Group:AMONS)  count: 1
+patient_num: 1000000032  laboratory code: LOINC:26499-4  name: Abs Neuts (Group:ANEU)  count: 1
+patient_num: 1000000032  laboratory code: LOINC:1751-7  name: Albumin (Group:ALB)  count: 1
+patient_num: 1000000032  laboratory code: LOINC:1742-6  name: ALT (SGPT) (Group:SGPT)  count: 1
+patient_num: 1000000032  laboratory code: LOINC:8246-1  name: Amorph Crystals (Group:UAS-AMOR)  count: 1
+patient_num: 1000000032  laboratory code: LOINC:1798-8  name: Amylase (Group:AMY)  count: 1
+patient_num: 1000000032  laboratory code: LOINC:1920-8  name: AST (SGOT) (Group:SGOT)  count: 1
+patient_num: 1000000032  laboratory code: LOINC:5769-5  name: Bacteria (Group:UAS-BACT)  count: 1
+patient_num: 1000000032  laboratory code: LOINC:764-1  name: Bands - Manual (Group:BAND)  count: 1
+patient_num: 1000000032  laboratory code: LOINC:30180-4  name: Basophils (Group:BASOP)  count: 1
+patient_num: 1000000032  laboratory code: LOINC:5770-3  name: Bilirubin (Group:UA-BILI)  count: 4
+patient_num: 1000000032  laboratory code: LOINC:3094-0  name: Blood Urea Nitrogen (Group:BUN)  count: 2
+patient_num: 1000000032  laboratory code: LOINC:2028-9  name: Carbon Dioxide (Group:CO2)  count: 2
+patient_num: 1000000032  laboratory code: LOINC:2075-0  name: Chloride (Group:CL)  count: 2
+patient_num: 1000000032  laboratory code: LOINC:5778-6  name: Color (Group:UA-COLOR)  count: 4
+patient_num: 1000000032  laboratory code: LOINC:2160-0  name: Creatinine (Group:CRE)  count: 2
+patient_num: 1000000032  laboratory code: LOINC:X2012-1  name: Differential Request (Group:DIFFR)  count: 1
+patient_num: 1000000032  laboratory code: LOINC:1968-7  name: Direct Bilirubin (Group:DBILI)  count: 4
+patient_num: 1000000032  laboratory code: LOINC:26450-7  name: Eosinophils (Group:EOSP)  count: 2
+patient_num: 1000000032  laboratory code: LOINC:4537-7  name: ESR (Group:ESR)  count: 1
+patient_num: 1000000032  laboratory code: LOINC:6777-7  name: Glucose (Group:GLU)  count: 1
+patient_num: 1000000032  laboratory code: LOINC:5792-7  name: Glucose - UA (Group:UA-GLUC)  count: 4
+patient_num: 1000000032  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 3
+patient_num: 1000000032  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 3
+patient_num: 1000000032  laboratory code: LOINC:5797-6  name: Ketones (Group:UA-KET)  count: 4
+patient_num: 1000000032  laboratory code: LOINC:3040-3  name: Lipase (Group:LIPS)  count: 1
+patient_num: 1000000032  laboratory code: LOINC:26478-8  name: Lymphocytes (Group:LYMP)  count: 2
+patient_num: 1000000032  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 3
+patient_num: 1000000032  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 3
+patient_num: 1000000032  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 3
+patient_num: 1000000032  laboratory code: LOINC:741-9  name: Microcytes (Group:MICROC)  count: 1
+patient_num: 1000000032  laboratory code: LOINC:26485-3  name: Monocytes (Group:MON)  count: 2
+patient_num: 1000000032  laboratory code: LOINC:26511-6  name: Neutrophils (Group:NEUT)  count: 2
+patient_num: 1000000032  laboratory code: LOINC:5802-4  name: Nitrites (Group:UA-NIT)  count: 4
+patient_num: 1000000032  laboratory code: LOINC:5794-3  name: Occult Blood (Group:UA-BLD)  count: 4
+patient_num: 1000000032  laboratory code: LOINC:5803-2  name: PH (Group:UA-PH)  count: 4
+patient_num: 1000000032  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 3
+patient_num: 1000000032  laboratory code: LOINC:2823-3  name: Potassium (Group:K)  count: 2
+patient_num: 1000000032  laboratory code: LOINC:5804-0  name: Protein (Group:UA-ALB)  count: 4
+patient_num: 1000000032  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 3
+patient_num: 1000000032  laboratory code: LOINC:5808-1  name: RBC - Urine Sed (Group:UAS-RBC)  count: 1
+patient_num: 1000000032  laboratory code: LOINC:6742-1  name: RBC Morph Manual (Group:RCM-M)  count: 2
+patient_num: 1000000032  laboratory code: LOINC:788-0  name: RDW (Group:RDW)  count: 3
+patient_num: 1000000032  laboratory code: LOINC:4679-7  name: Retic count (Group:RETIC)  count: 1
+patient_num: 1000000032  laboratory code: LOINC:2951-2  name: Sodium (Group:NA)  count: 2
+patient_num: 1000000032  laboratory code: LOINC:5811-5  name: Specific Gravity (Group:UA-SPGR)  count: 4
+patient_num: 1000000032  laboratory code: LOINC:11277-1  name: Squamous Cells (Group:UAS-SQUA)  count: 1
+patient_num: 1000000032  laboratory code: LOINC:1975-2  name: Total Bilirubin (Group:TBILI)  count: 6
+patient_num: 1000000032  laboratory code: LOINC:2885-2  name: Total Protein (Group:TP)  count: 1
+patient_num: 1000000032  laboratory code: LOINC:5767-9  name: Turbidity (Group:UA-TURB)  count: 4
+patient_num: 1000000032  laboratory code: LOINC:5818-0  name: Urobilinogen (Group:UA-UROBI)  count: 2
+patient_num: 1000000032  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 3
+patient_num: 1000000032  laboratory code: LOINC:5821-4  name: WBC - Urine Sed (Group:UAS-WBC)  count: 1
+patient_num: 1000000032  laboratory code: LOINC:5799-2  name: WBC Screen (Group:UA-WBC)  count: 4

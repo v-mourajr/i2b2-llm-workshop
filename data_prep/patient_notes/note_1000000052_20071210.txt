@@ -1,0 +1,102 @@
+Please note: In all sections below, include details only if they can be inferred from the ICD9, NDC, or LOINC codes provided in the patient_summary; otherwise, leave blank.
+
+Visit Information:
+    - Patient Num: 1000000052
+    - Visit Date: 12/10/2007
+
+This is a 36-year-old Asian male who has been receiving care at our clinic for nearly a decade. He speaks Spanish and presents today for follow-up related to ongoing issues primarily concerning his hand, reflecting the persistent impacts of a traumatic amputation and associated health complications.
+
+Subjective:
+Chief Complaints & History of Present Illness:
+The patient reports persistent discomfort and functional limitations in his right hand following the traumatic amputation of multiple fingers due to an accident involving machinery in 2004. He continues to experience sharp, throbbing pain and intermittent numbness in his remaining fingers, which are aggravated by physical exertion and cold temperatures. These symptoms notably interfere with his daily routine and sleep quality.
+
+Past Medical & Surgical History:
+Notable medical history includes the traumatic amputation and subsequent surgical procedures for disarticulation of the right index and middle fingers. He has previously dealt with acute apical periodontitis, episodes of vertigo, and periodic sensorineural hearing loss.
+
+Medications & Supplements:
+The patient is currently managing his post-surgical pain with Acetaminophen, which provides moderate relief. He is also taking a daily multivitamin supplement and recently completed a course of Amoxicillin post-surgery. The patient reports no adverse reactions to these medications.
+
+Social History:
+The patient resides with his family and works as a machinist, the occupation responsible for his initial hand injury. He neither smokes nor drinks alcohol and maintains a health-conscious diet rich in fruits and vegetables. His physical activity remains limited due to recovery needs.
+
+Allergies:
+The patient has no known drug allergies.
+
+Symptom Details:
+Pain and numbness are commonly triggered by physical activity and cold exposure, with peak intensity observed at night, adversely affecting sleep. He has observed some improvement in hand functionality and strength through physical therapy, although significant discomfort persists.
+
+Additional Narrative:
+The patient has been adhering to a comprehensive rehabilitation plan, including the use of a custom hand brace and attending physical therapy sessions twice weekly. He continues to manage his condition effectively, with some reported improvement in hand strength and function, despite persistent pain and numbness. Compliance with medication and non-pharmacological treatments has been optimal.
+
+Objective:
+Vital Signs:
+- Blood Pressure: 120/80 mmHg
+- Heart Rate: 70 bpm
+- Respiratory Rate: 16 breaths/minute
+- Temperature: 98.7°F
+- Oxygen Saturation: 97% on room air
+
+General Appearance:
+The patient appears well-groomed, alert, and in no acute distress despite the hand brace and cautious movements reflective of his injury.
+
+Cardiovascular:
+Heart sounds S1 and S2 are regular without murmur, gallop, or rub. Peripheral pulses are palpable and strong bilaterally.
+
+Respiratory:
+Lung auscultation reveals clear breath sounds with no wheezing, rales, or other abnormal sounds bilaterally.
+
+Abdomen:
+The abdomen is soft, non-tender with normal bowel sounds, and no hepatosplenomegaly or masses are evident upon palpation.
+
+Musculoskeletal:
+Examination of the right hand reveals well-healed surgical scars with no signs of infection. On the amputation sites, there is no erythema, swelling, or discharge. Capillary refill is intact. Although the patient has a moderate range of motion, pain is noted at the extremes with decreased strength in the right hand compared to the left.
+
+Neurological:
+The patient is oriented to time, place, and person, displaying no focal neurological deficits. Cranial nerves II-XII are intact. Reduced sensation is present in the remaining fingers of the right hand, while other neurological examinations are unremarkable.
+
+Skin:
+The skin is clear without rashes or lesions, with the surgical site appearing well-healed and free from infection.
+
+Assessment:
+Diagnosis or Clinical Impression:
+1. Post-traumatic neuropathy and pain in right hand following traumatic amputation.
+2. Psychological stress related to adjustment post-amputation.
+3. Risk for depression and anxiety due to chronic pain and functional limitations.
+
+Issue/Problem/Request 1:
+Assessment:
+- Likely Diagnosis: Post-traumatic neuropathy and pain.
+- Differential Diagnosis: Peripheral neuropathy, surgical site infection.
+
+Diagnostic Tests:
+- Planned Investigations: Nerve conduction studies, follow-up X-rays of the hand to assess bone healing.
+
+Treatment Plan:
+- Continue the current analgesic regimen, consider the addition of a longer-acting pain medication if necessary.
+- Maintain regular physical therapy to improve hand function.
+
+Issue/Problem/Request 2:
+Assessment:
+- Likely Diagnosis: Psychological stress and potential depression.
+- Differential Diagnosis: Anxiety disorders.
+
+Diagnostic Tests:
+- Recommend screening for depression and anxiety.
+
+Treatment Plan:
+- Referral to a mental health specialist for psychological counseling and potential short-term anxiolytic medication.
+
+Issue/Problem/Request 3:
+Assessment:
+- Likely Diagnosis: Preventive assessment for surgical site infection.
+- Differential Diagnosis: None currently needed.
+
+Diagnostic Tests:
+- No immediate additional tests required.
+
+Treatment Plan:
+- Continue meticulous wound care and complete the course of antibiotics.
+- Maintain diligent hygiene practices at the surgical site.
+
+Follow-Up:
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. The patient is advised to return for a follow-up visit in two weeks to reassess pain management, progress with physical therapy, and to address any psychological concerns. The patient was educated on the importance of adherence to the pain management plan, including physical therapy and wound care. The benefits of mental health support were also highlighted. The patient expressed understanding and agreement with the proposed treatment plan.

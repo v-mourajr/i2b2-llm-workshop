@@ -1,0 +1,59 @@
+**Visit Information:**
+- Patient Number: 1000000078
+- Visit Date: November 01, 2004
+
+**Subjective:**
+This is a 25-year-old Caucasian female who communicates in English, presenting today for the follow-up management of her asthma and other ongoing health conditions. She has been receiving routine care at our clinic for asthma, unspecified without mention of status asthmaticus for the past year. The patient reports experiencing intermittent wheezing and shortness of breath, especially during physical exertion and exposure to cold air. She also mentions occasional nighttime awakenings due to coughing. She denies fever, chest pain, or hemoptysis.
+
+Her asthma is currently managed with Albuterol Sulfate 4mg tablets as needed, Atrovent 18 mcg/inh aerosol taken twice a day, Flonase 0.05 mg/inh spray for allergy-related nasal congestion, and Pulmicort Turbuhaler 200 mcg/inh aerosol taken as a preventative measure. She states that her symptoms have been relatively controlled with these medications, but she had a recent flare-up requiring increased use of her rescue inhaler.
+
+The patient also has a history of chronic lymphocytic thyroiditis, multiple sclerosis, unspecified organism pneumonia, and urinary tract infections. For her thyroid condition, she monitors her symptoms and reports no new concerns. Regarding her multiple sclerosis, she reports intermittent episodes of muscle weakness but no acute exacerbations. 
+
+Additionally, she has a past diagnosis of hirsutism for which she is not currently receiving medication. Recent episodes of pneumonia and pulmonary collapse have resolved with treatment. She occasionally experiences urinary symptoms suggestive of a UTI but has completed her course of Augmentin with noted symptom improvement.
+
+**Objective:**
+- Vital Signs:
+  - Blood Pressure: 122/76 mmHg
+  - Heart Rate: 78 beats per minute
+  - Respiratory Rate: 18 breaths per minute
+  - Temperature: 98.6 °F
+  - Oxygen Saturation: 98% on room air
+
+- General Appearance: The patient appears alert, oriented, and in no acute distress.
+- Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops.
+- Respiratory: Mild wheezing on auscultation of the lungs, particularly on forced expiration. No crackles or rhonchi. Good air movement.
+- Abdomen: Soft, non-tender, no organomegaly. Bowel sounds normal.
+- Musculoskeletal: Strength 5/5 in all extremities, no joint swelling or tenderness.
+- Neurological: Cranial nerves II-XII intact. No focal deficits observed. The patient reports occasional muscle weakness, consistent with her known diagnosis of multiple sclerosis.
+- Skin: Normal texture and turgor. Signs of hirsutism present on the upper lip and chin.
+
+**Assessment:**
+The patient’s primary diagnosis remains asthma, which is currently well-controlled with episodic flare-ups. The secondary conditions include chronic lymphocytic thyroiditis, managed multiple sclerosis, and a history of unresolved hirsutism. Tertiary considerations include monitoring for recurrent UTIs and addressing any acute episodes of bronchitis or pneumonia given her respiratory history.
+
+**Plan:**
+1. **Asthma Management:**
+   - Continue current medication regimen: Albuterol Sulfate as needed, Atrovent BID, Flonase for nasal symptoms, and Pulmicort for maintenance.
+   - Encourage environmental control measures to reduce exposure to known triggers.
+   - Schedule a pulmonary function test to assess baseline respiratory status and response to therapy.
+
+2. **Chronic Lymphocytic Thyroiditis:**
+   - Monitor thyroid function tests biannually.
+   - Ensure patient consults with endocrinology regarding any changes in symptoms or new concerns.
+
+3. **Multiple Sclerosis:**
+   - Continue monitoring symptomatology, maintaining a close follow-up with neurology.
+   - Potential plan for MRI if there is a notable worsening of neurological symptoms.
+
+4. **UTI and Other Infections:**
+   - Watch for recurrent symptoms; consider prophylactic measures if recurrence increases.
+   - Educate on proper hydration and genital hygiene to reduce infection risk.
+
+5. **Hirsutism:**
+   - Discuss potential treatment options if the patient desires, including hormonal evaluation and topical treatments.
+
+**Follow-Up:**
+- Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.
+- Educate the patient regarding the importance of adherence to medication and environmental controls.
+- The patient demonstrates understanding and agrees to follow the suggested plan.
+
+The next follow-up appointment is scheduled for three months, with an earlier visit if symptoms flare or new concerns arise.

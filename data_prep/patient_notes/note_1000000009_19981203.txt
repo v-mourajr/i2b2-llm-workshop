@@ -1,0 +1,104 @@
+Visit Information:
+    - Patient Num: 1000000009
+    - Visit Date: December 3, 1998
+
+This is a 10-year-old Hispanic female who has been receiving care at our clinic for various health concerns. She is presenting today, December 3, 1998, for a follow-up visit. She speaks English and has a notable history of recurrent upper respiratory infections, unspecified otitis media, and other childhood ailments.
+
+Subjective:
+    - Chief Complaints & History of Present Illness:
+        The patient presents with complaints of a persistent cough that has been ongoing for the past week. The cough is described as dry and has worsened during the night, impacting her sleep. She also reports experiencing intermittent fevers, peaking at 101°F, which has responded to antipyretic medication. There are no complaints of chest pain or shortness of breath.
+    
+    - Past Medical & Surgical History:
+        The patient has a history of acute upper respiratory infections, croup, and unspecified otitis media. She also had a prior incident of urinary incontinence. She has an existing diagnosis of essential hypertension and other unspecified diseases of oral soft tissues. Furthermore, she recently had a foreign body removed from her larynx.
+
+    - Medications & Supplements:
+        She is currently taking a daily antihypertensive medication to manage her hypertension, which her parents report has been effective. She also intermittently uses antipyretic medication such as acetaminophen for fever management. There are no other current medications or supplements.
+
+    - Social History:
+        The patient lives with her parents and attends elementary school. Her parents do not report any exposure to smokers or significant environmental allergens. She participates in physical education at school but has reduced activity due to recent illness.
+
+    - Allergies:
+        There are no known drug allergies.
+
+    - Symptom Details:
+        The cough began one week ago and has been persistent, exacerbated at night. Fevers accompany the cough, occurring intermittently and peaking at 101°F. There is no significant mucus production, chest discomfort or difficulty in breathing noted.
+
+    - Additional Narrative:
+        Despite the generalized body aches and fever, over-the-counter treatments have managed her fever well. She has tried non-pharmacological interventions like honey and warm teas for the cough, with limited effectiveness. Her parents are concerned about the duration and possible underlying cause given recurrent upper respiratory symptoms.
+
+Objective:
+    - Vital Signs:
+        - Blood Pressure: 110/70 mmHg
+        - Heart Rate: 88 beats per minute
+        - Respiratory Rate: 20 breaths per minute
+        - Temperature: 100.5°F
+        - Oxygen Saturation: 98% on room air
+
+    - General Appearance:
+        The patient appears mildly ill, alert, and cooperative, though slightly fatigued. She is well-hydrated and in no acute distress.
+
+    - Cardiovascular:
+        Heart sounds are normal with regular rhythm. No murmurs, gallops, or rubs are detected.
+
+    - Respiratory:
+        Breath sounds are clear bilaterally without wheezes, rales, or rhonchi. No signs of respiratory distress or use of accessory muscles noted.
+
+    - Abdomen:
+        The abdomen is soft and non-tender with normal bowel sounds. No hepatosplenomegaly detected.
+
+    - Musculoskeletal:
+        Full range of motion in all extremities. No joint swelling or deformities observed.
+
+    - Neurological:
+        The patient is alert and oriented. Cranial nerves II-XII are intact. Motor and sensory functions are normal.
+
+    - Skin:
+        The skin is warm, dry, and intact without rash or lesions.
+
+Assessment:
+    - Diagnosis or Clinical Impression:
+        The patient likely has an acute viral respiratory infection with an associated dry cough and fever.
+
+    - Issue/Problem/Request 1:
+        Assessment:
+            - Acute viral upper respiratory infection.
+            - Differential diagnosis: bacterial infection, other respiratory syndromes.
+        Diagnostic Tests:
+            - A complete blood count to assess for infection and anemia.
+            - Throat culture if bacterial pharyngitis is suspected.
+        Treatment Plan:
+            - Continue supportive care including hydration and antipyretics for fever.
+            - Prescribe a cough suppressant if the cough remains disruptive.
+            - Consider antibiotics if bacterial infection is confirmed.
+            - Discuss the importance of hygiene and handwashing to prevent further infections.
+            - Schedule a follow-up in one week or sooner if symptoms worsen.
+
+    - Issue/Problem/Request 2:
+        Assessment:
+            - Recurrent otitis media.
+            - Differential diagnosis: chronic otitis media, sinusitis.
+        Diagnostic Tests:
+            - Otoscopic examination.
+        Treatment Plan:
+            - Evaluate for recurrent ear infections and consider prophylactic antibiotics if indicated.
+            - Possible referral to an otolaryngologist for recurrent episodes.
+        
+    - Issue/Problem/Request 3:
+        Assessment:
+            - Essential hypertension.
+        Diagnostic Tests:
+            - Blood pressure monitoring.
+        Treatment Plan:
+            - Continue current antihypertensive medication.
+            - Monitor blood pressure at follow-up appointments.
+            - Discuss lifestyle modifications that can help manage blood pressure such as diet and exercise.
+
+Follow-Up:
+    - Instructions for emergent follow-up care or monitoring:
+        Instruct patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.
+    - Follow-Up for persistent, changing, or worsening symptoms:
+        Follow-up in one week or as needed for persistent or worsening symptoms.
+    - Patient Education & Understanding of the Plan:
+        The patient and her parents understand the management plan, including the use of antipyretics, hydration, the importance of rest, and hygiene practices to mitigate infection risks. The need for a follow-up visit in one week has been communicated.
+
+This note encapsulates the present visit and outlines the management strategies to address the patient's concerns and promote her prompt recovery.

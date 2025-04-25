@@ -1,0 +1,57 @@
+Visit Information:
+   - Patient Num: 1000000094
+   - Visit Date: 05/08/2001
+
+**Subjective:**
+This is a 5-year-old Hispanic female who speaks English and has attended our clinic recently. She presents today accompanied by her mother for a routine follow-up and vaccination appointment.
+
+The patient's mother reports that she is generally well, although there have been occasional bouts of tiredness. There were no specific complaints of pain or discomfort. They are primarily here to ensure the child is up-to-date with her vaccines and to discuss any observed anomalies in previous tests. The child has no known allergies and, aside from routine childhood illnesses, has no significant past medical history. She was born at term in the hospital and has not undergone any surgeries. Her current medications include standard prophylactic vaccinations.
+
+**Objective:**
+Vital Signs:
+   - Blood Pressure: 90/60 mmHg
+   - Heart Rate: 92 bpm
+   - Respiratory Rate: 20 breaths/min
+   - Temperature: 98.6°F
+   - Oxygen Saturation: 98%
+
+General Appearance: The child appears alert and playful, in no apparent distress, and well-nourished.
+
+Cardiovascular: Normal S1 and S2 heart sounds with no murmurs, rubs, or gallops.
+
+Respiratory: Lungs are clear to auscultation bilaterally with no wheezes, rales, or rhonchi. Respiratory effort is normal.
+
+Abdomen: Soft, non-tender, non-distended, with normal bowel sounds in all quadrants.
+
+Musculoskeletal: Appropriate muscle tone and strength for age, normal range of motion, no deformities.
+
+Neurological: The child is alert and oriented. Cranial nerves II-XII are intact. No focal deficits noted.
+
+Skin: Skin is warm and dry with no rashes, lesions, or abnormalities.
+
+Laboratory Results:
+Recent blood test results showed mild anisocytosis and atypical lymphocytes, which may suggest a transient viral infection or stress. Other values including hematocrit, hemoglobin, mean corpuscular hemoglobin concentration (MCHC), mean corpuscular volume (MCV), and platelet count were within the normal ranges.
+
+**Assessment:**
+The clinical impression is that this child is in good health with no significant abnormalities noted on physical examination. The observed mild anisocytosis and atypical lymphocytes on recent labs are not concerning for significant pathology at this time and are likely transient.
+
+**Plan:**
+1. **Diagnosis/Clinical Impression:**
+   - General wellness with routine vaccination needs.
+   - Potential mild viral syndrome indicated by recent lab results.
+   
+2. **Treatment Plan:**
+   - Update vaccinations as per the current immunization schedule.
+   - Encourage fluids, rest, and a balanced diet.
+   
+3. **Further Investigations:**
+   - No additional tests are required at this time unless new symptoms arise.
+
+4. **Follow-Up:**
+   - Routine follow-up in 6 months for general assessment and vaccination updates.
+   - Instruct parents to monitor for any new symptoms and to contact the clinic if there are concerns such as persistent fever, unusual fatigue, or other new symptoms.
+
+**Patient Education & Understanding of the Plan:**
+Discussed the importance of continuing with scheduled vaccinations and maintaining good hydration and nutrition. The mother verbalized understanding of the instructions and agreed to monitor the child’s health closely, contacting the clinic should any issues arise.
+
+Instruct the patient's mother to reach out if symptoms worsen or do not improve within a week or if any new concerning symptoms present. The family has been scheduled for a routine follow-up visit in six months.

@@ -1,0 +1,59 @@
+### Visit Information:
+- **Patient Number**: 1000000069
+- **Visit Date**: April 16, 2004
+
+### Subjective:
+This is a 42-year-old Black male who primarily speaks Spanish. He has been under care at our clinic for several years and returns today for a follow-up visit. The patient has a longstanding history of asthma, with frequent episodes of wheezing, shortness of breath, and chest tightness, particularly exacerbated by physical activity. He mentions that his symptoms have worsened over the past week. Despite adherence to his asthma treatment plan, which includes Albuterol Sulfate and Qvar inhalers, he reports insufficient relief with his current regimen.
+
+Additionally, he describes ongoing intermittent abdominal pain, which is diffuse without observable exacerbating or alleviating factors. The patient denies associated nausea, vomiting, or changes in bowel habits. Another concern for the patient is intermittent episodes of acute bronchitis, pharyngitis, alopecia, backache, and occasional headaches.
+
+The patient is currently on a medication regimen that includes Allegra for allergic rhinitis, Beconase and Flonase nasal sprays for chronic rhinitis, Benzonatate for cough, and Bupropion for potential adjunctive therapy with his previous opioid dependence. There are no other significant changes in his condition since his last visit, except for new skin rashes and persistent fatigue.
+
+### Objective:
+- **Vital Signs**:
+  - Blood Pressure: 124/82 mmHg
+  - Heart Rate: 88 bpm
+  - Respiratory Rate: 22 breaths/min
+  - Temperature: 98.6°F
+  - Oxygen Saturation: 93% on room air
+
+- **General Appearance**: The patient appears alert and oriented. He is in mild respiratory distress, with noticeable effort in breathing, but overall looks stable.
+- **Cardiovascular**: Regular rate and rhythm, no murmurs, gallops, or rubs detected.
+- **Respiratory**: Increased respiratory effort observed with diffuse wheezing bilaterally, especially during expiration. No crackles or rhonchi. Symmetric chest excursions with slightly prolonged expiratory phase.
+- **Abdomen**: Soft, non-tender, and non-distended. Active bowel sounds in all quadrants. No organomegaly, masses, or signs of acute abdomen.
+- **Musculoskeletal**: Full range of motion in all extremities without joint swelling or deformities.
+- **Neurological**: Patient is alert, oriented to person, place, and time, with no focal deficits.
+- **Skin**: Presenting with diffuse, erythematous maculopapular rash predominantly on the arms and torso. Rash is pruritic but without vesicles or pustules.
+
+Laboratory results from previous visits have shown normal ranges in complete blood count and liver function tests. However, eosinophil count was slightly elevated, indicating a possible allergic component or exacerbated asthma. Other values, including renal function, blood urea nitrogen, creatinine, and metabolic panels, were within normal limits.
+
+### Assessment:
+- **Primary Diagnosis**: Asthma exacerbation, currently poorly controlled despite ongoing therapy.
+- **Secondary Diagnosis**: Erythematous maculopapular rash, likely secondary to atopic dermatitis or an allergic reaction.
+- **Additional Concerns**: Chronic, nonspecific abdominal pain; differential diagnosis includes functional bowel disorder or stress-related causes.
+
+### Plan:
+1. **Asthma Management**:
+   - Continue current inhalation therapy and prescribe a short course of oral corticosteroids (prednisone) to manage the exacerbation.
+   - Reinforce correct usage techniques of inhalers and recommend a session with a respiratory therapist.
+   - Arrange referral to an allergist for comprehensive testing and management of potential allergens.
+
+2. **Rash Management**:
+   - Initiate treatment with Hydrocortisone cream for the rash and advise the patient on potential allergens or irritants to avoid.
+   - Ensure follow-up in one week to monitor the progression and response to treatment.
+
+3. **Abdominal Pain**:
+   - Suggest dietary modifications and recommend OTC antacids for symptomatic relief.
+   - Schedule for diagnostic imaging (abdominal ultrasound) if symptoms persist or worsen.
+
+4. **General Instructions**:
+   - Instruct the patient to monitor symptoms closely and seek urgent care if respiratory distress worsens. 
+   - Educate on recognizing signs of asthma attacks, the importance of early intervention, and maintaining a smoke-free environment.
+
+### Follow-Up:
+- Schedule follow-up visit in one week to evaluate treatment efficacy for asthma and rash.
+- Emphasize adherence to the prescribed treatment plan and the importance of reporting any adverse effects or worsening symptoms.
+- Provide educational materials on asthma and lifestyle changes to minimize exacerbations. The patient expresses understanding of the management plan and appears comfortable with the instructions for emergent and routine follow-up care.
+
+### Patient Education:
+The patient verbalized understanding of the treatment plan, including the use of medications, identification of emergency symptoms, and the necessity for ongoing management of asthma. He acknowledged being able to manage his treatment plan proactively and understands the measures to take should there be any changes in his condition.

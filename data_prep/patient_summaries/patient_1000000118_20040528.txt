@@ -1,0 +1,116 @@
+demographics
+patient_num: 1000000118  age: 30
+patient_num: 1000000118  sex: M
+patient_num: 1000000118  race: black
+patient_num: 1000000118  language: spanish
+patient_num: 1000000118  vital_status: alive
+patient_num: 1000000118  earliest fact: Apr  7 1997 12:00AM
+patient_num: 1000000118  latest fact: May 28 2004 12:00AM
+patient_num: 1000000118  range in days: 2608
+totals
+patient_num: 1000000118  distinct concepts: 110
+patient_num: 1000000118  total facts: 387
+patient_num: 1000000118  total encounters: 52
+patient_num: 1000000118  total asthma: 7
+descriptive
+patient_num: 1000000118  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 7
+patient_num: 1000000118  diagnosis code: ICD9:380.32  name: Acquired deformities of auricle or pinna  count: 2
+patient_num: 1000000118  diagnosis code: ICD9:466.0  name: Acute bronchitis  count: 3
+patient_num: 1000000118  diagnosis code: ICD9:309.24  name: Adjustment reaction with anxious mood  count: 1
+patient_num: 1000000118  diagnosis code: ICD9:477.9  name: Allergic rhinitis, cause unspecified  count: 1
+patient_num: 1000000118  diagnosis code: ICD9:E968.8  name: Assault by other specified means  count: 1
+patient_num: 1000000118  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 7
+patient_num: 1000000118  diagnosis code: ICD9:86.74  name: Attachment of pedicle or flap graft to other sites  count: 1
+patient_num: 1000000118  diagnosis code: ICD9:724.5  name: Backache, unspecified  count: 1
+patient_num: 1000000118  diagnosis code: ICD9:850.0  name: Concussion with no loss of consciousness  count: 1
+patient_num: 1000000118  diagnosis code: ICD9:786.2  name: Cough  count: 2
+patient_num: 1000000118  diagnosis code: ICD9:788.1  name: Dysuria  count: 1
+patient_num: 1000000118  diagnosis code: ICD9:89.52  name: Electrocardiogram  count: 1
+patient_num: 1000000118  diagnosis code: ICD9:785.6  name: Enlargement of lymph nodes  count: 1
+patient_num: 1000000118  diagnosis code: ICD9:18.29  name: Excision or destruction of other lesion of external ear  count: 1
+patient_num: 1000000118  diagnosis code: ICD9:300.02  name: Generalized anxiety disorder  count: 2
+patient_num: 1000000118  diagnosis code: ICD9:959.01  name: Head injury, unspecified  count: 2
+patient_num: 1000000118  diagnosis code: ICD9:959.09  name: Injury of face and neck  count: 1
+patient_num: 1000000118  diagnosis code: ICD9:959  name: Injury, other and unspecified  count: 1
+patient_num: 1000000118  diagnosis code: ICD9:386.30  name: Labyrinthitis, unspecified  count: 1
+patient_num: 1000000118  diagnosis code: ICD9:783.4  name: Lack of expected normal physiological development  count: 1
+patient_num: 1000000118  diagnosis code: ICD9:906.0  name: Late effect of open wound of head, neck, and trunk  count: 1
+patient_num: 1000000118  diagnosis code: ICD9:E969  name: Late effects of injury purposely inflicted by other person  count: 1
+patient_num: 1000000118  diagnosis code: ICD9:214.9  name: Lipoma, unspecified site  count: 1
+patient_num: 1000000118  diagnosis code: ICD9:606.9  name: Male infertility, unspecified  count: 2
+patient_num: 1000000118  diagnosis code: ICD9:872.01  name: Open wound of auricle, uncomplicated  count: 4
+patient_num: 1000000118  diagnosis code: ICD9:872.8  name: Open wound of ear, part unspecified, without mention of complication  count: 1
+patient_num: 1000000118  diagnosis code: ICD9:879.9  name: Open wound(s) (multiple) of unspecified site(s), complicated  count: 2
+patient_num: 1000000118  diagnosis code: ICD9:879.8  name: Open wound(s) (multiple) of unspecified site(s), without mention of complication  count: 1
+patient_num: 1000000118  diagnosis code: ICD9:959.0  name: Other and unspecified injury to head, face, and neck  count: 1
+patient_num: 1000000118  diagnosis code: ICD9:786.59  name: Other chest pain  count: 1
+patient_num: 1000000118  diagnosis code: ICD9:87.49  name: Other chest x-ray  count: 1
+patient_num: 1000000118  diagnosis code: ICD9:786.09  name: Other dyspnea and respiratory abnormality  count: 1
+patient_num: 1000000118  diagnosis code: ICD9:V70.3  name: Other general medical examination for administrative purposes  count: 1
+patient_num: 1000000118  diagnosis code: ICD9:E812.0  name: Other motor vehicle traffic accident involving collision with motor vehicle injuring driver of motor vehicle other than motorcycle  count: 1
+patient_num: 1000000118  diagnosis code: ICD9:18.79  name: Other plastic repair of external ear  count: 2
+patient_num: 1000000118  diagnosis code: ICD9:078.19  name: Other specified viral warts  count: 1
+patient_num: 1000000118  diagnosis code: ICD9:786.9  name: Other symptoms involving respiratory system and chest  count: 1
+patient_num: 1000000118  diagnosis code: ICD9:87.22  name: Other x-ray of cervical spine  count: 1
+patient_num: 1000000118  diagnosis code: ICD9:786.52  name: Painful respiration  count: 1
+patient_num: 1000000118  diagnosis code: ICD9:782.1  name: Rash and other nonspecific skin eruption  count: 1
+patient_num: 1000000118  diagnosis code: ICD9:E849.5  name: Street and highway accidents  count: 1
+patient_num: 1000000118  diagnosis code: ICD9:401.9  name: Unspecified essential hypertension  count: 2
+patient_num: 1000000118  diagnosis code: ICD9:780.50  name: Unspecified sleep disturbance  count: 3
+patient_num: 1000000118  diagnosis code: ICD9:079.99  name: Unspecified viral infection in conditions classified elsewhere and of unspecified site  count: 1
+patient_num: 1000000118  laboratory code: LOINC:704-7  name: Abs Basos Auto (Group:ABASOS)  count: 1
+patient_num: 1000000118  laboratory code: LOINC:711-2  name: Abs EOS Auto (Group:AEOS)  count: 1
+patient_num: 1000000118  laboratory code: LOINC:731-0  name: Abs Lymphs Auto (Group:ALYMPHS)  count: 2
+patient_num: 1000000118  laboratory code: LOINC:742-7  name: Abs Monos Auto (Group:AMONOS)  count: 2
+patient_num: 1000000118  laboratory code: LOINC:752-6  name: Abs Neuts Auto (Group:ANEUTS)  count: 2
+patient_num: 1000000118  laboratory code: LOINC:1751-7  name: Albumin (Group:ALB)  count: 1
+patient_num: 1000000118  laboratory code: LOINC:8246-1  name: Amorph Crystals (Group:UAS-AMOR)  count: 2
+patient_num: 1000000118  laboratory code: LOINC:1920-8  name: AST (SGOT) (Group:SGOT)  count: 1
+patient_num: 1000000118  laboratory code: LOINC:5769-5  name: Bacteria (Group:UAS-BACT)  count: 3
+patient_num: 1000000118  laboratory code: LOINC:706-2  name: Basophils - Auto (Group:BASOS)  count: 1
+patient_num: 1000000118  laboratory code: LOINC:5770-3  name: Bilirubin (Group:UA-BILI)  count: 4
+patient_num: 1000000118  laboratory code: LOINC:3094-0  name: Blood Urea Nitrogen (Group:BUN)  count: 1
+patient_num: 1000000118  laboratory code: LOINC:9439-1  name: Casts (Group:CASTS)  count: 2
+patient_num: 1000000118  laboratory code: LOINC:2093-3  name: Cholesterol (Group:CHOL)  count: 2
+patient_num: 1000000118  laboratory code: LOINC:5778-6  name: Color (Group:UA-COLOR)  count: 4
+patient_num: 1000000118  laboratory code: LOINC:2160-0  name: Creatinine (Group:CRE)  count: 1
+patient_num: 1000000118  laboratory code: LOINC:X4005-4  name: Crystals (Group:UAS-CRYS)  count: 3
+patient_num: 1000000118  laboratory code: LOINC:1968-7  name: Direct Bilirubin (Group:DBILI)  count: 2
+patient_num: 1000000118  laboratory code: LOINC:713-8  name: Eosinophils - Auto (Group:EOS)  count: 1
+patient_num: 1000000118  laboratory code: LOINC:4537-7  name: ESR (Group:ESR)  count: 2
+patient_num: 1000000118  laboratory code: LOINC:2336-6  name: Globulin (Group:GLOB)  count: 1
+patient_num: 1000000118  laboratory code: LOINC:6777-7  name: Glucose (Group:GLU)  count: 2
+patient_num: 1000000118  laboratory code: LOINC:5792-7  name: Glucose - UA (Group:UA-GLUC)  count: 4
+patient_num: 1000000118  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 5
+patient_num: 1000000118  laboratory code: LOINC:2086-7  name: HDL (Group:HDL)  count: 2
+patient_num: 1000000118  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 5
+patient_num: 1000000118  laboratory code: LOINC:5797-6  name: Ketones (Group:UA-KET)  count: 4
+patient_num: 1000000118  laboratory code: LOINC:2090-9  name: LDL (Group:LDL)  count: 2
+patient_num: 1000000118  laboratory code: LOINC:736-9  name: Lymphocytes - Auto (Group:LYMPHS)  count: 2
+patient_num: 1000000118  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 5
+patient_num: 1000000118  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 5
+patient_num: 1000000118  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 5
+patient_num: 1000000118  laboratory code: LOINC:5905-5  name: Monocytes - Auto (Group:MONOS)  count: 2
+patient_num: 1000000118  laboratory code: LOINC:8247-9  name: Mucous (Group:UAS-MUC)  count: 2
+patient_num: 1000000118  laboratory code: LOINC:770-8  name: Neutrophils - Auto (Group:POLYS)  count: 2
+patient_num: 1000000118  laboratory code: LOINC:5802-4  name: Nitrites (Group:UA-NIT)  count: 4
+patient_num: 1000000118  laboratory code: LOINC:5794-3  name: Occult Blood (Group:UA-BLD)  count: 4
+patient_num: 1000000118  laboratory code: LOINC:11279-7  name: Other/Comments (Group:UAS-COM)  count: 2
+patient_num: 1000000118  laboratory code: LOINC:5803-2  name: PH (Group:UA-PH)  count: 4
+patient_num: 1000000118  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 5
+patient_num: 1000000118  laboratory code: LOINC:5804-0  name: Protein (Group:UA-ALB)  count: 4
+patient_num: 1000000118  laboratory code: LOINC:5902-2  name: PT (Group:PT)  count: 2
+patient_num: 1000000118  laboratory code: LOINC:5898-2  name: PTT (Group:PTT)  count: 2
+patient_num: 1000000118  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 5
+patient_num: 1000000118  laboratory code: LOINC:5808-1  name: RBC - Urine Sed (Group:UAS-RBC)  count: 3
+patient_num: 1000000118  laboratory code: LOINC:788-0  name: RDW (Group:RDW)  count: 2
+patient_num: 1000000118  laboratory code: LOINC:5811-5  name: Specific Gravity (Group:UA-SPGR)  count: 4
+patient_num: 1000000118  laboratory code: LOINC:11277-1  name: Squamous Cells (Group:UAS-SQUA)  count: 2
+patient_num: 1000000118  laboratory code: LOINC:1975-2  name: Total Bilirubin (Group:TBILI)  count: 2
+patient_num: 1000000118  laboratory code: LOINC:2885-2  name: Total Protein (Group:TP)  count: 1
+patient_num: 1000000118  laboratory code: LOINC:2571-8  name: Triglycerides (Group:TRIG)  count: 2
+patient_num: 1000000118  laboratory code: LOINC:5767-9  name: Turbidity (Group:UA-TURB)  count: 2
+patient_num: 1000000118  laboratory code: LOINC:5818-0  name: Urobilinogen (Group:UA-UROBI)  count: 4
+patient_num: 1000000118  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 5
+patient_num: 1000000118  laboratory code: LOINC:5821-4  name: WBC - Urine Sed (Group:UAS-WBC)  count: 3
+patient_num: 1000000118  laboratory code: LOINC:5799-2  name: WBC Screen (Group:UA-WBC)  count: 4

@@ -1,0 +1,62 @@
+Patient Information:
+    - Patient Num: 1000000067
+    - Visit Date: 08/03/2000
+
+Subjective:
+    This is a 20-year-old Black female who presents today for a follow-up appointment primarily for asthma management. She has been experiencing recurrent episodes of coughing and difficulty breathing, which have been increasingly frequent over the past month. She reports that her symptoms are often triggered by physical exertion and exposure to dust and cold air. She denies any recent changes in her medication regimen and notes that she has been compliant with her inhaler use.
+
+    Her past medical history is significant for asthma, unspecified, without mention of status asthmaticus. She also has a history of pectus excavatum and has experienced episodic coughing. No previous surgeries were noted. 
+
+    Currently, she is on a combination inhaler, which includes a corticosteroid and a long-acting beta agonist, and she uses a short-acting beta agonist as needed for acute symptoms. She claims that these medications do provide relief but doesn't completely control her symptoms.
+
+    Socially, she is a non-smoker, does not consume alcohol, and she is a college student. She lives in a dormitory on campus and finds herself exposed to various potential respiratory irritants.
+
+    She has no known drug allergies and no food or environmental allergies have been identified.
+
+    Her coughing spells are described as occurring mostly at night and early morning, each episode lasting approximately 15 minutes. The cough is non-productive and often leaves her short of breath. Exercise tends to aggravate her condition, while rest and the use of her rescue inhaler alleviate the symptoms temporarily. She rates the severity of her symptoms on a scale of 6 out of 10.
+
+Objective:
+    - Vital Signs:
+        - Blood Pressure: 118/74 mmHg
+        - Heart Rate: 80 bpm
+        - Respiratory Rate: 22 breaths per minute
+        - Temperature: 98.6°F (37°C)
+        - Oxygen Saturation: 95% on room air
+    - General Appearance: The patient is a well-appearing young female, alert and oriented, in no acute distress.
+    - Cardiovascular: Heart sounds are normal with no murmurs, rubs, or gallops.
+    - Respiratory: There is bilateral wheezing on auscultation with prolonged expiratory phase. No crackles or rhonchi detected. 
+    - Abdomen: Soft, non-tender, and non-distended. Bowel sounds are present in all quadrants.
+    - Musculoskeletal: Normal range of motion in all extremities, no joint swelling or tenderness.
+    - Neurological: Cranial nerves II-XII intact, motor strength 5/5 in all extremities, reflexes 2+ and symmetric.
+    - Skin: No rashes, lesions, or cyanosis observed.
+
+Assessment:
+    - Likely Diagnosis:
+        The patient has recurring symptoms indicative of poorly controlled asthma, unspecified without status asthmaticus, along with associate cough and other respiratory symptoms. 
+        Differential Diagnosis:
+        - Exercise-induced bronchospasm
+        - Viral respiratory infection
+        - Possible exacerbation due to environmental factors
+
+Plan:
+    - Treatment Plan:
+        The patient will continue her current inhaled corticosteroid and long-acting beta agonist combination therapy. She is advised to use her short-acting beta agonist 15 minutes before physical activity as a prophylactic measure.
+        - Increase her evening dose of the combination inhaler to provide better nocturnal control.
+        - Begin a trial of a leukotriene receptor antagonist to address any underlying allergic component.
+    - Further Testing:
+        - Scheduled spirometry to assess lung function and document the severity of airway obstruction.
+        - Chest X-ray to rule out any structural anomalies related to her pectus excavatum.
+        - Allergy testing to identify any potential environmental allergens.
+
+    - Patient Education:
+        Educate the patient on trigger avoidance, especially in her living environment. Advise her on the proper use of inhalers and the importance of adherence to medication.
+        
+Follow-Up:
+    - Instructions:
+        Instruct the patient to return to the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.
+    - Follow-Up:
+        Schedule a follow-up appointment in 4 weeks to review the results of her spirometry and chest X-ray, and to reassess her response to the adjusted medication regimen.
+    - Patient Understanding:
+        The patient verbally acknowledges understanding of the treatment plan and the importance of medication adherence and trigger avoidance.
+
+This comprehensive approach should streamline the patient's care while addressing both her immediate and long-term respiratory health.

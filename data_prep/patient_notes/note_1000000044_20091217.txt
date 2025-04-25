@@ -1,0 +1,74 @@
+Visit Information:
+    - Patient Number: 1000000044
+    - Visit Date: December 17, 2009
+
+This is a 17-year-old Asian male who has been receiving care at our clinic since he was an infant, starting in December 31, 1998. The patient, fluent in English, was brought in today for a follow-up related to his asthma management and overall health evaluation. The patient has a history of asthma, unspecified without mention of status asthmaticus, and has been actively managing his condition with albuterol sulfate 4 mg tablets, which he uses as needed for symptomatic relief.
+
+Subjective:
+Chief Complaints and History of Present Illness:
+The patient and his parents report that his current asthma management is generally effective, yet he continues to experience intermittent episodes of wheezing and shortness of breath. These episodes are commonly triggered by physical exertion and exposure to cold air. Home management has been successful, and there have been no recent hospitalizations or emergency visits related to asthma. Nocturnal coughing occurs once or twice a week, occasionally disturbing his sleep.
+
+Past Medical and Surgical History:
+The patient’s medical history includes multiple minor contusions, episodes of conjunctivitis, atopic dermatitis, and mild knee contusion from recent physical activities, all of which have resolved without complications. He has no surgical history.
+
+Medications and Supplements:
+He currently uses an albuterol inhaler as needed for asthma and does not take any herbal supplements or over-the-counter medications.
+
+Social History:
+The patient maintains a balanced diet and participates in regular physical activity. He lives in a supportive, smoke-free environment with his parents.
+
+Allergies:
+The patient has no known allergies.
+
+Symptom Details:
+The patient experiences intermittent wheezing and shortness of breath, primarily induced by physical activity and exposure to cold air. Has nocturnal coughing once or twice weekly impacting sleep; currently, no signs of infection at the knee abrasion site.
+
+Additional Narrative:
+Adherence to the asthma action plan at home is consistent and effective. The patient and his family are diligent in managing his symptoms, maintaining a smoke-free environment, and reporting no side effects from albuterol usage.
+
+Objective:
+Vital Signs:
+- Blood Pressure: 98/60 mmHg
+- Heart Rate: 92 beats per minute
+- Respiratory Rate: 24 breaths per minute
+- Temperature: 98.7°F
+- Oxygen Saturation: 98% on room air
+
+General Appearance:
+The patient presents as alert, well-nourished, and in no acute distress.
+
+Cardiovascular:
+Cardiac exam reveals a regular rate and rhythm with no murmurs, rubs, or gallops.
+
+Respiratory:
+On auscultation, lung fields clear bilaterally with symmetrical chest expansion. No wheezing, rales, or rhonchi detected during the exam.
+
+Abdomen:
+The abdomen is soft, non-tender, with normal bowel sounds and no organomegaly.
+
+Musculoskeletal:
+Full range of motion in all extremities. The knee abrasion is healing well with no signs of infection, redness, or discharge.
+
+Neurological:
+The patient is alert and oriented with normal reflexes and appropriate responses for his age.
+
+Skin:
+No rashes or lesions aside from the clean, healing abrasion on the knee.
+
+Assessment:
+1. Well-controlled asthma with occasional exacerbations.
+2. Healing abrasion on the knee.
+3. History of mild contusions and conjunctivitis.
+
+Plan:
+1. Continue with the current asthma management plan, using albuterol as needed.
+2. Further educate the patient and his parents on early detection of asthma exacerbations and the importance of adhering to the asthma action plan.
+3. Encourage regular physical activity with gradual warming up and caution during cold weather to avoid triggering asthma symptoms.
+4. Advise keeping the knee abrasion clean, monitoring for signs of infection, and protecting the area.
+5. Schedule a routine follow-up in six months to assess asthma control or earlier if symptoms escalate.
+6. Ensure the patient continues to receive necessary vaccinations and routine health check-ups.
+
+Follow-Up:
+Instructions provided to contact the clinic immediately if symptoms worsen, such as persistent shortness of breath or increased need for albuterol. In emergent situations, to seek emergency care. The patient and family were given educational materials on asthma management and understood the care plan.
+
+The visit ended with a comprehensive discussion reaffirming the importance of ongoing monitoring and adherence to the management plan.

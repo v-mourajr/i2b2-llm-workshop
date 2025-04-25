@@ -1,0 +1,70 @@
+**Visit Information:**
+
+- Patient Num: 1000000117
+- Visit Date: April 1, 2009
+
+---
+
+This is a 14-year-old Indian male presenting for follow-up concerning his ongoing asthma management, abdominal pain, and overall health maintenance. The patient has been under our care intermittently for several years, with a notable history of asthma, various gastrointestinal issues, and dermatological conditions. His primary language is English, and he is typically accompanied by his mother, who is very involved in his care.
+
+
+**Subjective:**
+
+The patient reports recurrent asthma exacerbations over the past few months, triggered mainly by cold weather and physical exertion. These exacerbations have been characterized by episodes of shortness of breath, wheezing, and coughing, despite regular use of his prescribed inhalers. He has also experienced generalized abdominal pain frequently, described as a dull ache that spans across his abdomen and lasts for several hours. The pain is not associated with changes in appetite, vomiting, or diarrhea. 
+
+His past medical history includes multiple episodes of asthma with both specified and unspecified types, and attacks with and without status asthmaticus. He has a diagnosis of gastroesophageal reflux disease, for which he takes omeprazole, and has a history of failure to thrive, feeding issues, and pulmonary eosinophilia. His dermatological history is notable for contact dermatitis and eczema. He also has a surgically recorded circumcision.
+
+His current medications include a daily Flovent 220 mcg inhaler for asthma control, an Albuterol Sulfate 4mg inhaler for acute relief, and omeprazole for his reflux condition. The patient denies any known drug allergies. Socially, he is active in school, engages in outdoor activities regularly but his asthma symptoms are particularly exacerbated by dusty environments and strenuous physical activities. There are no significant new symptoms or changes noted since the last visit.
+
+
+**Objective:**
+
+- **Vital Signs**:
+  - Blood Pressure: 104/68 mmHg
+  - Heart Rate: 86 bpm
+  - Respiratory Rate: 22 breaths/minute
+  - Temperature: 98.2°F
+  - Oxygen Saturation: 97% on room air
+
+- **General Appearance**: Energetic, well-developed, and well-nourished male child who is alert and cooperative.
+- **Cardiovascular**: Regular rhythm, normal S1 and S2, no murmurs, gallops, or rubs.
+- **Respiratory**: Mild expiratory wheezing audible bilaterally, with slightly labored breathing, no rales or rhonchi.
+- **Abdomen**: Soft, non-tender, no masses or organomegaly noted, bowel sounds are active and normoactive.
+- **Musculoskeletal**: Full range of motion in all extremities, no joint swelling or tenderness observed.
+- **Neurological**: Alert and oriented, cranial nerves II-XII intact, normal reflexes for age, no focal deficits.
+- **Skin**: Dry, scaly patches on the forearms and lower extremities consistent with eczema, no signs of infection or significant inflammation.
+
+
+**Assessment:**
+
+1. **Asthma**:
+    - Persistent and exercise-induced asthma symptoms are evident with recent exacerbations.
+2. **Abdominal Pain**:
+    - Symptoms suggest functional abdominal pain; no immediate indication of acute or serious gastrointestinal pathology.
+3. **Eczema**:
+    - Chronic condition with persistent dry, erythematous patches.
+
+**Plan:**
+
+1. **Asthma**:
+    - Continue the current Flovent (fluticasone) 220 mcg twice daily.
+    - Use Albuterol Sulfate 4 mg as needed.
+    - Increase the dose of the corticosteroid inhaler to better control symptoms if there's no improvement within the next two weeks.
+    - Schedule a follow-up in one month to assess symptom control and medication efficacy.
+    - Educate the patient and his mother on the asthma action plan, emphasizing the importance of avoiding known triggers.
+    - Consider a referral to a pediatric pulmonologist if symptoms persist despite medication adjustments.
+
+2. **Abdominal Pain**:
+    - Continue monitoring symptoms, recommend maintaining a symptom diary to identify potential triggers.
+    - Encourage adequate hydration and a balanced diet, potentially adjusting dietary habits to minimize discomfort.
+    - If pain persists or exacerbates, consider a referral to a pediatric gastroenterologist for further evaluation.
+
+3. **Eczema**:
+    - Recommend the use of moisturizing emollients regularly to maintain skin hydration.
+    - Apply low-potency topical corticosteroids during flare-ups.
+    - Avoid known skin irritants and consider allergy testing if new triggers are suspected.
+    - Plan for a dermatology referral if eczema does not improve with the current treatment.
+
+**Follow-Up:**
+
+Instruct the mother to contact the clinic if her son's asthma or abdominal symptoms worsen or fail to improve within a week. A follow-up visit is scheduled for one month to evaluate the effectiveness of the asthma and eczema management plans. The importance of medication adherence and environmental control for asthma has been emphasized, and the patient and his mother have expressed understanding and agreement with the outlined plan.

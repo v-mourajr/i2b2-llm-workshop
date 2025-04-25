@@ -1,0 +1,61 @@
+**Visit Information:**
+- Patient Num: 1000000100
+- Visit Date: 11/01/2007
+
+**Subjective:**
+This is a 16-year-old Hispanic male who speaks English and has been under our clinic's care for approximately ten years. He presents today for a follow-up visit primarily concerning his chronic asthma and recent exacerbation of symptoms. The patient's mother reports that he has been experiencing increased shortness of breath, wheezing, and coughing, particularly at night, for the past three weeks. His current inhalers provide only short-term relief, and his symptoms have been significantly affecting his sleep and daily activities.
+
+His medical history includes asthma, congenital hydrocephalus, and infantile cerebral palsy. The patient has a history of requiring mechanical ventilation and has been treated for pneumonia and other respiratory issues multiple times in the past. He has also experienced nonpyogenic meningitis and frequent episodes of acute pharyngitis.
+
+His current medication regimen includes Albuterol Sulfate for acute asthma symptoms, Atrovent and Qvar for long-term asthma control, Dilantin for seizure management, and Propulsid for gastrointestinal issues. He has been adherent to his medications, although his response has been variable recently.
+
+Socially, he lives with his supportive parents and attends a special education program at his school. There have been no significant changes in his environment that could explain the recent worsening of his symptoms. He has no known allergies.
+
+Symptomatically, he has experienced a gradual onset of increased wheezing, coughing, and shortness of breath, most severe at night. His inhalers provide only temporary relief, and his symptoms have not significantly improved with non-pharmacological interventions.
+
+**Objective:**
+- **Vital Signs:**
+  - Blood Pressure: 105/70 mmHg
+  - Heart Rate: 90 bpm
+  - Respiratory Rate: 22 breaths per minute
+  - Temperature: 98.9°F (37.1°C)
+  - Oxygen Saturation: 95% on room air
+- **General Appearance:**
+  The patient appears well-nourished but displays signs of mild fatigue. He is alert and cooperative during the examination.
+- **Cardiovascular:**
+  Heart sounds are normal with a regular rate and rhythm. No murmurs, rubs, or gallops are noted.
+- **Respiratory:**
+  Mild intercostal retractions and nasal flaring are observed. Diminished breath sounds bilaterally with diffuse expiratory wheezes. No crackles or rhonchi are heard.
+- **Abdomen:**
+  The abdomen is soft and non-tender with normal bowel sounds. No organomegaly is present.
+- **Musculoskeletal:**
+  Normal range of motion and muscle strength; no abnormalities detected.
+- **Neurological:**
+  The patient is alert and oriented. Cranial nerves II-XII are intact, and deep tendon reflexes are brisk but symmetrical.
+- **Skin:**
+  Warm, dry, and intact with no rashes or lesions.
+
+**Assessment:**
+The primary clinical impression is an exacerbation of chronic asthma. Secondary diagnoses include congenital hydrocephalus and infantile cerebral palsy. Additionally, there is evidence of a recent upper respiratory infection, inferred from recent febrile episodes and current symptoms of fatigue and malaise.
+
+**Plan:**
+1. **Asthma Management:**
+   - Reinforce adherence to Qvar and Atrovent administration.
+   - Initiate a short course of oral corticosteroids to manage the current asthma exacerbation.
+   - Perform pulmonary function tests to evaluate current asthma control and adjust treatment as necessary.
+
+2. **Neurological Concerns:**
+   - Continue Dilantin for seizure management, maintaining routine neurological follow-up.
+   - Continue physical, occupational, and speech therapies tailored to his cerebral palsy.
+
+3. **Respiratory Infection and General Health:**
+   - Monitor respiratory status closely. Consider initiating antibiotics if bacterial infection is suspected.
+   - Administer regular nebulized bronchodilators as needed.
+
+4. **Investigations:**
+   - Order a complete blood count (CBC), arterial blood gases, and inflammatory markers to monitor his current health status and guide further treatment adjustments.
+
+**Follow-Up:**
+- Instruct the patient and his mother to contact the clinic if symptoms worsen or fail to improve within one week, or if laboratory results suggest the need for further evaluation.
+- Schedule a follow-up visit in two weeks to reassess his respiratory status and overall health.
+- Educate the mother on recognizing signs of asthma exacerbations and reinforce the asthma action plan, ensuring she understands the treatment and medication protocols.

@@ -1,0 +1,33 @@
+demographics
+patient_num: 1000000123  age: 16
+patient_num: 1000000123  sex: M
+patient_num: 1000000123  race: indian
+patient_num: 1000000123  language: german
+patient_num: 1000000123  vital_status: alive
+patient_num: 1000000123  earliest fact: Jan  2 1998 12:00AM
+patient_num: 1000000123  latest fact: Dec  2 1998 12:00AM
+patient_num: 1000000123  range in days: 334
+totals
+patient_num: 1000000123  distinct concepts: 26
+patient_num: 1000000123  total facts: 36
+patient_num: 1000000123  total encounters: 5
+patient_num: 1000000123  total asthma: 1
+descriptive
+patient_num: 1000000123  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 1
+patient_num: 1000000123  diagnosis code: ICD9:477.9  name: Allergic rhinitis, cause unspecified  count: 2
+patient_num: 1000000123  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 1
+patient_num: 1000000123  diagnosis code: ICD9:783.4  name: Lack of expected normal physiological development  count: 1
+patient_num: 1000000123  laboratory code: LOINC:706-2  name: Basophils - Auto (Group:BASOS)  count: 1
+patient_num: 1000000123  laboratory code: LOINC:713-8  name: Eosinophils - Auto (Group:EOS)  count: 1
+patient_num: 1000000123  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 1
+patient_num: 1000000123  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 1
+patient_num: 1000000123  laboratory code: LOINC:736-9  name: Lymphocytes - Auto (Group:LYMPHS)  count: 1
+patient_num: 1000000123  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 1
+patient_num: 1000000123  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 1
+patient_num: 1000000123  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 1
+patient_num: 1000000123  laboratory code: LOINC:5905-5  name: Monocytes - Auto (Group:MONOS)  count: 1
+patient_num: 1000000123  laboratory code: LOINC:770-8  name: Neutrophils - Auto (Group:POLYS)  count: 1
+patient_num: 1000000123  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 1
+patient_num: 1000000123  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 1
+patient_num: 1000000123  laboratory code: LOINC:11273-0  name: RBC Morph Auto (Group:RCM-A)  count: 1
+patient_num: 1000000123  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 1

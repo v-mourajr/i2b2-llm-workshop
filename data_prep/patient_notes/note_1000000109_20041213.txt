@@ -1,0 +1,60 @@
+Visit Information:
+    - Patient Num: 1000000109
+    - Visit Date: December 13, 2004
+
+This is a 58-year-old Hispanic male, patient of ours for several years, presenting for follow-up on multiple medical conditions. He predominantly reports an exacerbation of asthma symptoms including increased shortness of breath, chest tightness, wheezing, particularly at night. He has found his inhaler usage to increase without significant improvement. He denies recent fever, productive cough, or infections but notes increased nasal congestion and rhinorrhea.
+
+The patient's past medical history is significant for chronic asthma and obesity. History includes previous upper respiratory infections, allergic rhinitis, and gastrointestinal malignancies for which he had a sigmoidectomy and large-to-large intestinal anastomosis. He currently uses Atrovent and Beconase inhalers, Cefazolin for infections, and Claritin for allergies. He adheres well to his medications, noting occasional variability in effectiveness due to environmental factors such as weather and air quality.
+
+Socially, he lives alone, is retired, and rarely engages in heavy physical activity. He does not smoke but had significant exposure to secondhand smoke during childhood. He has no known allergies.
+
+Subjective:
+The patient complains of exacerbated asthma symptoms with worse shortness of breath and wheezing. He finds himself using the albuterol rescue inhaler more often and has experienced increased nighttime symptoms. Despite these challenges, he denies cough, fever, or any infectious symptoms but has had increased nasal symptoms suggestive of allergic rhinitis.
+
+Objective:
+Vital Signs:
+    - Blood Pressure: 130/85 mmHg
+    - Heart Rate: 78 bpm
+    - Respiratory Rate: 18 breaths per minute
+    - Temperature: 98.2°F
+    - Oxygen Saturation: 94% on room air
+
+General Appearance:
+The patient is in mild respiratory distress but is alert, oriented, and well-nourished.
+
+Cardiovascular:
+Regular rate and rhythm, no murmurs, rubs, or gallops. Peripheral pulses are strong and equal.
+
+Respiratory:
+Increased respiratory effort with mild intercostal retractions and scattered wheezes throughout lung fields, with a prolonged expiratory phase. No cyanosis or clubbing detected. Chest X-ray reviewed with no acute findings.
+
+Abdomen:
+Soft, non-tender, non-distended with normoactive bowel sounds.
+
+Musculoskeletal:
+Normal tone and full range of motion in all joints. No deformities, edema, or muscle wasting.
+
+Neurological:
+Alert and oriented x3. Cranial nerves II-XII intact, strength 5/5 in all extremities with symmetrical reflexes.
+
+Skin:
+Warm, dry, intact without rashes or lesions.
+
+Assessment:
+1. Chronic asthma with recent exacerbation:
+    - Differentiated from allergic rhinitis and recent upper respiratory infection.
+    - Spirometry scheduled to determine the extent of airway obstruction.
+
+2. Chronic allergic rhinitis:
+    - Likely superimposing and aggravating asthma symptoms.
+    - Continue with Beconase and Claritin.
+
+Treatment Plan:
+- Maintain current asthma medication regimen.
+- Increase inhaled corticosteroid dosage - likely to be more beneficial in control.
+- Prescribe a short course of oral corticosteroids (prednisone) to effectively manage exacerbation.
+- Utilize nebulizer treatments with bronchodilators PRN during acute episodes.
+- Monitor spirometry and peak flow.
+
+Follow-Up:
+The patient is instructed to contact the clinic if symptoms worsen or fail to improve within a week or if the results indicate further evaluation is necessary. A follow-up visit is scheduled for two weeks to reassess asthma control and check for improvement. Comprehensive patient education conducted on medication adherence and trigger avoidance, with the patient demonstrating an understanding and agreeing with the management plan.

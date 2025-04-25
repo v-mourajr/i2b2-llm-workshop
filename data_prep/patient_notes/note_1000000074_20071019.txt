@@ -1,0 +1,59 @@
+**Visit Information**
+- Patient Num: 1000000074
+- Visit Date: 10/19/2007
+
+**Subjective:**
+
+This is a 44-year-old Hispanic female who has been receiving care at our clinic for approximately 10 years. She presents today for a routine follow-up concerning her chronic asthma management. The patient reports ongoing issues with her asthma, including frequent episodes of dyspnea, wheezing, and chest tightness, which have been particularly troublesome over the past month. She has been reliant on her rescue inhaler, utilizing it multiple times daily, despite adhering to her prescribed regimen of inhaled corticosteroids. She also denies any recent infections or exacerbating factors such as new allergen exposures.
+
+The patient’s past medical history is significant for asthma, allergic rhinitis, cervicalgia, classical migraines, kyphosis, and recurrent neck sprains. She experiences regular migraine episodes and neck pain, for which she uses a muscle relaxant and migraine-specific medications effectively. In her social history, she is noted to be a non-smoker, abstains from alcohol, and works as a teacher, potentially exposing her to various allergens. The patient adheres to allergy mitigation strategies at home, including the use of dust mite covers and air purifiers. There are no known drug allergies.
+
+**Objective:**
+
+- **Vital Signs:**
+    - Blood Pressure: 122/82 mmHg
+    - Heart Rate: 80 bpm
+    - Respiratory Rate: 20 breaths/min
+    - Temperature: 98.6°F
+    - Oxygen Saturation: 96% on room air
+- **General Appearance:** The patient appears well-nourished, alert, cooperative, but exhibits mild respiratory distress upon exertion.
+- **Cardiovascular:** Regular rate and rhythm without murmurs, rubs, or gallops.
+- **Respiratory:** Bilateral diffuse expiratory wheezes on auscultation, increased breath sounds, and mild use of accessory muscles during deep inspiration noted.
+- **Abdomen:** Soft and non-tender, normal bowel sounds.
+- **Musculoskeletal:** Mild tenderness along the cervical spine, full range of motion, no deformities.
+- **Neurological:** Cranial nerves II-XII intact; patient is alert, oriented, normal motor function and reflexes.
+- **Skin:** Clear, no rash or lesions noted.
+
+**Assessment:**
+
+- **Primary Diagnosis:** Asthma, unspecified type, with status asthmaticus, under suboptimal control.
+- **Secondary Diagnoses:**
+    - Allergic rhinitis due to other allergens
+    - Cervicalgia
+    - Classical migraine without intractable migraine
+    - Acquired kyphosis
+    - Recurrent neck sprains
+
+**Plan:**
+
+1. **Asthma Management:**
+    - Increase the dose of inhaled corticosteroids to achieve better control over symptoms and decrease the use of the rescue inhaler.
+    - Patient should continue carrying and properly using the albuterol inhaler for acute symptoms.
+    - If no improvement is noted within an initial period, consider adding a leukotriene receptor antagonist such as montelukast.
+    - Referral to an allergist for comprehensive testing and potential immunotherapy.
+
+2. **Allergic Rhinitis:**
+    - Continue antihistamine use; recommend intranasal corticosteroids as needed for enhanced symptom control.
+
+3. **Cervicalgia & Neck Sprains:**
+    - Maintain the current regimen of muscle relaxants; recommend physical therapy to strengthen neck muscles and improve stability.
+
+4. **Classical Migraines:**
+    - Continue the current abortive treatment; document frequency and severity of migraines. If increase in frequency, consider prophylactic migraine therapy.
+
+5. **Overall Management:**
+    - Monitor each condition closely, scheduling follow-ups as necessary. Review patient’s symptoms comprehensively to ensure the effectiveness of the treatment plan.
+
+**Follow-Up:**
+
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate the need for further evaluation. Reassess in two weeks to evaluate the effectiveness of the increased asthma medication and ensure symptom control. Provide education on recognizing signs of severe asthma exacerbation and when to seek immediate medical attention.

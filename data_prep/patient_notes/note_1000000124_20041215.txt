@@ -1,0 +1,75 @@
+**Visit Information:**
+- Patient Num: 1000000124
+- Visit Date: 12/15/2004
+
+This is a 27-year-old Indian female who predominantly speaks Spanish. She has been under our care for the past 18 months. She presents today for a follow-up regarding her chronic asthma management and other related conditions.
+
+**Subjective:**
+- Chief Complaints & History of Present Illness:
+The patient reports an increase in wheezing and shortness of breath over the past week. She has been experiencing these symptoms more frequently, particularly at night, and finds them somewhat unresponsive to her usual Albuterol inhaler. She mentions a productive cough and occasional chest tightness. Her asthma symptoms have persisted for several years with a recent history of exacerbations requiring frequent visits.
+
+- Past Medical & Surgical History:
+The patient's past medical history includes chronic asthma, abnormal chest sounds, hypo kalemia, and occasional joint pain. She has also experienced hypertrophy of the breast, requiring bilateral reduction mammoplasty in the past. She has a history of a tear of the medial cartilage of the knee and has experienced edema and fever previously.
+
+- Medications & Supplements:
+She is currently taking Albuterol for asthma symptoms, Cefazolin Sodium intermittently for adjacent infections, Morphine Sulfate for severe pain management relating to joint pain, and Precare Conceive Prenatal Multivitamins. She has had episodes of needing Droperidol for nausea control.
+
+- Social History:
+The patient is a non-smoker and does not consume alcohol. She is currently pregnant and has had some mobility issues related to joint pain and past knee cartilage injury. She lives in a single-family home with her partner and two children. She is unemployed and primarily responsible for the household chores.
+
+- Allergies:
+The patient has no known drug allergies.
+
+- Symptom Details:
+She describes the wheezing and shortness of breath more intense this past week, typically occurring at night. The cough is productive but she has not noticed any blood. The chest tightness worsens with exertion or exposure to cold air.
+
+- Additional Narrative:
+The patient has been adhering to prescribed medications but finds the relief from Albuterol insufficient during this exacerbation. She denies any recent hospitalizations or emergency department visits since her last scheduled visit. She also mentioned occasional palpitations but denies chest pain.
+
+**Objective:**
+- Vital Signs:
+  - Blood Pressure: 120/80 mmHg
+  - Heart Rate: 98 bpm
+  - Respiratory Rate: 20 breaths per minute
+  - Temperature: 98.6°F
+  - Oxygen Saturation: 94% on room air
+
+- General Appearance:
+The patient appears to be in mild respiratory distress, alert, and oriented but is intermittently coughing. She appears slightly fatigued.
+
+- Cardiovascular:
+Normal heart sounds with a regular rate and rhythm. No murmurs or gallops were noted.
+
+- Respiratory:
+Inspiratory and expiratory wheezes are present bilaterally with scattered rhonchi. There is mild use of accessory muscles observed, and the cough is evident but non-reproducible on command.
+
+- Abdomen:
+Soft and non-tender with no hepatosplenomegaly or other significant findings.
+
+- Musculoskeletal:
+No peripheral edema noted. The range of motion in the lower legs is limited due to discomfort. Mild tenderness noted in the affected knee.
+
+- Neurological:
+No focal deficits. The patient is alert and oriented to person, place, and time. Cranial nerves II-XII are intact.
+
+- Skin:
+No rashes or skin lesions seen. 
+
+**Assessment:**
+- Diagnosis or Clinical Impression:
+The primary diagnosis is Asthma, unspecified without mention of status asthmaticus. There is also a likely acute exacerbation of asthma given the increased wheezing and lack of adequate response to Albuterol. Chronic associated conditions include joint pain, past hypertrophy of the breast, and a possible pregnancy complication due to exacerbation pressures.
+
+**Plan:**
+- Diagnostic Tests:
+Pulmonary function tests (PFTs) to assess the current severity and progression of asthma. Complete blood count (CBC) to check for infection signs due to productive cough and other relevant labs including electrolytes considering her hypokalemia history.
+
+- Treatment Plan:
+Continue current Albuterol, but increase the usage frequency. Introduce an inhaled corticosteroid such as Budesonide for better control. Consider adding Montelukast for further asthmatic symptom control. Use humidified oxygen if oxygen saturation drops below 92%.
+
+- Referrals:
+Recommend follow-up with an allergist for potential allergen-specific immunotherapy. Referral to a respiratory therapist for asthma education and action plan review. Additionally, she should see an orthopedic specialist for knee pain and potential support during pregnancy.
+
+**Follow-Up:**
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. Plan for a follow-up appointment in two weeks to reassess asthma control and progress with new medications. Discuss adherence to, and understanding of, the asthma action plan and the importance of regular prenatal visits for her and her child’s health.
+
+Patient education provided on the importance of medication adherence, avoiding asthma triggers, and having a written action plan. Patient verbalized understanding and willingness to comply with the treatment and follow-up plan.

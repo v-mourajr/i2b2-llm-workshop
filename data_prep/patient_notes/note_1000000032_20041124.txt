@@ -1,0 +1,74 @@
+Visit Information:
+    - Patient Num: 1000000032
+    - Visit Date: 11/24/2004
+
+This is an 8-year-old Indian girl who comes accompanied by her mother for a follow-up visit. The patient, who has been receiving care at our clinic for various respiratory-related conditions and routine child health check-ups over the past four years, speaks Spanish along with her mother. She is here today due to her ongoing symptoms.
+
+Subjective:
+    The patient reports experiencing symptoms of nasal congestion, runny nose, cough, and occasional breathing difficulty for the past few days. These symptoms align with her history of asthma, which has previously been documented as unspecified but sometimes with status asthmaticus. She has also had episodes of acute nasopharyngitis, bronchitis, and other respiratory abnormalities.
+
+    Past Medical & Surgical History:
+    - Asthma (unspecified type, with and without status asthmaticus)
+    - Acute nasopharyngitis (common cold)
+    - Acute bronchiolitis from infections
+    - Episodes of bronchitis and croup
+    - History of cystic fibrosis
+
+    Medications & Supplements:
+    She is on a regimen which includes a daily low-dose inhaled corticosteroid for asthma management and a short-acting bronchodilator as a rescue inhaler. For her current symptoms, she is taking an over-the-counter antihistamine and saline nasal drops.
+
+    Social History:
+    The patient resides with her parents and attends school regularly. There is no exposure to tobacco smoke at home, and the family adheres to good sanitary practices.
+
+    Allergies:
+    No allergies reported.
+
+    Symptom Details:
+    Her symptoms started about four days ago, including nasal congestion, productive cough, and mild respiratory discomfort, particularly at night. Her breathing is generally stable but there are occasional episodes of wheezing.
+
+    Additional Narrative:
+    Her mother has been managing the symptoms with comfort care measures, including the use of antihistamines and saline drops. Previous similar episodes have usually resolved with these measures and without severe complications within a week.
+
+Objective:
+    Vital Signs:
+    - Blood Pressure: 102/64 mmHg
+    - Heart Rate: 105 bpm
+    - Respiratory Rate: 24 breaths per minute
+    - Temperature: 37.3°C (99.1°F)
+    - Oxygen Saturation: 98% on room air
+
+    General Appearance:
+    The patient appears well-nourished, alert, and active, without any acute distress.
+
+    Cardiovascular:
+    Heart sounds are regular with no murmurs, gallops, or rubs.
+
+    Respiratory:
+    Mild nasal congestion observed. Lung auscultation reveals clear breath sounds bilaterally, no wheezing or crackles, and normal respiratory effort.
+
+    Abdomen:
+    Her abdomen is soft without tenderness, normal bowel sounds are present, and no organomegaly is detected.
+
+    Musculoskeletal:
+    The patient exhibits normal range of motion in all extremities and appears physically well.
+
+    Neurological:
+    Neurological examination is appropriate for her age; the patient is responsive and engages well.
+
+    Skin:
+    The skin appears normal, with no rashes or lesions noted.
+
+Assessment:
+    - Diagnosis or Clinical Impression:
+    1. Acute nasopharyngitis (common cold)
+    2. Asthma, unspecified type, without current status asthmaticus
+    3. Routine child health check
+
+Plan:
+    - Continue with over-the-counter antihistamines as needed and maintain the use of saline nasal drops to alleviate nasal symptoms. Encourage increased fluid intake and rest.
+    - Monitor symptoms closely, particularly for any change suggesting secondary infection or exacerbation of asthma (e.g., persistent high fever, worsening cough, or increased respiratory distress).
+    - Reinforce current asthma management plan, ensuring adherence to daily inhaled corticosteroid and as-needed use of the rescue inhaler.
+    - Educate the family about recognizing warning signs of respiratory distress and the importance of follow-up care.
+    - Schedule a follow-up appointment in two weeks or sooner if symptoms worsen, particularly any signs of increased respiratory difficulty.
+
+Instruct the patient’s mother to contact the clinic should there be any worsening or new symptoms that arise, or if improvement does not occur within a week. The family has shown understanding and agrees with the provided plan and instructions.

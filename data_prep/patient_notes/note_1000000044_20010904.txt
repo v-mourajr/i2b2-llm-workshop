@@ -1,0 +1,77 @@
+Visit Information:
+    - Patient Num: 1000000044
+    - Visit Date: 09/04/2001
+
+Subjective:
+    This is an 8-year-old Asian male known to our clinic for asthma, presenting today for a follow-up visit. His asthma symptoms have been relatively well-controlled since his last visit. The patient’s parents report intermittent episodes of wheezing and shortness of breath, primarily triggered by physical activity and exposure to cold air. His asthma management includes the use of a short-acting beta-agonist (albuterol), which he uses as needed, with good acute response. He has not required any emergency visits or hospitalizations for asthma since the last appointment. However, there are occasional nighttime coughs disrupting sleep once or twice a week. His parents also mention he had a mild abrasion on his knee sustained during play, which is healing well.
+
+    The patient has a history of multiple contusions from minor injuries typical of an active child, and occasional conjunctivitis, which has resolved. The family has focused on maintaining a smoke-free environment and promoting regular physical activity.
+
+Past Medical & Surgical History:
+    - Asthma, unspecified without mention of status asthmaticus.
+    - Previous contusions on the buttocks, knee, and unspecified parts.
+    - Abrasion from minor injuries.
+    - Occasional allergic conjunctivitis.
+    - No significant surgical history.
+
+Medications & Supplements:
+    - Albuterol inhaler (as needed basis for asthma symptoms).
+    - No current herbal supplements or over-the-counter medications.
+
+Social History:
+    The patient lives with both parents and attends elementary school. The family practices a healthy lifestyle, including a balanced diet and regular physical activity. No smokers are present in the household.
+
+Allergies:
+    - No known allergies.
+
+Symptom Details:
+    - Intermittent wheezing and shortness of breath, primarily triggered by physical exertion and cold air exposure.
+    - Occasional nighttime coughing disrupting sleep once or twice a week.
+
+Additional Narrative:
+    The patient's asthma appears to be moderately controlled with occasional exacerbations. His parents have consistently utilized the albuterol inhaler for acute symptom relief. They have also focused on maintaining a smoke-free home environment and encouraging regular outdoor play to support his health.
+
+Objective:
+    - Vital Signs:
+        - Blood Pressure: 98/60 mmHg
+        - Heart Rate: 92 beats per minute
+        - Respiratory Rate: 24 breaths per minute
+        - Temperature: 98.7°F
+        - Oxygen Saturation: 98% on room air
+    - General Appearance:
+        The patient appears active, well-nourished, and in no acute distress.
+    - Cardiovascular:
+        Regular rate and rhythm without murmurs, rubs, or gallops.
+    - Respiratory:
+        Clear lungs bilaterally without wheezing, rales, or rhonchi heard during the exam. Symmetrical chest expansion noted.
+    - Abdomen:
+        Soft, non-tender, with no organomegaly. Normal bowel sounds present.
+    - Musculoskeletal:
+        Normal range of motion in all extremities. No swelling or deformities observed.
+    - Neurological:
+        Alert and oriented for age. Reflexes normal. Appropriate developmental responses noted.
+    - Skin:
+        The abrasion on the knee is healing well. No active rashes or other lesions observed.
+
+Assessment:
+    - Diagnosis or Clinical Impression:
+        - Well-controlled asthma with intermittent exacerbations.
+        - Healing minor abrasion on the knee.
+        - Overall, the patient is doing well with active participation in school and play.
+
+Plan:
+    - Continue with current asthma management plan utilizing albuterol inhaler as needed.
+    - Educate parents on recognizing signs of an asthma exacerbation and the importance of adherence to the asthma action plan.
+    - Maintain regular physical activity but ensure a gradual warm-up during colder months to minimize asthma triggers.
+    - Parents encouraged to follow up if there are any exacerbations or if the child's symptoms worsen.
+    - Continue to monitor the knee abrasion for signs of infection and keep it clean and protected.
+    - Regular follow-up in 6 months to reassess asthma control, or sooner if required.
+    - Review routine vaccinations and ensure they are up-to-date.
+
+Follow-Up:
+    - Instructions for emergent follow-up care or monitoring:
+        Instruct parents to contact the clinic if the child develops any severe asthma symptoms, such as persistent or worsening shortness of breath, or needs more frequent use of the albuterol inhaler.
+    - Follow-Up for persistent, changing, or worsening symptoms:
+        Reinforce the importance of follow-up if asthma symptoms increase in frequency or severity before the next scheduled checkup.
+    - Patient Education & Understanding of the Plan:
+        Educated parents on maintaining the asthma management regimen. Discussed the importance of monitoring symptoms and ensuring the child remains active and healthy within the limits of his condition. Parents verbalized understanding and agreed to follow up as instructed.

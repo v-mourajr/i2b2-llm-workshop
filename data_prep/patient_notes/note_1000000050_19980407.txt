@@ -1,0 +1,70 @@
+Please note: In all sections below, include details only if they can be inferred from the ICD9, NDC, or LOINC codes provided in the patient_summary; otherwise, leave blank.
+
+Visit Information:
+    - Patient Num: 1000000050
+    - Visit Date: 04/07/1998
+
+Subjective:
+    
+This is a 10-year-old Black female who has been attending our clinic for ongoing management of her asthma, presenting today for a follow-up examination. She primarily speaks German. Despite her regular use of prescribed asthma medications, she continues to experience symptoms of dyspnea and occasional wheezing, particularly exacerbated by physical exertion. The patient and her family report that these symptoms are often managed at home with the use of her rescue inhaler.
+
+Her medical history includes diagnoses of unspecified asthma without mention of status asthmaticus, past occurrences of pneumonia of unspecified origin, and episodes of pulmonary collapse. She has also been treated for other respiratory conditions such as pleural effusion and respiratory distress syndrome in the past. 
+
+Currently, her asthma is managed with a combination inhaler containing a corticosteroid and a long-acting beta-agonist. There are no known drug allergies. She has not undergone significant surgical interventions.
+
+The family has integrated various non-pharmacological strategies to manage her symptoms, including ensuring a dust-free environment and avoiding known triggers such as cold air and allergens. 
+
+Objective:
+
+Vital Signs:
+- Blood Pressure: 110/75 mmHg
+- Heart Rate: 88 beats per minute
+- Respiratory Rate: 20 breaths per minute
+- Temperature: 98.6°F
+- Oxygen Saturation: 98% on room air
+
+General Appearance:
+The patient appears alert and in no acute distress. She is well-nourished and appropriately dressed for the weather.
+
+Cardiovascular:
+Heart sounds are regular with no murmurs, clicks, or rubs.
+
+Respiratory:
+Examination reveals mild expiratory wheezes bilaterally. There are no signs of respiratory distress or use of accessory muscles. Breath sounds are clear in the upper lobes with some diminished airflow noted in the lower lobes.
+
+Abdomen:
+The abdomen is soft and non-tender with no evidence of hepatosplenomegaly.
+
+Musculoskeletal:
+There is no musculoskeletal abnormality noted. The patient exhibits full range of motion in all extremities without pain.
+
+Neurological:
+The patient is oriented to person, place, and time. Cranial nerves II-XII are intact, and there are no focal neurological deficits.
+
+Skin:
+No rashes, lesions, or signs of cyanosis or clubbing observed.
+
+Assessment:
+
+The primary diagnosis remains asthma, unspecified without mention of status asthmaticus. Of secondary concern is her history of dyspnea and other respiratory abnormalities such as pulmonary insufficiency. There have been recurrent episodes of pneumonia and incidences of pulmonary collapse, which may warrant further investigation regarding underlying the respiratory condition's etiology and management.
+
+Plan:
+
+1. Asthma Management:
+   - Continue current use of combination inhaler as per prescribed regimen. 
+   - Reinforce the importance of adherence to the medication and the need for appropriate use of a rescue inhaler during asthma exacerbations.
+   - Consider a short course of oral corticosteroids if asthma control remains suboptimal.
+   - Referral to a pulmonologist for further evaluation and management recommendations may be prudent given the recurrent nature of her respiratory symptoms.
+
+2. Diagnostic Tests:
+   - Order a chest X-ray to rule out any present infection and to assess for structural abnormalities that might contribute to her recurrent pulmonary issues.
+   - Repeat pulmonary function tests to evaluate her asthma control.
+   - Perform routine blood work including a complete blood count and liver function tests to monitor for any systemic issues or medication side effects.
+
+3. Follow-Up:
+   Instruct the patient and family to monitor symptoms closely and report any increases in severity or frequency, or other new symptoms. Schedule follow-up appointments every three months, or sooner if symptom control is not achieved. Reiterate that they should contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate the need for further evaluation.
+
+Patient Education & Understanding of the Plan:
+The patient and her family were educated on the importance of continued medication adherence, recognizing early signs of an asthma attack, and using the action plan provided. They acknowledged understanding and agreed with the proposed plan of care.
+
+This concludes the visit summary. The patient will return for follow-up as scheduled and contact the clinic if there are any concerning changes in her condition.

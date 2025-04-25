@@ -1,0 +1,53 @@
+**Visit Information:**
+- Patient Num: 1000000031
+- Visit Date: 04/30/1998
+
+**Subjective:**
+This is a 39-year-old Hispanic male who speaks Spanish. He has been a patient at our clinic for several months. He presents today for a follow-up visit primarily concerning the management of his asthma. He has a history of asthma, unspecified without mention of status asthmaticus. He has been compliant with his medication regimen, including the use of an albuterol inhaler as needed and a daily corticosteroid inhaler. He reports that while his asthma symptoms are generally under control, he has experienced occasional nocturnal coughing and mild dyspnea on exertion, especially during more physically demanding tasks at work. 
+
+In addition to his asthma, the patient has a significant history of burn injuries, including full-thickness skin loss on unspecified sites, with the most severe occurring on his hand. These injuries were incurred in a workplace accident several months ago. He notes some persisting discomfort and occasional tingling in his affected hand. 
+
+He does not report any chest pain at rest but mentions experiencing it with increased physical activity. He takes acetaminophen occasionally for pain control but does not use any other regular medications or supplements. He does not smoke or consume alcohol and works as a manual laborer. There are no known drug allergies.
+
+**Objective:**
+- Vital Signs:
+  - Blood Pressure: 128/78 mmHg
+  - Heart Rate: 84 beats per minute
+  - Respiratory Rate: 18 breaths per minute
+  - Temperature: 98.6°F
+  - Oxygen Saturation: 97% on room air
+
+- General Appearance: The patient appears well-nourished and in no acute distress.
+- Cardiovascular: Heart rate is regular with no murmurs, rubs, or gallops. Peripheral pulses are intact.
+- Respiratory: Breath sounds are clear bilaterally with no wheezes, rales, or rhonchi. There is no use of accessory muscles, and his chest expansion is symmetric.
+- Abdomen: Soft, non-tender, without hepatosplenomegaly or masses.
+- Musculoskeletal: Notable for healing burn scars on the right hand, with some slight erythema but no signs of infection. He has a full range of motion with mild discomfort.
+- Neurological: The patient is alert and oriented to person, place, and time. Cranial nerves are grossly intact; reflexes are normal, and sensation to light touch is intact except for some numbness over the areas of scarring.
+- Skin: No new lesions. Healing scars from previous burns are noted on the hand, with no evidence of new rashes or eruptions.
+
+**Assessment:**
+- Primary Diagnosis: Asthma, unspecified without mention of status asthmaticus.
+- Secondary Diagnosis: Full-thickness skin loss due to burn (third degree) of unspecified site of hand.
+- Tertiary Diagnosis: Unspecified chest pain, likely musculoskeletal in nature given the context of recent burn injuries and physical activity at work.
+
+**Plan:**
+1. Asthma:
+   - Continue with current medication regimen: albuterol inhaler as needed and daily corticosteroid inhaler.
+   - Reinforce the importance of adherence to medication and inhalation techniques.
+   - Encourage avoidance of known asthma triggers.
+   - Schedule spirometry testing for the next visit to better assess pulmonary function.
+
+2. Burn management:
+   - Continue with care of the hand, including moisturizing creams and monitoring for any signs of infection.
+   - Consider referral to a physical and occupational therapist to improve hand function and manage any discomfort.
+   - Provide advice on pain management with acetaminophen as needed.
+
+3. Chest pain:
+   - Monitor chest pain symptoms closely. Advise the patient to reduce heavy lifting at work or occupational therapy if necessary.
+   - Consider ordering a chest X-ray to rule out any other potential causes if chest pain persists or worsens.
+   
+4. Follow-Up:
+   - Instruct the patient to contact the clinic if asthma symptoms do not improve or worsen within a week, or if new symptoms arise.
+   - Follow-up visit in one month to reassess asthma control and evaluate the healing progress of the hand burns. 
+
+The patient has been educated on the importance of medication adherence, hand care, and when to seek emergency attention. He verbalizes understanding and concurs with the proposed plan.

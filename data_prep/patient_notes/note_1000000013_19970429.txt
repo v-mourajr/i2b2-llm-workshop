@@ -1,0 +1,74 @@
+**Visit Information:**
+
+- **Patient Num:** 1000000013
+- **Visit Date:** 04/29/1997
+
+**Subjective:**
+
+This is a 72-year-old Black female who has been receiving care at our clinic. She speaks German and presents today, 04/29/1997, for a follow-up appointment due to ongoing fatigue and generalized weakness. The patient reports that the symptoms have been persistent for several months and have gradually worsened over the past few weeks. She describes the fatigue as constant and not relieved by rest. She also notes occasional dizziness and mild headaches.
+
+Her past medical history is significant for hypertension, type 2 diabetes mellitus, and hyperlipidemia. She underwent a cholecystectomy several years ago and has no history of complications from the surgery. 
+
+Current medications include metformin 500 mg twice daily, lisinopril 10 mg once daily, and atorvastatin 20 mg once daily. She has been compliant with her medication regimen and has not reported any notable side effects.
+
+In terms of her social history, the patient is retired and lives alone. She does not smoke and consumes alcohol occasionally. She follows a relatively sedentary lifestyle and has moderate difficulty with physical activities due to her fatigue. 
+
+She has no known allergies. The patient describes her symptoms in more detail: the fatigue started insidiously, is localized to her entire body, and is constant with a severity of about 7 out of 10 on most days. She mentions that resting exacerbates her dizziness and sometimes her headaches, but moving around, although difficult, tends to alleviate the dizziness slightly.
+
+She has tried increasing her rest periods and modifying her diet to include more iron-rich foods but has not noticed significant improvement in her symptoms. 
+
+**Objective:**
+
+- **Vital Signs:**
+  - Blood Pressure: 148/92 mmHg
+  - Heart Rate: 78 beats per minute
+  - Respiratory Rate: 16 breaths per minute
+  - Temperature: 98.6°F
+  - Oxygen Saturation: 97% on room air
+
+- **General Appearance:** The patient appears well-nourished but tired, with no acute distress observed.
+- **Cardiovascular:** Regular rate and rhythm, no murmurs, rubs, or gallops. Peripheral pulses palpable and symmetric.
+- **Respiratory:** Clear to auscultation bilaterally, no wheezing, rales, or rhonchi.
+- **Abdomen:** Soft, non-tender, and non-distended. Bowel sounds present in all four quadrants. No hepatosplenomegaly.
+- **Musculoskeletal:** No joint swelling or tenderness. Muscle strength 4/5 in all extremities, somewhat limited by reported fatigue.
+- **Neurological:** Alert and oriented to person, place, and time. Cranial nerves II-XII intact, no focal neurological deficits.
+- **Skin:** No rashes, lesions, or bruising observed.
+
+Relevant laboratory findings from today's visit include:
+- Absolute Lymphocytes, Monocytes, and Neutrophils within normal limits.
+- Hematocrit (HCT), Hemoglobin (HGB) within normal limits.
+- Mean Corpuscular Hemoglobin (MCH) and Mean Corpuscular Hemoglobin Concentration (MCHC) are normal.
+- Red Blood Cell (RBC) count, Mean Corpuscular Volume (MCV), and Red Cell Distribution Width (RDW) are within normal ranges.
+- Platelet (PLT) count, White Blood Cell (WBC) count also within normal limits.
+
+**Assessment:**
+
+The patient's clinical symptoms and lab results suggest a few potential areas of concern.
+
+- **Issue/Problem/Request 1: Fatigue and Generalized Weakness**
+  - Assessment: Likely diagnosis of anemia versus chronic disease. Possible consideration for non-anemic iron deficiency.
+  - Diagnostic Tests: Plan for a complete iron panel, including ferritin, transferrin saturation, and total iron-binding capacity (TIBC).
+  - Treatment Plan: Initiate treatment with oral iron supplementation if anemia is confirmed. Continue monitoring hemoglobin and hematocrit levels. Dietary counseling to increase iron-rich foods.
+
+- **Issue/Problem/Request 2: Hypertension**
+  - Assessment: Well-controlled on current regimen but monitoring for potential secondary causes given persistent fatigue.
+  - Diagnostic Tests: Renal function tests to rule out any renal pathology contributing to hypertension.
+  - Treatment Plan: Continue current antihypertensive regimen. Encourage lifestyle modifications including reduced sodium intake and increased physical activity as tolerated.
+
+- **Issue/Problem/Request 3: Type 2 Diabetes Mellitus**
+  - Assessment: Currently managed with metformin, but recent symptoms could suggest poor glycemic control.
+  - Diagnostic Tests: Obtain HbA1c to assess long-term glycemic control.
+  - Treatment Plan: Adjust antidiabetic medication based on HbA1c results. Refer to endocrinologist for further management if necessary.
+
+**Plan:**
+
+1. Initiate an iron panel and renal function test to investigate potential causes of fatigue and weakness.
+2. Schedule follow-up in 4 weeks to review lab results and adjust treatment plans accordingly.
+3. Continue current medications with emphasis on adherence to prescribed dosages.
+4. Provide dietary counseling focused on iron-rich foods and low-sodium intake.
+5. Encourage patient to engage in mild physical activity to improve cardiovascular health.
+6. Educate patient about potential signs of worsening conditions and instruct her to contact the clinic if symptoms worsen or do not improve within a week.
+
+**Follow-Up:**
+
+Instruct patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. Follow-up in 4 weeks to review lab results and reassess symptoms. Ensure patient understands the plan and the importance of adherence to medication and lifestyle modifications.

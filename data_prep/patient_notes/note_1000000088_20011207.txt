@@ -1,0 +1,93 @@
+**Visit Information:**
+
+- **Patient Num**: 1000000088
+- **Visit Date**: 12/07/2001
+
+---
+
+**Subjective:**
+
+The patient is a 7-year-old Asian male who has been under our care for approximately 2 and a half years and is primarily German-speaking. He presents today for a follow-up appointment concerning his asthma management and review of recent episode-related symptoms. His mother reports increased nighttime coughing and shortness of breath over the past week, leading to compromised sleep and decreased energy levels during the day. 
+
+He was previously diagnosed with asthma, and his treatment regimen includes a daily inhaled corticosteroid and a short-acting beta-agonist as needed. His mother mentions they are managing his condition meticulously, ensuring the use of a peak flow meter daily. A recent anaphylactic reaction to an unspecified food required an emergency visit, and he has ongoing concerns regarding his cystic fibrosis, which complicates his respiratory symptoms.
+
+His medical history contains a past diagnosis of cystic fibrosis without mention of meconium ileus, postinflammatory pulmonary fibrosis, lack of expected normal physiological development, and an unspecified nutritional deficiency. The patient had an anaphylactic shock episode due to an unspecified food allergen, reinforcing the risk for severe allergic reactions.
+
+Socially, the patient is an active child within the constraints of his health, partaking in minimal physical activities. The family recently moved to an urban area, which might contribute to his aggravated symptoms given increased allergens.
+
+No new allergies have been identified since his last visit. His mother also reports that they have employed non-pharmacological interventions such as air purifiers and hypoallergenic bedding, which have provided some relief. However, symptoms appear to be worsening despite these measures.
+
+---
+
+**Objective:**
+ 
+- **Vital Signs:**
+  - Blood Pressure: 100/60 mmHg
+  - Heart Rate: 110 bpm
+  - Respiratory Rate: 28 breaths/min
+  - Temperature: 98.4 °F
+  - Oxygen Saturation: 94% on room air
+
+- **General Appearance:**
+  The patient appears well-nourished but with mild respiratory distress noted. No cyanosis or clubbing is present.
+
+- **Cardiovascular:**
+  No murmurs, rubs, or gallops. Heart sounds are regular.
+
+- **Respiratory:**
+  Mild intercostal retractions observed with auscultation revealing bilateral wheezing and diminished breath sounds at bases. No accessory muscle use noted.
+
+- **Abdomen:**
+  Soft, non-tender, no organomegaly. Normal bowel sounds.
+
+- **Musculoskeletal:**
+  No apparent abnormalities or deformities. Full range of motion in all extremities without pain.
+
+- **Neurological:**
+  Alert and oriented, cranial nerves II-XII intact, no focal deficits observed.
+
+- **Skin:**
+  Warm with good turgor. No rashes, lesions, or evidence of eczema noted.
+
+---
+
+**Assessment:**
+
+- **Asthma, unspecified without mention of status asthmaticus:** The patient’s symptoms indicate poorly controlled asthma likely exacerbated by environmental factors. 
+- **Cystic fibrosis:** Chronic condition contributing to pulmonary symptoms, needs continued monitoring and intervention.
+- **Postinflammatory pulmonary fibrosis:** Existing condition possibly affecting the patient’s overall respiratory health.
+- **Anaphylactic shock due to unspecified food:** Recent acute episode requiring vigilance and potential dietary modifications.
+- **Unspecified nutritional deficiency:** Requires ongoing nutritional support to ensure growth and development.
+- **Lack of expected normal physiological development:** Further assessment to understand its progression and address the cause.
+
+---
+
+**Plan:**
+
+1. **Asthma Management:**
+    - Increase the dosage of the current inhaled corticosteroid.
+    - Prescribe a long-acting beta-agonist for better long-term control.
+    - Advise the continuation of peak flow monitoring and update the asthma action plan.
+    - Refer to a pulmonologist for advanced asthma management evaluation.
+
+2. **Cystic Fibrosis:**
+    - Schedule a follow-up with a cystic fibrosis specialist.
+    - Continue current antibiotic prophylaxis and provide nutritional support.
+
+3. **Anaphylaxis and Allergies:**
+    - Continue avoidance of identified allergens.
+    - Prescribe an epinephrine auto-injector for emergency use and train the family on its use.
+    - Schedule an appointment with an allergist for comprehensive testing and management.
+
+4. **Nutritional Deficiency:**
+    - Refer to a dietitian for a personalized meal plan to address possible deficiencies.
+    - Recommend vitamin and mineral supplementation if required based on dietitian assessment.
+
+5. **General Follow-Up:**
+    - Advise to monitor for any progression of symptoms.
+    - Contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.
+    - Re-evaluate patient in four weeks to assess the effectiveness of the new management plan and adjust as necessary.
+
+---
+
+The patient's mother was educated on utilizing the updated asthma action plan, recognizing signs of respiratory distress, and properly administering prescribed medications. The importance of follow-up and adherence to dietary recommendations was emphasized.

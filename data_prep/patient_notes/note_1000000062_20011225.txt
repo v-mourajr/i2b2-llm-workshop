@@ -1,0 +1,34 @@
+**Visit Information:**
+    - Patient Number: 1000000062
+    - Visit Date: December 25, 2001
+
+This is a 29-year-old White male who has been actively receiving care at our clinic for several years. He speaks English and presents today for a follow-up visit to monitor and manage his chronic asthma, which has been his primary diagnosis. He reports experiencing exacerbated asthma symptoms over the past couple of weeks, specifically noting increased wheezing, chest tightness, and shortness of breath. These symptoms are predominantly nocturnal and early morning, and his current short-acting beta-agonist inhaler provides only temporary relief. Concurrently, he mentions persistent issues with chronic pharyngitis and occasional dyspnea that is aggravated by dry or polluted air.
+
+The patient's medical history includes a diagnosis of unspecified asthma without status asthmaticus, chronic pharyngitis, unspecified chronic sinusitis, abnormal weight loss, and other respiratory abnormalities. There are no relevant past surgical histories to note. 
+
+His current medications include an inhaled corticosteroid and a short-acting beta-agonist inhaler, which he uses as needed. He is consistent with his medication regimen but is concerned about the insufficient and temporary effects of the inhaler. The patient takes no supplements. He has no known allergies.
+
+The patient lives alone and works as a graphic designer. He is a non-smoker and denies any alcohol or drug use. He has not been exposed to occupational or environmental factors that might contribute to his respiratory symptoms.
+
+**Objective:**
+Upon examination, the patient is in no acute distress, appearing alert and oriented with an appropriate affect and demeanor. His vital signs are as follows: Blood Pressure is 120/80 mmHg, Heart Rate is 78 bpm, Respiratory Rate is 18 breaths/min, his Temperature is 98.6°F, and Oxygen Saturation is at 98% on room air. 
+
+The cardiovascular examination reveals a regular heart rate and rhythm with no murmurs, rubs, or gallops. On respiratory examination, bilateral expiratory wheezes are noted without crackles or rhonchi, and there are slight intercostal retractions. The abdominal exam shows no abnormalities with a soft, non-tender abdomen and normal bowel sounds. The musculoskeletal exam is unremarkable with good range of motion and no joint swelling or deformities. The neurological exam is normal with the patient alert and oriented, cranial nerves II-XII intact, and motor strength 5/5 in all extremities. The skin examination does not reveal any rashes or lesions, with normal skin turgor present.
+
+Laboratory results from previous evaluations, including complete blood count (CBC) parameters of hemoglobin (HGB), hematocrit (HCT), red blood cells (RBC), white blood cells (WBC), and platelets (PLT), have consistently been within normal limits. 
+
+**Assessment:**
+This patient presents with an exacerbation of chronic asthma, likely triggered by environmental factors or suboptimal control with the current medication regimen. His chronic pharyngitis and recurrent sinusitis may also contribute to his current respiratory complaints. He has no evidence of an acute respiratory infection or other systemic illnesses impacting his respiratory status.
+
+**Plan:**
+The management plan includes the following interventions:
+1. Adjust the current asthma therapy by increasing the dose of the inhaled corticosteroid and prescribing a long-acting beta-agonist to be used in combination with the corticosteroid.
+2. Provide education on proper inhaler techniques and reinforce the importance of avoiding known triggers.
+3. Schedule a follow-up appointment in one month to reassess treatment efficacy and symptom control.
+4. Order spirometry to evaluate lung function and monitor the effectiveness of the updated asthma regimen.
+5. Consider referring the patient to a pulmonologist if symptoms persist or further intensify.
+6. Advise the patient to continue daily peak flow meter monitoring to track symptoms and lung function.
+7. Supply educational materials on asthma management and environmental control to improve the living environment and mitigate respiratory issues.
+
+**Follow-Up:**
+The patient is instructed to contact the clinic if symptoms worsen or fail to improve within a week, or if test results necessitate further evaluation. The importance of adherence to the adjusted medication regimen and proper inhaler technique is emphasized. A follow-up visit is scheduled in one month, with the understanding that the patient may return sooner if necessary.

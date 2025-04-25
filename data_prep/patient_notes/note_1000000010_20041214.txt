@@ -1,0 +1,58 @@
+**Visit Information:**
+- Patient Num: 1000000010
+- Visit Date: 12/14/2004
+
+**Subjective:**
+This is a 29-year-old Hispanic female who has been receiving care at our clinic for several years. She primarily speaks English and presented today for a follow-up visit. Her chief complaints include persistent sore throat and generalized malaise. The patient states that her sore throat has been ongoing for the past three days, accompanied by difficulty swallowing and tenderness around her neck area. She denies having fever, cough, or any form of respiratory distress. She has a history of recurrent upper respiratory infections and pharyngitis, usually resolving with symptomatic treatment.
+
+Her past medical history includes minor injuries such as a contusion of the shoulder and an unspecified injury to the shoulder and upper arm, both of which resolved without any lasting complications. She also had a previously sprained wrist that was successfully managed with conservative treatment. The patient received prophylactic vaccinations for tetanus-diphtheria as part of her preventive health regimen. Notably, during her last visit, she was incidentally found to be pregnant without any complications observed thus far.
+
+Currently, she is taking prenatal vitamins and has been managing her symptoms with rest, hydration, and throat lozenges. She has no known allergies to medications, foods, or environmental factors.
+
+Socially, she leads an active lifestyle, engages in regular physical exercise, and works as a marketing consultant. She lives with her partner, is a non-smoker, does not consume alcohol, and denies the use of illicit drugs.
+
+**Objective:**
+Vital signs today are within normal ranges, with a blood pressure of 120/80 mmHg, heart rate of 74 beats per minute, respiratory rate of 18 breaths per minute, temperature of 98.6°F, and oxygen saturation at 99% on room air.
+
+On general examination, the patient appears well-nourished, well-developed, and in no acute distress.
+
+Cardiovascular examination reveals normal findings, with a regular rate and rhythm, no murmurs, gallops, or rubs. Peripheral pulses are intact and symmetrical.
+
+Respiratory examination indicates clear breath sounds bilaterally, with no wheeze, rales, or rhonchi detected.
+
+Abdominal examination is unremarkable, showing a soft, non-tender abdomen with normal bowel sounds and no hepatosplenomegaly.
+
+Musculoskeletal examination shows no tenderness or deformities in the shoulders. The patient has full range of motion in the shoulders and hands with no swelling or erythema noted.
+
+Neurological examination is normal with full strength in all extremities, normal sensation, and intact reflexes.
+
+Skin examination reveals no rashes, lesions, or signs of infection.
+
+Urinalysis indicated the presence of amorphous crystals, bacteria, bilirubin, casts, glucose, ketones, mucous, nitrites, occult blood, pH, protein, red blood cells, specific gravity, squamous cells, urobilinogen, white blood cells, and white blood cell screens.
+
+**Assessment:**
+1. **Acute pharyngitis:**
+   - Given her symptoms and lack of significant systemic involvement, the most likely diagnosis is viral acute pharyngitis. Testing for streptococcal pharyngitis might be necessary if symptoms persist or worsen.
+
+2. **History of minor musculoskeletal injuries:**
+   - There are no current issues reported related to her previous shoulder contusion or wrist sprain. Continue monitoring and advise avoidance of strenuous activity that may reinjure these areas.
+
+3. **Routine medical examination and pregnancy follow-up:**
+   - The patient is under routine follow-up for her incidental pregnancy without current complications.
+
+**Plan:**
+1. **Acute pharyngitis:**
+   - Recommend symptomatic treatment with analgesics such as acetaminophen or ibuprofen to manage pain and discomfort.
+   - Encourage the use of warm saline gargles and increased fluid intake to help alleviate throat irritation.
+   - Perform a rapid strep test if her symptoms persist beyond five days or if she develops additional symptoms such as fever.
+   - Instruct the patient to watch for and report any symptoms of difficulty breathing, high fever, or worsening condition.
+
+2. **Routine medical examination and pregnancy follow-up:**
+   - Continue taking prenatal vitamins as prescribed and maintain scheduled prenatal care visits.
+   - Monitor her health and the progression of her pregnancy through routine follow-ups.
+
+3. **Follow-Up for persistent symptoms:**
+   - Educate the patient about the importance of follow-up if her symptoms persist or worsen. 
+   - Advise her to contact the clinic immediately if there are any emergent changes in her condition.
+
+The patient has been informed about her condition and has a good understanding of the treatment plan, including the use of symptomatic treatment for acute pharyngitis and the significance of follow-up visits for her pregnancy. She has been advised to call the clinic if her symptoms do not improve within a week or if any emergent issues arise.

@@ -1,0 +1,58 @@
+**Visit Information:**
+- Patient Num: 1000000080
+- Visit Date: 08/31/2004
+
+**Subjective:**
+This is a 29-year-old Indian male who speaks English and has been under our care for approximately seven years. He presents today for a follow-up visit concerning the management of his moderate persistent asthma. The patient reports an increase in asthma symptoms over the past few weeks, characterized by frequent wheezing and nocturnal awakenings due to shortness of breath. He admits to using his Albuterol inhaler more frequently, approximately five to six times per week. He denies any recent respiratory infections, fever, or chest pain. 
+
+The patient’s past medical history is significant for asthma, diagnosed in childhood. He also has a medical history of gastroesophageal reflux disease (GERD), and episodes of diarrhea occasionally related to certain foods. There is no history of any major surgical interventions. Currently, he is taking Beclomethasone inhaler 160 mcg twice daily, Albuterol inhaler as needed, and Omeprazole 20 mg once daily for GERD. He is compliant with his medication regimen but expresses concern about the increasing need for his rescue inhaler. 
+
+Social history reveals that the patient leads a sedentary lifestyle due to his occupation as a software developer. He maintains a balanced diet, does not smoke, and consumes alcohol only occasionally. No known medication or food allergies have been reported.
+
+**Objective:**
+Vital Signs:
+- Blood Pressure: 128/82 mmHg
+- Heart Rate: 85 beats per minute
+- Respiratory Rate: 18 breaths per minute
+- Temperature: 98.4°F
+- Oxygen Saturation: 96% on room air
+
+General Appearance: Patient is alert, oriented, and in no acute distress.
+Cardiovascular: Heart sounds are regular without any murmurs, rubs, or gallops.
+Respiratory: Auscultation reveals bilateral wheezing, more pronounced at the bases. No crackles or rhonchi detected. 
+Abdomen: Soft, non-tender, non-distended, with no hepatosplenomegaly.
+Musculoskeletal: Normal muscle tone and strength with full range of motion. No joint deformities or tenderness.
+Neurological: Patient is oriented to person, place, and time. No focal neurological deficits observed.
+Skin: Warm and dry. No rashes or unusual lesions noted.
+
+Laboratory Findings: Recent laboratory tests were reviewed. Liver function tests, including Aspartate Aminotransferase, are within normal limits. Renal function parameters, including Blood Urea Nitrogen and Creatinine, are also within normal ranges. Electrolytes and glucose levels are stable without significant fluctuations.
+
+**Assessment:**
+
+1. Asthma, moderate persistent:
+   - The patient's increased rescue inhaler usage and the presence of wheezing during the exam suggest that asthma control is suboptimal at this time.
+2. Gastroesophageal reflux disease (GERD), controlled:
+   - The patient continues to have symptoms controlled under the current medication regimen.
+3. Hypertension, controlled:
+   - The patient’s blood pressure remains within target range without complaints of hypertensive episodes.
+
+**Plan:**
+
+1. Asthma:
+   - Increase the dosage of Beclomethasone to 160 mcg twice daily.
+   - Continue using the Albuterol inhaler as needed for acute symptom relief.
+   - Order a follow-up spirometry to assess lung function and ensure effective treatment.
+   - Provide a peak flow meter and educate the patient on its daily usage to monitor asthma control.
+   - Reinforce education on avoiding known asthma triggers and proper inhaler technique.
+   - Refer the patient to an asthma specialist if symptoms persist or worsen despite optimized treatment.
+
+2. GERD:
+   - Continue Omeprazole 20 mg once daily.
+   - Advise the patient to maintain dietary modifications to manage GERD symptoms effectively.
+
+3. Hypertension:
+   - Continue current antihypertensive medications.
+   - Recommend monitoring blood pressure bi-weekly and report any significant changes.
+
+**Follow-Up:**
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. A follow-up appointment is scheduled in four weeks to reassess asthma control and review spirometry results. The patient has been educated on the plan, and he verbalized a clear understanding of the instructions provided.

@@ -1,0 +1,33 @@
+Visit Information:
+- Patient Num: 1000000123
+- Visit Date: 07/30/2001
+
+Subjective:
+This is a 19-year-old male of Indian descent who speaks German and has been a patient at our clinic for several years. The patient presented today for a routine follow-up concerning his asthma management. He reports feeling generally well over the past few months but continues to experience intermittent episodes of wheezing, breathlessness on exertion, and occasional nighttime cough. He has a well-documented history of allergic rhinitis, which tends to flare up seasonally, causing nasal congestion, sneezing, and itchy eyes.
+
+The patient also has a diagnosis of epilepsy, though he has not had any seizures in the past year. Additionally, he has a history of development delays but has shown gradual improvement with support. He is currently taking an inhaled corticosteroid daily and uses a short-acting beta-agonist during exacerbations of his asthma. For his allergic rhinitis, he takes an over-the-counter antihistamine during peak seasons. 
+
+Socially, the patient is a student and engages in typical teenage activities. He does not smoke, drink alcohol, or use recreational drugs. There are no known drug allergies reported.
+
+Objective:
+Vital signs recorded today show a Blood Pressure of 115/75 mmHg, Heart Rate of 82 beats per minute, Respiratory Rate of 20 breaths per minute, Temperature of 98.4°F, and Oxygen Saturation of 99% on room air. 
+
+The patient appears well-nourished and in no acute distress. Examination of the cardiovascular system reveals normal heart sounds with no murmurs, rubs, or gallops. The respiratory examination is notable for normal chest expansion and clear breath sounds, though there are mild expiratory wheezes present bilaterally. The abdominal examination is benign, with a soft, non-tender abdomen and normal bowel sounds. 
+
+The musculoskeletal examination is unremarkable, with normal range of motion and no joint abnormalities. Neurologically, the patient is alert and oriented, showing no signs of focal deficits. The skin exam reveals no rashes or lesions, indicative of stable allergic rhinitis manifestations or skin reactions.
+
+Laboratory tests done during the last visit showed slightly elevated eosinophils, which are consistent with his known atopic status. Other hematologic parameters were within normal limits.
+
+Assessment:
+The primary diagnosis remains asthma, unspecified without mention of status asthmaticus. Secondary diagnoses include allergic rhinitis of unspecified cause and developmental delays. The patient also has a history of epilepsy, though currently well-controlled.
+
+Plan:
+1. Asthma: Continue with the current inhaled corticosteroid regimen and short-acting beta-agonist as needed. Emphasize the importance of medication adherence, particularly during seasonal weather changes. A prescription for an updated spacer device was provided.
+2. Allergic Rhinitis: Continue with over-the-counter antihistamines as needed. The patient is advised to minimize exposure to known allergens and maintain a clean living environment to reduce flare-ups.
+3. Developmental Delays: Continue support and monitoring. The patient has shown gradual progression and no new concerns were raised. A referral to a pediatric developmental specialist remains in place for ongoing evaluation.
+4. Epilepsy: No recent seizures were reported. Continue current management and monitoring. No changes required at this time.
+
+Follow-Up:
+The patient is advised to contact the clinic if symptoms worsen, do not improve, or if new symptoms emerge. A follow-up appointment is scheduled in three months to reassess asthma control and other ongoing concerns. The patient and his guardian demonstrated understanding of the treatment plan and expressed confidence in managing the symptoms at home.
+
+Instruct patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.

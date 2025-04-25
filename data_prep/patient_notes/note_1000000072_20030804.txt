@@ -1,0 +1,26 @@
+Visit Information:
+    - Patient Num: 1000000072
+    - Visit Date: 08/04/2003
+
+This is an 8-year-old Asian male, who speaks Spanish as his primary language, presenting at our clinic for a follow-up visit regarding his asthma. He has been under our care for approximately three years, and his medical history is significant for recurrent asthma exacerbations. He is a participant in routine child health check-ups and has also experienced common childhood ailments such as recurrent otitis media, acute pharyngitis, and nasopharyngitis. His chronic condition of asthma has required ongoing management with medications, as well as multiple hospitalizations due to severe exacerbations.
+
+Subjective:
+Today’s visit is prompted by an increase in his asthma symptoms. The patient reports nocturnal wheezing and breathing difficulties over the past week. His mother states that his last asthma exacerbation necessitated hospitalization, and he is currently on a treatment regimen that includes an albuterol inhaler taken as needed (approximately three times a week), and a daily fluticasone inhaler. Additionally, she mentions a recent episode of fever lasting three days, now resolved. The patient attends school and resides in a smoke-free household. His mother actively monitors his condition, noting no new concerning signs but observing the ongoing asthma symptoms. The patient has no known drug or food allergies.
+
+Objective:
+On physical examination, the patient appears well-nourished and in no acute distress. Vital signs are as follows: Blood Pressure 95/60 mmHg, Heart Rate 110 bpm, Respiratory Rate 28 bpm, Temperature 98.6°F, and Oxygen Saturation 95% on room air.
+
+Cardiovascular examination reveals normal S1 and S2 heart sounds without any murmurs, gallops, or rubs. The respiratory examination is significant for increased work of breathing with mild intercostal retractions and bilateral expiratory wheezing upon auscultation. The abdomen is soft, non-tender, non-distended, with no hepatosplenomegaly. Musculoskeletal exam shows normal muscle tone and strength appropriate to the patient's age, with no deformities or swelling. Neurological examination is unremarkable, the patient is alert and oriented, with age-appropriate developmental milestones, and cranial nerves II-XII are intact. The skin examination presents no rashes, lesions, or pallor.
+
+Assessment:
+The clinical presentation is consistent with an exacerbation of asthma and a resolving viral upper respiratory infection. His history of asthma includes episodes of status asthmaticus and the need for close management and monitoring. There are no indications of bacterial infection or significant systemic illness presently.
+
+Plan:
+Asthma management will continue with current medications. The use of the albuterol inhaler as needed is ongoing, and the frequency of the fluticasone inhaler will be increased to twice daily. We will provide a structured asthma action plan, including peak flow monitoring. Should there be no improvement within 48 hours, a short course of oral corticosteroids will be prescribed.
+
+We will request a follow-up complete blood count (CBC) to monitor for infection and ensure the resolution of any anemia indicators. An educational session was conducted with the patient's mother about the early signs of asthma exacerbation, the importance of medication adherence, and correct inhaler technique.
+
+Follow-Up:
+The patient’s mother has been instructed to contact the clinic if symptoms worsen or do not improve within a week. We plan to review his condition and adjust the management plan as necessary in a subsequent visit scheduled in two weeks. The importance of avoidance of known asthma triggers was emphasized. Referral to a pediatric pulmonologist will be considered if the patient's exacerbations persist despite optimal management.
+
+The mother understands and agrees with the treatment plan and instructions provided.

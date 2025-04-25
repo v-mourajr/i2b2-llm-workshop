@@ -1,0 +1,72 @@
+Visit Information:
+- Patient Num: 1000000063
+- Visit Date: 10/02/2001
+
+Subjective:
+
+This is a 40-year-old Black female, a German speaker, who has been under our care for several years. Presenting today for a scheduled follow-up, she continues to experience urological and general health issues. The patient reports ongoing symptoms of urinary discomfort, described as burning sensation and increased frequency, consistent with recurrent urinary tract infections. These symptoms have persisted over the past several weeks without significant changes in severity. She additionally complains of fatigue and generalized weakness, although she denies any recent nausea, vomiting, or weight loss.
+
+The patient's pertinent medical history includes recurrent urinary tract infections, anemia, and a history of forming urinary stones. She has no significant surgical history. Her current medications include Preven EC 0.05 mg-0.25 mg tablets for emergency contraception and Sulfamethoxazole-Trimethoprim solution, 80 mg-16 mg/ml, which she has been taking to manage her infections.
+
+Her social history reveals a sedentary lifestyle signifcantly impacted by her chronic symptoms. She has occasional alcohol intake but does not use tobacco or illicit drugs. She lives alone and works as a translator, requiring long hours of sedentary work.
+
+The patient is allergic to penicillin, presenting with a rash and itching following previous exposure. Her urinary discomfort is particularly noticeable during micturition and is described as moderately severe. She manages her discomfort by maintaining hydration, although the recurrent infections persist.
+
+No new significant changes have been reported in her condition since her last visit.
+
+Objective:
+
+- Vital Signs:
+  - Blood Pressure: 118/78 mmHg
+  - Heart Rate: 74 bpm
+  - Respiratory Rate: 16 breaths per minute
+  - Temperature: 36.8°C (98.2°F)
+  - Oxygen Saturation: 98% on room air
+
+- General Appearance: The patient is alert, well-nourished, and in no acute distress. She is communicative and cooperative during the examination.
+- Cardiovascular: Regular heart sounds with no murmurs, gallops, or rubs. Strong and symmetrical peripheral pulses.
+- Respiratory: Clear lung fields bilaterally with no wheezes, rales, or rhonchi on auscultation.
+- Abdomen: Soft, non-tender, non-distended with normal bowel sounds in all quadrants. No hepatosplenomegaly detected.
+- Musculoskeletal: Full range of motion in all joints without swelling, erythema, or deformities.
+- Neurological: Cranial nerves II-XII are intact. Motor and sensory examinations are normal with no focal deficits. Reflexes are 2+ and symmetric.
+- Skin: Warm and dry with good turgor. No rashes, lesions, or pallor noted.
+
+Laboratory Findings:
+
+Recent laboratory results include:
+- Normal albumin, amylase, and total protein levels.
+- Elevated neutrophils, within range indicative of infection.
+- Urinalysis confirming presence of bacteria and amorphous crystals, with increased specific gravity, supporting recurrent urinary tract infections.
+- HCT, HGB, RBC tests showing mild anemia.
+- Normal bilirubin and glucose levels.
+
+Assessment:
+
+The clinical picture indicates a persistent recurrent urinary tract infection with associated mild anemia. There are no newly developed symptoms since the last evaluation.
+
+1. **Recurrent Urinary Tract Infection (UTI):**
+   - Diagnosis: Chronic, recurrent UTI.
+   - Investigations: Complete urinalysis and urine culture.
+   - Treatment: Continue current antibiotics; consider extended antibiotic regimen pending culture results.
+   - Referrals: Urology consult for persistent infections.
+
+2. **Mild Anemia:**
+   - Diagnosis: Likely chronic mild anemia related to recurrent infections and overall health.
+   - Investigations: Complete blood count (CBC).
+   - Treatment: Oral iron supplements if iron deficiency confirmed.
+   - Referrals: Nutritionist for dietary modifications and potential hematology referral if condition worsens.
+
+3. **Fatigue and Generalized Weakness:**
+   - Diagnosis: Symptoms likely secondary to anemia and/or infection.
+   - Investigations: Basic metabolic panel, thyroid function tests.
+   - Treatment: Manage underlying causes, including treating UTI and anemia.
+
+Plan:
+
+- Urinalysis and culture ordered to guide antibiotic therapy. Continue Sulfamethoxazole-Trimethoprim pending results.
+- Recommend iron supplementation subject to lab confirmation of iron deficiency.
+- Encourage increased fluid intake and adequate hydration.
+- Instruct the patient to contact the clinic if symptoms worsen, do not improve within a week, or further evaluation is indicated by test results.
+- Schedule a follow-up visit in two weeks for reassessment and lab review, with potential referrals to urology and hematology based on findings.
+
+Patient education emphasized the importance of completing the antibiotic course and staying hydrated. The patient understood and agreed with the proposed management plan.

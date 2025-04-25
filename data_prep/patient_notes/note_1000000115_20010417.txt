@@ -1,0 +1,56 @@
+Visit Information:
+- Patient Num: 1000000115
+- Visit Date: 04/17/2001
+
+Subjective:
+This is a 5-year-old Black female who has been receiving care at our clinic since her birth. She speaks English and is accompanied by her mother, presenting today, April 17, 2001, for a routine follow-up and vaccination. The patient has a history of asthma, first diagnosed at the age of 2. Her mother reports that she has experienced two asthma exacerbations in the past month, both of which were managed at home with albuterol inhaler usage. There have been no hospitalizations. Currently, she is on daily inhaled corticosteroids and montelukast. The mother denies any recent use of oral corticosteroids.
+
+The patient has also been undergoing regular blood tests to monitor her general health, including white blood cell counts and differential medical review. No surgeries are reported.
+
+The social history includes a non-smoking household. The patient attends preschool and is active but needs to avoid strenuous activities due to her asthma. There are no known allergies listed.
+
+Symptom details highlight that the latest asthma exacerbations were characterized by wheezing and shortness of breath, particularly at night, and were relieved by the use of a rescue inhaler. The episodes lasted 3-4 days. There are no reports of fever, chest pain, or other systemic symptoms.
+
+Objective:
+Vital Signs:
+- Blood Pressure: 95/60 mmHg
+- Heart Rate: 96 bpm
+- Respiratory Rate: 22 breaths per minute
+- Temperature: 37.1°C (98.8°F)
+- Oxygen Saturation: 98% on room air
+
+General Appearance:
+The patient appears well-nourished, well-developed, and in no acute distress.
+
+Cardiovascular:
+Heart sounds are regular with no murmurs, rubs, or gallops.
+
+Respiratory:
+Bilateral breath sounds are clear with no wheezing noted at rest. Mild expiratory wheezing is audible upon forced expiration. No use of accessory muscles or nasal flaring.
+
+Abdomen:
+Soft, non-tender, normoactive bowel sounds, no hepatosplenomegaly.
+
+Musculoskeletal:
+Full range of motion in all extremities. No cyanosis, clubbing, or edema.
+
+Neurological:
+Alert, oriented, and follows commands appropriate to developmental age.
+
+Skin:
+No rashes, lesions, or abnormalities observed.
+
+Recent laboratory findings showed slightly elevated eosinophils but otherwise normal counts for basophils, neutrophils, lymphocytes, and monocytes. Hemoglobin and hematocrit levels are within normal ranges as well.
+
+Assessment:
+The primary diagnosis is asthma, which appears to be well-managed with occasional exacerbations. Secondary issues include the need for prophylactic vaccination against viral hepatitis and the routine administration of other vaccines.
+
+Plan:
+1. Continue current asthma management, including daily inhaled corticosteroids, montelukast, and as-needed albuterol.
+2. Educate the mother on the importance of adhering to asthma action plans and avoiding known triggers.
+3. Prophylactic administration of hepatitis vaccine today.
+4. Order routine follow-up complete blood count in 3 months to monitor eosinophil levels.
+5. Schedule next routine follow-up visit in 6 months or sooner if symptoms worsen. Instruct mother to bring the patient to urgent care if there are any signs of uncontrolled asthma exacerbations, such as frequent need for a rescue inhaler, persistent cough, or difficulty breathing.
+6. Discuss the importance of regular use of controllers and proper inhaler techniques.
+
+Instruct the patient’s mother to contact the clinic if symptoms worsen or do not improve within a week, or if new symptoms arise. The mother appears to understand and is comfortable with the treatment plan.

@@ -1,0 +1,62 @@
+#### Visit Information:
+- Patient Num: 1000000027
+- Visit Date: 05/29/2009
+
+#### Subjective:
+This is a 39-year-old Indian male who has been receiving care at our clinic for over a decade. Spanish-speaking, he presents today for a follow-up examination. He reports increased asthma symptoms over the past week, including nocturnal shortness of breath and persistent wheezing. The patient has been using his rescue inhaler more frequently but has not needed emergent care. Additionally, he has experienced recurrent abdominal pain in the left upper and left lower quadrants. This pain is described as intermittent, sharp, and increasing in frequency.
+
+His medical history includes chronic asthma with various exacerbations, allergic rhinitis, occasional back pain, and dermatophytosis of the groin and perianal area. His current medications include an inhaled corticosteroid and a short-acting beta-agonist for asthma, as well as an antihistamine for allergic rhinitis. The patient has noted palpitations following rescue inhaler use but generally finds his asthma to be well controlled.
+
+The patient works in an office setting and engages in moderate physical activity. He denies any tobacco, alcohol, or illicit drug use. There are no known allergies. The patient has implemented non-pharmacological strategies such as regular exercise, dietary changes, and maintaining a clean home to help manage his symptoms.
+
+#### Objective:
+- **Vital Signs:**
+  - Blood Pressure: 124/82 mmHg
+  - Heart Rate: 80 beats per minute
+  - Respiratory Rate: 20 breaths per minute
+  - Temperature: 98.6°F
+  - Oxygen Saturation: 94% on room air
+
+- **General Appearance:**
+  The patient appears well-nourished and mildly anxious, with no acute distress noted.
+
+- **Cardiovascular:**
+  Regular heart rate and rhythm with no murmurs, rubs, or gallops detected. Peripheral pulses are present and symmetrical.
+
+- **Respiratory:**
+  Decreased breath sounds bilaterally with expiratory wheezing noted. No rales or rhonchi present. There is no evidence of accessory muscle use.
+
+- **Abdomen:**
+  Soft, non-distended abdomen with mild tenderness upon palpation of the left upper and lower quadrants. No rebound tenderness or guarding. Bowel sounds are active and normal in all quadrants.
+
+- **Musculoskeletal:**
+  Full range of motion in all extremities without deformities or swelling.
+
+- **Neurological:**
+  The patient is alert and oriented to person, place, and time. Cranial nerves II-XII are intact.
+
+- **Skin:**
+  Multiple erythematous, scaly plaques are present in the groin and perianal regions, consistent with dermatophytosis. No signs of secondary infection are visible.
+
+#### Assessment:
+This 39-year-old male presents with exacerbation of chronic asthma, recurrent abdominal pain in the left upper and lower quadrants, and recurrent dermatophytosis of the groin and perianal regions.
+
+1. **Asthma, unspecified without mention of status asthmaticus:**
+    - Assessment: Likely exacerbation triggered by allergens or environmental factors, requiring modification of the current asthma management plan.
+    - Diagnostic Tests: Recommend pulmonary function tests (PFTs) to evaluate current lung function.
+    - Treatment Plan: Increase the dosage of inhaled corticosteroids, possibly add a long-acting beta-agonist (LABA) if symptoms persist. Continue instructing the appropriate use of the rescue inhaler. Re-evaluate in 4 weeks. Counsel on identifying and avoiding potential triggers.
+
+2. **Abdominal Pain, left upper and lower quadrants:**
+    - Assessment: Possible gastrointestinal or musculoskeletal origins.
+    - Diagnostic Tests: Schedule an abdominal ultrasound and a comprehensive metabolic panel.
+    - Treatment Plan: Advise cautious use of NSAIDs while initiating a trial of a proton pump inhibitor (PPI) to manage possible gastritis. Reassess based on test results.
+    - Referral: Gastroenterology consult if no improvement or if symptoms worsen.
+
+3. **Dermatophytosis of groin and perianal area:**
+    - Assessment: Recurrent fungal infection, evaluation of treatment efficacy needed.
+    - Diagnostic Tests: Collect skin scraping for KOH test and fungal culture. 
+    - Treatment Plan: Initiate oral antifungal therapy, such as terbinafine, along with advice on proper hygiene practices. Monitor response to treatment and check for any side effects.
+    - Referral: Refer to Dermatology if no noticeable improvement.
+
+#### Plan:
+Instruct the patient to contact the clinic if symptoms worsen or fail to improve within a week or if test results necessitate further evaluation. Stress adherence to medications and continuation of non-pharmacological measures like allergen avoidance and monitoring asthma exacerbations. Confirm understanding of the management plan, ensuring follow-up in four weeks.

@@ -1,0 +1,50 @@
+Patient Number: 1000000090
+Visit Date: December 31, 2007
+
+**Subjective:**
+This is a 40-year-old Indian male who has been a patient at our clinic for several years. He predominantly speaks German and presents for a follow-up appointment focused on managing asthma and associated conditions. The patient reports ongoing challenges with asthma, including episodic shortness of breath, wheezing, and nighttime awakenings due to asthma symptoms. Despite consistent usage of his albuterol inhaler, he notes partial relief. 
+
+He has a documented history of allergic rhinitis triggered by various allergens, with symptoms such as sneezing, nasal obstruction, and ocular itchiness persisting. The patient also describes intermittent abdominal pain without associating it with dietary changes or recent stressors. Joint pain, particularly in ambiguous locations, is also reported, though there have been no recent injuries to explain this discomfort.
+
+Medications currently prescribed include albuterol for asthma, which he uses as a rescue inhaler, and Allegra for allergic rhinitis, proving somewhat effective. The patient is concerned about mild palpitations post-inhaler use but otherwise tolerates his medications well.
+
+Socially, the patient works in an office environment with limited physical exertion but attempts to engage in moderate exercise. He denies smoking and has no known allergies. 
+
+**Objective:**
+Vital Signs:
+- Blood Pressure: 118/78 mmHg
+- Heart Rate: 78 bpm
+- Respiratory Rate: 18 breaths per minute
+- Temperature: 98.6°F
+- Oxygen Saturation: 97% on room air
+
+The patient is alert, oriented, and appears well-nourished without signs of acute distress. Cardiac examination reveals a regular rhythm without abnormal sounds. Peripheral pulses are intact and symmetric.
+
+Respiratory examination shows clear lung fields at rest; however, mild expiratory wheezing is noted during forced exhalation. Abdominal exam reveals a soft, non-tender abdomen with normal bowel sounds and no detectable masses. Musculoskeletal examination indicates full range of motion in all extremities, with no evident joint swelling. Neurological assessment reveals intact cranial nerve function and symmetrical reflexes.
+
+Skin examination identifies minimal eczematous changes around the eyelids and residual acne lesions without signs of acute infection.
+
+Most recent laboratory results, including liver function tests (ALT, AST, Bilirubin) and complete blood count, are within normal limits. No significant abnormalities were noted.
+
+**Assessment:**
+1. Asthma, unspecified without mention of status asthmaticus.
+2. Extrinsic asthma, exacerbated by allergens.
+3. Allergic rhinitis due to multiple allergen triggers.
+4. Eczematous dermatitis, particularly affecting the eyelids.
+5. Chronic non-specific abdominal pain, likely functional.
+6. Nonspecific joint pain.
+
+**Plan:**
+1. Continue the use of albuterol as needed for asthma symptoms. Consider prescribing a long-acting beta-agonist or an inhaled corticosteroid if symptoms persist. The patient is advised to monitor peak expiratory flow rates regularly.
+2. Maintain the current regimen of Allegra for allergic rhinitis. If symptoms persist, an intranasal corticosteroid may be introduced. The patient is counseled on minimizing allergen exposure.
+3. For skin conditions, recommend using over-the-counter antihistamines and regular application of moisturizer to manage eczematous dermatitis.
+4. Encourage regular physical activity and hydration.
+5. Schedule follow-up appointments for continued assessment of asthma and allergic symptoms.
+6. The patient is advised to seek immediate care for acute asthma exacerbations or new and worsening symptoms.
+7. Discuss emergency protocols for asthma attacks, ensuring the patient understands and can execute the plan if necessary.
+
+The patient will return in four weeks for reassessment, or sooner if symptoms escalate. He has been educated on the importance of adherence to therapy and emergency protocols. The patient verbalizes understanding and is in agreement with the proposed plan. 
+
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week or if there are abnormal results to further evaluate. 
+
+**Follow-Up:** Schedule in four weeks.

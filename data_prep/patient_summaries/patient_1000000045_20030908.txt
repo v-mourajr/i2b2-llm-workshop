@@ -1,0 +1,118 @@
+demographics
+patient_num: 1000000045  age: 84
+patient_num: 1000000045  sex: F
+patient_num: 1000000045  race: asian
+patient_num: 1000000045  language: german
+patient_num: 1000000045  vital_status: alive
+patient_num: 1000000045  earliest fact: Feb 18 1999 12:00AM
+patient_num: 1000000045  latest fact: Sep  8 2003 12:00AM
+patient_num: 1000000045  range in days: 1663
+totals
+patient_num: 1000000045  distinct concepts: 112
+patient_num: 1000000045  total facts: 484
+patient_num: 1000000045  total encounters: 42
+patient_num: 1000000045  total asthma: 9
+descriptive
+patient_num: 1000000045  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 8
+patient_num: 1000000045  asthma code: ICD9:493.20  name: Chronic obstructive asthma, without mention of status asthmaticus  count: 1
+patient_num: 1000000045  diagnosis code: ICD9:410.00  name: Acute myocardial infarction, of anterolateral wall, episode of care unspecified  count: 1
+patient_num: 1000000045  diagnosis code: ICD9:410.11  name: Acute myocardial infarction, of other anterior wall, initial episode of care  count: 1
+patient_num: 1000000045  diagnosis code: ICD9:410.71  name: Acute myocardial infarction, subendocardial infarction, initial episode of care  count: 1
+patient_num: 1000000045  diagnosis code: ICD9:410.90  name: Acute myocardial infarction, unspecified site, episode of care unspecified  count: 3
+patient_num: 1000000045  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 8
+patient_num: 1000000045  diagnosis code: ICD9:724.5  name: Backache, unspecified  count: 3
+patient_num: 1000000045  diagnosis code: ICD9:427.9  name: Cardiac dysrhythmia, unspecified  count: 1
+patient_num: 1000000045  diagnosis code: ICD9:496  name: Chronic airway obstruction, not elsewhere classified  count: 1
+patient_num: 1000000045  diagnosis code: ICD9:414.9  name: Chronic ischemic heart disease, unspecified  count: 1
+patient_num: 1000000045  diagnosis code: ICD9:493.20  name: Chronic obstructive asthma, without mention of status asthmaticus  count: 1
+patient_num: 1000000045  diagnosis code: ICD9:88.56  name: Coronary arteriography using two catheters  count: 1
+patient_num: 1000000045  diagnosis code: ICD9:414.01  name: Coronary atherosclerosis of native coronary artery  count: 3
+patient_num: 1000000045  diagnosis code: ICD9:562.10  name: Diverticulosis of colon (without mention of hemorrhage)  count: 1
+patient_num: 1000000045  diagnosis code: ICD9:V43.64  name: Hip joint replaced by other means  count: 1
+patient_num: 1000000045  diagnosis code: ICD9:276.8  name: Hypopotassemia  count: 1
+patient_num: 1000000045  diagnosis code: ICD9:36.06  name: Insertion of coronary artety stent(s)  count: 1
+patient_num: 1000000045  diagnosis code: ICD9:411.1  name: Intermediate coronary syndrome  count: 2
+patient_num: 1000000045  diagnosis code: ICD9:793.2  name: Nonspecific abnormal findings on radiological and other examination of other intrathoracic organs  count: 1
+patient_num: 1000000045  diagnosis code: ICD9:715.35  name: Osteoarthrosis, localized, not specified whether primary or secondary, involving pelvic region and thigh  count: 1
+patient_num: 1000000045  diagnosis code: ICD9:733.00  name: Osteoporosis, unspecified  count: 1
+patient_num: 1000000045  diagnosis code: ICD9:88.57  name: Other and unspecified coronary arteriography  count: 1
+patient_num: 1000000045  diagnosis code: ICD9:272.4  name: Other and unspecified hyperlipidemia  count: 1
+patient_num: 1000000045  diagnosis code: ICD9:518.89  name: Other diseases of lung, not elsewhere classified  count: 1
+patient_num: 1000000045  diagnosis code: ICD9:492.8  name: Other emphysema  count: 1
+patient_num: 1000000045  diagnosis code: ICD9:V12.59  name: Other personal history of diseases of circulatory system  count: 1
+patient_num: 1000000045  diagnosis code: ICD9:719.45  name: Pain in joint involving pelvic region and thigh  count: 1
+patient_num: 1000000045  diagnosis code: ICD9:533.90  name: Peptic ulcer of unspecified site, unspecified as acute or chronic, without mention of hemorrhage or perforation, without mention of obstruction  count: 1
+patient_num: 1000000045  diagnosis code: ICD9:786.05  name: Shortness of breath  count: 2
+patient_num: 1000000045  diagnosis code: ICD9:295.00  name: Simple type schizophrenia, unspecified state  count: 1
+patient_num: 1000000045  diagnosis code: ICD9:36.01  name: Single vessel percutaneous transluminal coronary angioplasty [PTCA] or coronary atherectomy without mention of thrombolytic agent  count: 1
+patient_num: 1000000045  diagnosis code: ICD9:721.90  name: Spondylosis of unspecified site without mention of myelopathy  count: 1
+patient_num: 1000000045  diagnosis code: ICD9:250.00  name: type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication  count: 2
+patient_num: 1000000045  diagnosis code: ICD9:401.9  name: Unspecified essential hypertension  count: 2
+patient_num: 1000000045  diagnosis code: ICD9:298.9  name: Unspecified psychosis  count: 2
+patient_num: 1000000045  diagnosis code: ICD9:295.90  name: Unspecified schizophrenia, unspecified state  count: 1
+patient_num: 1000000045  diagnosis code: ICD9:473.9  name: Unspecified sinusitis (chronic)  count: 1
+patient_num: 1000000045  medication code: NDC:00781150713  name: Atenolol 100mg tablet Geneva Pharmaceuticals  count: 4
+patient_num: 1000000045  medication code: NDC:57480031801  name: Desipramine Hydrochloride 25mg tablet Medirex Inc  count: 4
+patient_num: 1000000045  medication code: NDC:00641141036  name: Digoxin 0.25 mg/ml solution ESI Lederle Generics  count: 3
+patient_num: 1000000045  medication code: NDC:00006093658  name: Fosamax 10mg tablet Merck & Co. Inc  count: 4
+patient_num: 1000000045  medication code: NDC:63323027602  name: Heparin Sodium 1000 u/ml solution American Pharmaceutical Partners  count: 3
+patient_num: 1000000045  medication code: NDC:51079043320  name: Hydrochlorothiazide-Triamterene 50mg-75mg tablet UDL Laboratories Inc  count: 3
+patient_num: 1000000045  medication code: NDC:00004009850  name: Klonopin 2mg tablet Roche Laboratories  count: 8
+patient_num: 1000000045  medication code: NDC:00168003860  name: Nitroglycerin 2% ointment Fougera  count: 8
+patient_num: 1000000045  medication code: NDC:00046074905  name: Premarin Intravenous 25mg powder for injection Wyeth-Ayerst Laboratories  count: 4
+patient_num: 1000000045  medication code: NDC:00009028603  name: Provera 5mg tablet Pharmacia and Upjohn  count: 8
+patient_num: 1000000045  laboratory code: LOINC:704-7  name: Abs Basos Auto (Group:ABASOS)  count: 2
+patient_num: 1000000045  laboratory code: LOINC:711-2  name: Abs EOS Auto (Group:AEOS)  count: 2
+patient_num: 1000000045  laboratory code: LOINC:731-0  name: Abs Lymphs Auto (Group:ALYMPHS)  count: 2
+patient_num: 1000000045  laboratory code: LOINC:742-7  name: Abs Monos Auto (Group:AMONOS)  count: 2
+patient_num: 1000000045  laboratory code: LOINC:752-6  name: Abs Neuts Auto (Group:ANEUTS)  count: 2
+patient_num: 1000000045  laboratory code: LOINC:1751-7  name: Albumin (Group:ALB)  count: 2
+patient_num: 1000000045  laboratory code: LOINC:1742-6  name: ALT (SGPT) (Group:SGPT)  count: 1
+patient_num: 1000000045  laboratory code: LOINC:1798-8  name: Amylase (Group:AMY)  count: 1
+patient_num: 1000000045  laboratory code: LOINC:10466-1  name: Anion Gap (Group:ANION)  count: 2
+patient_num: 1000000045  laboratory code: LOINC:1920-8  name: AST (SGOT) (Group:SGOT)  count: 2
+patient_num: 1000000045  laboratory code: LOINC:30180-4  name: Basophils (Group:BASOP)  count: 1
+patient_num: 1000000045  laboratory code: LOINC:706-2  name: Basophils - Auto (Group:BASOS)  count: 2
+patient_num: 1000000045  laboratory code: LOINC:3094-0  name: Blood Urea Nitrogen (Group:BUN)  count: 5
+patient_num: 1000000045  laboratory code: LOINC:2000-8  name: Calcium (Group:CA)  count: 3
+patient_num: 1000000045  laboratory code: LOINC:2028-9  name: Carbon Dioxide (Group:CO2)  count: 4
+patient_num: 1000000045  laboratory code: LOINC:2075-0  name: Chloride (Group:CL)  count: 4
+patient_num: 1000000045  laboratory code: LOINC:2093-3  name: Cholesterol (Group:CHOL)  count: 1
+patient_num: 1000000045  laboratory code: LOINC:6773-6  name: CK-MB QUANT (Group:CPK-MB)  count: 5
+patient_num: 1000000045  laboratory code: LOINC:2157-6  name: CPK (Group:CPK)  count: 6
+patient_num: 1000000045  laboratory code: LOINC:2160-0  name: Creatinine (Group:CRE)  count: 5
+patient_num: 1000000045  laboratory code: LOINC:1968-7  name: Direct Bilirubin (Group:DBILI)  count: 4
+patient_num: 1000000045  laboratory code: LOINC:26450-7  name: Eosinophils (Group:EOSP)  count: 1
+patient_num: 1000000045  laboratory code: LOINC:713-8  name: Eosinophils - Auto (Group:EOS)  count: 2
+patient_num: 1000000045  laboratory code: LOINC:4537-7  name: ESR (Group:ESR)  count: 1
+patient_num: 1000000045  laboratory code: LOINC:2336-6  name: Globulin (Group:GLOB)  count: 2
+patient_num: 1000000045  laboratory code: LOINC:6777-7  name: Glucose (Group:GLU)  count: 4
+patient_num: 1000000045  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 7
+patient_num: 1000000045  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 7
+patient_num: 1000000045  laboratory code: LOINC:2532-0  name: LDH (Group:LDH)  count: 4
+patient_num: 1000000045  laboratory code: LOINC:26478-8  name: Lymphocytes (Group:LYMP)  count: 1
+patient_num: 1000000045  laboratory code: LOINC:736-9  name: Lymphocytes - Auto (Group:LYMPHS)  count: 2
+patient_num: 1000000045  laboratory code: LOINC:11554-3  name: Magnesium (Group:MG)  count: 2
+patient_num: 1000000045  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 7
+patient_num: 1000000045  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 7
+patient_num: 1000000045  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 7
+patient_num: 1000000045  laboratory code: LOINC:26485-3  name: Monocytes (Group:MON)  count: 1
+patient_num: 1000000045  laboratory code: LOINC:5905-5  name: Monocytes - Auto (Group:MONOS)  count: 2
+patient_num: 1000000045  laboratory code: LOINC:26511-6  name: Neutrophils (Group:NEUT)  count: 1
+patient_num: 1000000045  laboratory code: LOINC:770-8  name: Neutrophils - Auto (Group:POLYS)  count: 2
+patient_num: 1000000045  laboratory code: LOINC:2692-2  name: Osmolality (Group:OSM)  count: 1
+patient_num: 1000000045  laboratory code: LOINC:2777-1  name: Phosphorus (Group:PHOS)  count: 2
+patient_num: 1000000045  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 7
+patient_num: 1000000045  laboratory code: LOINC:2823-3  name: Potassium (Group:K)  count: 5
+patient_num: 1000000045  laboratory code: LOINC:5902-2  name: PT (Group:PT)  count: 5
+patient_num: 1000000045  laboratory code: LOINC:6301-6  name: PT-INR (Group:PT-INR)  count: 2
+patient_num: 1000000045  laboratory code: LOINC:5898-2  name: PTT (Group:PTT)  count: 6
+patient_num: 1000000045  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 7
+patient_num: 1000000045  laboratory code: LOINC:788-0  name: RDW (Group:RDW)  count: 6
+patient_num: 1000000045  laboratory code: LOINC:2951-2  name: Sodium (Group:NA)  count: 4
+patient_num: 1000000045  laboratory code: LOINC:1975-2  name: Total Bilirubin (Group:TBILI)  count: 4
+patient_num: 1000000045  laboratory code: LOINC:2885-2  name: Total Protein (Group:TP)  count: 2
+patient_num: 1000000045  laboratory code: LOINC:2571-8  name: Triglycerides (Group:TRIG)  count: 1
+patient_num: 1000000045  laboratory code: LOINC:3016-3  name: TSH (Group:TSH)  count: 1
+patient_num: 1000000045  laboratory code: LOINC:3084-1  name: Uric Acid (Group:URIC)  count: 2
+patient_num: 1000000045  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 7

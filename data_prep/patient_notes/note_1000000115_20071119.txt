@@ -1,0 +1,71 @@
+Visit Information:
+    - Patient Num: 1000000115
+    - Visit Date: 11/19/2007
+
+Subjective:
+This is an 11-year-old Black female who has been under our care since birth and communicates proficiently in English. She presents today for a follow-up appointment, accompanied by her mother, for ongoing management of her asthma. The condition, initially diagnosed at the age of 2, is currently being treated with daily inhaled corticosteroids and montelukast. The mother reports satisfactory control of the patient’s asthma with this regime. Notably, the patient uses albuterol as a rescue inhaler, having employed it during two nocturnal asthma exacerbations over the past month characterized by wheezing and shortness of breath, each episode persisting for three to four days. There have been no hospital admissions for these exacerbations, nor has there been any need for oral corticosteroids recently.
+
+The patient also has a history of allergic rhinitis, which is managed symptomatically, and she has experienced anaphylactic reactions to certain foods including eggs. Her living situation includes a smokeless environment. 
+
+Past medical history includes allergic rhinitis to other allergens, dermatitis due to food ingestion, and a significant anaphylactic response to unspecified foods. She has not undergone any surgical procedures.
+
+Current medications include:
+- Albuterol Sulfate 4 mg tablet for acute asthma episodes.
+- Daily inhaled corticosteroids.
+- Montelukast for asthma control.
+Her mother reports no adverse reactions or significant side effects from these medications.
+
+Socially, the patient is active and participates in age-appropriate activities but adjusts her level of physical exertion to mitigate asthma symptoms. 
+
+Symptom Details:
+The onset of recent exacerbations was acute, with nocturnal symptoms of wheezing and shortness of breath. These symptoms were relieved with albuterol use. There were no instances of fever or chest pain associated with these episodes.
+
+Additional Narrative:
+Non-pharmacological interventions include avoidance of known asthma triggers. The patient’s condition remains stable with occasional exacerbations that are manageable at home.
+
+Objective:
+Vital Signs:
+- Blood Pressure: 98/62 mmHg
+- Heart Rate: 100 bpm
+- Respiratory Rate: 20 breaths per minute
+- Temperature: 37.0°C (98.6°F)
+- Oxygen Saturation: 98% on room air
+
+General Appearance:
+The patient appears well-nourished, well-developed, and is in no evident distress.
+
+Cardiovascular:
+Normal heart sounds with no murmurs, rubs, or gallops noted.
+
+Respiratory:
+Bilateral breath sounds are clear at rest, but wheezing is noted during forced expiration. There are no signs of respiratory distress such as accessory muscle use or nasal flaring.
+
+Abdomen:
+The abdomen is soft and non-tender with active bowel sounds; no hepatosplenomegaly detected.
+
+Musculoskeletal:
+No signs of cyanosis, clubbing, or edema. The patient exhibits a full range of motion in all extremities.
+
+Neurological:
+The patient is alert, oriented, and interactive, typical for her age.
+
+Skin:
+There are no rashes, lesions, or other abnormalities.
+
+Laboratory Finding Summary:
+Previous complete blood counts have shown slightly elevated eosinophil levels, indicative of ongoing allergic predisposition. All other parameters including basophils, neutrophils, lymphocytes, and monocytes have remained within normal limits. Hemoglobin, hematocrit, and other blood indices are also reported within normal ranges.
+
+Assessment:
+The patient's asthma remains controlled on her current medication regimen with episodic exacerbations that resolve with the use of albuterol. The management of allergic rhinitis and anaphylactic tendencies via avoidance strategies is also noted.
+
+Plan:
+1. Continue the current asthma management plan with daily inhaled corticosteroids and montelukast, as well as the use of albuterol for amelioration of acute symptoms.
+2. Maintain educational reinforcement for the patient and her mother regarding the asthma action plan and avoidance of known asthma triggers.
+3. Administer the hepatitis vaccine today as per prophylactic requirements.
+4. Schedule repeat complete blood counts to monitor eosinophil levels in three months.
+5. Plan a follow-up appointment in six months to reassess asthma management and control.
+6. Advise immediate consultation if symptoms worsen or fail to improve, emphasizing the need for close monitoring and consistent medication adherence, including proper inhaler technique demonstration.
+
+The mother has verbalized understanding of the management plan and agrees to maintain vigilance for new or worsening symptoms, with a clear instruction to contact the clinic if such events occur.
+
+This cohesive narrative should provide a holistic perspective of the patient’s current status, ongoing management, and future care strategies, meticulously aligned with professional medical documentation standards.

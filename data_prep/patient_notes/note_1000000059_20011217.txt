@@ -1,0 +1,42 @@
+Visit Information:
+- Patient Num: 1000000059
+- Visit Date: 12/17/2001
+
+Subjective:
+This is a 27-year-old Hispanic male, primarily a German speaker, who has been under our care for the past three years. He presented today for a routine follow-up visit concerning his asthma management. He reports ongoing issues with shortness of breath and occasional wheezing, particularly aggravated by exposure to dust. Relief has been achieved through the use of his albuterol inhaler. He adheres to his current asthma management regimen with prescribed medications that include albuterol sulfate taken as needed and Zoloft for his depression. He has also been receiving Kenalog-40 injections periodically for inflammation.
+
+The patient's past medical history includes a diagnosis of an asthmatic condition, managed with minimal acute exacerbations. Additionally, he has a history of a biopsy and excision of a soft tissue lesion on his right upper limb, previously diagnosed as an unspecified neoplasm. Other conditions noted in his history include recurrent major depressive disorder, an acute episode of otitis externa, and the occurrence of a benign neoplasm of connective and other soft tissue of the upper limb.
+
+There is no relevant past surgical history beyond the aforementioned biopsy and excision. He denies any history of allergies to medications, food, or environmental factors. The patient maintains a sedentary lifestyle due to his desk job and lives alone. He does not smoke or consume alcohol regularly.
+
+Objective:
+- **Vital Signs**:
+  - Blood Pressure: 118/76 mmHg
+  - Heart Rate: 70 bpm
+  - Respiratory Rate: 18 breaths per minute
+  - Temperature: 97.8°F
+  - Oxygen Saturation: 99% on room air
+
+- **General Appearance**: Patient appears well-nourished and in no acute distress.
+- **Cardiovascular**: Regular rate and rhythm. No murmurs, gallops, or rubs detected.
+- **Respiratory**: Clear to auscultation bilaterally with mild wheezing on forced expiration. No rales or rhonchi noted.
+- **Abdomen**: Soft, non-tender, no organomegaly.
+- **Musculoskeletal**: Full range of motion in all extremities. The scar on the right upper arm from the lesion excision appears healed without signs of infection.
+- **Neurological**: Alert and oriented. Cranial nerves II-XII intact.
+- **Skin**: The surgical scar on the right upper arm is healing well. No new lesions or abnormalities present.
+
+Assessment:
+- Primary Diagnosis: Asthma, unspecified without mention of status asthmaticus. The patient continues to experience asthma symptoms, including shortness of breath and wheezing, which is being managed with albuterol.
+- Secondary Diagnoses:
+  - History of biopsy and excision of soft tissue lesion on the right upper limb due to unspecified neoplasm.
+  - Benign neoplasm of connective and other soft tissue in the right upper limb.
+  - Major depressive disorder, recurrent episode.
+
+Plan:
+1. Manage asthma with continuous use of the prescribed albuterol inhaler as needed. Evaluate the need to incorporate a low-dose inhaled corticosteroid if symptoms persist. Reinforce patient education on trigger avoidance and correct inhaler usage technique.
+2. Follow up on the neoplasm with monitoring of the surgical site for any signs of infection or poor healing. Continue referrals to oncology for additional evaluation and potential imaging studies. Ensure routine blood tests, including complete blood count (CBC) and liver function tests (LFTs), are reviewed and are within normal ranges.
+3. Encourage patient to participate in mild to moderate physical activity as tolerated to improve overall health. Advise immediate medical attention if symptoms worsen significantly, such as severe shortness of breath, chest pain, or wheezing that is not relieved by an inhaler.
+
+The patient is advised to contact the clinic if his asthma symptoms do not improve within a week or if he notices any signs of infection at the biopsy site. He has been scheduled for a three-month follow-up visit to reassess asthma management and review any new developments related to his neoplasm.
+
+The patient has been educated about his asthma action plan and demonstrated understanding. He is aware of the urgency required if experiencing symptoms suggestive of an asthma exacerbation.

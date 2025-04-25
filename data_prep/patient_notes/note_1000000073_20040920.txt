@@ -1,0 +1,70 @@
+**Visit Information:**  
+- Patient Num: 1000000073  
+- Visit Date: 09/20/2004  
+
+**Subjective:**  
+This is a 37-year-old Hispanic male fluent in German who has been receiving care at our clinic for approximately six years. He attended today for a follow-up visit primarily to manage his asthma. The patient reports that his asthma symptoms are relatively stable with intermittent flare-ups. He describes experiencing shortness of breath, wheezing, and occasional chest tightness, particularly when exposed to allergens and during physical exertion. He uses an albuterol inhaler which offers symptomatic relief. However, he admits that he sometimes forgets to use his prescribed maintenance inhaler regularly. 
+
+Apart from asthma, he has a past medical history of backache, esophageal reflux, hypertension, episodic dysphagia, and musculoskeletal pain. Recently, he has noticed increased joint pain in his lower leg, which is likely related to his known chondromalacia of the patella. He denies any recent upper respiratory infections, fever, significant weight changes, or exacerbations of his known conditions. He is currently taking Lisinopril 20 mg daily for hypertension and uses over-the-counter antacids to manage his gastroesophageal reflux disease (GERD).
+
+He lives alone, works as a translator, does not smoke, and consumes alcohol socially. He maintains a generally balanced diet, though occasionally indulges in high-sodium foods. There are no known allergies.
+
+**Objective:**  
+Vital Signs:  
+- Blood Pressure: 138/85 mmHg  
+- Heart Rate: 78 beats per minute  
+- Respiratory Rate: 16 breaths per minute  
+- Temperature: 98.7°F (37.1°C)  
+- Oxygen Saturation: 98% on room air  
+
+General Appearance:  
+The patient appears well-nourished, in no acute distress, and is cooperative throughout the examination.
+
+Cardiovascular:  
+The cardiovascular examination reveals no jugular venous distension, with a regular rate and rhythm. There are no murmurs, rubs, or gallops. Peripheral pulses are 2+ and equal bilaterally.
+
+Respiratory:  
+Respiratory examination reveals clear lung fields bilaterally without wheezes, crackles, or rhonchi. Mild respiratory effort noted with non-productive cough.
+
+Abdomen:  
+The abdomen is soft and non-tender with no hepatosplenomegaly. Bowel sounds are present and normal across all quadrants.
+
+Musculoskeletal:  
+There is mild tenderness on palpation of the lower back and the knee joints. There is no edema, deformity, or limitation in the range of motion in the extremities.
+
+Neurological:  
+The patient is alert and oriented to person, place, and time. Cranial nerves II-XII are intact. Motor strength is 5/5 in all extremities with symmetric reflexes.
+
+Skin:  
+The skin exam is unremarkable with no rashes, lesions, or signs of infection noted.
+
+**Assessment:**  
+1. Asthma: The primary management concern remains asthma, which is stable but requires better adherence to maintenance therapy.
+2. Hypertension: Currently controlled with Lisinopril, though continual monitoring is necessary.
+3. GERD: Symptoms are being managed with over-the-counter antacids.
+4. Musculoskeletal Pain: Chronic low back and knee pain, likely secondary to a history of backache and chondromalacia of the patella.
+5. Dysphagia: Intermittent symptoms potentially related to GERD.
+
+**Plan:**  
+1. Asthma:
+   - Emphasize the importance of adherence to daily use of the Fluticasone inhaler, prescribe usage twice daily.
+   - Continue using the albuterol inhaler as needed for acute symptoms.
+   - Patient education regarding the avoidance of known triggers and the benefits of adherence to the medication regimen.
+   - Schedule follow-up in three months to evaluate asthma control and medication adherence.
+
+2. Hypertension:
+   - Continue current medication: Lisinopril 20 mg daily.
+   - Advise the patient on following a low-sodium diet and engaging in regular physical activity.
+   - Plan for a follow-up appointment in three months to monitor blood pressure.
+
+3. GERD and Dysphagia:
+   - Continue current use of over-the-counter antacids as needed.
+   - Monitor symptoms, and if persistent, consider referring the patient for an esophagogastroduodenoscopy (EGD).
+
+4. Musculoskeletal Pain:
+   - Recommend physical therapy for knee and back pain.
+   - Advise the patient to use nonsteroidal anti-inflammatory drugs (NSAIDs) for pain relief as needed.
+   - Educate on weight management and the importance of maintaining a moderate exercise regimen.
+
+**Follow-Up:**  
+The patient has been instructed to contact the clinic if his symptoms worsen or do not improve within a week, or if any test results indicate the need for further evaluation. Patient education on asthma management, the importance of medication adherence for hypertension, and lifestyle modifications for GERD and musculoskeletal pain was provided. The patient has confirmed his understanding and agreement with the outlined plan.

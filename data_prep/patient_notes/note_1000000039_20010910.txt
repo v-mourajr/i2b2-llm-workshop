@@ -1,0 +1,70 @@
+Visit Information:
+- Patient Num: 1000000039
+- Visit Date: Sep 10, 2001
+
+This is a 19-year-old White female presenting for follow-up care. She speaks German and has been receiving care at our clinic.
+
+Subjective:
+The patient reports experiencing persistent asthma symptoms, characterized by episodic shortness of breath and wheezing, particularly at night and during exertion. She recalls multiple incidents in the past where she needed to use her rescue inhaler more frequently, especially during the allergy season. She denies recent hospitalizations or emergency room visits for her asthma.
+
+Her past medical history is notable for allergic rhinitis, both pollen and unspecified allergens. These conditions typically exacerbate her asthma symptoms, particularly during spring. Additionally, she mentions recurrent pain in the shoulder region and neck, alongside past episodes of abrasions and injuries to the elbows and forearms, which have fully healed but occasionally cause discomfort.
+
+Currently, she is on a long-acting beta-agonist and inhaled corticosteroid combination. She adheres to her medication regimen regularly but has noticed a mild decrease in efficacy recently, likely due to increased exposure to allergens. She denies use of herbal supplements.
+
+Her social history indicates that she is a student, lives with her family in a smoke-free environment, and has no history of alcohol or substance abuse. She reports high levels of academic stress, which she manages through listening to music and reading. She has no known allergies.
+
+She rates her current shoulder pain at 4 out of 10, describing it as a dull, persistent ache exacerbated by strenuous activity and alleviated by rest and occasional over-the-counter pain medications. She denies any new injuries or significant changes in her symptoms.
+
+Objective:
+Vital Signs:
+- Blood Pressure: 110/70 mmHg
+- Heart Rate: 78 bpm
+- Respiratory Rate: 16 breaths per minute
+- Temperature: 98.4°F
+- Oxygen Saturation: 98% on room air
+
+General Appearance:
+The patient appears well-nourished, alert, and in no acute distress.
+
+Cardiovascular:
+Regular rate and rhythm. No murmurs, rubs, or gallops.
+
+Respiratory:
+Clear to auscultation bilaterally without wheezes, rales, or rhonchi. Mild end-expiratory wheezing noted on forced exhalation. No use of accessory muscles or retractions.
+
+Abdomen:
+Soft, non-tender, with normoactive bowel sounds. No hepatosplenomegaly or masses.
+
+Musculoskeletal:
+No acute joint swelling or erythema noted. Palpable tenderness over the left shoulder and cervical region. Range of motion of the shoulder is slightly reduced due to pain, but no significant limitations noted.
+
+Neurological:
+Grossly intact. Cranial nerves II-XII appear intact. No focal deficits.
+
+Skin:
+No new rashes or lesions. Healed abrasion sites on elbows and forearms noted without signs of infection or irritation.
+
+Assessment:
+The patient's primary diagnosis remains asthma, which is currently well-controlled under her current medication regimen. Allergic rhinitis continues to pose an impact on her respiratory status, necessitating close monitoring and potential adjustments in management during peak allergy seasons. Musculoskeletal pain, specifically cervicalgia and shoulder pain, are likely exacerbated by her stress levels and academic workload.
+
+Plan:
+1. Asthma:
+   - Continue current management with long-acting beta-agonist and inhaled corticosteroid.
+   - Emphasize regular use of rescue inhaler PRN.
+   - Schedule pulmonary function tests to reassess baseline and adjust treatment as needed.
+   - Recommend flu vaccination and discuss strategies to minimize allergen exposure.
+
+2. Allergic Rhinitis:
+   - Continue antihistamines as needed for symptom control.
+   - Consider referral to an allergist if symptoms remain uncontrolled or impact her quality of life significantly.
+
+3. Cervicalgia and Shoulder Pain:
+   - Continue with physical therapy exercises focusing on strengthening and stretching.
+   - Recommend the use of NSAIDs sporadically for symptom relief.
+   - Referral to an orthopedic specialist if pain persists or worsens.
+
+4. General Health:
+   - Encourage lifestyle modifications to manage academic stress, including relaxation techniques.
+   - Follow-up appointment in 3 months or sooner if new or worsening symptoms arise.
+
+Instruct patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. The patient understands and agrees with the plan outlined.

@@ -1,0 +1,61 @@
+**Visit Information:**
+- Patient Num: 1000000061
+- Visit Date: October 9, 2001
+
+**Subjective:**
+This is a 33-year-old Asian male who communicates in Spanish. He has been periodically attending our clinic for the management of multiple health conditions, including asthma, which has been recorded twice previously. He arrives at today's appointment for a follow-up on his respiratory condition and musculoskeletal issues, primarily related to his thoracic spine.
+
+The patient describes a persistent, dull ache in the thoracic region of his spine lasting for the past month, which occasionally becomes sharp with certain movements. He reports this discomfort has been more frequent and is somewhat impacting his ability to perform his physically demanding job as a construction worker.
+
+The patient notes that his previous open wound on his left knee and leg is healing satisfactorily but mentions ongoing discomfort and occasional swelling in this area. He denies any recent trauma, fever, systemic symptoms, or unexplained weight loss.
+
+He continues to use an albuterol inhaler on an as-needed basis, primarily for episodes of shortness of breath. He reports that while the inhaler provides relief, he feels the need to use it more frequently at night. He has not been hospitalized or undergone any surgeries recently.
+
+Socially, the patient lives alone and expresses interest in quitting smoking, though he currently smokes approximately one pack of cigarettes daily. He denies alcohol and illicit drug use. He has no known allergies and has not been experiencing any new or unusual symptoms aside from those already reported.
+
+**Objective:**
+Vital signs are within normal limits:
+- Blood Pressure: 125/85 mmHg
+- Heart Rate: 78 beats/minute
+- Respiratory Rate: 18 breaths/minute
+- Temperature: 98.6°F
+- Oxygen Saturation: 97% on room air
+
+The patient appears well-groomed, alert, and oriented, with no signs of acute distress.
+
+Cardiovascular examination reveals a regular heart rate and rhythm with no murmurs, gallops, or rubs. Peripheral pulses are 2+ and symmetrical bilaterally.
+
+Respiratory examination shows clear breath sounds bilaterally without wheezing, rales, or rhonchi. Chest expansion is noted to be symmetrical.
+
+The abdominal examination is unremarkable, with no tenderness, masses, or hepatosplenomegaly.
+
+Musculoskeletal examination reveals tenderness in the thoracic spine with moderate paraspinal muscle spasm. The patient’s left knee shows a well-healed scar with mild swelling, but no erythema or warmth is present.
+
+Neurological examination findings indicate intact cranial nerves II-XII, and motor strength is 5/5 in all extremities. Sensation is intact throughout.
+
+Skin examination shows no rashes or lesions.
+
+Laboratory findings indicate normal hematological parameters, including Hematocrit (HCT), Hemoglobin (HGB), Red Blood Cell count (RBC), Lymphocytes, Neutrophils, Monocytes, Platelets (PLT), and White Blood Cell count (WBC).
+
+**Assessment:**
+1. Asthma: Currently controlled with an albuterol inhaler, but the patient reports increased nocturnal symptoms, suggesting a need for therapeutic adjustment.
+2. Thoracic spine pain: Likely of mechanical origin, potentially aggravated by the patient’s occupation in construction.
+3. Open wound of the knee, status post: The wound is healing, but there is residual discomfort and mild swelling, likely secondary to mild inflammation or scar tissue formation.
+
+**Plan:**
+1. Asthma:
+   - Continue as-needed use of the albuterol inhaler.
+   - Initiate a low-dose inhaled corticosteroid to manage persistent nocturnal symptoms.
+   - Educate the patient on the importance of smoking cessation and provide a referral to a smoking cessation program.
+
+2. Thoracic Spine Pain:
+   - Recommend over-the-counter NSAIDs for pain relief as needed.
+   - Refer the patient to physical therapy for exercises aimed at strengthening back and core muscles.
+   - Instruct on proper body mechanics and ergonomic practices to mitigate work-related exacerbation.
+
+3. Open Wound of Knee:
+   - Monitor for potential signs of infection.
+   - Advise the use of ice and elevation to manage swelling.
+   - Consider an orthopedic referral if the symptoms persist or worsen.
+
+The patient has been instructed to contact the clinic if symptoms worsen or do not improve within a week or if any test results indicate the need for further evaluation. A follow-up appointment is scheduled in 4 weeks to reassess his asthma control and thoracic spine pain. Written instructions have been provided in Spanish to ensure comprehension and adherence to the treatment plan.

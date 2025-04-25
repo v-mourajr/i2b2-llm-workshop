@@ -1,0 +1,33 @@
+Visit Information:
+- Patient Num: 1000000015
+- Visit Date: 06/08/2010
+
+This is a 33-year-old Hispanic male who speaks Spanish and has been receiving care at our clinic for multiple medical issues, most notably asthma, among other conditions. He presents today for a follow-up visit to discuss his persistent respiratory symptoms and overall disease management.
+
+Subjective:
+The patient reports ongoing exacerbation of his asthma characterized by persistent wheezing, chest tightness, and shortness of breath. These symptoms have been a recurrent issue since his childhood but have intensified over the last few weeks. He identifies physical exertion as a key aggravating factor, while resting tends to provide some relief. He admits to inconsistent use of his inhaled corticosteroids and states that he occasionally skips doses of montelukast. His acute symptoms have led to more frequent reliance on his albuterol inhaler. There have been no changes in his medication regimen, and he denies any use of herbal supplements. 
+
+He recalls multiple past medical encounters focusing on asthma management, treatment for acute bronchitis, episodes of both acute nonsuppurative and suppurative otitis media, an adjustment reaction with mixed emotional features, contact dermatitis, and atopic dermatitis. Additionally, there is a history of exposure to tuberculosis, recurrent streptococcal sore throats, and episodes of fatigue. He has no noteworthy surgical history.
+
+He is a non-smoker, consumes alcohol minimally, and remains moderately active within his community, although his asthma imposes some limitations. There are no known allergies affecting his current management.
+
+Objective:
+His vital signs today are: Blood Pressure 118/76 mmHg, Heart Rate 82 beats per minute, Respiratory Rate 16 breaths per minute, Temperature 98.6°F, and Oxygen Saturation 98% on room air.
+
+On general examination, the patient appears well-nourished and does not show signs of acute distress, albeit he seems slightly anxious. His cardiovascular exam reveals a regular heart rate and rhythm without murmurs. Respiratory examination is notable for bilateral wheezing, more pronounced in the upper lung fields, but no use of accessory respiratory muscles is observable. The abdominal examination is unremarkable, showing no tenderness or masses. Musculoskeletal and neurological assessments are within normal limits. A skin examination indicates no rashes or cyanosis.
+
+Laboratory results report normal liver function with recent ALT and AST tests within the normal range. A slightly elevated eosinophil count in the complete blood count implies suboptimal control of his asthma.
+
+Assessment:
+1. Asthma with acute exacerbation, likely secondary to poor adherence to inhaled corticosteroids.
+2. History of recurrent otitis media.
+3. Adjustment reaction with mixed emotional features.
+
+Plan:
+1. Reinforce the necessity of adherence to daily inhaled corticosteroids and montelukast to manage asthma effectively.
+2. Prescribe a combination inhaler containing a long-acting beta-agonist and inhaled corticosteroid to promote compliance and improved symptom control.
+3. Schedule a follow-up pulmonary function test to assess current airflow limitation and adjust treatment if necessary.
+4. Refer the patient to an allergist for a comprehensive evaluation to identify potential allergens contributing to asthma exacerbations.
+5. Instruct the patient on the proper use of a peak flow meter to monitor pulmonary function and recognize early signs of asthma exacerbation.
+
+The patient was advised to contact the clinic if his symptoms do not show improvement within a week or if test results suggest the need for further evaluation. A follow-up appointment is scheduled in four weeks to reassess compliance and overall progress. The patient confirmed his understanding and commitment to adhere to the treatment plan.

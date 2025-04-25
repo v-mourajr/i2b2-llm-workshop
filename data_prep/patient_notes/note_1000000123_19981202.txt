@@ -1,0 +1,29 @@
+Visit Information:
+- Patient Num: 1000000123
+- Visit Date: 12/02/1998
+
+Subjective:
+This is a 16-year-old male of Indian descent who speaks German and has been followed in our clinic. He came in today for a follow-up regarding his asthma management, which continues to be a significant concern. The patient reports no acute exacerbations since the last visit but mentions ongoing issues with persistent wheezing, breathlessness on exertion, and occasional nighttime cough. There is a noted history of allergic rhinitis which flares up intermittently, especially with changes in the weather. The patient also deals with developmental delays but no other severe medical or surgical history. 
+
+He is currently taking an inhaled corticosteroid daily for asthma maintenance and uses a short-acting beta-agonist as needed, both of which he finds helpful. He also takes an over-the-counter antihistamine seasonally for his allergic symptoms.
+
+The patient is a student and he is not involved in smoking or alcohol consumption. There are no known drug allergies.
+
+Objective:
+Vital signs recorded today are: Blood Pressure 110/70 mmHg, Heart Rate 80 beats per minute, Respiratory Rate 18 breaths per minute, Temperature 98.6°F, and Oxygen Saturation 98% on room air.
+
+The patient appears well and in no acute distress. On cardiovascular examination, heart sounds are normal with no murmurs detected. Respiratory examination reveals normal chest expansion with clear breath sounds bilaterally; however, there are mild expiratory wheezes. The abdomen is soft and non-tender with normal bowel sounds. Musculoskeletal examination is unremarkable with normal range of motion and no joint abnormalities. Neurological exam shows the patient to be alert and oriented, with no focal deficits. Skin examination reveals no rashes or abnormal lesions.
+
+Laboratory tests including complete blood count were reviewed, showing mildly elevated eosinophils suggestive of atopy, but otherwise within normal limits for hematologic parameters.
+
+Assessment:
+The primary diagnosis is asthma, unspecified without mention of status asthmaticus. Secondary to this, the patient has allergic rhinitis, cause unspecified. There is also a diagnosis of delayed normal physiological development.
+
+Plan:
+1. For the management of asthma, the patient is advised to continue with the current regimen of inhaled corticosteroid and to use the short-acting beta-agonist as needed. The importance of adherence to the medication regimen, especially during the winter months, was emphasized. 
+2. For allergic rhinitis, continue with seasonal over-the-counter antihistamines. The patient was advised to avoid known allergens and keep a clean living environment to reduce flare-ups.
+3. Given the history of developmental delays, a referral to a pediatric developmental specialist was provided for further evaluation and support.
+
+Follow-Up:
+The patient is instructed to contact the clinic if symptoms worsen or do not improve within a week, or if any new symptoms develop. A follow-up appointment is scheduled in three months to reassess asthma control and make any necessary adjustments to the therapy plan. The patient and his guardian confirmed their understanding of the treatment plan and expressed confidence in managing the symptoms at home.
+

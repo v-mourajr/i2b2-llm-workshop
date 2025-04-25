@@ -1,0 +1,84 @@
+Visit Information:
+    - Patient Num: 1000000008
+    - Visit Date: 12/31/1998
+
+Subjective:
+    - Chief Complaints & History of Present Illness:
+        This is a 13-year-old Hispanic male who has been receiving care at our clinic for approximately 6 months. He is a German speaker who presents today for a follow-up on his asthma management, specifically to address an exacerbation that has worsened over the past week.
+    - Past Medical & Surgical History:
+        The patient has a notable history of asthma, both with and without status asthmaticus, attention deficit disorder of childhood (both with and without hyperactivity), developmental dyslexia, other speech disturbances, and unspecified chronic disease of tonsils and adenoids. He has previously undergone circumcision due to redundant prepuce and phimosis, and experienced otitis media.
+    - Medications & Supplements:
+        The patient is currently on inhaled corticosteroids and a short-acting beta agonist for the management of asthma. He also takes methylphenidate for attention deficit disorder with hyperactivity.
+    - Social History:
+        The patient resides with his parents who are supportive of his treatment plans and education. He is currently attending middle school where his academic performance is affected by his attention deficit disorder and dyslexia.
+    - Allergies:
+        No known drug allergies.
+    - Symptom Details:
+        Over the past week, the patient has experienced increased wheezing, shortness of breath, and coughing, particularly at night. He reports chest tightness but denies fever or chills. The symptoms are aggravated by physical activity and alleviated somewhat with his rescue inhaler. Additionally, his parents note increased hyperactivity and difficulties with schoolwork.
+    - Additional Narrative:
+        The patient has been using non-pharmacological interventions such as avoiding known asthma triggers and using his inhaler as prescribed. However, he reports not much relief from these measures. There have been no new side effects from his medications, but his parents report an increase in behavioral problems linked to his ADHD.
+
+Objective:
+    - Vital Signs:
+        - Blood Pressure: 110/70 mmHg
+        - Heart Rate: 88 beats per minute
+        - Respiratory Rate: 24 breaths per minute
+        - Temperature: 98.6°F
+        - Oxygen Saturation: 95% on room air
+    - General Appearance:
+        The patient appears well-developed and in no acute distress, though he seems somewhat restless and anxious.
+    - Cardiovascular:
+        Heart sounds are normal with no murmurs, rubs, or gallops.
+    - Respiratory:
+        Observed accessory muscle use during breathing. Auscultation reveals scattered wheezes throughout all lung fields, more pronounced on expiration.
+    - Abdomen:
+        Abdomen is soft, non-tender, and without hepatosplenomegaly.
+    - Musculoskeletal:
+        Normal muscle tone and strength appropriate for age. Patient exhibits increased movement and fidgeting consistent with ADHD.
+    - Neurological:
+        Alert and oriented to person, place, and time. Exhibits normal cranial nerve function.
+    - Skin:
+        Skin is clear with no rashes or lesions.
+
+Assessment:
+    - Diagnosis or Clinical Impression:
+        The patient’s primary condition remains asthma with both previous occurrences with and without status asthmaticus. His chronic attention deficit disorder with hyperactivity is also contributing to his current issues.
+    
+    - Issue/Problem/Request 1:
+        Assessment:
+            - Likely diagnosis for Issue 1: Asthma exacerbation
+            - Differential diagnosis for Issue 1: Acute bronchitis, allergic reaction
+        Diagnostic Tests:
+            - Verify peak flow readings and consider repeating spirometry.
+        Treatment Plan:
+            - Increase the dose of inhaled corticosteroids temporarily and reinforce the use of the rescue inhaler.
+            - Consider a short course of oral corticosteroids if symptoms do not improve.
+            - Relevant referrals: Follow up with a pulmonologist if no improvement in symptoms.
+    
+    - Issue/Problem/Request 2:
+        Assessment:
+            - Likely diagnosis for Issue 2: Attention deficit disorder with hyperactivity exacerbated by current stress.
+            - Differential diagnosis for Issue 2: Anxiety disorder, behavioral issues secondary to asthma exacerbates.
+        Diagnostic Tests:
+            - Complete Vanderbilt ADHD Diagnostic Parent Rating Scale.
+        Treatment Plan:
+            - Continue current dosage of methylphenidate, provide additional behavioral therapy support as needed.
+            - Relevant referrals: Follow up with a pediatric psychiatrist if symptoms worsen.
+    
+    - Issue/Problem/Request 3:
+        Assessment:
+            - Likely diagnosis for Issue 3: Speech disturbance related to developmental dyslexia.
+            - Differential diagnosis for Issue 3: None specified.
+        Diagnostic Tests:
+            - Reassess language and learning abilities.
+        Treatment Plan:
+            - Continue speech therapy and provide additional educational support.
+            - Relevant referrals: Follow up with an educational specialist or tutor.
+
+Follow-Up:
+    - Instructions for emergent follow-up care or monitoring:
+        Instruct patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.
+    - Follow-Up for persistent, changing, or worsening symptoms:
+        Schedule a follow-up visit in 2 weeks to reassess asthma control and behavioral issues.
+    - Patient Education & Understanding of the Plan:
+        Educate the patient and his family on the importance of medication adherence, early signs of asthma exacerbation, and the benefits of consistent follow-up care. Ensure that the family understands the updated treatment plan and importance of monitoring the patient’s respiratory status closely.

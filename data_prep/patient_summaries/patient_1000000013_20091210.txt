@@ -1,0 +1,182 @@
+demographics
+patient_num: 1000000013  age: 84
+patient_num: 1000000013  sex: F
+patient_num: 1000000013  race: black
+patient_num: 1000000013  language: german
+patient_num: 1000000013  vital_status: alive
+patient_num: 1000000013  earliest fact: Apr 29 1997 12:00AM
+patient_num: 1000000013  latest fact: Dec 10 2009 12:00AM
+patient_num: 1000000013  range in days: 4608
+totals
+patient_num: 1000000013  distinct concepts: 176
+patient_num: 1000000013  total facts: 1075
+patient_num: 1000000013  total encounters: 145
+patient_num: 1000000013  total asthma: 8
+descriptive
+patient_num: 1000000013  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 7
+patient_num: 1000000013  asthma code: ICD9:493.00  name: Extrinsic asthma without mention of status asthmaticus  count: 1
+patient_num: 1000000013  diagnosis code: ICD9:738.4  name: Acquired spondylolisthesis  count: 1
+patient_num: 1000000013  diagnosis code: ICD9:425.5  name: Alcoholic cardiomyopathy  count: 1
+patient_num: 1000000013  diagnosis code: ICD9:716.99  name: Arthropathy unspecified, involving multiple sites  count: 1
+patient_num: 1000000013  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 7
+patient_num: 1000000013  diagnosis code: ICD9:362.01  name: Background diabetic retinopathy  count: 1
+patient_num: 1000000013  diagnosis code: ICD9:217  name: Benign neoplasm of breast  count: 2
+patient_num: 1000000013  diagnosis code: ICD9:211.3  name: Benign neoplasm of colon  count: 1
+patient_num: 1000000013  diagnosis code: ICD9:V76.10  name: Breast screening, unspecified  count: 1
+patient_num: 1000000013  diagnosis code: ICD9:490  name: Bronchitis, not specified as acute or chronic  count: 5
+patient_num: 1000000013  diagnosis code: ICD9:426.50  name: Bundle branch block, unspecified  count: 5
+patient_num: 1000000013  diagnosis code: ICD9:726.73  name: Calcaneal spur  count: 1
+patient_num: 1000000013  diagnosis code: ICD9:496  name: Chronic airway obstruction, not elsewhere classified  count: 4
+patient_num: 1000000013  diagnosis code: ICD9:45.25  name: Closed [endoscopic] biopsy of large intestine  count: 2
+patient_num: 1000000013  diagnosis code: ICD9:06.4  name: Complete thyroidectomy  count: 1
+patient_num: 1000000013  diagnosis code: ICD9:428.0  name: Congestive heart failure  count: 20
+patient_num: 1000000013  diagnosis code: ICD9:786.2  name: Cough  count: 8
+patient_num: 1000000013  diagnosis code: ICD9:250.90  name: Diabetes mellitus type II [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, with unspecified complication  count: 4
+patient_num: 1000000013  diagnosis code: ICD9:610.1  name: Diffuse cystic mastopathy  count: 8
+patient_num: 1000000013  diagnosis code: ICD9:733.90  name: Disorder of bone and cartilage, unspecified  count: 4
+patient_num: 1000000013  diagnosis code: ICD9:519.4  name: Disorders of diaphragm  count: 1
+patient_num: 1000000013  diagnosis code: ICD9:562.10  name: Diverticulosis of colon (without mention of hemorrhage)  count: 2
+patient_num: 1000000013  diagnosis code: ICD9:780.4  name: Dizziness and giddiness  count: 3
+patient_num: 1000000013  diagnosis code: ICD9:719.00  name: Effusion of joint, site unspecified  count: 1
+patient_num: 1000000013  diagnosis code: ICD9:493.00  name: Extrinsic asthma without mention of status asthmaticus  count: 1
+patient_num: 1000000013  diagnosis code: ICD9:553.9  name: Hernia of unspecified site without mention of obstruction or gangrene  count: 1
+patient_num: 1000000013  diagnosis code: ICD9:03.92  name: Injection of other agent into spinal canal  count: 3
+patient_num: 1000000013  diagnosis code: ICD9:99.29  name: Injection or infusion of other therapeutic or prophylactic substance  count: 1
+patient_num: 1000000013  diagnosis code: ICD9:611.72  name: Lump or mass in breast  count: 1
+patient_num: 1000000013  diagnosis code: ICD9:193  name: Malignant neoplasm of thyroid gland  count: 4
+patient_num: 1000000013  diagnosis code: ICD9:793.81  name: Mammographic microcalcification  count: 2
+patient_num: 1000000013  diagnosis code: ICD9:627.2  name: Menopausal or female climacteric states  count: 1
+patient_num: 1000000013  diagnosis code: ICD9:424.0  name: Mitral valve disorders  count: 1
+patient_num: 1000000013  diagnosis code: ICD9:272.2  name: Mixed hyperlipidemia  count: 1
+patient_num: 1000000013  diagnosis code: ICD9:273.1  name: Monoclonal paraproteinemia  count: 1
+patient_num: 1000000013  diagnosis code: ICD9:V04.8  name: Need for prophylactic vaccination and inoculation against influenza  count: 1
+patient_num: 1000000013  diagnosis code: ICD9:237.4  name: Neoplasm of uncertain behavior of other and unspecified endocrine glands  count: 1
+patient_num: 1000000013  diagnosis code: ICD9:793.8  name: Nonspecific abnormal findings on radiological and other examination of breast  count: 1
+patient_num: 1000000013  diagnosis code: ICD9:241.1  name: Nontoxic multinodular goiter  count: 5
+patient_num: 1000000013  diagnosis code: ICD9:241.0  name: Nontoxic uninodular goiter  count: 7
+patient_num: 1000000013  diagnosis code: ICD9:715.89  name: Osteoarthrosis involving or with mention of multiple sites, but not specified as generalized  count: 1
+patient_num: 1000000013  diagnosis code: ICD9:715.90  name: Osteoarthrosis, unspecified whether generalized or localized, involving unspecified site  count: 1
+patient_num: 1000000013  diagnosis code: ICD9:733.00  name: Osteoporosis, unspecified  count: 5
+patient_num: 1000000013  diagnosis code: ICD9:272.4  name: Other and unspecified hyperlipidemia  count: 1
+patient_num: 1000000013  diagnosis code: ICD9:558.9  name: Other and unspecified noninfectious gastroenteritis and colitis  count: 1
+patient_num: 1000000013  diagnosis code: ICD9:255.3  name: Other corticoadrenal overactivity  count: 1
+patient_num: 1000000013  diagnosis code: ICD9:786.09  name: Other dyspnea and respiratory abnormality  count: 2
+patient_num: 1000000013  diagnosis code: ICD9:492.8  name: Other emphysema  count: 1
+patient_num: 1000000013  diagnosis code: ICD9:03.09  name: Other exploration and decompression of spinal canal  count: 1
+patient_num: 1000000013  diagnosis code: ICD9:V67.59  name: Other follow-up examination  count: 2
+patient_num: 1000000013  diagnosis code: ICD9:795.4  name: Other nonspecific abnormal histological findings  count: 1
+patient_num: 1000000013  diagnosis code: ICD9:425.4  name: Other primary cardiomyopathies  count: 13
+patient_num: 1000000013  diagnosis code: ICD9:V76.12  name: Other screening mammogram  count: 10
+patient_num: 1000000013  diagnosis code: ICD9:611.8  name: Other specified disorders of breast  count: 3
+patient_num: 1000000013  diagnosis code: ICD9:786.9  name: Other symptoms involving respiratory system and chest  count: 1
+patient_num: 1000000013  diagnosis code: ICD9:729.5  name: Pain in limb  count: 1
+patient_num: 1000000013  diagnosis code: ICD9:785.1  name: Palpitations  count: 1
+patient_num: 1000000013  diagnosis code: ICD9:427.0  name: Paroxysmal supraventricular tachycardia  count: 2
+patient_num: 1000000013  diagnosis code: ICD9:486  name: Pneumonia, organism unspecified  count: 2
+patient_num: 1000000013  diagnosis code: ICD9:V72.81  name: Preoperative cardiovascular examination  count: 1
+patient_num: 1000000013  diagnosis code: ICD9:V72.84  name: Preoperative examination, unspecified  count: 1
+patient_num: 1000000013  diagnosis code: ICD9:V72.82  name: Preoperative respiratory examination  count: 2
+patient_num: 1000000013  diagnosis code: ICD9:V72.5  name: Radiological examination, not elsewhere classified  count: 2
+patient_num: 1000000013  diagnosis code: ICD9:586  name: Renal failure, unspecified  count: 2
+patient_num: 1000000013  diagnosis code: ICD9:786.05  name: Shortness of breath  count: 2
+patient_num: 1000000013  diagnosis code: ICD9:724.02  name: Spinal stenosis of lumbar region  count: 4
+patient_num: 1000000013  diagnosis code: ICD9:784.2  name: Swelling, mass, or lump in head and neck  count: 2
+patient_num: 1000000013  diagnosis code: ICD9:724.4  name: Thoracic or lumbosacral neuritis or radiculitis, unspecified  count: 5
+patient_num: 1000000013  diagnosis code: ICD9:366.9  name: Unspecified cataract  count: 2
+patient_num: 1000000013  diagnosis code: ICD9:569.9  name: Unspecified disorder of intestine  count: 2
+patient_num: 1000000013  diagnosis code: ICD9:273.9  name: Unspecified disorder of plasma protein metabolism  count: 1
+patient_num: 1000000013  diagnosis code: ICD9:246.9  name: Unspecified disorder of thyroid  count: 2
+patient_num: 1000000013  diagnosis code: ICD9:401.9  name: Unspecified essential hypertension  count: 3
+patient_num: 1000000013  diagnosis code: ICD9:244.9  name: Unspecified hypothyroidism  count: 1
+patient_num: 1000000013  diagnosis code: ICD9:241.9  name: Unspecified nontoxic nodular goiter  count: 2
+patient_num: 1000000013  medication code: NDC:00074120001  name: Calcijex 1 mcg/ml solution Abbott Pharmaceutical  count: 3
+patient_num: 1000000013  medication code: NDC:00364246533  name: Cefazolin Sodium 1gm powder for injection Schein Pharmaceuticals Inc  count: 4
+patient_num: 1000000013  medication code: NDC:55390048110  name: Ketorolac Tromethamine 30 mg/ml solution Bedford Laboratories  count: 3
+patient_num: 1000000013  medication code: NDC:10019002805  name: Midazolam Hydrochloride 1 mg/ml solution Baxter Pharmaceutical Products Inc  count: 9
+patient_num: 1000000013  medication code: NDC:00574711612  name: Morphine Sulfate 30mg suppository Paddock Laboratories Inc  count: 4
+patient_num: 1000000013  medication code: NDC:10019001301  name: Propofol 10 mg/ml suspension Baxter Pharmaceutical Products Inc  count: 3
+patient_num: 1000000013  medication code: NDC:00074662902  name: Quelicin Chloride 20 mg/ml solution Abbott Pharmaceutical  count: 3
+patient_num: 1000000013  medication code: NDC:00054384163  name: Theophylline 80 mg/15ml solution Roxane Laboratories Inc  count: 4
+patient_num: 1000000013  laboratory code: LOINC:1989-3  name: 25 OH Vitamin D (Group:25VITD)  count: 1
+patient_num: 1000000013  laboratory code: LOINC:704-7  name: Abs Basos Auto (Group:ABASOS)  count: 4
+patient_num: 1000000013  laboratory code: LOINC:711-2  name: Abs EOS Auto (Group:AEOS)  count: 4
+patient_num: 1000000013  laboratory code: LOINC:731-0  name: Abs Lymphs Auto (Group:ALYMPHS)  count: 5
+patient_num: 1000000013  laboratory code: LOINC:742-7  name: Abs Monos Auto (Group:AMONOS)  count: 5
+patient_num: 1000000013  laboratory code: LOINC:752-6  name: Abs Neuts Auto (Group:ANEUTS)  count: 5
+patient_num: 1000000013  laboratory code: LOINC:1751-7  name: Albumin (Group:ALB)  count: 3
+patient_num: 1000000013  laboratory code: LOINC:1742-6  name: ALT (SGPT) (Group:SGPT)  count: 1
+patient_num: 1000000013  laboratory code: LOINC:8246-1  name: Amorph Crystals (Group:UAS-AMOR)  count: 3
+patient_num: 1000000013  laboratory code: LOINC:10466-1  name: Anion Gap (Group:ANION)  count: 5
+patient_num: 1000000013  laboratory code: LOINC:1920-8  name: AST (SGOT) (Group:SGOT)  count: 3
+patient_num: 1000000013  laboratory code: LOINC:735-1  name: Atypical Lymphs (Group:ATYPS)  count: 1
+patient_num: 1000000013  laboratory code: LOINC:5769-5  name: Bacteria (Group:UAS-BACT)  count: 4
+patient_num: 1000000013  laboratory code: LOINC:764-1  name: Bands - Manual (Group:BAND)  count: 1
+patient_num: 1000000013  laboratory code: LOINC:706-2  name: Basophils - Auto (Group:BASOS)  count: 4
+patient_num: 1000000013  laboratory code: LOINC:707-0  name: Basophils - Manual (Group:BASO)  count: 1
+patient_num: 1000000013  laboratory code: LOINC:15152-2  name: Bili Conjugated (Group:CBILI)  count: 1
+patient_num: 1000000013  laboratory code: LOINC:15153-0  name: Bili Unconjugated (Group:UBILI)  count: 1
+patient_num: 1000000013  laboratory code: LOINC:5770-3  name: Bilirubin (Group:UA-BILI)  count: 4
+patient_num: 1000000013  laboratory code: LOINC:3094-0  name: Blood Urea Nitrogen (Group:BUN)  count: 9
+patient_num: 1000000013  laboratory code: LOINC:2000-8  name: Calcium (Group:CA)  count: 6
+patient_num: 1000000013  laboratory code: LOINC:2028-9  name: Carbon Dioxide (Group:CO2)  count: 8
+patient_num: 1000000013  laboratory code: LOINC:9439-1  name: Casts (Group:CASTS)  count: 3
+patient_num: 1000000013  laboratory code: LOINC:2075-0  name: Chloride (Group:CL)  count: 8
+patient_num: 1000000013  laboratory code: LOINC:5778-6  name: Color (Group:UA-COLOR)  count: 4
+patient_num: 1000000013  laboratory code: LOINC:2160-0  name: Creatinine (Group:CRE)  count: 9
+patient_num: 1000000013  laboratory code: LOINC:X4005-4  name: Crystals (Group:UAS-CRYS)  count: 3
+patient_num: 1000000013  laboratory code: LOINC:1968-7  name: Direct Bilirubin (Group:DBILI)  count: 2
+patient_num: 1000000013  laboratory code: LOINC:713-8  name: Eosinophils - Auto (Group:EOS)  count: 4
+patient_num: 1000000013  laboratory code: LOINC:714-6  name: Eosinophils - Manual (Group:EO)  count: 1
+patient_num: 1000000013  laboratory code: LOINC:3022-1  name: Free T4 index (Group:FT4I)  count: 1
+patient_num: 1000000013  laboratory code: LOINC:4548-4  name: GHBA1C (Group:GHBA1C)  count: 2
+patient_num: 1000000013  laboratory code: LOINC:2336-6  name: Globulin (Group:GLOB)  count: 2
+patient_num: 1000000013  laboratory code: LOINC:6777-7  name: Glucose (Group:GLU)  count: 7
+patient_num: 1000000013  laboratory code: LOINC:5792-7  name: Glucose - UA (Group:UA-GLUC)  count: 4
+patient_num: 1000000013  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 9
+patient_num: 1000000013  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 9
+patient_num: 1000000013  laboratory code: LOINC:2462-0  name: IgE (Group:IGE)  count: 1
+patient_num: 1000000013  laboratory code: LOINC:5797-6  name: Ketones (Group:UA-KET)  count: 4
+patient_num: 1000000013  laboratory code: LOINC:17790-7  name: LShift (Group:LShift)  count: 1
+patient_num: 1000000013  laboratory code: LOINC:736-9  name: Lymphocytes - Auto (Group:LYMPHS)  count: 5
+patient_num: 1000000013  laboratory code: LOINC:737-7  name: Lymphocytes - Manual (Group:LYMPH)  count: 1
+patient_num: 1000000013  laboratory code: LOINC:11554-3  name: Magnesium (Group:MG)  count: 1
+patient_num: 1000000013  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 9
+patient_num: 1000000013  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 9
+patient_num: 1000000013  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 9
+patient_num: 1000000013  laboratory code: LOINC:5905-5  name: Monocytes - Auto (Group:MONOS)  count: 5
+patient_num: 1000000013  laboratory code: LOINC:744-3  name: Monocytes - Manual (Group:MONO)  count: 1
+patient_num: 1000000013  laboratory code: LOINC:8247-9  name: Mucous (Group:UAS-MUC)  count: 3
+patient_num: 1000000013  laboratory code: LOINC:770-8  name: Neutrophils - Auto (Group:POLYS)  count: 5
+patient_num: 1000000013  laboratory code: LOINC:769-0  name: Neutrophils - Manual (Group:POLY)  count: 1
+patient_num: 1000000013  laboratory code: LOINC:5802-4  name: Nitrites (Group:UA-NIT)  count: 4
+patient_num: 1000000013  laboratory code: LOINC:5794-3  name: Occult Blood (Group:UA-BLD)  count: 4
+patient_num: 1000000013  laboratory code: LOINC:11279-7  name: Other/Comments (Group:UAS-COM)  count: 3
+patient_num: 1000000013  laboratory code: LOINC:5803-2  name: PH (Group:UA-PH)  count: 4
+patient_num: 1000000013  laboratory code: LOINC:2777-1  name: Phosphorus (Group:PHOS)  count: 2
+patient_num: 1000000013  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 9
+patient_num: 1000000013  laboratory code: LOINC:9317-9  name: PLT Estimate (Group:PLTEST)  count: 1
+patient_num: 1000000013  laboratory code: LOINC:2823-3  name: Potassium (Group:K)  count: 8
+patient_num: 1000000013  laboratory code: LOINC:5804-0  name: Protein (Group:UA-ALB)  count: 4
+patient_num: 1000000013  laboratory code: LOINC:5902-2  name: PT (Group:PT)  count: 2
+patient_num: 1000000013  laboratory code: LOINC:6301-6  name: PT-INR (Group:PT-INR)  count: 2
+patient_num: 1000000013  laboratory code: LOINC:2731-8  name: PTH (Group:PTH)  count: 1
+patient_num: 1000000013  laboratory code: LOINC:5898-2  name: PTT (Group:PTT)  count: 2
+patient_num: 1000000013  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 9
+patient_num: 1000000013  laboratory code: LOINC:5808-1  name: RBC - Urine Sed (Group:UAS-RBC)  count: 4
+patient_num: 1000000013  laboratory code: LOINC:788-0  name: RDW (Group:RDW)  count: 9
+patient_num: 1000000013  laboratory code: LOINC:2951-2  name: Sodium (Group:NA)  count: 8
+patient_num: 1000000013  laboratory code: LOINC:5811-5  name: Specific Gravity (Group:UA-SPGR)  count: 4
+patient_num: 1000000013  laboratory code: LOINC:11277-1  name: Squamous Cells (Group:UAS-SQUA)  count: 3
+patient_num: 1000000013  laboratory code: LOINC:3050-2  name: T3 Uptake (Group:T3UP)  count: 1
+patient_num: 1000000013  laboratory code: LOINC:3055-1  name: THBI (T3 resin) (Group:THBI)  count: 1
+patient_num: 1000000013  laboratory code: LOINC:3026-2  name: Thyroxine T4 (Group:T4)  count: 2
+patient_num: 1000000013  laboratory code: LOINC:1975-2  name: Total Bilirubin (Group:TBILI)  count: 6
+patient_num: 1000000013  laboratory code: LOINC:2885-2  name: Total Protein (Group:TP)  count: 4
+patient_num: 1000000013  laboratory code: LOINC:3053-6  name: Total T3 (Group:T3)  count: 1
+patient_num: 1000000013  laboratory code: LOINC:3016-3  name: TSH (Group:TSH)  count: 6
+patient_num: 1000000013  laboratory code: LOINC:5767-9  name: Turbidity (Group:UA-TURB)  count: 1
+patient_num: 1000000013  laboratory code: LOINC:5818-0  name: Urobilinogen (Group:UA-UROBI)  count: 4
+patient_num: 1000000013  laboratory code: LOINC:2170-9  name: Vitamin B12 (Group:B12)  count: 1
+patient_num: 1000000013  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 9
+patient_num: 1000000013  laboratory code: LOINC:5821-4  name: WBC - Urine Sed (Group:UAS-WBC)  count: 4
+patient_num: 1000000013  laboratory code: LOINC:5799-2  name: WBC Screen (Group:UA-WBC)  count: 4

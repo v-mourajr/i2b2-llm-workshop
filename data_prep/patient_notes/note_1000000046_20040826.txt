@@ -1,0 +1,67 @@
+Visit Information:
+   - Patient Num: 1000000046
+   - Visit Date: 08/26/2004
+
+This is a 14-year-old Hispanic male who has been receiving care at our clinic for approximately seven years. He speaks English and presents today for a follow-up appointment. The patient is diagnosed primarily with asthma, including unspecified asthma without mention of status asthmaticus, extrinsic asthma with status asthmaticus, and extrinsic asthma without mention of status asthmaticus. Additionally, he has a history of recurrent pneumonia, undiagnosed cardiac murmurs, and allergic rhinitis.
+
+Subjective:
+The patient's mother reports that he has experienced an increase in the frequency and severity of asthma attacks over the past month. These episodes often occur at night and are occasionally triggered by physical activity and allergens such as dust and pollen. His current medication regimen includes albuterol for acute episodes and a daily inhaled corticosteroid. Despite this, the patient’s asthma has previously required emergency department visits, particularly during episodes involving status asthmaticus. Although partially effective, the medication regimen does not fully control his nocturnal symptoms and exercise-induced wheezing, which has limited his physical activities recently. There are no known allergies.
+
+He has no history of surgeries. His social history is typical for his age; he lives with his parents in a smoke-free household and attends middle school, although he has missed several days due to respiratory symptoms.
+
+Objective:
+Vital Signs:
+    - Blood Pressure: 110/70 mmHg
+    - Heart Rate: 95 bpm
+    - Respiratory Rate: 25 breaths per minute
+    - Temperature: 98.6°F
+    - Oxygen Saturation: 94% on room air
+
+General Appearance:
+The patient appears in moderate distress due to difficulty breathing and is using accessory muscles to assist in respiration. He remains alert and cooperative.
+
+Cardiovascular:
+Auscultation reveals a soft, grade II/VI systolic murmur at the left sternal border. Heart sounds S1 and S2 are otherwise normal. No gallops, rubs, or additional murmurs heard.
+
+Respiratory:
+Inspection shows mild to moderate intercostal retractions. Auscultation demonstrates expiratory wheezes throughout the lung fields, more pronounced in the lower lobes. No crackles or significant rhonchi are present. The patient has a prolonged expiratory phase.
+
+Abdomen:
+The abdomen is soft, non-tender, and without organomegaly. Bowel sounds are active and normal.
+
+Musculoskeletal:
+Both joints and muscles show no signs of swelling or deformities; strength and muscle tone are appropriate for age.
+
+Neurological:
+The patient is alert and oriented with intact cranial nerves and reflexes. No focal neurological deficits observed.
+
+Skin:
+The skin is clear without rashes, cyanosis, or clubbing.
+
+Assessment:
+The primary diagnosis remains asthma, unspecified without mention of status asthmaticus, with recent exacerbations. The recurrent history of extrinsic asthma both with and without status asthmaticus complicates his management, as does his history of pneumonia. The undiagnosed cardiac murmur is currently stable but warrants ongoing surveillance. Additionally, his allergic rhinitis contributes to his overall respiratory symptomatology.
+
+Plan:
+1. Asthma Management:
+   - Continue the current usage of albuterol (rescue inhaler) and inhaled corticosteroids.
+   - Introduce a long-acting beta-agonist (LABA) to his regimen to help with symptom control.
+   - Referral to a pediatric pulmonologist for further evaluation due to persistent symptoms and to optimize management strategies.
+
+2. Monitoring for pneumonia:
+   - Provide education for recognizing early signs of respiratory infections and the need for prompt treatment to mitigate potential complications.
+   - Recommend prophylactic measures during high-risk periods, such as influenza vaccinations.
+
+3. Cardiac Murmur:
+   - Arrange a follow-up with pediatric cardiology for a thorough evaluation of the undiagnosed cardiac murmur to rule out any underlying structural heart disease.
+
+4. Allergic Rhinitis:
+   - Consider starting a daily antihistamine for management of allergic symptoms that might be contributing to asthma exacerbations.
+   - Recommend environmental control measures to reduce exposure to known allergens.
+
+Patient Education & Follow-Up:
+- Instruct the patient's parents to monitor symptoms closely and initiate the use of albuterol at the onset of exacerbation. Encourage avoiding known allergens and other asthma triggers.
+- Emphasize the importance of routine follow-up visits to reassess asthma control and adjust medications accordingly.
+- Instruct parents to seek immediate medical attention if symptoms worsen or remain uncontrolled within a week.
+- Plan follow-up appointments for re-evaluation of asthma management and medication effectiveness in one month, or earlier if necessary for any changes in his condition.
+
+The patient and his family verbalized understanding of the new treatment plan and confirmed their agreement to comply with the management regimen.

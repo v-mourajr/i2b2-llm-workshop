@@ -1,0 +1,62 @@
+**Visit Information:**
+- Patient Num: 1000000091
+- Visit Date: 10/09/2007
+
+**Subjective:**
+This is a 12-year-old Asian male who has been receiving care at our clinic for over seven years. He speaks Spanish and presents today for follow-up regarding several ongoing health issues, primarily his asthma. His mother reports that he continues to experience nocturnal wheezing and shortness of breath, particularly with physical exertion such as playing sports at school. There have been no recent upper respiratory infections, but she is concerned about the upcoming seasonal changes exacerbating his symptoms.
+
+The patient has a history of unspecified asthma with frequent episodes of dyspnea. His past medical history includes acute osteomyelitis, congenital hydrocele, difficulty in walking, and neonatal jaundice. Additionally, he recently required attention to surgical dressings and sutures. He has undergone routine vaccinations and health checks as expected for his age.
+
+Currently, he is on a regimen that includes an albuterol inhaler for acute symptom relief and a daily inhaled corticosteroid (ICS) for long-term asthma management. He has been adherent to his medication plan, and no new allergies have been reported. Socially, he lives with his parents and attends school, where his symptoms are closely monitored.
+
+**Objective:**
+- **Vital Signs:**
+  - Blood Pressure: 100/60 mmHg
+  - Heart Rate: 88 bpm
+  - Respiratory Rate: 20 breaths/min
+  - Temperature: 98.7°F
+  - Oxygen Saturation: 97% on room air
+
+- **General Appearance:**
+  The patient appears alert, well-nourished, and in no acute distress.
+
+- **Cardiovascular:**
+  Heart rate regular, no murmurs or abnormal rhythms detected.
+
+- **Respiratory:**
+  Mild use of accessory muscles noted during respiration. Breath sounds are slightly diminished at the bases with occasional wheezes. No crackles or rhonchi were observed during the examination.
+
+- **Abdomen:**
+  Soft, non-tender, bowel sounds present in all four quadrants, no organomegaly detected.
+
+- **Musculoskeletal:**
+  Normal muscle tone and development, no joint abnormalities or signs of musculoskeletal pain.
+
+- **Neurological:**
+  Alert, oriented, appropriate interactiveness for his age. Cranial nerves II-XII intact.
+
+- **Skin:**
+  No cyanosis, clubbing, or rashes present. Skin appears healthy.
+
+Recent laboratory evaluations, including complete blood count indicators, revealed normal ranges for WBC, hemoglobin, and platelets. Both direct and total bilirubin levels remain within expected limits, indicating stable hepatic function and no current signs of jaundice.
+
+**Assessment:**
+The patient's asthma, characterized by nocturnal and exercise-induced symptoms, is likely mild persistent and requires continued monitoring and management. His recent upper respiratory infection appears resolved, with no current evidence of secondary infections. Previous neonatal jaundice has shown no residual effects. The patient's acute osteomyelitis and other childhood conditions are noted to be in the past without current complications.
+
+**Plan:**
+1. **Asthma Management:**
+   - Continue current use of ICS daily and albuterol as needed for acute symptoms, ensuring proper inhaler technique.
+   - Incorporate the use of a peak flow meter for daily monitoring of lung function.
+   - Provide further education to both the patient and his mother on asthma triggers, importance of medication adherence, and proper use of inhalers.
+
+2. **Seasonal Allergies and Respiratory Health:**
+   - As the season changes, additional preventive measures such as avoiding known allergens and maintaining a dust-free home environment will be emphasized.
+   - Consider prescribing an antihistamine if seasonal allergy symptoms develop.
+
+3. **Routine Monitoring and Follow-Up:**
+   - Schedule a follow-up visit in one month to reassess asthma control and adjust the treatment plan as needed.
+   - Plan for a repeat pulmonary function test (PFT) during the next visit to evaluate improvements or any decline in lung function.
+   - The patient’s mother was advised to observe for any worsening of symptoms or acute exacerbations and to seek immediate medical attention if needed.
+
+**Follow-Up:**
+Instruct the patient’s mother to contact the clinic if symptoms worsen or do not improve within a week, or if any new concerns arise. Clear instructions were given on recognizing signs that would require urgent attention (such as difficulty breathing that does not improve with medication). The patient and his mother demonstrated their understanding of the importance of adherence to the asthma management plan and preventive measures. The planned follow-up visit is in one month, with the family advised to return sooner if there are any changes in the patient’s condition.

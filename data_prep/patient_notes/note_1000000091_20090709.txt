@@ -1,0 +1,63 @@
+**Visit Information:**
+- Patient Num: 1000000091
+- Visit Date: 07/09/2009
+
+**Subjective:**
+This is a 15-year-old Asian male who has been receiving care at our clinic for approximately nine years. He speaks Spanish and presents today for follow-up regarding his asthma management. The patient's primary complaint is ongoing nocturnal wheezing, and he reports experiencing shortness of breath during physical exertion, such as playing sports. His mother has noted the increased frequency of these symptoms over the past few weeks.
+
+The patient has a history of chronic asthma, which has been diagnosed with various subtypes including unspecified asthma with acute exacerbation, status asthmaticus, and both intrinsic and extrinsic asthma. Additionally, his past medical history includes acute osteomyelitis, congenital hydrocele, difficulty in walking, and neonatal jaundice. Previous medical records indicate that he recently required attention to surgical dressings and sutures.
+
+Currently, he uses an albuterol inhaler as needed for symptom relief and has been consistently on a daily inhaled corticosteroid (ICS) for long-term asthma control. He has been compliant with his medication regimen, and there have been no new allergies reported. Socially, he lives with his parents and attends school, where his symptoms are closely monitored.
+
+**Objective:**
+- **Vital Signs:**
+  - Blood Pressure: 110/70 mmHg
+  - Heart Rate: 92 bpm
+  - Respiratory Rate: 18 breaths/min
+  - Temperature: 98.6°F
+  - Oxygen Saturation: 96% on room air
+
+- **General Appearance:**
+  The patient appears well-nourished, alert, and in no acute distress.
+
+- **Cardiovascular:**
+  Heart sounds are normal with a regular rhythm; no murmurs or additional heart sounds detected.
+
+- **Respiratory:**
+  Mild bilateral wheezing noted on auscultation, more pronounced during expiration. Occasional use of accessory muscles during respiration observed. Lung fields clear to percussion, no rales or rhonchi present.
+
+- **Abdomen:**
+  Soft, non-tender, with normal bowel sounds in all quadrants.
+
+- **Musculoskeletal:**
+  No joint abnormalities or muscular tenderness. Gait is normal, and no signs of musculoskeletal discomfort.
+
+- **Neurological:**
+  The patient is alert and oriented to time, place, and person. Cranial nerves intact, normal reflexes, and no focal neurological deficits observed.
+
+- **Skin:**
+  Skin is clear with no rashes, lesions, or discoloration.
+
+Recent laboratory evaluations show stable results: WBC levels, hemoglobin, and platelet counts are within normal limits. Direct and total bilirubin levels are within expected ranges, indicating no current hepatic dysfunction or signs of jaundice.
+
+**Assessment:**
+The patient continues to suffer from asthma, which presents both nocturnally and with exertion, indicating a likely diagnosis of mild persistent asthma. The recent resolution of an upper respiratory infection is noted without evidence of secondary complications. Osteomyelitis and other childhood conditions appear resolved with no current sequelae. There are no active infections or acute respiratory distress at present.
+
+**Plan:**
+1. **Asthma Management:**
+   - Continue the daily administration of ICS and the use of albuterol inhaler as needed.
+   - Emphasize proper inhaler technique to both the patient and his mother.
+   - Utilize a peak flow meter for daily monitoring of lung function.
+
+2. **Preventive Measures for Seasonal Changes:**
+   - Encourage avoidance of known asthma triggers, including allergens.
+   - Maintain a clean and dust-free environment at home.
+   - If seasonal allergy symptoms develop, consider starting an antihistamine.
+
+3. **Follow-Up and Routine Monitoring:**
+   - Schedule a follow-up appointment in one month to reassess asthma control and adjust treatment if necessary.
+   - Plan for a repeat pulmonary function test at the next visit to evaluate lung function.
+   - Advise the patient’s mother to monitor symptoms closely and seek immediate medical attention if symptoms worsen or if there are signs of an acute asthma exacerbation.
+
+**Follow-Up:**
+Instruct the patient and his mother to contact the clinic if symptoms worsen or do not improve within a week. Provide clear guidance on recognizing urgent symptoms, such as severe shortness of breath unrelieved by medication. Ensure that both the patient and his mother understand the importance of medication adherence and asthma trigger avoidance. The next scheduled follow-up visit is in one month, with instructions to return sooner if there are any changes in the patient's condition.

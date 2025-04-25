@@ -1,0 +1,72 @@
+Visit Information:
+    - Patient Num: 1000000036
+    - Visit Date: 12/31/2007
+
+Subjective:
+This is a 40-year-old Black female who has been receiving care at our clinic for over a decade. She presents today for a follow-up appointment regarding several ongoing health concerns, including her history of systemic lupus erythematosus, convulsions, and other chronic conditions. The patient has noted no significant changes since her last visit but remains troubled by occasional seizure episodes and persistent symptoms associated with her lupus.
+
+She reports that her convulsions, characterized by sudden onset, muscle stiffness, jerking movements, and loss of consciousness, occur sporadically. The last seizure happened approximately three weeks ago, with each episode resulting in severe fatigue afterwards. The patient diligently follows her prescribed anticonvulsant therapy which includes daily Vitamin B complex, but she is concerned about the persistent nature of the seizures.
+
+Her lupus sometimes presents with general malaise and fatigue, although she continues to work as a clerk which she manages despite the occasional health setbacks. The patient has a history of chronic rhinitis, occasional dental issues including acute apical periodontitis, and a previous benign neoplasm of skin located on her trunk, which was excised several years ago. She also has a documented history of cervicalgia and recurring upper respiratory infections.
+
+Social history reveals she lives alone and maintains a relatively independent lifestyle. She does not smoke, drinks alcohol only in moderation, and has no known allergies. Her support system is limited, though she remains actively engaged in managing her health conditions.
+
+Objective:
+- **Vital Signs:**
+  - Blood Pressure: 126/82 mmHg
+  - Heart Rate: 70 bpm
+  - Respiratory Rate: 18 breaths/min
+  - Temperature: 98.4°F
+  - Oxygen Saturation: 99% on room air
+
+- **General Appearance:**
+The patient appears alert and oriented, well-nourished, and in no acute distress. She is cooperative during the examination and communicates effectively.
+
+- **Cardiovascular:**
+Cardiac auscultation indicates a regular heart rate and rhythm, without murmurs, gallops, or rubs. Peripheral pulses are strong and symmetrical.
+
+- **Respiratory:**
+Lungs are clear bilaterally with no adventitious sounds. Chest movement is symmetrical without use of accessory muscles.
+
+- **Abdomen:**
+Examination reveals a soft and non-tender abdomen with active bowel sounds in all quadrants. No hepatosplenomegaly or masses are detected.
+
+- **Musculoskeletal:**
+No joint deformities, tenderness, or swelling are appreciated. Full range of motion is present in all extremities. Muscle bulk and tone are normal.
+
+- **Neurological:**
+Cranial nerves II-XII are intact. Motor strength is 5/5 throughout, with no evidence of muscle weakness or atrophy. Deep tendon reflexes are 2+ and symmetric, coordination is intact, and the patient’s gait is steady without ataxia.
+
+- **Skin:**
+The skin has normal coloration and texture without rashes, lesions, or abnormal growths. Turgor is normal.
+
+- **Laboratory Findings:**
+Recent laboratory results, including complete blood count (CBC), basic metabolic panel, and lipid profile, are within normal limits. No abnormalities were identified in recent hematological tests.
+
+Assessment:
+1. **Convulsions:**
+  The patient’s recurrent tonic-clonic seizures are persistent despite adherence to anticonvulsant therapy. This indicates the need for further diagnostic evaluation and possible adjustment in her treatment regimen.
+
+2. **Systemic Lupus Erythematosus:**
+  The patient remains in a relatively stable condition, although she experiences intermittent fatigue and malaise.
+
+3. **Chronic Rhinitis and Cervicalgia:**
+  These conditions appear managed, but ongoing monitoring is required to ensure stability.
+
+Plan:
+1. **Convulsions:**
+   - Maintain current medication regimen with emphasis on consistency.
+   - Schedule an electroencephalogram (EEG) for further evaluation of brain activity.
+   - Refer to neurology for potential medication adjustment and specialized management.
+   - Educate the patient on seizure safety and injury prevention.
+   - Instruct the patient to keep a seizure diary for the upcoming month to monitor frequency and triggers.
+
+2. **Systemic Lupus Erythematosus:**
+   - Continue with current management and regular follow-up to monitor symptoms.
+   - Emphasize continued avoidance of identified triggers and stress the importance of balanced rest and activity.
+
+3. **Chronic Rhinitis and Cervicalgia:**
+   - Advise the patient to continue with previously prescribed treatments and perform recommended exercises for cervicalgia.
+
+Follow-Up:
+Instruct the patient to contact the clinic if her symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. Follow-up consultations are scheduled in one month, and she is reminded to bring her seizure diary to her neurology appointment. The patient expressed understanding and commitment to adhere to the instructed plan.

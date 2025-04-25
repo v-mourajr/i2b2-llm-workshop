@@ -1,0 +1,18 @@
+demographics
+patient_num: 1000000043  age: 50
+patient_num: 1000000043  sex: M
+patient_num: 1000000043  race: hispanic
+patient_num: 1000000043  language: spanish
+patient_num: 1000000043  vital_status: alive
+patient_num: 1000000043  earliest fact: Aug  3 1998 12:00AM
+patient_num: 1000000043  latest fact: Aug 12 1998 12:00AM
+patient_num: 1000000043  range in days: 9
+totals
+patient_num: 1000000043  distinct concepts: 2
+patient_num: 1000000043  total facts: 4
+patient_num: 1000000043  total encounters: 3
+patient_num: 1000000043  total asthma: 2
+descriptive
+patient_num: 1000000043  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 2
+patient_num: 1000000043  diagnosis code: ICD9:477.0  name: Allergic rhinitis due to pollen  count: 2
+patient_num: 1000000043  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 2

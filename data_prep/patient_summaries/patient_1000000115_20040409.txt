@@ -1,0 +1,56 @@
+demographics
+patient_num: 1000000115  age: 8
+patient_num: 1000000115  sex: F
+patient_num: 1000000115  race: black
+patient_num: 1000000115  language: english
+patient_num: 1000000115  vital_status: alive
+patient_num: 1000000115  earliest fact: Dec 14 2000 12:00AM
+patient_num: 1000000115  latest fact: Apr  9 2004 12:00AM
+patient_num: 1000000115  range in days: 1212
+totals
+patient_num: 1000000115  distinct concepts: 49
+patient_num: 1000000115  total facts: 130
+patient_num: 1000000115  total encounters: 8
+patient_num: 1000000115  total asthma: 1
+descriptive
+patient_num: 1000000115  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 1
+patient_num: 1000000115  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 1
+patient_num: 1000000115  diagnosis code: ICD9:V05.3  name: Need for prophylactic vaccination and inoculation against viral hepatitis  count: 1
+patient_num: 1000000115  diagnosis code: ICD9:99.55  name: Prophylactic administration of vaccine against other diseases  count: 1
+patient_num: 1000000115  diagnosis code: ICD9:V72.5  name: Radiological examination, not elsewhere classified  count: 2
+patient_num: 1000000115  diagnosis code: ICD9:V30.0  name: Single liveborn, born in hospital  count: 1
+patient_num: 1000000115  diagnosis code: ICD9:V30.00  name: Single liveborn, born in hospital, delivered without mention of cesarean section  count: 1
+patient_num: 1000000115  laboratory code: LOINC:704-7  name: Abs Basos Auto (Group:ABASOS)  count: 1
+patient_num: 1000000115  laboratory code: LOINC:711-2  name: Abs EOS Auto (Group:AEOS)  count: 1
+patient_num: 1000000115  laboratory code: LOINC:731-0  name: Abs Lymphs Auto (Group:ALYMPHS)  count: 1
+patient_num: 1000000115  laboratory code: LOINC:742-7  name: Abs Monos Auto (Group:AMONOS)  count: 1
+patient_num: 1000000115  laboratory code: LOINC:752-6  name: Abs Neuts Auto (Group:ANEUTS)  count: 1
+patient_num: 1000000115  laboratory code: LOINC:702-1  name: Anisocytosis (Group:ANISO)  count: 1
+patient_num: 1000000115  laboratory code: LOINC:735-1  name: Atypical Lymphs (Group:ATYPS)  count: 2
+patient_num: 1000000115  laboratory code: LOINC:764-1  name: Bands - Manual (Group:BAND)  count: 2
+patient_num: 1000000115  laboratory code: LOINC:706-2  name: Basophils - Auto (Group:BASOS)  count: 1
+patient_num: 1000000115  laboratory code: LOINC:707-0  name: Basophils - Manual (Group:BASO)  count: 2
+patient_num: 1000000115  laboratory code: LOINC:1968-7  name: Direct Bilirubin (Group:DBILI)  count: 2
+patient_num: 1000000115  laboratory code: LOINC:713-8  name: Eosinophils - Auto (Group:EOS)  count: 1
+patient_num: 1000000115  laboratory code: LOINC:714-6  name: Eosinophils - Manual (Group:EO)  count: 2
+patient_num: 1000000115  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 2
+patient_num: 1000000115  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 2
+patient_num: 1000000115  laboratory code: LOINC:17789-9  name: LUC# (Group:LUC)  count: 1
+patient_num: 1000000115  laboratory code: LOINC:17788-1  name: LUC% (Group:LUCP)  count: 1
+patient_num: 1000000115  laboratory code: LOINC:736-9  name: Lymphocytes - Auto (Group:LYMPHS)  count: 1
+patient_num: 1000000115  laboratory code: LOINC:737-7  name: Lymphocytes - Manual (Group:LYMPH)  count: 2
+patient_num: 1000000115  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 2
+patient_num: 1000000115  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 2
+patient_num: 1000000115  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 2
+patient_num: 1000000115  laboratory code: LOINC:5905-5  name: Monocytes - Auto (Group:MONOS)  count: 1
+patient_num: 1000000115  laboratory code: LOINC:744-3  name: Monocytes - Manual (Group:MONO)  count: 2
+patient_num: 1000000115  laboratory code: LOINC:770-8  name: Neutrophils - Auto (Group:POLYS)  count: 1
+patient_num: 1000000115  laboratory code: LOINC:769-0  name: Neutrophils - Manual (Group:POLY)  count: 2
+patient_num: 1000000115  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 2
+patient_num: 1000000115  laboratory code: LOINC:9317-9  name: PLT Estimate (Group:PLTEST)  count: 2
+patient_num: 1000000115  laboratory code: LOINC:779-9  name: Poikilocytosis (Group:POIK)  count: 1
+patient_num: 1000000115  laboratory code: LOINC:10378-8  name: Polychromasia (Group:POLYCH)  count: 1
+patient_num: 1000000115  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 2
+patient_num: 1000000115  laboratory code: LOINC:788-0  name: RDW (Group:RDW)  count: 2
+patient_num: 1000000115  laboratory code: LOINC:1975-2  name: Total Bilirubin (Group:TBILI)  count: 2
+patient_num: 1000000115  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 2

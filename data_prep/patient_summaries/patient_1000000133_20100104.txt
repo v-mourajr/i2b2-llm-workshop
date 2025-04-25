@@ -1,0 +1,164 @@
+demographics
+patient_num: 1000000133  age: 18
+patient_num: 1000000133  sex: F
+patient_num: 1000000133  race: asian
+patient_num: 1000000133  language: spanish
+patient_num: 1000000133  vital_status: alive
+patient_num: 1000000133  earliest fact: Sep 24 1998 12:00AM
+patient_num: 1000000133  latest fact: Jan  4 2010 12:00AM
+patient_num: 1000000133  range in days: 4120
+totals
+patient_num: 1000000133  distinct concepts: 157
+patient_num: 1000000133  total facts: 601
+patient_num: 1000000133  total encounters: 125
+patient_num: 1000000133  total asthma: 19
+descriptive
+patient_num: 1000000133  asthma code: ICD9:493.9  name: Asthma, unspecified  count: 1
+patient_num: 1000000133  asthma code: ICD9:493.91  name: Asthma, unspecified type, with status asthmaticus  count: 3
+patient_num: 1000000133  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 14
+patient_num: 1000000133  asthma code: ICD9:493.00  name: Extrinsic asthma without mention of status asthmaticus  count: 1
+patient_num: 1000000133  diagnosis code: ICD9:789.00  name: Abdominal pain, unspecified site  count: 4
+patient_num: 1000000133  diagnosis code: ICD9:462  name: Acute pharyngitis  count: 9
+patient_num: 1000000133  diagnosis code: ICD9:465.9  name: Acute upper respiratory infections of unspecified site  count: 4
+patient_num: 1000000133  diagnosis code: ICD9:309.28  name: Adjustment reaction with mixed emotional features  count: 6
+patient_num: 1000000133  diagnosis code: ICD9:285.9  name: Anemia, unspecified  count: 1
+patient_num: 1000000133  diagnosis code: ICD9:493.9  name: Asthma, unspecified  count: 1
+patient_num: 1000000133  diagnosis code: ICD9:493.91  name: Asthma, unspecified type, with status asthmaticus  count: 3
+patient_num: 1000000133  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 14
+patient_num: 1000000133  diagnosis code: ICD9:314.00  name: Attention deficit disorder of childhood without mention of hyperactivity  count: 1
+patient_num: 1000000133  diagnosis code: ICD9:373.00  name: Blepharitis, unspecified  count: 1
+patient_num: 1000000133  diagnosis code: ICD9:490  name: Bronchitis, not specified as acute or chronic  count: 1
+patient_num: 1000000133  diagnosis code: ICD9:995.53  name: Child sexual abuse  count: 2
+patient_num: 1000000133  diagnosis code: ICD9:832.01  name: Closed anterior dislocation of elbow  count: 3
+patient_num: 1000000133  diagnosis code: ICD9:372.30  name: Conjunctivitis, unspecified  count: 1
+patient_num: 1000000133  diagnosis code: ICD9:786.2  name: Cough  count: 6
+patient_num: 1000000133  diagnosis code: ICD9:464.4  name: Croup  count: 2
+patient_num: 1000000133  diagnosis code: ICD9:315.31  name: Developmental language disorder  count: 1
+patient_num: 1000000133  diagnosis code: ICD9:787.91  name: Diarrhea  count: 1
+patient_num: 1000000133  diagnosis code: ICD9:348.3  name: Encephalopathy, unspecified  count: 6
+patient_num: 1000000133  diagnosis code: ICD9:348.30  name: Encephalopathy, unspecified  count: 1
+patient_num: 1000000133  diagnosis code: ICD9:530.81  name: Esophageal reflux  count: 9
+patient_num: 1000000133  diagnosis code: ICD9:493.00  name: Extrinsic asthma without mention of status asthmaticus  count: 1
+patient_num: 1000000133  diagnosis code: ICD9:780.6  name: Fever  count: 3
+patient_num: 1000000133  diagnosis code: ICD9:787.1  name: Heartburn  count: 1
+patient_num: 1000000133  diagnosis code: ICD9:780.53  name: Hypersomnia with sleep apnea  count: 2
+patient_num: 1000000133  diagnosis code: ICD9:474.12  name: Hypertrophy of adenoids alone  count: 1
+patient_num: 1000000133  diagnosis code: ICD9:380.10  name: Infective otitis externa, unspecified  count: 1
+patient_num: 1000000133  diagnosis code: ICD9:787.01  name: Nausea with vomiting  count: 3
+patient_num: 1000000133  diagnosis code: ICD9:V04.8  name: Need for prophylactic vaccination and inoculation against influenza  count: 2
+patient_num: 1000000133  diagnosis code: ICD9:278.0  name: Obesity  count: 3
+patient_num: 1000000133  diagnosis code: ICD9:873.44  name: Open wound of jaw, uncomplicated  count: 1
+patient_num: 1000000133  diagnosis code: ICD9:305.51  name: Opioid abuse, continuous use  count: 1
+patient_num: 1000000133  diagnosis code: ICD9:558.9  name: Other and unspecified noninfectious gastroenteritis and colitis  count: 1
+patient_num: 1000000133  diagnosis code: ICD9:748.3  name: Other congenital anomalies of larynx, trachea, and bronchus  count: 2
+patient_num: 1000000133  diagnosis code: ICD9:518.89  name: Other diseases of lung, not elsewhere classified  count: 1
+patient_num: 1000000133  diagnosis code: ICD9:786.09  name: Other dyspnea and respiratory abnormality  count: 2
+patient_num: 1000000133  diagnosis code: ICD9:V70.3  name: Other general medical examination for administrative purposes  count: 1
+patient_num: 1000000133  diagnosis code: ICD9:780.79  name: Other malaise and fatigue  count: 1
+patient_num: 1000000133  diagnosis code: ICD9:315.2  name: Other specific developmental learning difficulties  count: 1
+patient_num: 1000000133  diagnosis code: ICD9:719.43  name: Pain in joint involving forearm  count: 2
+patient_num: 1000000133  diagnosis code: ICD9:V70.0  name: Routine general medical examination at a health care facility  count: 3
+patient_num: 1000000133  diagnosis code: ICD9:V20.2  name: Routine infant or child health check  count: 9
+patient_num: 1000000133  diagnosis code: ICD9:V74.1  name: Screening examination for pulmonary tuberculosis  count: 1
+patient_num: 1000000133  diagnosis code: ICD9:V79.3  name: Screening for developmental handicaps in early childhood  count: 1
+patient_num: 1000000133  diagnosis code: ICD9:564.0  name: Slow transit constipation  count: 1
+patient_num: 1000000133  diagnosis code: ICD9:847.9  name: Sprain of unspecified site of back  count: 1
+patient_num: 1000000133  diagnosis code: ICD9:780.2  name: Syncope and collapse  count: 1
+patient_num: 1000000133  diagnosis code: ICD9:786.06  name: Tachypnea  count: 2
+patient_num: 1000000133  diagnosis code: ICD9:987.9  name: Toxic effect of unspecified gas, fume, or vapor  count: 2
+patient_num: 1000000133  diagnosis code: ICD9:296.90  name: Unspecified affective psychosis  count: 1
+patient_num: 1000000133  diagnosis code: ICD9:312.9  name: Unspecified disturbance of conduct  count: 1
+patient_num: 1000000133  diagnosis code: ICD9:V70.9  name: Unspecified general medical examination  count: 1
+patient_num: 1000000133  diagnosis code: ICD9:300.9  name: Unspecified neurotic disorder  count: 1
+patient_num: 1000000133  diagnosis code: ICD9:382.9  name: Unspecified otitis media  count: 2
+patient_num: 1000000133  diagnosis code: ICD9:845.10  name: Unspecified site of foot sprain  count: 1
+patient_num: 1000000133  diagnosis code: ICD9:079.99  name: Unspecified viral infection in conditions classified elsewhere and of unspecified site  count: 2
+patient_num: 1000000133  diagnosis code: ICD9:599.0  name: Urinary tract infection, site not specified  count: 2
+patient_num: 1000000133  diagnosis code: ICD9:052.9  name: Varicella without mention of complication  count: 1
+patient_num: 1000000133  diagnosis code: ICD9:480.9  name: Viral pneumonia, unspecified  count: 2
+patient_num: 1000000133  diagnosis code: ICD9:787.03  name: Vomiting alone  count: 2
+patient_num: 1000000133  diagnosis code: ICD9:033.1  name: Whooping cough due to bordetella parapertussis (B. parapertussis)  count: 1
+patient_num: 1000000133  medication code: NDC:00597001314  name: Combivent 103 mcg-18 mcg/inh aerosol with adapter Boehringer-Ingelheim  count: 3
+patient_num: 1000000133  medication code: NDC:00364021702  name: Prednisolone Acetate 5mg tablet Schein Pharmaceuticals Inc  count: 4
+patient_num: 1000000133  medication code: NDC:61113074331  name: Prilosec 40mg enteric coated capsule Astra-Zeneca Pharmaceuticals  count: 4
+patient_num: 1000000133  medication code: NDC:00186091542  name: Pulmicort Turbuhaler 200 mcg/inh aerosol with adapter Astra-Zeneca Pharmaceuticals  count: 4
+patient_num: 1000000133  medication code: NDC:00182114185  name: Triamcinolone Acetonide acetonide 40 mg/ml suspension Zenith Goldline Pharmaceuticals  count: 6
+patient_num: 1000000133  medication code: NDC:00069553093  name: Zyrtec 1 mg/ml syrup Pfizer U.S. Pharmaceuticals  count: 4
+patient_num: 1000000133  laboratory code: LOINC:26444-0  name: Abs Basos (Group:ABASOP)  count: 2
+patient_num: 1000000133  laboratory code: LOINC:26449-9  name: Abs Eos (Group:AEOSN)  count: 2
+patient_num: 1000000133  laboratory code: LOINC:26474-7  name: Abs Lymphs (Group:ALYMP)  count: 2
+patient_num: 1000000133  laboratory code: LOINC:26484-6  name: Abs Monos (Group:AMONS)  count: 2
+patient_num: 1000000133  laboratory code: LOINC:26499-4  name: Abs Neuts (Group:ANEU)  count: 2
+patient_num: 1000000133  laboratory code: LOINC:1751-7  name: Albumin (Group:ALB)  count: 3
+patient_num: 1000000133  laboratory code: LOINC:1742-6  name: ALT (SGPT) (Group:SGPT)  count: 3
+patient_num: 1000000133  laboratory code: LOINC:702-1  name: Anisocytosis (Group:ANISO)  count: 1
+patient_num: 1000000133  laboratory code: LOINC:1920-8  name: AST (SGOT) (Group:SGOT)  count: 3
+patient_num: 1000000133  laboratory code: LOINC:5769-5  name: Bacteria (Group:UAS-BACT)  count: 3
+patient_num: 1000000133  laboratory code: LOINC:30180-4  name: Basophils (Group:BASOP)  count: 2
+patient_num: 1000000133  laboratory code: LOINC:707-0  name: Basophils - Manual (Group:BASO)  count: 1
+patient_num: 1000000133  laboratory code: LOINC:5770-3  name: Bilirubin (Group:UA-BILI)  count: 3
+patient_num: 1000000133  laboratory code: LOINC:3094-0  name: Blood Urea Nitrogen (Group:BUN)  count: 3
+patient_num: 1000000133  laboratory code: LOINC:2000-8  name: Calcium (Group:CA)  count: 2
+patient_num: 1000000133  laboratory code: LOINC:2028-9  name: Carbon Dioxide (Group:CO2)  count: 3
+patient_num: 1000000133  laboratory code: LOINC:2075-0  name: Chloride (Group:CL)  count: 3
+patient_num: 1000000133  laboratory code: LOINC:5778-6  name: Color (Group:UA-COLOR)  count: 3
+patient_num: 1000000133  laboratory code: LOINC:2160-0  name: Creatinine (Group:CRE)  count: 3
+patient_num: 1000000133  laboratory code: LOINC:X2036-5  name: Diff Method (Group:DIFMET)  count: 2
+patient_num: 1000000133  laboratory code: LOINC:X2012-1  name: Differential Request (Group:DIFFR)  count: 2
+patient_num: 1000000133  laboratory code: LOINC:1968-7  name: Direct Bilirubin (Group:DBILI)  count: 4
+patient_num: 1000000133  laboratory code: LOINC:26450-7  name: Eosinophils (Group:EOSP)  count: 2
+patient_num: 1000000133  laboratory code: LOINC:714-6  name: Eosinophils - Manual (Group:EO)  count: 2
+patient_num: 1000000133  laboratory code: LOINC:4537-7  name: ESR (Group:ESR)  count: 1
+patient_num: 1000000133  laboratory code: LOINC:2357-2  name: G6PD Assay (Group:G6PD)  count: 1
+patient_num: 1000000133  laboratory code: LOINC:4548-4  name: GHBA1C (Group:GHBA1C)  count: 1
+patient_num: 1000000133  laboratory code: LOINC:2336-6  name: Globulin (Group:GLOB)  count: 3
+patient_num: 1000000133  laboratory code: LOINC:6777-7  name: Glucose (Group:GLU)  count: 3
+patient_num: 1000000133  laboratory code: LOINC:5792-7  name: Glucose - UA (Group:UA-GLUC)  count: 4
+patient_num: 1000000133  laboratory code: LOINC:2119-6  name: HCG-Quant (Group:HCG,QT)  count: 1
+patient_num: 1000000133  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 6
+patient_num: 1000000133  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 6
+patient_num: 1000000133  laboratory code: LOINC:13514-5  name: HGB Electrophoresis (Group:HBEP)  count: 1
+patient_num: 1000000133  laboratory code: LOINC:X2013-2  name: HGB EP Request (Group:HBEPR)  count: 1
+patient_num: 1000000133  laboratory code: LOINC:X2001-0  name: HGB Interpretation (Group:HGBINT)  count: 1
+patient_num: 1000000133  laboratory code: LOINC:5796-8  name: Hyaline Cast (Group:HCAST)  count: 1
+patient_num: 1000000133  laboratory code: LOINC:728-6  name: Hypochromia (Group:HYPO)  count: 1
+patient_num: 1000000133  laboratory code: LOINC:2462-0  name: IgE (Group:IGE)  count: 1
+patient_num: 1000000133  laboratory code: LOINC:5797-6  name: Ketones (Group:UA-KET)  count: 4
+patient_num: 1000000133  laboratory code: LOINC:2532-0  name: LDH (Group:LDH)  count: 2
+patient_num: 1000000133  laboratory code: LOINC:26478-8  name: Lymphocytes (Group:LYMP)  count: 2
+patient_num: 1000000133  laboratory code: LOINC:737-7  name: Lymphocytes - Manual (Group:LYMPH)  count: 2
+patient_num: 1000000133  laboratory code: LOINC:738-5  name: Macrocytes (Group:MACRO)  count: 1
+patient_num: 1000000133  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 6
+patient_num: 1000000133  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 6
+patient_num: 1000000133  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 6
+patient_num: 1000000133  laboratory code: LOINC:741-9  name: Microcytes (Group:MICROC)  count: 1
+patient_num: 1000000133  laboratory code: LOINC:26485-3  name: Monocytes (Group:MON)  count: 2
+patient_num: 1000000133  laboratory code: LOINC:744-3  name: Monocytes - Manual (Group:MONO)  count: 2
+patient_num: 1000000133  laboratory code: LOINC:26511-6  name: Neutrophils (Group:NEUT)  count: 2
+patient_num: 1000000133  laboratory code: LOINC:769-0  name: Neutrophils - Manual (Group:POLY)  count: 2
+patient_num: 1000000133  laboratory code: LOINC:5802-4  name: Nitrites (Group:UA-NIT)  count: 4
+patient_num: 1000000133  laboratory code: LOINC:5794-3  name: Occult Blood (Group:UA-BLD)  count: 4
+patient_num: 1000000133  laboratory code: LOINC:5803-2  name: PH (Group:UA-PH)  count: 4
+patient_num: 1000000133  laboratory code: LOINC:2777-1  name: Phosphorus (Group:PHOS)  count: 1
+patient_num: 1000000133  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 6
+patient_num: 1000000133  laboratory code: LOINC:9317-9  name: PLT Estimate (Group:PLTEST)  count: 2
+patient_num: 1000000133  laboratory code: LOINC:779-9  name: Poikilocytosis (Group:POIK)  count: 1
+patient_num: 1000000133  laboratory code: LOINC:2823-3  name: Potassium (Group:K)  count: 3
+patient_num: 1000000133  laboratory code: LOINC:5804-0  name: Protein (Group:UA-ALB)  count: 3
+patient_num: 1000000133  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 6
+patient_num: 1000000133  laboratory code: LOINC:5808-1  name: RBC - Urine Sed (Group:UAS-RBC)  count: 3
+patient_num: 1000000133  laboratory code: LOINC:6742-1  name: RBC Morph Manual (Group:RCM-M)  count: 2
+patient_num: 1000000133  laboratory code: LOINC:788-0  name: RDW (Group:RDW)  count: 2
+patient_num: 1000000133  laboratory code: LOINC:2951-2  name: Sodium (Group:NA)  count: 3
+patient_num: 1000000133  laboratory code: LOINC:5811-5  name: Specific Gravity (Group:UA-SPGR)  count: 4
+patient_num: 1000000133  laboratory code: LOINC:11277-1  name: Squamous Cells (Group:UAS-SQUA)  count: 3
+patient_num: 1000000133  laboratory code: LOINC:3026-2  name: Thyroxine T4 (Group:T4)  count: 1
+patient_num: 1000000133  laboratory code: LOINC:1975-2  name: Total Bilirubin (Group:TBILI)  count: 6
+patient_num: 1000000133  laboratory code: LOINC:2885-2  name: Total Protein (Group:TP)  count: 3
+patient_num: 1000000133  laboratory code: LOINC:6598-7  name: Troponin-T (Group:TROP-T)  count: 1
+patient_num: 1000000133  laboratory code: LOINC:3016-3  name: TSH (Group:TSH)  count: 1
+patient_num: 1000000133  laboratory code: LOINC:5767-9  name: Turbidity (Group:UA-TURB)  count: 3
+patient_num: 1000000133  laboratory code: LOINC:5818-0  name: Urobilinogen (Group:UA-UROBI)  count: 3
+patient_num: 1000000133  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 6
+patient_num: 1000000133  laboratory code: LOINC:5821-4  name: WBC - Urine Sed (Group:UAS-WBC)  count: 3
+patient_num: 1000000133  laboratory code: LOINC:5799-2  name: WBC Screen (Group:UA-WBC)  count: 4

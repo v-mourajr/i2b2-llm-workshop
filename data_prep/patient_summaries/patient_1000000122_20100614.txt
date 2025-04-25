@@ -1,0 +1,122 @@
+demographics
+patient_num: 1000000122  age: 12
+patient_num: 1000000122  sex: F
+patient_num: 1000000122  race: indian
+patient_num: 1000000122  language: german
+patient_num: 1000000122  vital_status: alive
+patient_num: 1000000122  earliest fact: Sep 12 2002 12:00AM
+patient_num: 1000000122  latest fact: Jun 14 2010 12:00AM
+patient_num: 1000000122  range in days: 2832
+totals
+patient_num: 1000000122  distinct concepts: 113
+patient_num: 1000000122  total facts: 517
+patient_num: 1000000122  total encounters: 109
+patient_num: 1000000122  total asthma: 33
+descriptive
+patient_num: 1000000122  asthma code: ICD9:493.92  name: Asthma, unspecified type, with acute exacerbation  count: 14
+patient_num: 1000000122  asthma code: ICD9:493.91  name: Asthma, unspecified type, with status asthmaticus  count: 2
+patient_num: 1000000122  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 14
+patient_num: 1000000122  asthma code: ICD9:493.00  name: Extrinsic asthma without mention of status asthmaticus  count: 9
+patient_num: 1000000122  diagnosis code: ICD9:466.19  name: Acute bronchiolitis due to other infectious organisms  count: 3
+patient_num: 1000000122  diagnosis code: ICD9:465.9  name: Acute upper respiratory infections of unspecified site  count: 8
+patient_num: 1000000122  diagnosis code: ICD9:995.61  name: Anaphylactic shock due to adverse food reaction to peanuts  count: 1
+patient_num: 1000000122  diagnosis code: ICD9:995.64  name: Anaphylactic shock due to adverse food reaction to tree nuts and seeds  count: 1
+patient_num: 1000000122  diagnosis code: ICD9:733.49  name: Aseptic necrosis of other bone sites  count: 1
+patient_num: 1000000122  diagnosis code: ICD9:493.92  name: Asthma, unspecified type, with acute exacerbation  count: 14
+patient_num: 1000000122  diagnosis code: ICD9:493.91  name: Asthma, unspecified type, with status asthmaticus  count: 2
+patient_num: 1000000122  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 14
+patient_num: 1000000122  diagnosis code: ICD9:112.9  name: Candidiasis of unspecified site  count: 1
+patient_num: 1000000122  diagnosis code: ICD9:372.30  name: Conjunctivitis, unspecified  count: 1
+patient_num: 1000000122  diagnosis code: ICD9:564.00  name: Constipation, unspecified  count: 2
+patient_num: 1000000122  diagnosis code: ICD9:692.9  name: Contact dermatitis and other eczema, unspecified cause  count: 3
+patient_num: 1000000122  diagnosis code: ICD9:786.2  name: Cough  count: 8
+patient_num: 1000000122  diagnosis code: ICD9:V72.7  name: Diagnostic skin and sensitization tests  count: 1
+patient_num: 1000000122  diagnosis code: ICD9:V65.3  name: Dietary surveillance and counseling  count: 7
+patient_num: 1000000122  diagnosis code: ICD9:785.6  name: Enlargement of lymph nodes  count: 1
+patient_num: 1000000122  diagnosis code: ICD9:493.00  name: Extrinsic asthma without mention of status asthmaticus  count: 9
+patient_num: 1000000122  diagnosis code: ICD9:V17.5  name: Family history of asthma  count: 2
+patient_num: 1000000122  diagnosis code: ICD9:780.6  name: Fever  count: 4
+patient_num: 1000000122  diagnosis code: ICD9:474.12  name: Hypertrophy of adenoids alone  count: 1
+patient_num: 1000000122  diagnosis code: ICD9:786.01  name: Hyperventilation  count: 1
+patient_num: 1000000122  diagnosis code: ICD9:V06.9  name: Need for prophylactic vaccination with unspecified combined vaccine  count: 4
+patient_num: 1000000122  diagnosis code: ICD9:793.1  name: Nonspecific abnormal findings on radiological and other examination of lung field  count: 1
+patient_num: 1000000122  diagnosis code: ICD9:117.9  name: Other and unspecified mycoses  count: 1
+patient_num: 1000000122  diagnosis code: ICD9:786.09  name: Other dyspnea and respiratory abnormality  count: 2
+patient_num: 1000000122  diagnosis code: ICD9:486  name: Pneumonia, organism unspecified  count: 7
+patient_num: 1000000122  diagnosis code: ICD9:518.0  name: Pulmonary collapse  count: 2
+patient_num: 1000000122  diagnosis code: ICD9:079.6  name: Respiratory syncytial virus (RSV) infection in conditions classified elsewhere and of unspecified site  count: 1
+patient_num: 1000000122  diagnosis code: ICD9:V20.2  name: Routine infant or child health check  count: 9
+patient_num: 1000000122  diagnosis code: ICD9:V74.1  name: Screening examination for pulmonary tuberculosis  count: 3
+patient_num: 1000000122  diagnosis code: ICD9:V30.0  name: Single liveborn, born in hospital  count: 1
+patient_num: 1000000122  diagnosis code: ICD9:V30.00  name: Single liveborn, born in hospital, delivered without mention of cesarean section  count: 1
+patient_num: 1000000122  diagnosis code: ICD9:564.0  name: Slow transit constipation  count: 1
+patient_num: 1000000122  diagnosis code: ICD9:382.9  name: Unspecified otitis media  count: 3
+patient_num: 1000000122  diagnosis code: ICD9:698.9  name: Unspecified pruritic disorder  count: 1
+patient_num: 1000000122  diagnosis code: ICD9:276.5  name: Volume depletion  count: 1
+patient_num: 1000000122  diagnosis code: ICD9:786.07  name: Wheezing  count: 1
+patient_num: 1000000122  medication code: NDC:00005306343  name: Albuterol Sulfate 4mg tablet ESI Lederle Generics  count: 12
+patient_num: 1000000122  medication code: NDC:00088110947  name: Allegra 180mg tablet extended release Aventis Pharmaceuticals  count: 4
+patient_num: 1000000122  medication code: NDC:00597008214  name: Atrovent 18 mcg/inh aerosol Boehringer-Ingelheim  count: 20
+patient_num: 1000000122  medication code: NDC:00054819004  name: Diphenhydramine Hydrochloride 12.5 mg/5ml liquid Roxane Laboratories Inc  count: 12
+patient_num: 1000000122  medication code: NDC:00054828425  name: Ferrous Sulfate 300mg tablet Roxane Laboratories Inc  count: 4
+patient_num: 1000000122  medication code: NDC:00173045301  name: Flonase 0.05 mg/inh spray Glaxo Wellcome  count: 8
+patient_num: 1000000122  medication code: NDC:00173049900  name: Flovent 220 mcg/inh aerosol with adapter Glaxo Wellcome  count: 4
+patient_num: 1000000122  medication code: NDC:00173067601  name: Malarone Pediatric 62.5mg-25mg tablet Glaxo Wellcome  count: 3
+patient_num: 1000000122  medication code: NDC:00364021702  name: Prednisolone Acetate 5mg tablet Schein Pharmaceuticals Inc  count: 12
+patient_num: 1000000122  medication code: NDC:00245012112  name: Uniserts 120mg suppository Upsher-Smith Laboratories Inc  count: 4
+patient_num: 1000000122  medication code: NDC:00173044100  name: Zantac 1 mg/ml solution Glaxo Wellcome  count: 6
+patient_num: 1000000122  medication code: NDC:00069315083  name: Zithromax IV 500mg powder for injection Pfizer U.S. Pharmaceuticals  count: 8
+patient_num: 1000000122  medication code: NDC:00069553093  name: Zyrtec 1 mg/ml syrup Pfizer U.S. Pharmaceuticals  count: 4
+patient_num: 1000000122  laboratory code: LOINC:763-3  name: Abs Bands Manual (Group:ABANDS)  count: 1
+patient_num: 1000000122  laboratory code: LOINC:26449-9  name: Abs Eos (Group:AEOSN)  count: 2
+patient_num: 1000000122  laboratory code: LOINC:26474-7  name: Abs Lymphs (Group:ALYMP)  count: 2
+patient_num: 1000000122  laboratory code: LOINC:731-0  name: Abs Lymphs Auto (Group:ALYMPHS)  count: 1
+patient_num: 1000000122  laboratory code: LOINC:26484-6  name: Abs Monos (Group:AMONS)  count: 2
+patient_num: 1000000122  laboratory code: LOINC:742-7  name: Abs Monos Auto (Group:AMONOS)  count: 1
+patient_num: 1000000122  laboratory code: LOINC:26499-4  name: Abs Neuts (Group:ANEU)  count: 2
+patient_num: 1000000122  laboratory code: LOINC:752-6  name: Abs Neuts Auto (Group:ANEUTS)  count: 1
+patient_num: 1000000122  laboratory code: LOINC:702-1  name: Anisocytosis (Group:ANISO)  count: 1
+patient_num: 1000000122  laboratory code: LOINC:735-1  name: Atypical Lymphs (Group:ATYPS)  count: 1
+patient_num: 1000000122  laboratory code: LOINC:5769-5  name: Bacteria (Group:UAS-BACT)  count: 2
+patient_num: 1000000122  laboratory code: LOINC:764-1  name: Bands - Manual (Group:BAND)  count: 1
+patient_num: 1000000122  laboratory code: LOINC:5770-3  name: Bilirubin (Group:UA-BILI)  count: 2
+patient_num: 1000000122  laboratory code: LOINC:5778-6  name: Color (Group:UA-COLOR)  count: 2
+patient_num: 1000000122  laboratory code: LOINC:X2036-5  name: Diff Method (Group:DIFMET)  count: 2
+patient_num: 1000000122  laboratory code: LOINC:X2012-1  name: Differential Request (Group:DIFFR)  count: 2
+patient_num: 1000000122  laboratory code: LOINC:26450-7  name: Eosinophils (Group:EOSP)  count: 2
+patient_num: 1000000122  laboratory code: LOINC:4537-7  name: ESR (Group:ESR)  count: 1
+patient_num: 1000000122  laboratory code: LOINC:5792-7  name: Glucose - UA (Group:UA-GLUC)  count: 3
+patient_num: 1000000122  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 7
+patient_num: 1000000122  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 5
+patient_num: 1000000122  laboratory code: LOINC:5796-8  name: Hyaline Cast (Group:HCAST)  count: 2
+patient_num: 1000000122  laboratory code: LOINC:728-6  name: Hypochromia (Group:HYPO)  count: 2
+patient_num: 1000000122  laboratory code: LOINC:5797-6  name: Ketones (Group:UA-KET)  count: 3
+patient_num: 1000000122  laboratory code: LOINC:26478-8  name: Lymphocytes (Group:LYMP)  count: 2
+patient_num: 1000000122  laboratory code: LOINC:736-9  name: Lymphocytes - Auto (Group:LYMPHS)  count: 1
+patient_num: 1000000122  laboratory code: LOINC:738-5  name: Macrocytes (Group:MACRO)  count: 1
+patient_num: 1000000122  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 5
+patient_num: 1000000122  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 5
+patient_num: 1000000122  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 5
+patient_num: 1000000122  laboratory code: LOINC:741-9  name: Microcytes (Group:MICROC)  count: 2
+patient_num: 1000000122  laboratory code: LOINC:26485-3  name: Monocytes (Group:MON)  count: 2
+patient_num: 1000000122  laboratory code: LOINC:5905-5  name: Monocytes - Auto (Group:MONOS)  count: 1
+patient_num: 1000000122  laboratory code: LOINC:26511-6  name: Neutrophils (Group:NEUT)  count: 2
+patient_num: 1000000122  laboratory code: LOINC:770-8  name: Neutrophils - Auto (Group:POLYS)  count: 1
+patient_num: 1000000122  laboratory code: LOINC:5802-4  name: Nitrites (Group:UA-NIT)  count: 3
+patient_num: 1000000122  laboratory code: LOINC:5794-3  name: Occult Blood (Group:UA-BLD)  count: 3
+patient_num: 1000000122  laboratory code: LOINC:5803-2  name: PH (Group:UA-PH)  count: 3
+patient_num: 1000000122  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 5
+patient_num: 1000000122  laboratory code: LOINC:11125-2  name: PLT Comments (Group:P-COM)  count: 1
+patient_num: 1000000122  laboratory code: LOINC:5804-0  name: Protein (Group:UA-ALB)  count: 2
+patient_num: 1000000122  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 5
+patient_num: 1000000122  laboratory code: LOINC:5808-1  name: RBC - Urine Sed (Group:UAS-RBC)  count: 2
+patient_num: 1000000122  laboratory code: LOINC:6742-1  name: RBC Morph Manual (Group:RCM-M)  count: 2
+patient_num: 1000000122  laboratory code: LOINC:788-0  name: RDW (Group:RDW)  count: 5
+patient_num: 1000000122  laboratory code: LOINC:5811-5  name: Specific Gravity (Group:UA-SPGR)  count: 3
+patient_num: 1000000122  laboratory code: LOINC:11277-1  name: Squamous Cells (Group:UAS-SQUA)  count: 2
+patient_num: 1000000122  laboratory code: LOINC:11276-3  name: Tubular Cells (Group:UAS-TUBU)  count: 2
+patient_num: 1000000122  laboratory code: LOINC:5767-9  name: Turbidity (Group:UA-TURB)  count: 2
+patient_num: 1000000122  laboratory code: LOINC:5818-0  name: Urobilinogen (Group:UA-UROBI)  count: 2
+patient_num: 1000000122  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 5
+patient_num: 1000000122  laboratory code: LOINC:5821-4  name: WBC - Urine Sed (Group:UAS-WBC)  count: 2
+patient_num: 1000000122  laboratory code: LOINC:5799-2  name: WBC Screen (Group:UA-WBC)  count: 3

@@ -1,0 +1,56 @@
+Narrative Physician's Note:
+
+Visit Information:
+    - Patient Num: 1000000058
+    - Visit Date: 12/16/2005
+
+This is a 17-year-old Hispanic male who predominantly speaks Spanish, presenting to the clinic today for follow-up of his chronic asthma and epilepsy. He has been a patient in our clinic since 1997, with a history of multiple health conditions requiring frequent visits. Presently, he is experiencing increased asthma symptoms, including nocturnal wheezing and persistent coughing, despite adherence to his prescribed medications. The patient lives in a non-smoking household with his parents and younger sister.
+
+Subjective:
+The chief complaints today include a notable increase in asthma symptoms, specifically nocturnal wheezing and an ongoing cough that has not responded to his usual inhalers. The patient's mother reports that his last mild fever resolved within two days. He has a significant medical history of chronic asthma, epilepsy managed with anticonvulsant therapy, recurrent upper respiratory infections, allergies, and previous surgical interventions for an inguinal hernia and varicocele. His regular medications include an as-needed Albuterol inhaler, a daily inhaled corticosteroid for asthma control, and an anticonvulsant medication.
+
+Socially, he lives with his family in a diligent household that actively ensures compliance with his medication and follows up with appointments. He attends school but occasionally misses classes due to health concerns. He currently does not have any known drug allergies.
+
+Objective:
+- Vital Signs:
+  - Blood Pressure: 100/60 mmHg
+  - Heart Rate: 90 beats per minute
+  - Respiratory Rate: 22 breaths per minute
+  - Temperature: 37.2°C
+  - Oxygen Saturation: 97% on room air
+- General Appearance:
+  The patient appears slightly anxious but is well-nourished, hydrated, and in no acute distress.
+- Cardiovascular:
+  Regular heart rate and rhythm; no murmurs, rubs, or gallops documented.
+- Respiratory:
+  Mild wheezing heard bilaterally upon auscultation; no retractions or use of accessory muscles observed.
+- Abdomen:
+  Soft and non-tender with no organomegaly. Surgical scars from previous procedures are well-healed with no evidence of infection.
+- Musculoskeletal:
+  Normal muscle tone and strength across examined areas, with no swelling or deformities.
+- Neurological:
+  The patient is alert, oriented, and exhibits normal reflexes. There are no focal neurological deficits. Recent seizure episodes remain entirely managed with current anticonvulsant therapy.
+- Skin:
+  Examination reveals clear skin with no rashes or new lesions noted at this visit.
+
+Assessment:
+The patient remains managed for chronic asthma and epilepsy. There is an asthma exacerbation despite adherence to current therapy. Increased night-time symptoms require further management and investigation. His recent fever has resolved, and there are no new complications.
+
+Plan:
+1. **Asthma Exacerbation:**
+   - Increase the frequency of inhaled Albuterol as needed.
+   - Continue with the current daily inhaled corticosteroid.
+   - Arrange for spirometry during the next visit to assess lung function comprehensively.
+   - Educate family on appropriate inhaler techniques and monitoring of asthma symptoms.
+
+2. **Epilepsy Management:**
+   - Maintain current anticonvulsant therapy and monitor for potential side effects, ensuring strict adherence.
+
+3. **Preventive and Supportive Care:**
+   - Continue routine follow-up appointments.
+   - Reinforce strategies for reducing asthma triggers within the home environment.
+   - Encourage proper nutrition and hydration to support growth and overall health.
+   - Provide information on recognizing signs of asthma exacerbation, ensuring family understands the treatment plan for managing symptoms effectively.
+
+Follow-Up:
+Instruct the family to contact our clinic if the patient’s respiratory symptoms worsen or remain unimproved within one week or if there are any concerns related to his seizures. Comprehensive patient and family education on asthma and seizure management will be provided during today's visit. The importance of medication adherence and utilizing appropriate preventative measures will be emphasized.

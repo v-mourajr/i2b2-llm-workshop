@@ -1,0 +1,62 @@
+Visit Information:
+    - Patient Num: 1000000119
+    - Visit Date: 11/12/1998
+
+This is a 62-year-old White female who speaks English and has been under our care since April 17th, 1997. She presents today for a follow-up appointment primarily regarding her well-established diagnosis of asthma. Additionally, she has a history of anxiety, abdominal pain, hypothyroidism, osteoarthrosis in the pelvic region and thigh, and a range of injuries, including fractures and effusion of the lower leg joints, as well as previous toxic gas exposure.
+
+**Subjective:**
+The patient reports experiencing intermittent wheezing and shortness of breath, particularly noticeable during her typical daily activities. Despite compliance with her current asthma medications, she mentions that these symptoms have persisted over the past few months. The patient also notes having persistent anxiety episodes, which often correlate with her respiratory symptoms. She admits to occasional abdominal discomfort which she links to her history of cholecystitis, though she reports no recent acute flare-ups. 
+
+Her medication regime includes inhaled corticosteroids for asthma management, an anxiolytic for anxiety, levothyroxine for hypothyroidism, and nonsteroidal anti-inflammatory drugs (NSAIDs) for joint pain. She denies any new medication side effects or recent illnesses. Furthermore, she has been compliant with her medication regimen without experiencing adverse reactions and partakes in a relatively sedentary lifestyle due to joint pain.
+
+**Objective:**
+Vital Signs:
+- Blood Pressure: 130/85 mmHg
+- Heart Rate: 72 beats per minute
+- Respiratory Rate: 18 breaths per minute
+- Temperature: 98.6°F
+- Oxygen Saturation: 96% on room air
+
+General Appearance: The patient appears in no acute distress, well-groomed, and cooperative.
+Cardiovascular: Heart sounds regular with no murmurs, rubs, or gallops.
+Respiratory: Bilateral expiratory wheezes noted, diminished air entry, no rales or rhonchi. The respiratory effort seems increased.
+Abdomen: Soft, non-tender, no organomegaly, bowel sounds present. No guarding or palpation elicited pain.
+Musculoskeletal: Tenderness noted in the lower leg joints and limited range of motion in the hips due to osteoarthrosis.
+Neurological: Alert and oriented to person, place, and time. No focal deficits, gross motor function intact.
+Skin: Warm and dry, no rashes or lesions noted.
+
+**Assessment:**
+The patient continues to manage multiple chronic conditions, with primary attention toward her asthma. Based on the clinical presentation and history, the following are pertinent assessments:
+1. Persistent asthma with noted symptoms of intermittent wheezing and shortness of breath. The condition is being managed, but symptoms have been escalating recently.
+2. Anxiety is contributing to the fluctuation of symptomatic asthma and potentially exacerbating respiratory discomfort.
+3. Chronic abdominal pain secondary to a history of cholecystitis, controlled but recurrent discomfort.
+4. Osteoarthrosis of the pelvic region and thigh contributing to decreased mobility and pain.
+5. Hypothyroidism is well-managed with current levothyroxine therapy.
+
+**Plan:**
+1. Asthma:
+   - Maintain current inhaled corticosteroids and possibly increase dosage.
+   - Consider adding a long-acting beta-agonist (LABA) if symptoms persist.
+   - Recommend pulmonary function testing to assess current respiratory status.
+   - Educate the patient on peak flow monitoring at home and implement an asthma action plan.
+
+2. Anxiety:
+   - Continue current anxiolytic medication.
+   - Referral for cognitive-behavioral therapy (CBT) to improve anxiety management techniques.
+   - Assess potential interactions between asthma and anxiety treatments.
+
+3. Chronic Abdominal Pain:
+   - Recommend a follow-up abdominal ultrasound to rule out any acute pathology.
+   - Continue dietary adjustments and NSAIDs for symptom control.
+
+4. Osteoarthrosis:
+   - Continue NSAIDs for joint pain.
+   - Referral to physical therapy for structured exercise regime to improve mobility and reduce pain.
+   - Discuss options for joint injections if pain persists.
+
+5. Hypothyroidism:
+   - Continue current levothyroxine therapy.
+   - Schedule regular thyroid function tests to ensure euthyroid status.
+
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. Patient education provided regarding the management of asthma, recognizing symptoms that require urgent care, and avoiding known triggers. The patient verbalized understanding and is willing to comply with the recommended plan. A follow-up appointment is scheduled in three months or sooner if necessary based on patient's progress.
+

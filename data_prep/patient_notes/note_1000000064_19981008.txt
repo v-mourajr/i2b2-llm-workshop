@@ -1,0 +1,56 @@
+Visit Information:
+- Patient Num: 1000000064
+- Visit Date: 10/08/1998
+
+Subjective:
+This is a 15-year-old Asian male who speaks Spanish and has been receiving care at our facility since birth. He presents today for a routine general medical examination. The patient has no previous complaints regarding his health and he continues to maintain an active lifestyle at school, engaging in sports. He reports no new symptoms or significant changes since his last visit.
+
+Past medical history includes a diagnosis of specific developmental learning difficulties, which have been managed with the help of both his educators and his parents. He has not undergone any surgical procedures. Currently, he is not on any medications or supplements, and he has no known allergies.
+
+The patient’s lifestyle entails regular physical activity; he plays soccer and stays active with his peers. He has a balanced diet and denies the use of tobacco, alcohol, or recreational drugs. In managing his learning difficulties, he receives extra tutoring and his parents have ensured a stable and supportive home environment. He denies any recent illnesses or significant changes in his health status.
+
+Objective:
+Vital Signs:
+- Blood Pressure: 118/76 mmHg
+- Heart Rate: 72 beats per minute
+- Respiratory Rate: 16 breaths per minute
+- Temperature: 98.6°F (37°C)
+- Oxygen Saturation: 98% on room air
+
+General Appearance:
+The patient appears well-nourished, well-hydrated, and in no apparent distress. He is alert, oriented, and cooperative throughout the exam.
+
+Cardiovascular:
+The cardiovascular examination reveals a regular rate and rhythm with no murmurs, gallops, or rubs. Peripheral pulses are intact and symmetrical.
+
+Respiratory:
+Respiratory examination shows clear breath sounds bilaterally without wheezes, crackles, or stridor.
+
+Abdomen:
+The abdomen is soft, non-tender, with no hepatosplenomegaly and normal bowel sounds.
+
+Musculoskeletal:
+The musculoskeletal exam demonstrates full range of motion in all extremities, no deformities, and normal muscle strength and tone.
+
+Neurological:
+Neurological examination is non-focal. Cranial nerves II-XII are intact, motor and sensory exams are normal, and reflexes are 2+ and symmetrical.
+
+Skin:
+The skin is warm and dry with good turgor. There are no rashes, lesions, or signs of infection.
+
+Assessment:
+The clinical impression is that of a healthy 15-year-old male with well-managed specific developmental learning difficulties and no evidence of acute or chronic physical illness on the current examination.
+
+Assessment & Plan:
+1. Routine General Medical Examination:
+    - Continue with current lifestyle, including a balanced diet and regular physical activity.
+    - Monitoring of growth and developmental milestones remains within normal limits.
+    - Next routine physical examination to be scheduled in one year unless new concerns arise.
+
+2. Specific Developmental Learning Difficulties:
+    - Regular follow-up with his educational support team to ensure he is meeting academic goals.
+    - Parents to continue providing a supportive learning environment.
+    - No medications needed at this time.
+
+Follow-Up:
+Instruct the patient and his caregivers to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. Patient understands and agrees with the treatment plan, and they have been educated on the importance of regular follow-up visits.

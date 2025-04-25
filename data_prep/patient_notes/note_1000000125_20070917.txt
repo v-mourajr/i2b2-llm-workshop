@@ -1,0 +1,48 @@
+Visit Information:
+    - Patient Num: 1000000125
+    - Visit Date: 09/17/2007
+
+Subjective:
+This is a 31-year-old Indian female who speaks German and presents today for follow-up to manage her asthma and related conditions. The patient has experienced persistent episodes of shortness of breath and nocturnal wheezing, typically triggered by physical exertion and exposure to dust. Over the past week, she has noted a slight worsening of these symptoms. She has a prior diagnosis of asthma and has been managing her condition using a short-acting beta-agonist inhaler (albuterol), which provides transient relief.
+
+The patient's past medical history includes asthma without complications, recurrent gallbladder issues such as cholecystitis, and she underwent a laparoscopic cholecystectomy. She has also been treated for contact dermatitis. Neurotic disorder was previously identified but remains unspecified. Current medications include an albuterol inhaler used as required, Actiq for pain management, and cefazolin sodium which she was administered for infections.
+
+Socially, she is a non-smoker residing in an urban area with high levels of air pollution, potentially worsening her symptoms. The patient works in an office setting with limited physical activity. She does not have any known drug or environmental allergies. Her symptoms are aggravated by physical activity and are noticeably worse in the evenings. They last for hours but are alleviated to some extent by using her inhaler and resting in a cooler environment. She has been using a humidifier at night and avoids known asthma triggers. There were no hospitalizations or emergency room visits recently, but she has noticed a slight deterioration in her condition over the past week.
+
+Objective:
+- Vital Signs:
+    - Blood Pressure: 120/80 mmHg
+    - Heart Rate: 78 bpm
+    - Respiratory Rate: 18 breaths per minute
+    - Temperature: 98.6°F (37°C)
+    - Oxygen Saturation: 95% on room air
+- General Appearance:
+    The patient appears well and in no acute distress, though she seems slightly anxious about her symptoms.
+- Cardiovascular:
+    Normal S1 and S2 heart sounds with no murmurs, gallops, or rubs detected.
+- Respiratory:
+    Lung examination reveals bilateral wheezing, more pronounced on expiration. There is no use of accessory muscles and no signs of cyanosis.
+- Abdomen:
+    Soft on palpation, non-tender, no organomegaly or masses detected.
+- Musculoskeletal:
+    Full range of motion with no joint swelling or tenderness.
+- Neurological:
+    Alert and oriented to person, place, time, and situation. Cranial nerves II-XII are intact. Motor and sensory exams are normal.
+- Skin:
+    No rashes, lesions, or other abnormalities observed.
+
+Assessment:
+The patient's asthma remains under specified control with recent exacerbations probably triggered by environmental factors and physical exertion. She has a history of recurring gallbladder issues, including cholecystitis and prior gallstone removal. Additionally, she has experienced contact dermatitis and might have an unspecified neurotic disorder.
+
+Plan:
+- Increase the use of the short-acting beta-agonist (albuterol) inhaler to every 4-6 hours as needed for symptom control and initiate a low-dose inhaled corticosteroid (ICS) for daily use to reduce inflammation and prevent frequent exacerbations.
+- Perform a peak flow meter test to monitor expiratory flow rates and consider referring the patient to a pulmonologist for further evaluation.
+- Educate the patient on avoiding known asthma triggers, effective use of inhalers, and importance of adherence to the medication regimen.
+- Advise the patient to maintain a symptom diary detailing each episode of asthma, and note the severity, triggers, and response to treatment.
+- Conduct comprehensive liver function tests—including AST, ALT, direct bilirubin, and total bilirubin—given the patient's history of liver-related issues, such as unspecified hepatitis and elevated liver function tests in the past.
+- Emphasize the importance of coming to follow-up appointments as scheduled.
+
+Follow-Up:
+- Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results necessitate further evaluation.
+- Schedule a follow-up appointment in 3-4 weeks to evaluate the response to the new treatment regimen and make adjustments as necessary.
+- Ensure the patient understands the significance of following the medical plan and proper use of medications. She has expressed understanding and agrees to monitor her symptoms closely and return for the follow-up visit as planned.

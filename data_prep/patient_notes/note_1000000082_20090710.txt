@@ -1,0 +1,78 @@
+### Physician's Narrative SOAP Note:
+
+**Visit Information:**
+- **Patient Num:** 1000000082
+- **Visit Date:** 07/10/2009
+
+#### Subjective:
+This is a 55-year-old Hispanic female, primarily German-speaking, with an extensive history of chronic digestive-genital tract fistulas and anal fistulas, who presents today for follow-up. She reports persistent and worsening symptoms, including sharp and burning pain during bowel movements and prolonged periods of sitting due to chronic inflammatory fistulous tracts. The pain and discomfort have significantly impaired her daily functioning and quality of life.
+
+Her medical history includes a depressive disorder managed in coordination with mental health services, episodes of cellulitis of the hands and arms, and persistent post-surgical fistulas. She describes significant pain that is poorly controlled with her current regimen of clindamycin and over-the-counter ibuprofen. She reports no recent weight loss, fever, or chills but experiences continual drainage from multiple fistula tracts, exacerbating her emotional distress and functional limitations. 
+
+She is currently taking clindamycin for infection control, with partial symptom relief. There are no known drug allergies. Her social history reveals that she does not smoke, drinks alcohol socially, maintains a balanced diet, and engages in regular light physical activity. She works as an administrative assistant, which involves long periods of sitting, noting that this particularly aggravates her discomfort. She denies recent changes in her condition but expresses frustration at the chronicity and impact of her symptoms.
+
+#### Objective:
+**Vital Signs:**
+- Blood Pressure: 124/80 mmHg
+- Heart Rate: 74 bpm
+- Respiratory Rate: 17 breaths per minute
+- Temperature: 36.6°C
+- Oxygen Saturation: 98% on room air
+
+**General Appearance:**
+The patient appears well-groomed, oriented, and in mild distress due to pain. She is cooperative and communicative throughout the examination.
+
+**Cardiovascular:**
+Cardiovascular examination reveals a regular heart rate and rhythm with no murmurs, gallops, or rubs.
+
+**Respiratory:**
+Clear breath sounds bilaterally with no wheezes, rales, or rhonchi detected.
+
+**Abdomen:**
+The abdomen is soft and non-tender, presenting no signs of hepatosplenomegaly. Bowel sounds are present and normal.
+
+**Musculoskeletal:**
+The patient shows full range of motion in all joints. There is no evidence of joint swelling, deformity, or muscle weakness.
+
+**Neurological:**
+Cranial nerves II-XII are intact. The patient exhibits normal reflexes graded at 2+, symmetrical throughout, with no focal deficits. Gait is steady.
+
+**Skin:**
+Warm, dry, and intact with no rashes, lesions, or signs of acute infection.
+
+**Anorectal Exam:**
+Multiple external and internal fistulous tracts with active purulent drainage are noted. The perianal area is erythematous and tender to palpation, but no masses detected.
+
+#### Assessment:
+**Diagnosis or Clinical Impression:**
+The patient’s primary diagnosis is chronic, recurrent digestive-genital tract fistulas with significant associated symptoms and quality of life impairment. Secondary to her chronic condition, she exhibits depressive symptoms. Other musculoskeletal complaints were noted without evidence of new or acute issues.
+
+**Issue/Problem/Request 1: Chronic Digestive-Genital Tract Fistulas**
+**Assessment:**
+Most consistent with recurrent fistulas, with differential diagnosis including persistent postoperative fistula and potential underlying Crohn’s disease.
+
+**Diagnostic Tests:**
+A repeat fistulogram is scheduled to delineate the extent and complexity of fistulous tracts.
+
+**Treatment Plan:**
+Continue clindamycin therapy. Referral to colorectal surgery for consideration of surgical intervention. Encourage the use of sitz baths and local analgesic gels for symptomatic relief.
+
+**Issue/Problem/Request 2: Persistent Anal Pain**
+**Assessment:**
+Chronic inflammatory changes related to fistulas are the likely etiology. Differential includes anal fissures and hemorrhoids.
+
+**Diagnostic Tests:**
+Pelvic MRI is advised to determine if there are other contributory factors to the chronic pain.
+
+**Treatment Plan:**
+Continue NSAIDs as needed. Referral to pain management for potential nerve block consideration if pain persists.
+
+**Issue/Problem/Request 3: Depressive Disorder**
+**Assessment:**
+Symptoms secondary to the chronic medical condition, with differential diagnosis including adjustment disorder due to prolonged illness.
+
+**Treatment Plan:**
+Continued coordination with mental health services for therapeutic intervention. Reassessment of psychiatric medications to ensure optimal dosing and efficacy. Recommend participation in support groups for chronic illness.
+
+#### Plan & Follow-Up:
+The patient was advised to contact the clinic if her symptoms worsen, do not improve within a week, or if further evaluation becomes necessary. Comprehensive patient education was provided in German, emphasizing medication adherence, lifestyle adjustments, and the maintenance of a symptom diary. A follow-up visit is scheduled in four weeks to evaluate treatment effectiveness, with further diagnostic imaging results to guide subsequent management. The patient demonstrated understanding and agreement with the outlined management plan.

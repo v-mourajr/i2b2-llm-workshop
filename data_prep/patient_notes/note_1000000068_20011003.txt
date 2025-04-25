@@ -1,0 +1,72 @@
+**Visit Information:**
+- Patient Number: 1000000068
+- Visit Date: October 3, 2001
+
+**Subjective:**
+This is a 22-year-old Black female who presents for a follow-up appointment primarily concerning ongoing issues with her lower left leg, including chronic recurrent dislocations and lingering joint pain. She reports persistent discomfort and episodes of joint instability despite adhering to her prescribed treatment regimen. Her current medications include a recent prescription of Cefazolin Sodium for an infection managed surgically. 
+
+The patient's past medical history is significant for previous surgical intervention involving division of a joint capsule, ligament, or cartilage of the knee. She reports a history of osteochondritis dissecans and a congenital anomaly affecting her lower limb. Additionally, she has a notable history of other and unspecified injuries to both her knee and shoulder. Pertinent obstetric history includes complications such as threatened premature labor.
+
+She has not experienced any significant new symptoms or side effects apart from her lower leg issues since her last visit. Socially, she does not smoke or use illicit drugs, and she drinks alcohol occasionally. She works a sedentary desk job, which does not aggravate her symptoms but limits her mobility during work hours. Her known allergies include penicillin, resulting in rash and hives.
+
+**Objective:**
+- **Vital Signs:**
+  - Blood Pressure: 118/76 mmHg
+  - Heart Rate: 72 bpm
+  - Respiratory Rate: 16 breaths per minute
+  - Temperature: 98.6°F
+  - Oxygen Saturation: 98% on room air
+
+- **General Appearance:**
+The patient appears alert and in no acute distress. She ambulates with a noticeable limp favoring her left leg.
+
+- **Cardiovascular:**
+Regular heart rate and rhythm with no murmurs, gallops, or rubs. Peripheral pulses are strong and equal bilaterally.
+
+- **Respiratory:**
+Clear to auscultation bilaterally with no wheezes, rales, or rhonchi.
+
+- **Abdomen:**
+Non-distended, soft, with normal bowel sounds. No tenderness, masses, or organomegaly noted.
+
+- **Musculoskeletal:**
+Examination of the left knee reveals mild swelling with tenderness upon palpation around the patella and along the joint line. The knee demonstrates instability with varus and valgus stress tests. Limited range of motion is noted with pain on flexion and extension. No significant laxity detected in the upper extremities or other lower extremity joints.
+
+- **Neurological:**
+Cranial nerves II-XII intact. Strength is 5/5 in upper and lower extremities bilaterally. Sensation intact to light touch and proprioception. Reflexes are 2+ and symmetric.
+
+- **Skin:**
+No rashes or lesions noted. Surgical scar on the knee is well-healed without signs of infection.
+
+Laboratory review highlights the presence of amorphous crystals and bacteria in the urine. Blood tests show normal HCT, HGB, and platelet levels, indicating no significant blood dyscrasia.
+
+**Assessment:**
+1. **Recurrent Dislocation of the Lower Leg Joint:**
+   - Primary assessment involves chronic joint instability likely due to injury history and congenital anomalies.
+   - Differential diagnoses include ligamentous injuries or chronic meniscal tears.
+
+2. **Joint Pain of the Lower Leg:**
+   - Chronic pain management consideration possibly related to previous osteochondritis dissecans and surgical history.
+   - Differential diagnoses to include degenerative joint disease or post-surgical changes.
+
+3. **Follow-Up Post-Knee Surgery:**
+   - Monitoring for successful patellar stabilization and any persisting issues post intervention.
+   - Consideration of potential infection sequelae being treated with Cefazolin.
+
+**Plan:**
+1. **For Recurrent Dislocation:**
+   - Continue physical therapy focusing on strengthening the surrounding musculature to provide joint stability.
+   - Referral to orthopedics for possible reevaluation and further imaging to assess joint integrity.
+
+2. **For Joint Pain:**
+   - Continue current analgesic regimen, including NSAIDs as needed.
+   - Adjust physical therapy protocols to address pain alongside stability.
+   - Schedule follow-up in 6 weeks for reassessment of pain levels and function.
+
+3. **Post-Surgical Follow-up:**
+   - Continue Cefazolin therapy as prescribed.
+   - Monitor for signs of infection or complications post patellar stabilization surgery.
+
+**Follow-Up:**
+- Instruct patient to contact the clinic if symptoms worsen or do not improve within a week, or if any test results indicate further evaluation is needed.
+- The patient understands and acknowledges the plan, and an appointment for follow-up will be coordinated in 6 weeks to reassess her progress and address any persisting issues.

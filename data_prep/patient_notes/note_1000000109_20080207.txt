@@ -1,0 +1,60 @@
+Visit Information:
+- Patient Num: 1000000109
+- Visit Date: 02/07/2008
+
+This is a 64-year-old Hispanic male who has been receiving care at our clinic for several years and presented today for a follow-up appointment primarily concerning his chronic asthma and the recent exacerbation of his respiratory condition. He is a retired individual who lives alone and communicates effectively in English. 
+
+Subjective:
+The patient reported increased shortness of breath, wheezing, and chest tightness, most notably during night times, which has led to an increased usage of his albuterol rescue inhaler. Despite this, he has observed minimal relief. He denies experiencing any recent fever, productive cough, or other signs of infection. However, he has been suffering from aggravated nasal congestion and rhinorrhea, which he attributes to his allergic rhinitis.
+
+The patient's medical history includes chronic asthma, both with and without status asthmaticus, episodes of extrinsic asthma, allergic rhinitis due to pollen and other allergens, chronic ethmoidal and maxillary sinusitis, and obesity. He also has a significant past surgical history involving a sigmoidectomy and a large-to-large intestinal anastomosis, most likely related to previous colon neoplasms. 
+
+His current medications include Atrovent and Beconase inhalers for maintenance therapy, Claritin for allergic symptoms, and Cefazolin for any infections. He generally adheres to his medication regimen well, adjusting for environmental factors such as weather and air quality. He has expressed concern about his limited physical activity, primarily due to his respiratory problems.
+
+Objective:
+Vital Signs:
+- Blood Pressure: 130/85 mmHg
+- Heart Rate: 78 bpm
+- Respiratory Rate: 18 breaths per minute
+- Temperature: 98.2°F
+- Oxygen Saturation: 94% on room air
+
+General Appearance:
+The patient appears in mild respiratory distress but is alert, oriented, well-nourished, and cooperative.
+
+Cardiovascular:
+The cardiac examination revealed a regular rate and rhythm without any murmurs, rubs, or gallops. Peripheral pulses were strong and symmetric.
+
+Respiratory:
+Inspection showed increased respiratory effort with intercostal retractions. Lung auscultation revealed scattered wheezing throughout both lung fields and a prolonged expiratory phase. There were no signs of cyanosis or clubbing. A recent chest X-ray review showed no acute pathology.
+
+Abdomen:
+The abdomen was soft, non-tender, and non-distended with normal bowel sounds.
+
+Musculoskeletal:
+The patient displayed normal muscle tone and a full range of motion in all joints. There were no deformities, edema, or muscle wasting.
+
+Neurological:
+He was alert and oriented to person, place, and time with intact cranial nerves II-XII. Muscle strength was 5/5 in all extremities with symmetric reflexes.
+
+Skin:
+His skin was warm, dry, and intact without any rashes or lesions.
+
+Assessment:
+1. Chronic Asthma with Acute Exacerbation:
+   - Likely exacerbated by concurrent allergic rhinitis and possible environmental allergen exposure.
+2. Chronic Allergic Rhinitis:
+   - Likely contributing to his worsening asthma symptoms.
+3. Chronic Sinusitis & Obesity:
+   - These underlying conditions may further complicate his respiratory status.
+
+Plan:
+- Continue with the current asthma medication regimen, including Atrovent.
+- Increase the dosage of inhaled corticosteroids to improve overall asthma control.
+- Prescribe a short course of oral corticosteroids (prednisone) to effectively manage the acute exacerbation.
+- Utilize nebulizer treatments with bronchodilators during acute episodes.
+- Schedule spirometry to document and monitor the degree of airway obstruction and overall respiratory function.
+- Emphasize adherence to treatment for allergic rhinitis with Beconase and Claritin.
+
+Follow-Up:
+The patient is instructed to contact the clinic if symptoms worsen or do not show improvement within a week, or if the results from spirometry or other tests indicate further evaluation. A follow-up visit is scheduled for two weeks to reassess asthma control and symptom improvement. The patient was provided with extensive education about medication adherence and avoidance of asthma triggers. He demonstrated a clear understanding and agreement with the outlined management plan.

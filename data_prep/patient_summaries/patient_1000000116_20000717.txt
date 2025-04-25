@@ -1,0 +1,42 @@
+demographics
+patient_num: 1000000116  age: 6
+patient_num: 1000000116  sex: M
+patient_num: 1000000116  race: black
+patient_num: 1000000116  language: spanish
+patient_num: 1000000116  vital_status: alive
+patient_num: 1000000116  earliest fact: Oct  6 1999 12:00AM
+patient_num: 1000000116  latest fact: Jul 17 2000 12:00AM
+patient_num: 1000000116  range in days: 285
+totals
+patient_num: 1000000116  distinct concepts: 35
+patient_num: 1000000116  total facts: 70
+patient_num: 1000000116  total encounters: 16
+patient_num: 1000000116  total asthma: 2
+descriptive
+patient_num: 1000000116  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 2
+patient_num: 1000000116  diagnosis code: ICD9:381.00  name: Acute nonsuppurative otitis media, unspecified  count: 3
+patient_num: 1000000116  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 2
+patient_num: 1000000116  diagnosis code: ICD9:64.0  name: Circumcision  count: 1
+patient_num: 1000000116  diagnosis code: ICD9:786.2  name: Cough  count: 2
+patient_num: 1000000116  diagnosis code: ICD9:780.6  name: Fever  count: 1
+patient_num: 1000000116  diagnosis code: ICD9:558.9  name: Other and unspecified noninfectious gastroenteritis and colitis  count: 1
+patient_num: 1000000116  diagnosis code: ICD9:691.8  name: Other atopic dermatitis and related conditions  count: 2
+patient_num: 1000000116  diagnosis code: ICD9:763.1  name: Other malpresentation, malposition, and disproportion during labor and delivery affecting fetus or newborn  count: 1
+patient_num: 1000000116  diagnosis code: ICD9:719.65  name: Other symptoms referable to joint of pelvic region and thigh  count: 1
+patient_num: 1000000116  diagnosis code: ICD9:486  name: Pneumonia, organism unspecified  count: 1
+patient_num: 1000000116  diagnosis code: ICD9:V20.2  name: Routine infant or child health check  count: 2
+patient_num: 1000000116  diagnosis code: ICD9:V50.2  name: Routine or ritual circumcision  count: 1
+patient_num: 1000000116  diagnosis code: ICD9:V30.01  name: Single liveborn, born in hospital, delivered by cesarean section  count: 2
+patient_num: 1000000116  diagnosis code: ICD9:V30.00  name: Single liveborn, born in hospital, delivered without mention of cesarean section  count: 2
+patient_num: 1000000116  diagnosis code: ICD9:079.99  name: Unspecified viral infection in conditions classified elsewhere and of unspecified site  count: 1
+patient_num: 1000000116  laboratory code: LOINC:1968-7  name: Direct Bilirubin (Group:DBILI)  count: 2
+patient_num: 1000000116  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 1
+patient_num: 1000000116  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 1
+patient_num: 1000000116  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 1
+patient_num: 1000000116  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 1
+patient_num: 1000000116  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 1
+patient_num: 1000000116  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 1
+patient_num: 1000000116  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 1
+patient_num: 1000000116  laboratory code: LOINC:788-0  name: RDW (Group:RDW)  count: 1
+patient_num: 1000000116  laboratory code: LOINC:1975-2  name: Total Bilirubin (Group:TBILI)  count: 2
+patient_num: 1000000116  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 1

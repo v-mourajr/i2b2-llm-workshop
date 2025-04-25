@@ -1,0 +1,33 @@
+# Narrative Physician's Note
+
+**Visit Information:**
+- Patient Number: 1000000108
+- Visit Date: 12/03/2009
+
+**Subjective:**
+This is a 67-year-old Asian male who has been a patient at our clinic for several years, currently presenting for a follow-up visit primarily related to his asthma management. He reports persistent asthma symptoms, including increased shortness of breath and wheezing, which have significantly worsened over the past week. These nocturnal symptoms have necessitated frequent use of his rescue inhaler. Additionally, he mentions persistent fatigue, dizziness, and a general sense of malaise.
+
+The patient has a complex medical history that includes chronic persistent asthma, amyotrophic lateral sclerosis, disorders of iron metabolism, dysphagia, elevated PSA levels, hyperplasia of the prostate, and malignant neoplasm of the prostate. His asthma symptoms have recently been particularly challenging to control, leading to concern about the effectiveness of his current treatment regimen.
+
+He is compliant with his prescribed medications, including a short-acting beta2 agonist inhaler used predominantly at night and a daily inhaled corticosteroid. He also takes medications for iron metabolism and cardiac issues. Despite this adherence, symptom relief remains suboptimal.
+
+The patient leads a low-activity lifestyle due to his respiratory limitations, lives alone, and works as an accountant. He does not smoke and consumes alcohol only occasionally. His physical activities have been further restricted by his respiratory symptoms, though he does attempt to remain engaged with his routine. He has identified dust exposure as an exacerbating factor for his asthma symptoms.
+
+**Objective:**
+On examination, the patient's vital signs are as follows: blood pressure of 140/85 mmHg, heart rate of 90 bpm, respiratory rate of 24 breaths per minute, temperature of 98.8°F, and oxygen saturation of 94% on room air. 
+
+The patient appears to be in mild distress due to breathing difficulties. Cardiovascular examination reveals a regular heart rhythm with no murmurs, rubs, or gallops. Respiratory assessment shows a prolonged expiratory phase with diffuse bilateral wheezes, slight use of accessory muscles, but no crackles or rhonchi. The abdomen is soft and non-tender without organomegaly. Musculoskeletal examination reveals no peripheral edema, and normal muscle bulk and tone. Neurological evaluation shows the patient to be alert and oriented, with intact cranial nerves II-XII. The skin assessment showed normal turgor with no rashes or lesions.
+
+**Assessment:**
+The primary diagnosis remains chronic persistent asthma with an acute exacerbation. Given his symptoms, there is a suspicion of other primary lung diseases potentially exacerbating his dyspnea and wheezing. His history of iron metabolism disorders, elevated PSA levels, and diagnosed cardiomyopathies contribute to his fatigue and general feelings of poor health. The persistent findings in prior lung assessments and confirmed cardiomyopathies further complicate his clinical picture.
+
+**Plan:**
+- Continue with the current regimen of short-acting beta2 agonist and daily inhaled corticosteroid.
+- Initiate a short course of oral corticosteroids to address the acute exacerbation.
+- Schedule repeat spirometry testing to assess lung function and monitor response to treatment.
+- Consider referral to a pulmonologist should symptoms persist without significant improvement at the next follow-up.
+- Provide comprehensive asthma education, reviewing proper inhaler techniques and strategies to avoid known allergens and triggers.
+- Instruct the patient to closely monitor his symptoms and contact the clinic if there is any worsening or lack of improvement within a week. Emphasize the importance of regular follow-ups to ensure an effective management plan and re-evaluation of treatments as necessary.
+
+**Follow-Up:**
+Instruct the patient to return to the clinic for a reassessment in two weeks to evaluate symptom progression and treatment effectiveness. Reinforce the need for emergent contact should symptoms unexpectedly worsen or if further evaluations are required based on investigation results. The patient has shown a good understanding of the management plan and is dedicated to following the recommendations provided.

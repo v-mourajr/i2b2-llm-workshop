@@ -1,0 +1,80 @@
+Here is a comprehensive and structured narrative SOAP note based on the provided template and patient details:
+
+---
+
+Visit Information:
+- Patient Num: 1000000041
+- Visit Date: 12/18/2000
+
+This is an 8-year-old Hispanic male who has been receiving care at our clinic for approximately 3 years. He speaks English and presents today for a follow-up visit to manage his asthma. 
+
+Subjective:
+The patient is here for a follow-up regarding his asthma management. His mother reports that over the last three days, he has had increased coughing and wheezing, particularly aggravated by physical activities at school and exposure to cold air. Last night, he had an episode of shortness of breath which responded to his rescue inhaler, albuterol. There have been no hospital admissions or emergency department visits since his last follow-up. 
+
+Past medical history includes asthma with multiple episodes of respiratory infections, including bronchitis and pneumonia. He also has a history of gastrointestinal issues, such as noninfectious gastroenteritis. He is currently on a regimen of albuterol as needed, montelukast daily, and a fluticasone inhaler twice daily. His mother reports adherence to this medication protocol, and they have observed a general reduction in acute asthma episodes since starting the montelukast.
+
+He lives in a smoke-free home with his parents and two siblings. The family has no pets, and he currently attends preschool. There are no known drug allergies.
+
+Symptoms began three days ago with increased coughing, particularly noticeable during physical activities. Nighttime coughing has been disturbing his sleep. He experiences wheezing and dyspnea, which improved with the use of his albuterol inhaler. His mother has been using a cold mist humidifier and ensuring he remains hydrated. No recent changes in appetite or weight have been reported, and there has been no noted fever. The family is coping well but concerned about the frequent respiratory symptoms despite medication adherence.
+
+Objective:
+Vital Signs:
+- Blood Pressure: Not taken
+- Heart Rate: 110 bpm (within normal limits for age)
+- Respiratory Rate: 24 breaths per minute
+- Temperature: 98.6°F
+- Oxygen Saturation: 96% on room air
+
+General Appearance: The patient is alert, active, well-nourished, and in no apparent distress. He is conversing and interacting appropriately for his age.
+
+Cardiovascular: Regular rate and rhythm with no murmurs, gallops, or rubs.
+
+Respiratory: Mild expiratory wheezing noted bilaterally, with no retractions or nasal flaring. Lungs are clear to percussion, mild increase in anteroposterior diameter.
+
+Abdomen: Soft, non-tender, non-distended with normal bowel sounds.
+
+Musculoskeletal: Full range of motion in all extremities. No tenderness in neck or hip; mild tenderness reported in the lumbar region on deep palpation.
+
+Neurological: Alert and oriented with normal developmental progress for his age. Cranial nerves II-XII are intact, and no focal deficits are observed.
+
+Skin: Warm, dry, no rash or lesions noted.
+
+Assessment:
+The primary diagnosis remains asthma, unspecified without mention of status asthmaticus. The patient continues to exhibit symptoms consistent with an exacerbation of asthma. Additionally, he has a history of bronchitis and pneumonia, currently with no acute exacerbation present. Finally, a minor contusion of the hip is noted, which is resolving without intervention.
+
+Issue/Problem/Request 1:
+Assessment:
+- Likely diagnosis: Asthma exacerbation
+- Differential diagnosis: Acute viral respiratory infection
+
+Diagnostic Tests:
+- None at this moment; to consider if symptoms worsen
+
+Treatment Plan:
+- Continue montelukast and fluticasone inhaler as prescribed.
+- Increase the frequency of albuterol to every 4-6 hours as needed for wheezing.
+- Advise using a mask to avoid cold air exposure.
+- Monitor symptom progression closely.
+
+Issue/Problem/Request 2:
+Assessment:
+- Likely diagnosis: Recurrent bronchitis (resolved)
+- Differential diagnosis: Secondary infection
+
+Diagnostic Tests:
+- None required as no current symptoms suggestive of active bronchitis.
+
+Treatment Plan:
+- Encourage good hand hygiene to prevent infections.
+- Discuss signs of possible infection and provide an action plan if symptoms arise.
+
+Follow-Up:
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week. Schedule a follow-up assessment in 4 weeks or sooner if indicated by symptom severity.
+
+Plan:
+Continue the current asthma treatment regimen and increase the use of the rescue inhaler as needed. Discuss potential environmental triggers and the importance of medication adherence. Educate the mother on signs of respiratory distress and the importance of timely administration of rescue medication. Reinforce the use of a cold mist humidifier and adequate hydration at home.
+
+Patient Education & Understanding of the Plan:
+The mother verbalized understanding of the treatment changes and the emergency action plan. She is aware of the necessary steps to take if the child’s symptoms worsen. She received educational materials regarding asthma management and trigger avoidance strategies.
+
+---

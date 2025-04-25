@@ -1,0 +1,66 @@
+Visit Information:
+    - Patient Num: 1000000079
+    - Visit Date: 04/18/2008
+
+This is a 33-year-old Asian female who primarily speaks Spanish and has been under our care for several years. She has a known history of asthma and has had multiple follow-up visits to manage this condition. Today, she presents for a routine follow-up visit.
+
+**Subjective:**
+The patient reports an exacerbation of asthma symptoms over the past few weeks, including increased wheezing, shortness of breath, and chest tightness. She notes that exposure to cold air and dust significantly aggravates her symptoms. Despite regular use of her daily corticosteroid inhaler, she has had to use her rescue inhaler more frequently. 
+
+In addition to her respiratory complaints, the patient reports episodes of dysuria with symptoms such as burning sensations during urination and darker urine. There is no accompanying abdominal pain or fever. She recalls having recurrent urinary tract infections (UTIs) in the past. The patient denies any recent surgical procedures.
+
+Her current medications include albuterol sulfate 4 mg tablets as needed, Zyrtec syrup for allergic rhinitis, and Zantac solution for esophageal reflux. She adheres to her medication regimen.
+
+**Objective:**
+- **Vital Signs:**
+  - Blood Pressure: 118/76 mmHg
+  - Heart Rate: 82 bpm
+  - Respiratory Rate: 20 breaths per minute
+  - Temperature: 98.6°F (37°C)
+  - Oxygen Saturation: 95% on room air
+
+- **General Appearance:**
+  The patient is well-nourished, well-developed, alert, oriented, and in no apparent distress.
+
+- **Respiratory:**
+  Lungs were clear to auscultation bilaterally with diffuse mild wheezing, especially during expiration. No rales or rhonchi were noted.
+
+- **Cardiovascular:**
+  Regular heart rate and rhythm with normal S1 and S2 heart sounds; no murmurs, rubs, or gallops detected.
+
+- **Abdomen:**
+  The abdomen was soft and non-tender with normal bowel sounds; no hepatosplenomegaly was present.
+
+- **Musculoskeletal:**
+  The patient exhibited full range of motion in all extremities with no joint swelling, deformities, or tenderness noted.
+
+- **Neurological:**
+  The patient was alert and oriented to person, place, time, and situation. Cranial nerves II-XII were intact, and there were no focal neurological deficits.
+
+- **Skin:**
+  No rashes, lesions, or other abnormalities were observed.
+
+Laboratory results from urinalysis showed amorphous crystals, bacteria, bilirubin, ketones, mucous, nitrites, glucose, and occult blood in the urine. Parameters like pH, specific gravity, and protein were within normal ranges, with RBCs and squamous cells seen under microscopic examination.
+
+**Assessment:**
+1. **Asthma:** The patient is experiencing a moderate exacerbation of her chronic asthma, likely triggered by exposure to cold air and dust.
+2. **Urinary Tract Infection (UTI):** Symptoms of dysuria and the abnormal urinalysis findings strongly suggest a UTI.
+
+**Plan:**
+1. **Asthma Management:**
+   - Continue maintenance therapy with the corticosteroid inhaler.
+   - Increase albuterol use as needed, with careful monitoring of frequency.
+   - If no improvement in symptoms within one week, consider a short course of oral corticosteroids.
+   - Provide patient education on asthma triggers and inhaler technique.
+
+2. **UTI Management:**
+   - Start a course of oral antibiotics tailored to her symptoms and history of recurrent UTIs.
+   - Increase fluid intake to help clear the infection.
+   - Schedule a follow-up urinalysis after completing antibiotics to ensure infection resolution.
+
+**Follow-Up:**
+- Instruct the patient to return to the clinic if her asthma symptoms worsen despite increased medication use or if new symptoms arise.
+- A follow-up appointment is scheduled in one week to reassess asthma control and evaluate the response to UTI treatment.
+
+**Patient Education & Understanding:**
+The patient received education regarding her asthma and UTI, emphasizing the importance of medication adherence and the outlined management plan. She demonstrated understanding and agreed to follow the plan. She was advised to contact the clinic if her symptoms worsen or do not improve within a week or if further evaluation is needed based on test results. A follow-up appointment has been arranged for the next week.

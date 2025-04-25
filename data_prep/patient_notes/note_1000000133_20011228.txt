@@ -1,0 +1,63 @@
+**Visit Information:**
+    - Patient Num: 1000000133
+    - Visit Date: 12/28/2001
+
+This is a revisit for a 9-year-old Asian female who communicates primarily in Spanish and has been a patient at our clinic for recurrent asthma management. She came to the clinic today for a follow-up visit. Her medical history includes unspecified types of asthma, acute pharyngitis, upper respiratory infections, and adjustment disorder with mixed emotional features. Recent diagnoses also suggest episodes of various other health concerns including obesity, pain in joint involving the forearm, and a history of closed anterior dislocation of the elbow.
+
+**Subjective:**
+The patient reports experiencing increased respiratory symptoms suggestive of an asthma flare-up. She describes wheezing and shortness of breath, especially during physical exertion and exposure to cold weather. Her parents note that the night-time coughing has become more frequent, disturbing her sleep. 
+
+They also mention that the interventions so far, including the use of a prescribed albuterol inhaler, have had some effect, but the symptom persistence creates significant discomfort. The patient also exhibits ongoing issues related to intermittent pharyngitis and emotional stress, potentially linked to frequent health issues and school adjustments. 
+
+Her past surgical history is unremarkable, and the family manages her chronic conditions with supportive measures and scheduled follow-ups. Presently, the patient does not take regular medications except as needed for acute asthma symptoms. Socially, she engages in light physical activity and adheres to nutritional monitoring encouraged by the family to manage obesity.
+
+**Objective:**
+- **Vital Signs:**
+  - Blood Pressure: 100/62 mmHg
+  - Heart Rate: 85 bpm
+  - Respiratory Rate: 22 breaths per minute
+  - Temperature: 37.8°C (100.0°F)
+  - Oxygen Saturation: 96% on room air
+
+- **General Appearance:**
+  The patient appears mildly distressed but is cooperative and alert throughout the examination. 
+
+- **Cardiovascular:**
+  Normal heart sounds with no audible murmurs, rubs, or gallops. Pulses are palpable and symmetrical in all extremities.
+
+- **Respiratory:**
+  Audible wheezing on forced expiration, particularly in the upper lobes. No rales or rhonchi detected. Mild use of accessory muscles noted during respiration.
+
+- **Abdomen:**
+  Soft, non-tender, and non-distended with active bowel sounds. No palpable masses or organomegaly present.
+
+- **Musculoskeletal:**
+  Limited examination due to primary respiration concerns but no overt pain behaviors. 
+
+- **Neurological:**
+  Cranial nerves II-XII intact; motor and sensory exams within normal limits. DTRs are 2+ bilaterally and symmetrical.
+
+- **Skin:**
+  Warm, dry, and intact. No rashes or lesions noted.
+
+**Assessment:**
+The primary diagnosis remains persistent asthma with associated episodes of status asthmaticus previously confirmed, combined with acute upper respiratory infections and adjustment disorder. Secondary concerns include management strategies for obesity and episodic pharyngitis.
+
+**Plan:**
+To address the multifaceted clinical situation, the treatment and management plan is as follows:
+
+- **Asthma**
+  - Increase the frequency of albuterol inhaler use for symptomatic relief as needed. Follow a step-up therapy plan, including a low-dose inhaled corticosteroid to be used twice daily.
+  - Consider a short course of oral corticosteroids if symptoms do not improve within 48 hours.
+  - Arrange for follow-up in two weeks to monitor asthma control, reassessing the necessity of long-term control measures.
+
+- **Acute Pharyngitis and URIs**
+  - Symptomatic treatment with warm fluids, throat lozenges, and rest.
+  - Monitor respiratory symptoms closely and advise a throat swab if symptoms persist beyond one week or worsen significantly.
+
+- **Obesity Management**
+  - Continue the present dietary management plan with frequent consultations with an in-house nutritionist.
+  - Encourage more consistent physical activity appropriate for the patient's age and interest levels.
+
+**Follow-Up:**
+Instruct the patient's parents to contact the clinic if her asthma symptoms worsen or do not show improvement as anticipated after intervention, or if any new or concerning symptoms arise. The patient was educated on the importance of adherence to the asthma action plan and the therapeutic regime. A follow-up evaluation is scheduled to reassess asthma control and review dietary and lifestyle progress. Detailed the management plan ensuring the patient's caregivers understood and expressed no additional concerns at the conclusion of this visit.

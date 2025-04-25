@@ -1,0 +1,50 @@
+Visit Information:
+    - Patient Num: 1000000042
+    - Visit Date: 11/24/2003
+
+Subjective:
+This is a 26-year-old Black female who has been receiving care at our clinic for several months. She speaks English and presents today for a follow-up regarding her asthma and other chronic conditions. Her primary complaint has been an increase in wheezing and shortness of breath over the past week, particularly at night. She mentions experiencing more frequent coughing spells that are dry in nature. This exacerbation is consistent with her asthma history, and there is a noted trigger of cold weather.
+
+The patient has a significant medical history, including recurrent asthma exacerbations, episodes of acute bronchitis, and a chronic cough. She has also experienced disturbances in skin sensation intermittently. Her obstetric history includes monitoring for threatened premature labor and other antepartum conditions. 
+
+She is currently taking prenatal multivitamins as part of her antenatal care. She reports adherence to her inhaler regimen but feels that her rescue inhaler provides temporary relief. The patient has a history of tobacco use but is currently attempting to quit. 
+
+She denies any known medication allergies. The patient indicates her symptoms are worsened by cold air and exercise but are slightly alleviated when using inhalers or staying indoors. 
+
+Objective:
+Vital Signs:
+    - Blood Pressure: 120/80 mmHg
+    - Heart Rate: 82 bpm
+    - Respiratory Rate: 18 breaths per minute
+    - Temperature: 98.6°F
+    - Oxygen Saturation: 96%
+
+Physical Exam:
+General Appearance: A well-nourished, well-developed female in no acute distress but appears fatigued.
+Cardiovascular: Regular rate and rhythm, no murmurs, gallops, or rubs noted.
+Respiratory: Diffuse expiratory wheezing bilaterally, prolonged expiratory phase, no stridor heard. The patient shows effort with breathing but denies chest pain.
+Abdomen: Soft, non-tender, non-distended, with normal bowel sounds and no organomegaly.
+Musculoskeletal: No joint deformities, normal range of motion.
+Neurological: Alert, oriented to person, place, and time, with no focal deficits.
+Skin: No rashes, normal turgor, no cyanosis.
+
+Laboratory Results:
+Review of recent labs indicates normal ranges in hematocrit, hemoglobin, and white blood cell count. Urine analysis showed traces of glucose and ketones.
+
+Assessment:
+This patient’s primary diagnosis is asthma, unspecified without mention of status asthmaticus. She has secondary conditions, including acute bronchitis, cough, and disturbances in skin sensation. Chronic conditions such as peripheral vascular disease and pain in the limb are noted alongside her current pregnancy-related conditions, including the risk of premature labor.
+
+Plan:
+The patient’s asthma exacerbation needs intensified management. We will:
+1. Continue her current inhaler therapy (albuterol) and introduce a daily inhaled corticosteroid (ICS) to reduce inflammation.
+2. Provide a spacer for more effective inhaler use and educate on its application.
+3. Recommend staying indoors during cold weather, avoid known triggers, and counsel on smoking cessation.
+4. Monitor her respiratory status more closely with follow-up in 1 week or sooner if she experiences increased shortness of breath or decreased peak flow readings.
+
+Further, given her antenatal care, we will:
+1. Ensure she continues her prenatal vitamins.
+2. Conduct routine fetal monitoring to mitigate any risk of premature labor.
+3. Advise on symptom monitoring and to contact the clinic if she experiences any new or concerning symptoms.
+
+Follow-Up:
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. The patient confirms understanding of the treatment plan and agrees to the outlined management and follow-up instructions.

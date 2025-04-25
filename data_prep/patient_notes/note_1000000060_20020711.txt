@@ -1,0 +1,36 @@
+Visit Information:
+- Patient Num: 1000000060
+- Visit Date: 07/11/2002
+
+Mr. Roland Sharma, a 33-year-old Indian male who primarily communicates in German, presented to the clinic today for follow-up of his asthma management. He has been under our care over the past few years with documented episodes of exacerbations. On this visit, he reports nighttime wheezing and an increase in phlegm production, which has been interfering with his sleep and daily routines. 
+
+His asthma symptoms have persisted despite adherence to a combined regimen of inhaled corticosteroids and a short-acting beta-agonist. He denies any significant fever or chills. In addition to asthma, Mr. Sharma's history includes recurrent acute pharyngitis and resolved traumatic facial fractures. These facial injuries, involving the malar and maxillary bones, required surgical intervention three years ago, which resulted from a sports-related accident.
+
+Mr. Sharma leads an active lifestyle, engaging frequently in sports, and is mindful of his health. He does not smoke, consume alcohol, or use illicit drugs. He is not on any herbal supplements and reports no known drug allergies.
+
+On examination, his vital signs were recorded: Blood Pressure was 120/80 mmHg, Heart Rate 78 bpm, Respiratory Rate 18 breaths per minute, Temperature 36.8°C, and Oxygen Saturation stood at 98% on room air. Mr. Sharma appeared alert, well-nourished, and in no ongoing distress.
+
+Cardiovascular examination revealed a regular heart rhythm with no notable murmurs, gallops, or rubs. Peripheral pulses were symmetric and palpable. Respiratory assessment indicated diminished breath sounds with expiratory wheezes in both lungs. There was no observed use of accessory muscles or intercostal retractions, and no rales or rhonchi were heard. The abdominal examination displayed a soft, non-tender abdomen with active bowel sounds.
+
+The musculoskeletal examination remained normal, showing no signs of swelling or deformity, and maintaining a full range of motion across all extremities. Neurologically, Mr. Sharma was fully intact; cranial nerves II-XII started normal function, and motor and sensory tests yielded normal results with symmetrical, intact reflexes. His skin was warm and dry, without any rashes or lesions.
+
+Assessment:
+Mr. Sharma’s primary health concern remains his asthma, particularly noting it as uncontrolled based on his recent symptomatic reports. Secondary elements of his health history include his recovered pharyngitis and the past maxillary and malar fractures that have since healed without further complications.
+
+Issue/Problem/Request 1:
+Assessment: Uncontrolled asthma as the primary diagnosis. Differential diagnoses may include COPD, allergic bronchopulmonary Aspergillosis, and upper airway cough syndrome.
+Diagnostic Tests: Plan to conduct peak flow measurements, spirometry for current lung function assessment, and consider allergy testing for potential triggers.
+Treatment Plan: Demonstrate the use of inhaled corticosteroids and beta-agonists and introduce a long-acting muscarinic antagonist if symptoms persist. Referral to pulmonology for specialized care if required.
+
+Issue/Problem/Request 2:
+Assessment: History of acute pharyngitis possibly exacerbating his respiratory symptoms. Differentials include viral or bacterial pharyngitis and postnasal drip.
+Diagnostic Tests: Perform throat swab if symptoms recur.
+Treatment Plan: Encourage supportive care with hydration, rest, and use of over-the-counter anti-inflammatories.
+
+Issue/Problem/Request 3:
+Assessment: Past facial fractures from sports injury, now healed post-surgery.
+Diagnostic Tests: None necessary.
+Treatment Plan: Routine follow-up if new symptoms arise, focus on preventative care from further injury.
+
+Follow-Up:
+Mr. Sharma is instructed to contact the clinic if symptoms worsen or do not improve within a week, and proactively inform the clinic of any significant changes. He should follow his asthma action plan diligently. Clear education was provided to ensure Mr. Sharma understands proper inhaler use and is encouraged to avoid known triggers, especially during sports activities. Compliance with the treatment regimen and vigilance for early signs of exacerbation were emphasized.

@@ -1,0 +1,82 @@
+Visit Information:
+    - Patient Num: 1000000082
+    - Visit Date: 11/17/2004
+
+This is a 49-year-old Hispanic female who has been receiving care at our clinic for approximately 4 years. She primarily speaks German and presents today for a follow-up visit with primary complaints of persistent digestive-genital tract fistula issues and chronic rectal pain. She has had significant challenges managing her symptoms daily.
+
+Subjective:
+    The patient reports ongoing discomfort and pain associated with her anal and rectal area, which she notes have become increasingly unbearable over the past few months. Additionally, she experiences periodic drainage from the fistula, contributing to her discomfort. She describes the pain as sharp and burning, often exacerbated by bowel movements and prolonged sitting.
+
+    The patient has a notable medical history of digestive-genital tract fistulas and multiple anal fistulas, which have required repeated medical evaluation and treatments. She also has a history of depressive disorder, which she has managed with the assistance of her mental health provider. The patient had previously endured a head injury and recurrent musculoskeletal complaints, though these are presently less problematic.
+
+    The patient’s current medication regimen includes clindamycin for the treatment of her fistula-related infections, which she reports has provided some relief but has not completely resolved the drainage or pain. She uses over-the-counter ibuprofen for pain as needed. She is not taking any herbal supplements and denies any allergies.
+
+    The patient lives with her family, does not smoke, and adheres to a balanced diet with regular light exercise. She consumes alcohol occasionally. She works as an administrative assistant, which requires prolonged periods of sitting, aggravating her condition.
+
+    Symptom details indicate chronic drainage and pain in the anal area, with increased severity following bowel movements. The pain results in significant daily functional impairment and frustration. She denies any recent weight loss, fever, or chills.
+
+Objective:
+    - Vital Signs:
+        - Blood Pressure: 122/78 mmHg
+        - Heart Rate: 76 bpm
+        - Respiratory Rate: 16 breaths per minute
+        - Temperature: 36.7°C
+        - Oxygen Saturation: 97% on room air
+
+    - General Appearance:
+        The patient appeared well-groomed and in mild distress due to pain but was alert and cooperative.
+
+    - Cardiovascular:
+        Regular heart rate and rhythm, no murmurs, gallops, or rubs detected.
+
+    - Respiratory:
+        Clear to auscultation bilaterally with no wheezes, rales, or rhonchi.
+
+    - Abdomen:
+        Soft and non-tender with normal bowel sounds. No hepatosplenomegaly noted.
+
+    - Musculoskeletal:
+        Full range of motion in all extremities, with no joint swelling or deformities. Normal strength in upper and lower extremities.
+
+    - Neurological:
+        Cranial nerves II-XII intact. No focal neurological deficits noted. Reflexes were 2+ and symmetric, and gait was steady.
+
+    - Skin:
+        No rashes or lesions observed. Skin was warm and dry.
+
+    - Anorectal Exam:
+        Examination revealed multiple external and internal openings suggestive of fistulas, with active drainage. Significant tenderness observed on palpation. No masses detected.
+
+Assessment:
+    - Diagnosis or Clinical Impression:
+        The patient is assessed with chronic and recurrent digestive-genital tract fistulas, complicated by persistent pain and drainage, and secondary depressive symptoms linked to her chronic illness.
+
+    - Issue/Problem/Request 1: Chronic Digestive-Genital Tract Fistulas
+        Assessment:
+            Likely diagnosis is recurrent digestive-genital tract fistulas with associated drainage and chronic pain.
+            Differential diagnosis includes persistent postoperative fistulas and Crohn’s disease.
+        Diagnostic Tests:
+            Plan to obtain a repeat fistulogram for further evaluation of the fistulas' extent and course.
+        Treatment Plan:
+            Continue current antibiotic therapy and refer patient to colorectal surgery for assessment of potential interventional or surgical management.
+
+    - Issue/Problem/Request 2: Chronic Anal Pain
+        Assessment:
+            Most likely due to chronic fistulas and associated inflammation.
+            Differential diagnosis includes anal fissures and hemorrhoids.
+        Diagnostic Tests:
+            Consider a pelvic MRI to assess for underlying causes of chronic pain.
+        Treatment Plan:
+            Recommend continuation of NSAIDs for pain relief, and introduce local analgesia gels. Educate on Sitz baths for symptom relief. Referral to pain management for potential nerve block procedures if pain persists.
+
+    - Issue/Problem/Request 3: Depressive Disorder
+        Assessment:
+            Likely secondary to chronic medical conditions affecting her quality of life.
+            Differential diagnosis includes adjustment disorder and major depressive disorder.
+        Treatment Plan:
+            Coordinate with the patient's mental health provider for ongoing therapy. Consider re-evaluating her current antidepressant regimen, if applicable, to optimize her mental health management. Encourage attendance at support groups for chronic illness.
+
+Follow-Up:
+    Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. Educate the patient on the importance of medication adherence and keeping a symptom diary to track daily experiences and potential triggers. A follow-up appointment is scheduled in four weeks to reassess her condition and evaluate the effectiveness of the current management plan. 
+
+Patient education about the condition, medication, and lifestyle modification was provided in German, and the patient confirmed understanding of the plan.

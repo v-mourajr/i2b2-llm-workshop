@@ -1,0 +1,60 @@
+Visit Information:
+- Patient Num: 1000000065
+- Visit Date: 10/13/2009
+
+This is a 13-year-old Asian male presenting for a follow-up visit. He has been a patient at our clinic since November 28, 2003. He speaks English and has a comprehensive medical history, predominantly related to asthma and other respiratory conditions.
+
+**Subjective:**
+
+The patient’s mother reports that he has been experiencing mild nasal congestion and a sore throat for the past three days. These symptoms appear consistent with the common cold. His history includes asthma, which has been diagnosed with both status asthmaticus and unspecified asthma without mention of status. Additionally, he has had episodes of acute bronchiolitis, bronchitis, conjunctivitis, and allergic rhinitis. The patient was born prematurely and had early life challenges such as neonatal jaundice, respiratory distress syndrome, and failure to thrive.
+
+Currently, he is on Albuterol for asthma management, Aveeno cream for occasional skin issues, and parenteral nutritional support, which includes Hepatamine Amino Acids and Liposyn II due to previous growth and nutritional concerns. He has responded well to these treatments but remains susceptible to upper respiratory tract infections.
+
+**Objective:**
+
+- **Vital Signs:**
+  - Blood Pressure: 100/60 mmHg
+  - Heart Rate: 92 beats per minute
+  - Respiratory Rate: 20 breaths per minute
+  - Temperature: 99.1°F
+  - Oxygen Saturation: 98% on room air
+
+- **General Appearance:**
+  The patient appears well-nourished, hydrated, and in no acute distress.
+
+- **Cardiovascular:**
+  Cardiovascular exam revealed a regular heart rate and rhythm without murmurs, rubs, or gallops.
+
+- **Respiratory:**
+  Clear breath sounds bilaterally without wheezes, rales, or rhonchi.
+
+- **Abdomen:**
+  Soft and non-tender with no hepatosplenomegaly.
+
+- **Musculoskeletal:**
+  Full range of motion in all extremities without deformities.
+
+- **Neurological:**
+  Alert and oriented to age with normal reflexes and no focal deficits.
+
+- **Skin:**
+  No rashes or lesions noted.
+
+Recent laboratory tests have shown stable levels of electrolytes, arterial blood gases, and no signs of acute anemia or infections. Bilirubin levels have normalized.
+
+**Assessment:**
+
+The patient presents with acute nasopharyngitis, likely of viral etiology, managed conservatively. The chronic control of his asthma, including episodes of status asthmaticus, appears stable with current treatment. There is no significant exacerbation of his historical health conditions such as preterm birth complications, neonatal jaundice, candidiasis, and anemia under present management.
+
+**Plan:**
+
+1. Continue current asthma medication: Albuterol as needed for asthma management, and Aveeno cream for any skin irritation.
+2. Provide supportive care for upper respiratory symptoms: Advise adequate hydration, rest, and the use of over-the-counter medications for symptomatic relief.
+3. Maintain parenteral nutritional support with Hepatamine Amino Acids to address past failure to thrive and ensure continued appropriate growth and development.
+4. Schedule a follow-up appointment in one month to review his overall health, assess nutritional status, and address any new or ongoing health concerns.
+5. Educate the patient’s mother on recognizing warning signs that warrant immediate medical attention, such as difficulty in breathing, persistent high fever, or worsening symptoms.
+6. Emphasize the importance of adhering to dietary and medication regimens to prevent complications and ensure the patient’s ongoing health.
+
+**Follow-Up:**
+
+Instruct the patient’s mother to contact the clinic if symptoms worsen or do not improve within a week or if any new health issues arise. Routine health monitoring and continued dietary adherence are crucial to managing his chronic conditions effectively. A follow-up appointment will take place in four weeks to reassess his health and address any additional concerns.

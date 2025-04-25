@@ -1,0 +1,40 @@
+**Visit Information:**
+- Patient Num: 1000000031
+- Visit Date: 12/27/2007
+
+This is a 48-year-old Hispanic male who speaks Spanish and has been receiving care at our clinic for the past decade. He presents today for a follow-up visit primarily concerning his asthma management. His asthma, which is unspecified without mention of status asthmaticus, has been an ongoing issue, complicated occasionally by acute exacerbations. He uses an albuterol inhaler as needed and reports general symptom control with this regimen. He has noticed some increased respiratory symptoms, including nocturnal coughing and shortness of breath, particularly during exertion tied to his physically demanding job as a manual laborer.
+
+In addition to his asthma, the patient has a history of significant burns and full-thickness skin loss on unspecified sites, including his hand, resulting from a workplace accident. He continues to experience discomfort and occasional tingling in his affected hand. He also has a history of benign essential hypertension, treated with lifestyle modifications, and reports occasional musculoskeletal chest pain correlated with physical strain. He denies any resting chest pain or chronic medication use besides those prescribed. His social history includes a healthy lifestyle, without smoking or alcohol consumption, and he has no known drug allergies.
+
+During the visit, the patient's vital signs were as follows: Blood Pressure: 128/80 mmHg, Heart Rate: 82 beats per minute, Respiratory Rate: 18 breaths per minute, Temperature: 98.4°F, and Oxygen Saturation: 96% on room air.
+
+**Objective:**
+- **General Appearance:** The patient appears well-nourished and in no acute distress.
+- **Cardiovascular:** The heart rate is regular with no murmurs, rubs, or gallops. Peripheral pulses are intact.
+- **Respiratory:** Breath sounds are clear bilaterally. There is no presence of wheezes, rales, or rhonchi. The patient shows no use of accessory muscles for breathing, and chest expansion is symmetric.
+- **Abdomen:** The abdomen is soft and non-tender without hepatosplenomegaly or masses.
+- **Musculoskeletal:** The right hand shows healing burn scars with slight erythema but without signs of active infection. The range of motion is full, though there is mild discomfort on movement.
+- **Neurological:** The patient is alert and oriented to person, place, and time. Cranial nerves are grossly intact. Reflexes are normal. Sensation is intact except over scarred areas.
+- **Skin:** No new lesions were observed. The scars on the hand, resulting from previous burns, are healing well without evidence of new rashes or eruptions.
+
+**Assessment:**
+The primary diagnosis remains asthma without mention of status asthmaticus. The patient also continues to manage the sequelae of significant burns on his hand, now healing well. He experiences occasional unspecified chest pain, likely musculoskeletal in origin, aggravated by his manual labor work.
+
+**Plan:**
+1. **Asthma Management:**
+   - Continue the current asthma treatment plan, including the use of a daily corticosteroid inhaler and albuterol inhaler as needed.
+   - Emphasize adherence to prescribed medications and proper inhaler technique.
+   - Avoid known asthma triggers to prevent exacerbations.
+   - Schedule spirometry testing during the next visit to reassess lung function and adjust the treatment plan as necessary.
+
+2. **Burn Management:**
+   - Maintain skin care for the burn scars, utilizing moisturizing creams and remaining vigilant for signs of infection.
+   - Consider referral to physical and occupational therapy to improve function and manage discomfort in the hand.
+   - Use acetaminophen for pain relief as needed.
+
+3. **Chest Pain:**
+   - Monitor the chest pain symptoms closely and advise the patient to reduce heavy lifting or strenuous physical exertion at work.
+   - If the chest pain persists or worsens, consider ordering a chest X-ray to rule out any other potential causes.
+
+**Follow-Up:**
+Instruct the patient to contact the clinic if asthma symptoms do not improve or worsen within a week or any new symptoms develop. A follow-up appointment is scheduled in one month to reassess asthma control, lung function, and the progress of burn healing. The patient has been educated on medication adherence, proper hand care, and recognizing signs requiring emergency attention, and he agrees with the treatment plan.

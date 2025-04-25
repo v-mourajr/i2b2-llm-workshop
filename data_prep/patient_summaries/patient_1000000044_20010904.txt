@@ -1,0 +1,40 @@
+demographics
+patient_num: 1000000044  age: 8
+patient_num: 1000000044  sex: M
+patient_num: 1000000044  race: asian
+patient_num: 1000000044  language: english
+patient_num: 1000000044  vital_status: alive
+patient_num: 1000000044  earliest fact: Dec 31 1998 12:00AM
+patient_num: 1000000044  latest fact: Sep  4 2001 12:00AM
+patient_num: 1000000044  range in days: 978
+totals
+patient_num: 1000000044  distinct concepts: 33
+patient_num: 1000000044  total facts: 77
+patient_num: 1000000044  total encounters: 14
+patient_num: 1000000044  total asthma: 6
+descriptive
+patient_num: 1000000044  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 6
+patient_num: 1000000044  diagnosis code: ICD9:919.0  name: Abrasion or friction burn of other, multiple, and unspecified sites, without mention of infection  count: 2
+patient_num: 1000000044  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 6
+patient_num: 1000000044  diagnosis code: ICD9:372.30  name: Conjunctivitis, unspecified  count: 1
+patient_num: 1000000044  diagnosis code: ICD9:922.3  name: Contusion of buttock  count: 1
+patient_num: 1000000044  diagnosis code: ICD9:924.11  name: Contusion of knee  count: 1
+patient_num: 1000000044  diagnosis code: ICD9:924.5  name: Contusion of unspecified part of lower limb  count: 1
+patient_num: 1000000044  diagnosis code: ICD9:923.9  name: Contusion of unspecified part of upper limb  count: 1
+patient_num: 1000000044  diagnosis code: ICD9:959.7  name: Other and unspecified injury to knee, leg, ankle, and foot  count: 1
+patient_num: 1000000044  diagnosis code: ICD9:691.8  name: Other atopic dermatitis and related conditions  count: 1
+patient_num: 1000000044  diagnosis code: ICD9:372.14  name: Other chronic allergic conjunctivitis  count: 1
+patient_num: 1000000044  diagnosis code: ICD9:719.46  name: Pain in joint involving lower leg  count: 1
+patient_num: 1000000044  diagnosis code: ICD9:V70.0  name: Routine general medical examination at a health care facility  count: 3
+patient_num: 1000000044  laboratory code: LOINC:5770-3  name: Bilirubin (Group:UA-BILI)  count: 1
+patient_num: 1000000044  laboratory code: LOINC:5778-6  name: Color (Group:UA-COLOR)  count: 1
+patient_num: 1000000044  laboratory code: LOINC:5792-7  name: Glucose - UA (Group:UA-GLUC)  count: 1
+patient_num: 1000000044  laboratory code: LOINC:5797-6  name: Ketones (Group:UA-KET)  count: 1
+patient_num: 1000000044  laboratory code: LOINC:5802-4  name: Nitrites (Group:UA-NIT)  count: 1
+patient_num: 1000000044  laboratory code: LOINC:5794-3  name: Occult Blood (Group:UA-BLD)  count: 1
+patient_num: 1000000044  laboratory code: LOINC:5803-2  name: PH (Group:UA-PH)  count: 1
+patient_num: 1000000044  laboratory code: LOINC:5804-0  name: Protein (Group:UA-ALB)  count: 1
+patient_num: 1000000044  laboratory code: LOINC:5811-5  name: Specific Gravity (Group:UA-SPGR)  count: 1
+patient_num: 1000000044  laboratory code: LOINC:5767-9  name: Turbidity (Group:UA-TURB)  count: 1
+patient_num: 1000000044  laboratory code: LOINC:5818-0  name: Urobilinogen (Group:UA-UROBI)  count: 1
+patient_num: 1000000044  laboratory code: LOINC:5799-2  name: WBC Screen (Group:UA-WBC)  count: 1

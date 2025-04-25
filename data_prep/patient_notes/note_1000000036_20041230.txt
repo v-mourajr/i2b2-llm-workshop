@@ -1,0 +1,59 @@
+Visit Information:
+- **Patient Num:** 1000000036
+- **Visit Date:** 12/30/2004
+
+Subjective:
+This is a 37-year-old Black female with a long-standing history of convulsions, who has been under our care for approximately seven years. The patient presents today for a follow-up visit, expressing concern about the persistence of her convulsive episodes despite adhering to her medication regimen. She reports that the seizures occur sporadically and have not shown significant improvement since her last visit on November 27, 2001.
+
+Her medical history includes chronic rhinitis, occasional dental caries, a benign neoplasm of the trunk skin, and systemic lupus erythematosus, which has been relatively stable. She has no history of surgical interventions. Currently, she is on prescribed anticonvulsants for her seizures and follows her medication schedule diligently. The patient does not use any herbal supplements or over-the-counter medications.
+
+Socially, she lives alone and works as a clerk. She manages her job well but notes that the unpredictability of her seizures significantly impacts her daily routine. She does not smoke and consumes alcohol occasionally and in moderation. She has no children or other dependents. The patient reports no known allergies.
+
+Her convulsions have an abrupt onset, leading to generalized muscle stiffness, jerking movements, and subsequent loss of consciousness. Episodes last a few minutes, after which she experiences severe fatigue. The most recent seizure occurred two weeks ago. She actively avoids triggers such as flashing lights and has made adjustments to her routine to reduce the risk of injury during seizures. Despite these efforts, her anxiety about the recurrence of the convulsions is increasing.
+
+Objective:
+- **Vital Signs:**
+  - Blood Pressure: 122/78 mmHg
+  - Heart Rate: 68 bpm
+  - Respiratory Rate: 16 breaths/min
+  - Temperature: 98.6°F
+  - Oxygen Saturation: 98% on room air
+
+- **General Appearance:**
+The patient appears well-nourished, well-groomed, and displays no signs of acute distress. She is alert and oriented, engaging cooperatively throughout the examination.
+
+- **Cardiovascular:**
+Cardiac auscultation reveals a regular heart rate and rhythm, without murmurs, gallops, or rubs. Peripheral pulses are strong, equal, and symmetrical.
+
+- **Respiratory:**
+Breath sounds are clear bilaterally, with no wheezes, crackles, or rhonchi. The chest rises symmetrically, with no use of accessory muscles during respiration.
+
+- **Abdomen:**
+The abdomen is soft and non-tender, without organomegaly. Bowel sounds are active and present in all four quadrants.
+
+- **Musculoskeletal:**
+No tenderness, swelling, or deformities are noted. The patient has a full range of motion in all extremities with normal muscle tone and bulk.
+
+- **Neurological:**
+Cranial nerves II-XII are grossly intact. Motor strength is 5/5 across all extremities with no evidence of focal neurological deficits. Reflexes are 2+ and symmetric bilaterally. Sensation is intact to light touch, and coordination tests are normal. The patient's gait is steady, and there is no evidence of ataxia.
+
+- **Skin:**
+The patient's skin shows no lesions, rashes, or abnormalities. Normal turgor and color are observed.
+
+- **Laboratory Findings:**
+Recent laboratory evaluations, including hemoglobin, hematocrit, mean corpuscular hemoglobin, mean corpuscular hemoglobin concentration, mean corpuscular volume, platelet count, and red and white blood cell counts, are within normal ranges. These findings suggest no current hematologic abnormalities.
+
+Assessment:
+- **Convulsions:**
+The patient continues to experience sporadic tonic-clonic seizures despite compliance with anticonvulsant therapy. The chronic nature of her convulsive disorder warrants further evaluation and possible adjustment of her treatment regimen.
+
+Plan:
+1. **Convulsions:**
+   - Maintain the current anticonvulsant therapy, emphasizing strict adherence.
+   - Schedule an electroencephalogram (EEG) to monitor brain electrical activity and assess seizure patterns more comprehensively.
+   - Refer the patient to a neurology specialist to evaluate her medication regimen and consider adjustments if necessary.
+   - Provide education on seizure first aid, focusing on steps to minimize injury during episodes.
+   - Advise the patient to keep a detailed seizure diary to document the frequency, duration, and possible triggers of her convulsions, which will assist in tailoring her treatment plan.
+
+Follow-Up:
+The patient has been instructed to contact the clinic if her symptoms worsen or do not improve within a week, or if test results indicate the need for further evaluation. A follow-up appointment has been scheduled in four weeks to review her EEG results and seizure diary and assess ongoing management. The patient understands the importance of attending her neurology consultation and is motivated to work towards better controlling her convulsions.

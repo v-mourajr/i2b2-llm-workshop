@@ -1,0 +1,92 @@
+demographics
+patient_num: 1000000127  age: 16
+patient_num: 1000000127  sex: M
+patient_num: 1000000127  race: indian
+patient_num: 1000000127  language: german
+patient_num: 1000000127  vital_status: alive
+patient_num: 1000000127  earliest fact: Apr 14 1997 12:00AM
+patient_num: 1000000127  latest fact: Nov 29 2004 12:00AM
+patient_num: 1000000127  range in days: 2786
+totals
+patient_num: 1000000127  distinct concepts: 86
+patient_num: 1000000127  total facts: 292
+patient_num: 1000000127  total encounters: 38
+patient_num: 1000000127  total asthma: 7
+descriptive
+patient_num: 1000000127  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 7
+patient_num: 1000000127  diagnosis code: ICD9:372.00  name: Acute conjunctivitis, unspecified  count: 1
+patient_num: 1000000127  diagnosis code: ICD9:382.00  name: Acute suppurative otitis media without spontaneous rupture of ear drum  count: 4
+patient_num: 1000000127  diagnosis code: ICD9:477.9  name: Allergic rhinitis, cause unspecified  count: 1
+patient_num: 1000000127  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 7
+patient_num: 1000000127  diagnosis code: ICD9:682.9  name: Cellulitis and abscess of unspecified sites  count: 1
+patient_num: 1000000127  diagnosis code: ICD9:786.2  name: Cough  count: 2
+patient_num: 1000000127  diagnosis code: ICD9:521.0  name: Dental caries  count: 2
+patient_num: 1000000127  diagnosis code: ICD9:V65.3  name: Dietary surveillance and counseling  count: 2
+patient_num: 1000000127  diagnosis code: ICD9:691.8  name: Other atopic dermatitis and related conditions  count: 2
+patient_num: 1000000127  diagnosis code: ICD9:V65.5  name: Person with feared complaint in whom no diagnosis was made  count: 1
+patient_num: 1000000127  diagnosis code: ICD9:362.21  name: Retrolental fibroplasia  count: 2
+patient_num: 1000000127  diagnosis code: ICD9:V20.2  name: Routine infant or child health check  count: 3
+patient_num: 1000000127  diagnosis code: ICD9:V72.2  name: Special investigations and examinations - Dental examination  count: 1
+patient_num: 1000000127  diagnosis code: ICD9:523.9  name: Unspecified gingival and periodontal disease  count: 2
+patient_num: 1000000127  diagnosis code: ICD9:276.5  name: Volume depletion  count: 2
+patient_num: 1000000127  diagnosis code: ICD9:787.03  name: Vomiting alone  count: 1
+patient_num: 1000000127  laboratory code: LOINC:731-0  name: Abs Lymphs Auto (Group:ALYMPHS)  count: 3
+patient_num: 1000000127  laboratory code: LOINC:742-7  name: Abs Monos Auto (Group:AMONOS)  count: 1
+patient_num: 1000000127  laboratory code: LOINC:752-6  name: Abs Neuts Auto (Group:ANEUTS)  count: 1
+patient_num: 1000000127  laboratory code: LOINC:1798-8  name: Amylase (Group:AMY)  count: 1
+patient_num: 1000000127  laboratory code: LOINC:702-1  name: Anisocytosis (Group:ANISO)  count: 2
+patient_num: 1000000127  laboratory code: LOINC:735-1  name: Atypical Lymphs (Group:ATYPS)  count: 1
+patient_num: 1000000127  laboratory code: LOINC:764-1  name: Bands - Manual (Group:BAND)  count: 1
+patient_num: 1000000127  laboratory code: LOINC:703-9  name: Basophilic Stippling (Group:STIPPL)  count: 1
+patient_num: 1000000127  laboratory code: LOINC:706-2  name: Basophils - Auto (Group:BASOS)  count: 1
+patient_num: 1000000127  laboratory code: LOINC:707-0  name: Basophils - Manual (Group:BASO)  count: 1
+patient_num: 1000000127  laboratory code: LOINC:5770-3  name: Bilirubin (Group:UA-BILI)  count: 2
+patient_num: 1000000127  laboratory code: LOINC:3094-0  name: Blood Urea Nitrogen (Group:BUN)  count: 2
+patient_num: 1000000127  laboratory code: LOINC:7790-9  name: Burr Cells (Group:BURRS)  count: 1
+patient_num: 1000000127  laboratory code: LOINC:2028-9  name: Carbon Dioxide (Group:CO2)  count: 1
+patient_num: 1000000127  laboratory code: LOINC:2075-0  name: Chloride (Group:CL)  count: 1
+patient_num: 1000000127  laboratory code: LOINC:2093-3  name: Cholesterol (Group:CHOL)  count: 2
+patient_num: 1000000127  laboratory code: LOINC:5778-6  name: Color (Group:UA-COLOR)  count: 2
+patient_num: 1000000127  laboratory code: LOINC:2160-0  name: Creatinine (Group:CRE)  count: 1
+patient_num: 1000000127  laboratory code: LOINC:X2012-1  name: Differential Request (Group:DIFFR)  count: 1
+patient_num: 1000000127  laboratory code: LOINC:713-8  name: Eosinophils - Auto (Group:EOS)  count: 1
+patient_num: 1000000127  laboratory code: LOINC:714-6  name: Eosinophils - Manual (Group:EO)  count: 2
+patient_num: 1000000127  laboratory code: LOINC:6777-7  name: Glucose (Group:GLU)  count: 2
+patient_num: 1000000127  laboratory code: LOINC:5792-7  name: Glucose - UA (Group:UA-GLUC)  count: 2
+patient_num: 1000000127  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 5
+patient_num: 1000000127  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 5
+patient_num: 1000000127  laboratory code: LOINC:728-6  name: Hypochromia (Group:HYPO)  count: 1
+patient_num: 1000000127  laboratory code: LOINC:5797-6  name: Ketones (Group:UA-KET)  count: 2
+patient_num: 1000000127  laboratory code: LOINC:736-9  name: Lymphocytes - Auto (Group:LYMPHS)  count: 5
+patient_num: 1000000127  laboratory code: LOINC:737-7  name: Lymphocytes - Manual (Group:LYMPH)  count: 2
+patient_num: 1000000127  laboratory code: LOINC:738-5  name: Macrocytes (Group:MACRO)  count: 1
+patient_num: 1000000127  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 3
+patient_num: 1000000127  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 3
+patient_num: 1000000127  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 5
+patient_num: 1000000127  laboratory code: LOINC:5905-5  name: Monocytes - Auto (Group:MONOS)  count: 3
+patient_num: 1000000127  laboratory code: LOINC:744-3  name: Monocytes - Manual (Group:MONO)  count: 2
+patient_num: 1000000127  laboratory code: LOINC:770-8  name: Neutrophils - Auto (Group:POLYS)  count: 3
+patient_num: 1000000127  laboratory code: LOINC:769-0  name: Neutrophils - Manual (Group:POLY)  count: 2
+patient_num: 1000000127  laboratory code: LOINC:5802-4  name: Nitrites (Group:UA-NIT)  count: 2
+patient_num: 1000000127  laboratory code: LOINC:772-4  name: Nuc RBC (Group:NRBC)  count: 1
+patient_num: 1000000127  laboratory code: LOINC:5794-3  name: Occult Blood (Group:UA-BLD)  count: 2
+patient_num: 1000000127  laboratory code: LOINC:774-0  name: Ovalocytes (Group:OVALS)  count: 1
+patient_num: 1000000127  laboratory code: LOINC:5803-2  name: PH (Group:UA-PH)  count: 2
+patient_num: 1000000127  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 5
+patient_num: 1000000127  laboratory code: LOINC:9317-9  name: PLT Estimate (Group:PLTEST)  count: 2
+patient_num: 1000000127  laboratory code: LOINC:779-9  name: Poikilocytosis (Group:POIK)  count: 2
+patient_num: 1000000127  laboratory code: LOINC:10378-8  name: Polychromasia (Group:POLYCH)  count: 2
+patient_num: 1000000127  laboratory code: LOINC:2823-3  name: Potassium (Group:K)  count: 1
+patient_num: 1000000127  laboratory code: LOINC:5804-0  name: Protein (Group:UA-ALB)  count: 2
+patient_num: 1000000127  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 5
+patient_num: 1000000127  laboratory code: LOINC:11273-0  name: RBC Morph Auto (Group:RCM-A)  count: 1
+patient_num: 1000000127  laboratory code: LOINC:6742-1  name: RBC Morph Manual (Group:RCM-M)  count: 2
+patient_num: 1000000127  laboratory code: LOINC:788-0  name: RDW (Group:RDW)  count: 1
+patient_num: 1000000127  laboratory code: LOINC:2951-2  name: Sodium (Group:NA)  count: 2
+patient_num: 1000000127  laboratory code: LOINC:5811-5  name: Specific Gravity (Group:UA-SPGR)  count: 2
+patient_num: 1000000127  laboratory code: LOINC:3016-3  name: TSH (Group:TSH)  count: 1
+patient_num: 1000000127  laboratory code: LOINC:5767-9  name: Turbidity (Group:UA-TURB)  count: 1
+patient_num: 1000000127  laboratory code: LOINC:5818-0  name: Urobilinogen (Group:UA-UROBI)  count: 2
+patient_num: 1000000127  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 5
+patient_num: 1000000127  laboratory code: LOINC:11156-7  name: WBC Comments (Group:W-COM)  count: 1
+patient_num: 1000000127  laboratory code: LOINC:5799-2  name: WBC Screen (Group:UA-WBC)  count: 2

@@ -1,0 +1,134 @@
+demographics
+patient_num: 1000000038  age: 29
+patient_num: 1000000038  sex: M
+patient_num: 1000000038  race: asian
+patient_num: 1000000038  language: english
+patient_num: 1000000038  vital_status: alive
+patient_num: 1000000038  earliest fact: Sep 15 1997 12:00AM
+patient_num: 1000000038  latest fact: Dec  7 2007 12:00AM
+patient_num: 1000000038  range in days: 3735
+totals
+patient_num: 1000000038  distinct concepts: 126
+patient_num: 1000000038  total facts: 626
+patient_num: 1000000038  total encounters: 102
+patient_num: 1000000038  total asthma: 18
+descriptive
+patient_num: 1000000038  asthma code: ICD9:493.92  name: Asthma, unspecified type, with acute exacerbation  count: 2
+patient_num: 1000000038  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 15
+patient_num: 1000000038  asthma code: ICD9:493.10  name: Intrinsic asthma without mention of status asthmaticus  count: 1
+patient_num: 1000000038  diagnosis code: ICD9:919.0  name: Abrasion or friction burn of other, multiple, and unspecified sites, without mention of infection  count: 1
+patient_num: 1000000038  diagnosis code: ICD9:998.2  name: Accidental puncture or laceration during a procedure  count: 1
+patient_num: 1000000038  diagnosis code: ICD9:466.0  name: Acute bronchitis  count: 2
+patient_num: 1000000038  diagnosis code: ICD9:462  name: Acute pharyngitis  count: 5
+patient_num: 1000000038  diagnosis code: ICD9:465.9  name: Acute upper respiratory infections of unspecified site  count: 2
+patient_num: 1000000038  diagnosis code: ICD9:493.92  name: Asthma, unspecified type, with acute exacerbation  count: 2
+patient_num: 1000000038  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 15
+patient_num: 1000000038  diagnosis code: ICD9:724.5  name: Backache, unspecified  count: 1
+patient_num: 1000000038  diagnosis code: ICD9:490  name: Bronchitis, not specified as acute or chronic  count: 2
+patient_num: 1000000038  diagnosis code: ICD9:834.00  name: Closed dislocation of finger, unspecified part  count: 1
+patient_num: 1000000038  diagnosis code: ICD9:850.0  name: Concussion with no loss of consciousness  count: 2
+patient_num: 1000000038  diagnosis code: ICD9:692.9  name: Contact dermatitis and other eczema, unspecified cause  count: 1
+patient_num: 1000000038  diagnosis code: ICD9:V01.1  name: Contact with or exposure to tuberculosis  count: 1
+patient_num: 1000000038  diagnosis code: ICD9:786.2  name: Cough  count: 12
+patient_num: 1000000038  diagnosis code: ICD9:719.07  name: Effusion of ankle and foot joint  count: 1
+patient_num: 1000000038  diagnosis code: ICD9:784.7  name: Epistaxis  count: 1
+patient_num: 1000000038  diagnosis code: ICD9:780.6  name: Fever  count: 2
+patient_num: 1000000038  diagnosis code: ICD9:V70.5  name: Health examination of defined subpopulations  count: 1
+patient_num: 1000000038  diagnosis code: ICD9:684  name: Impetigo  count: 1
+patient_num: 1000000038  diagnosis code: ICD9:487.1  name: Influenza with other respiratory manifestations  count: 1
+patient_num: 1000000038  diagnosis code: ICD9:919.4  name: Insect bite, nonvenomous, of other, multiple, and unspecified sites, without mention of infection  count: 1
+patient_num: 1000000038  diagnosis code: ICD9:854.02  name: Intracranial injury of other and unspecified nature, without mention of open intracranial wound, with brief (less than one hour) loss of consciousness  count: 2
+patient_num: 1000000038  diagnosis code: ICD9:493.10  name: Intrinsic asthma without mention of status asthmaticus  count: 1
+patient_num: 1000000038  diagnosis code: ICD9:783.4  name: Lack of expected normal physiological development  count: 1
+patient_num: 1000000038  diagnosis code: ICD9:724.2  name: Lumbago  count: 2
+patient_num: 1000000038  diagnosis code: ICD9:780.7  name: Malaise and fatigue  count: 1
+patient_num: 1000000038  diagnosis code: ICD9:V05.9  name: Need for prophylactic vaccination and inoculation against unspecified single disease  count: 1
+patient_num: 1000000038  diagnosis code: ICD9:V06.5  name: Need for prophylactic vaccination and inoculation with Tetanus-diphtheria [Td]  count: 1
+patient_num: 1000000038  diagnosis code: ICD9:795.5  name: Nonspecific reaction to tuberculin skin test without active tuberculosis  count: 10
+patient_num: 1000000038  diagnosis code: ICD9:883.0  name: Open wound of fingers, without mention of complication  count: 1
+patient_num: 1000000038  diagnosis code: ICD9:388.70  name: Otalgia, unspecified  count: 1
+patient_num: 1000000038  diagnosis code: ICD9:959.0  name: Other and unspecified injury to head, face, and neck  count: 1
+patient_num: 1000000038  diagnosis code: ICD9:959.7  name: Other and unspecified injury to knee, leg, ankle, and foot  count: 3
+patient_num: 1000000038  diagnosis code: ICD9:518.89  name: Other diseases of lung, not elsewhere classified  count: 2
+patient_num: 1000000038  diagnosis code: ICD9:519.8  name: Other diseases of respiratory system, not elsewhere classified  count: 1
+patient_num: 1000000038  diagnosis code: ICD9:718.84  name: Other joint derangement, not elsewhere classified, involving hand  count: 2
+patient_num: 1000000038  diagnosis code: ICD9:780.79  name: Other malaise and fatigue  count: 2
+patient_num: 1000000038  diagnosis code: ICD9:89.38  name: Other nonoperative respiratory measurements  count: 1
+patient_num: 1000000038  diagnosis code: ICD9:078.19  name: Other specified viral warts  count: 1
+patient_num: 1000000038  diagnosis code: ICD9:E927  name: Overexertion and strenuous movements  count: 2
+patient_num: 1000000038  diagnosis code: ICD9:486  name: Pneumonia, organism unspecified  count: 2
+patient_num: 1000000038  diagnosis code: ICD9:782.1  name: Rash and other nonspecific skin eruption  count: 6
+patient_num: 1000000038  diagnosis code: ICD9:93.94  name: Respiratory medication administered by nebulizer  count: 2
+patient_num: 1000000038  diagnosis code: ICD9:V70.0  name: Routine general medical examination at a health care facility  count: 3
+patient_num: 1000000038  diagnosis code: ICD9:V82.9  name: Screening for unspecified condition  count: 1
+patient_num: 1000000038  diagnosis code: ICD9:E917.0  name: Striking against or struck accidentally by objects or persons in sports  count: 2
+patient_num: 1000000038  diagnosis code: ICD9:824.8  name: Unspecified fracture of ankle, closed  count: 1
+patient_num: 1000000038  diagnosis code: ICD9:011.9  name: Unspecified pulmonary tuberculosis  count: 1
+patient_num: 1000000038  diagnosis code: ICD9:011.90  name: Unspecified pulmonary tuberculosis, unspecified examination  count: 1
+patient_num: 1000000038  diagnosis code: ICD9:845.00  name: Unspecified site of ankle sprain  count: 1
+patient_num: 1000000038  diagnosis code: ICD9:780.50  name: Unspecified sleep disturbance  count: 1
+patient_num: 1000000038  diagnosis code: ICD9:079.99  name: Unspecified viral infection in conditions classified elsewhere and of unspecified site  count: 2
+patient_num: 1000000038  diagnosis code: ICD9:078.10  name: Viral warts, unspecified  count: 1
+patient_num: 1000000038  diagnosis code: ICD9:89.37  name: Vital capacity determination  count: 2
+patient_num: 1000000038  diagnosis code: ICD9:786.07  name: Wheezing  count: 1
+patient_num: 1000000038  medication code: NDC:00005306343  name: Albuterol Sulfate 4mg tablet ESI Lederle Generics  count: 8
+patient_num: 1000000038  medication code: NDC:00072672101  name: Desquam-X 10 10% gel Bristol-Myers Squibb  count: 4
+patient_num: 1000000038  medication code: NDC:51079061620  name: Penicillin V Potassium V potassium 500mg tablet UDL Laboratories Inc  count: 4
+patient_num: 1000000038  medication code: NDC:00173052100  name: Serevent Diskus 50 mcg powder Glaxo Wellcome  count: 4
+patient_num: 1000000038  laboratory code: LOINC:704-7  name: Abs Basos Auto (Group:ABASOS)  count: 3
+patient_num: 1000000038  laboratory code: LOINC:711-2  name: Abs EOS Auto (Group:AEOS)  count: 3
+patient_num: 1000000038  laboratory code: LOINC:731-0  name: Abs Lymphs Auto (Group:ALYMPHS)  count: 3
+patient_num: 1000000038  laboratory code: LOINC:742-7  name: Abs Monos Auto (Group:AMONOS)  count: 3
+patient_num: 1000000038  laboratory code: LOINC:752-6  name: Abs Neuts Auto (Group:ANEUTS)  count: 3
+patient_num: 1000000038  laboratory code: LOINC:1751-7  name: Albumin (Group:ALB)  count: 3
+patient_num: 1000000038  laboratory code: LOINC:1742-6  name: ALT (SGPT) (Group:SGPT)  count: 3
+patient_num: 1000000038  laboratory code: LOINC:1798-8  name: Amylase (Group:AMY)  count: 1
+patient_num: 1000000038  laboratory code: LOINC:10466-1  name: Anion Gap (Group:ANION)  count: 1
+patient_num: 1000000038  laboratory code: LOINC:1920-8  name: AST (SGOT) (Group:SGOT)  count: 5
+patient_num: 1000000038  laboratory code: LOINC:764-1  name: Bands - Manual (Group:BAND)  count: 1
+patient_num: 1000000038  laboratory code: LOINC:706-2  name: Basophils - Auto (Group:BASOS)  count: 3
+patient_num: 1000000038  laboratory code: LOINC:3094-0  name: Blood Urea Nitrogen (Group:BUN)  count: 3
+patient_num: 1000000038  laboratory code: LOINC:2000-8  name: Calcium (Group:CA)  count: 3
+patient_num: 1000000038  laboratory code: LOINC:2028-9  name: Carbon Dioxide (Group:CO2)  count: 3
+patient_num: 1000000038  laboratory code: LOINC:2075-0  name: Chloride (Group:CL)  count: 3
+patient_num: 1000000038  laboratory code: LOINC:2093-3  name: Cholesterol (Group:CHOL)  count: 1
+patient_num: 1000000038  laboratory code: LOINC:2160-0  name: Creatinine (Group:CRE)  count: 4
+patient_num: 1000000038  laboratory code: LOINC:1968-7  name: Direct Bilirubin (Group:DBILI)  count: 4
+patient_num: 1000000038  laboratory code: LOINC:713-8  name: Eosinophils - Auto (Group:EOS)  count: 3
+patient_num: 1000000038  laboratory code: LOINC:714-6  name: Eosinophils - Manual (Group:EO)  count: 1
+patient_num: 1000000038  laboratory code: LOINC:4537-7  name: ESR (Group:ESR)  count: 2
+patient_num: 1000000038  laboratory code: LOINC:3024-7  name: Free T4 (Group:FREET4)  count: 1
+patient_num: 1000000038  laboratory code: LOINC:2336-6  name: Globulin (Group:GLOB)  count: 3
+patient_num: 1000000038  laboratory code: LOINC:6777-7  name: Glucose (Group:GLU)  count: 5
+patient_num: 1000000038  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 8
+patient_num: 1000000038  laboratory code: LOINC:2086-7  name: HDL (Group:HDL)  count: 1
+patient_num: 1000000038  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 8
+patient_num: 1000000038  laboratory code: LOINC:2532-0  name: LDH (Group:LDH)  count: 4
+patient_num: 1000000038  laboratory code: LOINC:2090-9  name: LDL (Group:LDL)  count: 1
+patient_num: 1000000038  laboratory code: LOINC:736-9  name: Lymphocytes - Auto (Group:LYMPHS)  count: 3
+patient_num: 1000000038  laboratory code: LOINC:737-7  name: Lymphocytes - Manual (Group:LYMPH)  count: 1
+patient_num: 1000000038  laboratory code: LOINC:11554-3  name: Magnesium (Group:MG)  count: 2
+patient_num: 1000000038  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 8
+patient_num: 1000000038  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 8
+patient_num: 1000000038  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 8
+patient_num: 1000000038  laboratory code: LOINC:5905-5  name: Monocytes - Auto (Group:MONOS)  count: 3
+patient_num: 1000000038  laboratory code: LOINC:744-3  name: Monocytes - Manual (Group:MONO)  count: 1
+patient_num: 1000000038  laboratory code: LOINC:770-8  name: Neutrophils - Auto (Group:POLYS)  count: 3
+patient_num: 1000000038  laboratory code: LOINC:769-0  name: Neutrophils - Manual (Group:POLY)  count: 1
+patient_num: 1000000038  laboratory code: LOINC:2777-1  name: Phosphorus (Group:PHOS)  count: 2
+patient_num: 1000000038  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 8
+patient_num: 1000000038  laboratory code: LOINC:9317-9  name: PLT Estimate (Group:PLTEST)  count: 1
+patient_num: 1000000038  laboratory code: LOINC:2823-3  name: Potassium (Group:K)  count: 3
+patient_num: 1000000038  laboratory code: LOINC:5902-2  name: PT (Group:PT)  count: 1
+patient_num: 1000000038  laboratory code: LOINC:5898-2  name: PTT (Group:PTT)  count: 1
+patient_num: 1000000038  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 8
+patient_num: 1000000038  laboratory code: LOINC:6742-1  name: RBC Morph Manual (Group:RCM-M)  count: 1
+patient_num: 1000000038  laboratory code: LOINC:788-0  name: RDW (Group:RDW)  count: 4
+patient_num: 1000000038  laboratory code: LOINC:2951-2  name: Sodium (Group:NA)  count: 3
+patient_num: 1000000038  laboratory code: LOINC:3026-2  name: Thyroxine T4 (Group:T4)  count: 1
+patient_num: 1000000038  laboratory code: LOINC:1975-2  name: Total Bilirubin (Group:TBILI)  count: 8
+patient_num: 1000000038  laboratory code: LOINC:2885-2  name: Total Protein (Group:TP)  count: 3
+patient_num: 1000000038  laboratory code: LOINC:2571-8  name: Triglycerides (Group:TRIG)  count: 1
+patient_num: 1000000038  laboratory code: LOINC:3016-3  name: TSH (Group:TSH)  count: 2
+patient_num: 1000000038  laboratory code: LOINC:3084-1  name: Uric Acid (Group:URIC)  count: 2
+patient_num: 1000000038  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 8

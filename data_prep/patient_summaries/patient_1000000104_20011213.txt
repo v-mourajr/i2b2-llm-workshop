@@ -1,0 +1,34 @@
+demographics
+patient_num: 1000000104  age: 23
+patient_num: 1000000104  sex: M
+patient_num: 1000000104  race: hispanic
+patient_num: 1000000104  language: english
+patient_num: 1000000104  vital_status: alive
+patient_num: 1000000104  earliest fact: Oct  5 2000 12:00AM
+patient_num: 1000000104  latest fact: Dec 13 2001 12:00AM
+patient_num: 1000000104  range in days: 434
+totals
+patient_num: 1000000104  distinct concepts: 27
+patient_num: 1000000104  total facts: 47
+patient_num: 1000000104  total encounters: 8
+patient_num: 1000000104  total asthma: 2
+descriptive
+patient_num: 1000000104  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 2
+patient_num: 1000000104  diagnosis code: ICD9:462  name: Acute pharyngitis  count: 2
+patient_num: 1000000104  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 2
+patient_num: 1000000104  diagnosis code: ICD9:314.00  name: Attention deficit disorder of childhood without mention of hyperactivity  count: 1
+patient_num: 1000000104  diagnosis code: ICD9:V20.2  name: Routine infant or child health check  count: 1
+patient_num: 1000000104  diagnosis code: ICD9:V72.2  name: Special investigations and examinations - Dental examination  count: 1
+patient_num: 1000000104  diagnosis code: ICD9:523.9  name: Unspecified gingival and periodontal disease  count: 1
+patient_num: 1000000104  laboratory code: LOINC:5770-3  name: Bilirubin (Group:UA-BILI)  count: 1
+patient_num: 1000000104  laboratory code: LOINC:5778-6  name: Color (Group:UA-COLOR)  count: 1
+patient_num: 1000000104  laboratory code: LOINC:5792-7  name: Glucose - UA (Group:UA-GLUC)  count: 1
+patient_num: 1000000104  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 1
+patient_num: 1000000104  laboratory code: LOINC:5797-6  name: Ketones (Group:UA-KET)  count: 1
+patient_num: 1000000104  laboratory code: LOINC:5802-4  name: Nitrites (Group:UA-NIT)  count: 1
+patient_num: 1000000104  laboratory code: LOINC:5794-3  name: Occult Blood (Group:UA-BLD)  count: 1
+patient_num: 1000000104  laboratory code: LOINC:5803-2  name: PH (Group:UA-PH)  count: 1
+patient_num: 1000000104  laboratory code: LOINC:5804-0  name: Protein (Group:UA-ALB)  count: 1
+patient_num: 1000000104  laboratory code: LOINC:5811-5  name: Specific Gravity (Group:UA-SPGR)  count: 1
+patient_num: 1000000104  laboratory code: LOINC:5818-0  name: Urobilinogen (Group:UA-UROBI)  count: 1
+patient_num: 1000000104  laboratory code: LOINC:5799-2  name: WBC Screen (Group:UA-WBC)  count: 1

@@ -1,0 +1,78 @@
+**Visit Information:**
+
+- Patient Num: 1000000087
+- Visit Date: 08/15/2001
+
+**Subjective:**
+
+This is a 47-year-old Asian male who has been cared for at our clinic over the last four years. He communicates primarily in Spanish and has presented today for a routine follow-up. The patient reports experiencing increased fatigue and generalized body weakness over the past few months. He also mentions headaches which occur intermittently, several times a week, varying from a dull ache to a more noticeable discomfort localized to his temples. There are no associated symptoms of nausea or photophobia, and the headaches are partly alleviated with over-the-counter acetaminophen.
+
+Regarding his past medical history, the patient has been regularly managing hypertension with Lisinopril 20 mg daily and hyperlipidemia with Atorvastatin 10 mg daily, both with satisfactory control. He has a history of chronic bronchitis and was also treated for an episode of unspecified sinusitis. In terms of surgical history, he underwent an appendectomy approximately ten years ago, with an uneventful recovery.
+
+He admits to moderate alcohol consumption, primarily on weekends, but denies any smoking or use of recreational drugs. He works in an office setting leading a relatively sedentary lifestyle, with slight incorporation of physical activity such as weekend walks with his family. 
+
+The patient denies having any known food or drug allergies. He adds that the fatigue worsens towards the latter part of the day and that rest provides some relief, though it is not completely alleviated. The dull headaches also tend to worsen in the latter part of the day and are marginally helped by acetaminophen.
+
+**Objective:**
+
+- **Vital Signs:**
+  - Blood Pressure: 138/84 mmHg
+  - Heart Rate: 75 beats per minute
+  - Respiratory Rate: 18 breaths per minute
+  - Temperature: 98.6°F
+  - Oxygen Saturation: 98% on room air
+
+- **General Appearance:**
+The patient looks well-nourished and is in no acute distress, though he appears slightly tired.
+
+- **Cardiovascular:**
+Regular rate and rhythm, no murmurs, rubs, or gallops. Peripheral pulses are palpable and equal bilaterally.
+
+- **Respiratory:**
+Clear to auscultation bilaterally without wheezes, rales, or rhonchi.
+
+- **Abdomen:**
+Soft and non-tender without organomegaly or masses. Normal bowel sounds present.
+
+- **Musculoskeletal:**
+Full range of motion in extremities, no joint swelling or deformities observed.
+
+- **Neurological:**
+Patient is alert and oriented to person, place, and time. Cranial nerves II-XII are intact, and no focal neurological deficits are noted.
+
+- **Skin:**
+Skin is warm, dry, and without rashes, lesions, or unusual markings.
+
+Lab results from recent blood work showed slightly elevated cholesterol and LDL levels, which are currently being managed with statin therapy. Renal function tests, including creatinine and blood urea nitrogen, were observed to be within normal ranges, and no abnormalities were noted in electrolyte levels (sodium, potassium, chloride, and carbon dioxide). Hematologic parameters reflected normal ranges for hemoglobin, hematocrit, and full blood count, although mild variations in lymphocytes and neutrophils were present, requiring ongoing monitoring.
+
+**Assessment:**
+
+1. **Chronic Hypertension:**
+   - Well-controlled with Lisinopril, continue monitoring.
+
+2. **Hyperlipidemia:**
+   - Current management with Atorvastatin, continue lipid panel monitoring.
+
+3. **Chronic Fatigue and Generalized Weakness:**
+   - Potential contributory factors include medication side effects, lifestyle issues, possible thyroid dysfunction or metabolic abnormalities.
+
+4. **History of Chronic Bronchitis:**
+   - Currently stable and not experiencing acute symptoms.
+
+**Plan:**
+
+1. Continue the current medication regimen with Lisinopril for hypertension and Atorvastatin for hyperlipidemia while encouraging a diet low in sodium and cholesterol.
+   
+2. Order a comprehensive metabolic panel to explore the underlying causes of chronic fatigue, including thyroid function tests; repeat lipid profile and complete blood count in six months.
+
+3. Provide patient counseling on lifestyle modifications such as enhanced physical activity and moderate alcohol consumption reduction to improve symptoms of fatigue.
+
+4. Arrange a follow-up visit in three months to review the patient’s updated symptoms and adherence to lifestyle changes, and to evaluate the results of the ordered diagnostic tests.
+
+**Follow-Up:**
+
+- Instruct the patient to contact the clinic if symptoms escalate or fail to improve within a week, or if diagnostic test results necessitate further evaluation. 
+
+**Patient Education & Understanding of the Plan:**
+
+- The patient and his wife were thoroughly informed about the necessity of adhering to the prescribed medication regimen, the importance of lifestyle modifications, and the schedule for follow-up appointments. They both expressed understanding and agreed to the outlined management plan.

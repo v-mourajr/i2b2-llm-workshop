@@ -1,0 +1,21 @@
+demographics
+patient_num: 1000000067  age: 20
+patient_num: 1000000067  sex: F
+patient_num: 1000000067  race: black
+patient_num: 1000000067  language: english
+patient_num: 1000000067  vital_status: alive
+patient_num: 1000000067  earliest fact: Jul 31 2000 12:00AM
+patient_num: 1000000067  latest fact: Aug  3 2000 12:00AM
+patient_num: 1000000067  range in days: 3
+totals
+patient_num: 1000000067  distinct concepts: 5
+patient_num: 1000000067  total facts: 8
+patient_num: 1000000067  total encounters: 3
+patient_num: 1000000067  total asthma: 2
+descriptive
+patient_num: 1000000067  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 2
+patient_num: 1000000067  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 2
+patient_num: 1000000067  diagnosis code: ICD9:786.2  name: Cough  count: 2
+patient_num: 1000000067  diagnosis code: ICD9:786.9  name: Other symptoms involving respiratory system and chest  count: 1
+patient_num: 1000000067  diagnosis code: ICD9:754.81  name: Pectus excavatum  count: 1
+patient_num: 1000000067  diagnosis code: ICD9:079.99  name: Unspecified viral infection in conditions classified elsewhere and of unspecified site  count: 2

@@ -1,0 +1,68 @@
+**Visit Information:**
+- **Patient Num**: 1000000029
+- **Visit Date**: 08/03/2007
+
+**Subjective:**
+This is a 23-year-old Hispanic male who primarily speaks English. He has been under our clinic’s care for approximately nine years. The patient presents today for a follow-up visit concerning his persistent asthma, which often exacerbates in correlation with acute bronchitis episodes. Over the past month, he has experienced increased shortness of breath and wheezing, especially during physical activity and at nighttime. He has been using his albuterol inhaler as needed, which provides partial relief. Recently, he had an episode of acute bronchitis with a productive cough yielding yellow sputum, which lasted for about two weeks and was associated with throat pain. 
+
+The patient also mentions ongoing mental health concerns, including symptoms of depression characterized by low mood, hopelessness, and social withdrawal. His current regimen for asthma and depression includes regular use of inhaled corticosteroids and antidepressants, with no recent changes in these medications. He denies any recent surgeries or significant side effects from his medications.
+
+The patient lives with his parents and is currently a high school student. He maintains a tobacco, alcohol, and recreational drug-free lifestyle. To manage his conditions, he engages in physical activities and follows a balanced diet. He also reports occasional episodes of acute conjunctivitis and allergic rhinitis.
+
+**Objective:**
+
+- **Vital Signs:**
+  - Blood Pressure: 122/78 mmHg
+  - Heart Rate: 80 bpm
+  - Respiratory Rate: 18 breaths/min
+  - Temperature: 98.4°F
+  - Oxygen Saturation: 98% on room air
+
+- **General Appearance:**
+  The patient appears anxious but is alert, cooperative, and in no acute distress. He is well-nourished.
+
+- **Cardiovascular:**
+  Heart sounds are regular with no murmurs, gallops, or rubs.
+
+- **Respiratory:**
+  Mild expiratory wheezes are noted bilaterally, most prominent during forced expiration. No rales or rhonchi are present. Respiratory effort is normal with no accessory muscle use.
+
+- **Abdomen:**
+  The abdomen is soft, non-tender, with normal bowel sounds. No hepatosplenomegaly is noted.
+
+- **Musculoskeletal:**
+  Full range of motion is present in all extremities. There is no swelling, pain, or deformity.
+
+- **Neurological:**
+  The patient is alert and oriented to person, place, and time. Cranial nerves II-XII are intact. Motor and sensory functions are normal without deficits.
+
+- **Skin:**
+  No new lesions or rashes observed. Previously noted benign neoplasms of the skin are unchanged.
+
+**Assessment:**
+The patient shows evidence of poorly controlled asthma exacerbated by a recent episode of acute bronchitis. Persistent depressive symptoms and signs of a psychosis require further mental health evaluation. Additional chronic conditions such as dental caries and weight management issues must continue to be addressed.
+
+**Plan:**
+
+1. **Asthma and Acute Bronchitis:**
+   - Continue albuterol inhaler usage as needed.
+   - Prescribe a 5-day course of oral prednisone (20 mg daily).
+   - Increase the dose of his inhaled corticosteroid (Flovent) to 220 mcg/inh twice daily.
+   - Educate on the use of a peak flow meter and reinforce the asthma action plan. 
+
+2. **Depression and Psychosis:**
+   - Start cognitive-behavioral therapy (CBT) sessions once a week.
+   - Initiate fluoxetine (10 mg daily), with the intention to adjust according to response and tolerance.
+   - Refer to psychiatry for an in-depth evaluation of psychosis symptoms.
+   - Emphasize the importance of adherence to mental health management and regular follow-ups.
+
+3. **Laboratory and Clinical Follow-up:**
+   - Order a complete blood count (CBC) and a comprehensive metabolic panel (CMP) in one month.
+   - Schedule psychological and psychiatric assessments within the next two weeks.
+
+4. **Follow-Up Instructions:**
+   - Advise a follow-up appointment in two weeks to reassess symptoms, the efficacy of treatment, and the possible side effects.
+   - Instruct the patient to contact the clinic if symptoms exacerbate or do not improve within a week, or if adverse reactions occur.
+
+**Patient Education & Understanding:**
+The patient and his family have been counseled on the importance of adhering to the treatment plan and monitoring for medication side effects. Non-pharmacologic measures, such as maintaining a healthy lifestyle and managing stress, were discussed. The patient has indicated his understanding of the treatment plan and the importance of immediate communication should any new concerns arise.

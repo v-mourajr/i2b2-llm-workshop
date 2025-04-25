@@ -1,0 +1,50 @@
+**Visit Information:**
+- Patient Num: 1000000042
+- Visit Date: 07/05/2007
+
+**Subjective:**
+This is a 29-year-old Black female who has been receiving care at our clinic for approximately five years. She speaks English and presents today for a follow-up regarding her asthma, which has been particularly troublesome lately. Over the past week, she has reported an increase in wheezing and shortness of breath, primarily occurring at night. Additionally, she has experienced frequent coughing episodes that are dry in nature. She notes that these symptoms are exacerbated by cold air and exercise but sees some improvement indoors and when using her inhaler.
+
+The patient's medical history includes multiple asthma exacerbations, episodes of acute bronchitis, chronic cough, and disturbances in skin sensation. Obstetric history reveals monitoring for threatened premature labor and other antepartum conditions. She is currently taking prenatal multivitamins and reports strict adherence to her inhaler regimen but expresses that her rescue inhaler only provides temporary relief. She has a history of tobacco use disorder and is actively trying to quit smoking.
+
+No known medication allergies have been reported. The patient has employed various non-pharmacological interventions for managing her symptoms, including staying hydrated, avoiding cold environments, and practicing breathing exercises with some relief.
+
+**Objective:**
+- **Vital Signs:**
+  - Blood Pressure: 122/78 mmHg
+  - Heart Rate: 84 bpm
+  - Respiratory Rate: 20 breaths per minute
+  - Temperature: 98.7°F
+  - Oxygen Saturation: 95%
+  
+- **Physical Exam:**
+  - **General Appearance:** The patient appears alert but visibly fatigued. She is well-nourished and in no immediate distress.
+  - **Cardiovascular:** Regular heart rate and rhythm with no murmurs, gallops, or rubs noted.
+  - **Respiratory:** Bilateral wheezing on expiration with a prolonged expiratory phase. No stridor or crackles. The patient breathes with effort but denies chest pain.
+  - **Abdomen:** The abdomen is soft, non-tender, and non-distended with normal bowel sounds and no hepatosplenomegaly.
+  - **Musculoskeletal:** Normal range of motion, no deformities or tenderness in the joints.
+  - **Neurological:** The patient is alert, oriented, and exhibits no focal deficits.
+  - **Skin:** No rashes or lesions. Skin turgor is normal with no cyanosis or pallor.
+
+- **Laboratory Results:**
+  - Hematocrit, hemoglobin, and white blood cell counts are within normal ranges.
+  - Urine analysis shows traces of glucose and ketones, but no significant abnormalities noted.
+
+**Assessment:**
+Based on the current evaluation, the primary diagnosis remains asthma, unspecified without mention of status asthmaticus. Secondary conditions include acute bronchitis and chronic cough, with tertiary issues such as disturbances in skin sensation and chronic pain in the limbs. Pregnancy-related conditions including previous monitoring for threatened premature labor are also pertinent to her current health status.
+
+**Plan:**
+To address the patient's exacerbation of asthma:
+
+1. **Medications:** Continue with her current albuterol inhaler as needed. Initiate a daily inhaled corticosteroid (Flovent) to control inflammation.
+2. **Devices:** Provide a spacer to improve inhaler efficacy and ensure proper instructions are given for its use.
+3. **Lifestyle Modifications:** Advise the patient to minimize exposure to cold air and smoke, promote staying indoors during high pollen days, and continue smoking cessation efforts.
+4. **Follow-Up:** Schedule a follow-up appointment in one week to reassess lung function and control of asthma symptoms. The patient is advised to contact the clinic immediately if symptoms, such as increased shortness of breath or significant reduction in peak flow readings, worsen.
+
+For her antenatal care:
+1. **Supplements:** Ensure the continuation of prenatal vitamins.
+2. **Monitoring:** Conduct routine fetal monitoring to mitigate risks associated with premature labor. Advise on recognizing warning signs for early labor and when to seek urgent care.
+3. **Education:** Provide comprehensive education regarding the importance of consistent antenatal visits and symptom tracking.
+
+**Follow-Up:**
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if new concerning symptoms arise. The patient acknowledges comprehension of the management plan and agrees to continue with the recommended follow-up care.

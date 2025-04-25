@@ -1,0 +1,64 @@
+demographics
+patient_num: 1000000111  age: 41
+patient_num: 1000000111  sex: M
+patient_num: 1000000111  race: black
+patient_num: 1000000111  language: english
+patient_num: 1000000111  vital_status: alive
+patient_num: 1000000111  earliest fact: Dec  5 1997 12:00AM
+patient_num: 1000000111  latest fact: Nov 16 2001 12:00AM
+patient_num: 1000000111  range in days: 1442
+totals
+patient_num: 1000000111  distinct concepts: 58
+patient_num: 1000000111  total facts: 191
+patient_num: 1000000111  total encounters: 31
+patient_num: 1000000111  total asthma: 11
+descriptive
+patient_num: 1000000111  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 12
+patient_num: 1000000111  diagnosis code: ICD9:465.9  name: Acute upper respiratory infections of unspecified site  count: 1
+patient_num: 1000000111  diagnosis code: ICD9:477.8  name: Allergic rhinitis due to other allergen  count: 2
+patient_num: 1000000111  diagnosis code: ICD9:477.9  name: Allergic rhinitis, cause unspecified  count: 2
+patient_num: 1000000111  diagnosis code: ICD9:995.3  name: Allergy, unspecified, not elsewhere classified  count: 2
+patient_num: 1000000111  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 12
+patient_num: 1000000111  diagnosis code: ICD9:427.9  name: Cardiac dysrhythmia, unspecified  count: 1
+patient_num: 1000000111  diagnosis code: ICD9:786.2  name: Cough  count: 1
+patient_num: 1000000111  diagnosis code: ICD9:99.23  name: Injection of steroid  count: 2
+patient_num: 1000000111  diagnosis code: ICD9:99.29  name: Injection or infusion of other therapeutic or prophylactic substance  count: 1
+patient_num: 1000000111  diagnosis code: ICD9:V68.1  name: Issue of repeat prescriptions  count: 1
+patient_num: 1000000111  diagnosis code: ICD9:272.4  name: Other and unspecified hyperlipidemia  count: 3
+patient_num: 1000000111  diagnosis code: ICD9:786.59  name: Other chest pain  count: 1
+patient_num: 1000000111  diagnosis code: ICD9:87.49  name: Other chest x-ray  count: 1
+patient_num: 1000000111  diagnosis code: ICD9:478.1  name: Other diseases of nasal cavity and sinuses  count: 1
+patient_num: 1000000111  diagnosis code: ICD9:786.09  name: Other dyspnea and respiratory abnormality  count: 3
+patient_num: 1000000111  diagnosis code: ICD9:93.94  name: Respiratory medication administered by nebulizer  count: 2
+patient_num: 1000000111  diagnosis code: ICD9:987.9  name: Toxic effect of unspecified gas, fume, or vapor  count: 2
+patient_num: 1000000111  diagnosis code: ICD9:786.50  name: Unspecified chest pain  count: 1
+patient_num: 1000000111  diagnosis code: ICD9:401.9  name: Unspecified essential hypertension  count: 7
+patient_num: 1000000111  diagnosis code: ICD9:244.9  name: Unspecified hypothyroidism  count: 1
+patient_num: 1000000111  laboratory code: LOINC:704-7  name: Abs Basos Auto (Group:ABASOS)  count: 2
+patient_num: 1000000111  laboratory code: LOINC:711-2  name: Abs EOS Auto (Group:AEOS)  count: 2
+patient_num: 1000000111  laboratory code: LOINC:731-0  name: Abs Lymphs Auto (Group:ALYMPHS)  count: 2
+patient_num: 1000000111  laboratory code: LOINC:742-7  name: Abs Monos Auto (Group:AMONOS)  count: 2
+patient_num: 1000000111  laboratory code: LOINC:752-6  name: Abs Neuts Auto (Group:ANEUTS)  count: 2
+patient_num: 1000000111  laboratory code: LOINC:1798-8  name: Amylase (Group:AMY)  count: 1
+patient_num: 1000000111  laboratory code: LOINC:10466-1  name: Anion Gap (Group:ANION)  count: 1
+patient_num: 1000000111  laboratory code: LOINC:706-2  name: Basophils - Auto (Group:BASOS)  count: 2
+patient_num: 1000000111  laboratory code: LOINC:3094-0  name: Blood Urea Nitrogen (Group:BUN)  count: 2
+patient_num: 1000000111  laboratory code: LOINC:2028-9  name: Carbon Dioxide (Group:CO2)  count: 2
+patient_num: 1000000111  laboratory code: LOINC:2075-0  name: Chloride (Group:CL)  count: 2
+patient_num: 1000000111  laboratory code: LOINC:2160-0  name: Creatinine (Group:CRE)  count: 2
+patient_num: 1000000111  laboratory code: LOINC:713-8  name: Eosinophils - Auto (Group:EOS)  count: 2
+patient_num: 1000000111  laboratory code: LOINC:6777-7  name: Glucose (Group:GLU)  count: 2
+patient_num: 1000000111  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 3
+patient_num: 1000000111  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 3
+patient_num: 1000000111  laboratory code: LOINC:736-9  name: Lymphocytes - Auto (Group:LYMPHS)  count: 2
+patient_num: 1000000111  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 3
+patient_num: 1000000111  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 3
+patient_num: 1000000111  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 3
+patient_num: 1000000111  laboratory code: LOINC:5905-5  name: Monocytes - Auto (Group:MONOS)  count: 2
+patient_num: 1000000111  laboratory code: LOINC:770-8  name: Neutrophils - Auto (Group:POLYS)  count: 2
+patient_num: 1000000111  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 3
+patient_num: 1000000111  laboratory code: LOINC:2823-3  name: Potassium (Group:K)  count: 2
+patient_num: 1000000111  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 3
+patient_num: 1000000111  laboratory code: LOINC:788-0  name: RDW (Group:RDW)  count: 2
+patient_num: 1000000111  laboratory code: LOINC:2951-2  name: Sodium (Group:NA)  count: 2
+patient_num: 1000000111  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 3

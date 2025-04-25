@@ -1,0 +1,48 @@
+Visit Information:
+- Patient Num: 1000000012
+- Visit Date: 12/29/2004
+
+This is a 14-year-old Black female presenting for follow-up of her previously diagnosed asthma and recent episodes of pharyngitis and otitis media. The patient, a Spanish speaker, comes in with her mother, who reports ongoing issues with sore throat, ear pain, and difficulty hearing. Notably, there have been multiple visits for similar complaints over the years, including acute otitis media and pharyngitis.
+
+Subjective:
+The patient reports that for the past month, she has been experiencing recurrent bouts of sore throat and ear pain, predominantly on the right side. Symptom onset was gradual, with the sore throat characterized by pain on swallowing and exacerbated at night. Ear pain is intermittent and worsens while lying down. A course of amoxicillin was initiated two weeks ago with partial relief. However, the mother is concerned about the frequency of these infections and occasional headaches. 
+
+Past Medical History includes multiple episodes of acute pharyngitis, acute suppurative otitis media, acute cystitis, and nasopharyngitis. She is also closely monitored for asthma.
+
+She is currently taking amoxicillin for the ear infection and daily chewable multivitamins. Previous antibiotic courses for similar infections gave only transient relief.
+
+The patient lives with her non-smoking family and attends school with regular involvement in physical activities such as soccer. Her performance in school is good, and there is no exposure to pets. The family speaks Spanish primarily. No known drug allergies are reported.
+
+Additional subjective details include the consistent use of non-pharmacological methods, such as warm saline gargles and a nighttime humidifier, to manage symptoms. The patient expresses frustration with her symptoms but remains in good spirits, with no significant changes in appetite or weight.
+
+Objective:
+Vital signs during the visit are as follows: Blood Pressure at 110/70 mmHg, Heart Rate at 88 bpm, Respiratory Rate at 18/min, Temperature at 98.6°F, and Oxygen Saturation at 98% on room air. 
+
+On physical examination, she appears well-nourished with no acute distress. Cardiovascular examination reveals a regular heart rhythm without murmurs. Respiratory examination shows clear lung fields without wheezes or crackles. The abdomen is soft, non-tender, with no hepatosplenomegaly. Musculoskeletal examination indicates full range of motion without joint tenderness or swelling. The neurological exam is unremarkable with intact cranial nerves. Skin examination reveals no rashes or lesions; skin is warm and dry.
+
+Assessment:
+1. Recurrent acute pharyngitis:
+   Likely secondary to chronic or recurrent infections, potentially exacerbated by allergic rhinitis.
+   - Diagnostic Tests: Throat culture to rule out group A streptococcus, and a CBC to evaluate for underlying infection.
+   - Plan: Continue amoxicillin and consider ENT referral for further evaluation if non-responsive. Initiate antihistamine and saline gargles.
+
+2. Recurrent suppurative otitis media:
+   Likely due to underlying Eustachian tube dysfunction, necessitating further evaluation.
+   - Diagnostic Tests: Tympanometry and hearing test.
+   - Plan: Start a steroid nasal spray to reduce inflammation and refer to audiology for further management if needed.
+
+3. Asthma management:
+   Asthma control to be re-evaluated given recurrent upper respiratory infections.
+   - Diagnostic Tests: None indicated at this visit but monitor for symptoms.
+   - Plan: Reinforce adherence to asthma action plan and ensure environmental triggers are minimized.
+
+Plan:
+- Continue the current antibiotic course. Consider a referral to an ENT specialist and an audiologist if symptoms persist beyond the treatment period.
+- Conduct throat cultures and CBC to direct appropriate treatment for pharyngitis.
+- Implement a steroid nasal spray for the next two weeks and reassess ear pain. 
+- Patient education emphasized on the importance of medication adherence, hand hygiene, and environmental controls to manage allergic symptoms.
+- The patient and her mother were instructed to contact the clinic if symptoms worsen or fail to improve within a week.
+
+Follow-Up:
+- Return to the clinic in two weeks for a follow-up appointment to review results and reassess symptoms.
+- Educate the patient and family on recognizing signs of complications and maintaining adherence to the treatment plan. The patient and her mother confirmed their understanding of the management plan and agreed to follow it as instructed.

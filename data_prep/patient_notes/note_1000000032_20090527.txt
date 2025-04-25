@@ -1,0 +1,44 @@
+**Visit Information:**
+- Patient Num: 1000000032
+- Visit Date: 05/27/2009
+
+**Subjective:**
+This is a 14-year-old Indian girl who speaks Spanish and has been a patient at our clinic for approximately 9 years, primarily for respiratory conditions. She comes in today with her mother, presenting with complaints of worsening nasal congestion, a persistent productive cough that is more pronounced at night, progressive rhinorrhea, and intermittent difficulty in breathing over the past week. These symptoms are consistent with her chronic history of asthma, variably classified as unspecified, sometimes with status asthmaticus. She also has a documented history of acute nasopharyngitis, bronchitis, croup, cystic fibrosis, and episodes of acute bronchiolitis.
+
+Currently, she adheres to a routine medication regimen including a daily low-dose inhaled corticosteroid for asthma management and a short-acting bronchodilator for acute symptoms. For her current symptoms, she has been using over-the-counter antihistamines and saline nasal drops with partial symptomatic relief. Her environment is smoke-free, as neither of her parents smoke, and she maintains regular school attendance with no noticeable impact on her activities of daily living. No additional allergies have been reported beyond her respiratory conditions.
+
+Symptom onset occurred one week ago, initially presenting with nasal congestion and a nocturnal productive cough. Despite her breathing remaining generally stable, she has experienced episodes of wheezing.
+
+**Objective:**
+Vital signs for today are notable for a blood pressure of 102/64 mmHg, heart rate of 105 bpm, respiratory rate of 24 breaths per minute, temperature of 37.3°C (99.1°F), and oxygen saturation at 98% on room air. 
+
+- **General Appearance:** The patient appears well-nourished, alert, active, and not in acute distress.
+- **Cardiovascular:** The heart sounds are regular, with no murmurs, gallops, or rubs detected.
+- **Respiratory:** Mild nasal congestion is observed. Lung auscultation reveals clear breath sounds bilaterally, without wheezes or crackles, and normal respiratory effort.
+- **Abdomen:** The abdomen is soft, non-tender, with normal bowel sounds and no organomegaly.
+- **Musculoskeletal:** Exhibits normal range of motion in all extremities.
+- **Neurological:** The patient is age-appropriately interactive and cooperative, demonstrating no abnormalities.
+- **Skin:** No rashes or lesions observed.
+
+**Assessment:**
+The current clinical assessment identifies the following concerns:
+1. Acute nasopharyngitis (common cold).
+2. Asthma, unspecified type, without mention of status asthmaticus.
+3. Routine child health check.
+
+**Plan:**
+1. **Acute Nasopharyngitis:** 
+   - Continue the use of over-the-counter antihistamines and saline nasal drops to alleviate nasal congestion. Increase fluid intake and ensure the patient gets adequate rest.
+   - Monitor symptoms closely for signs suggesting secondary infection or worsening, like persistent high fever, worsening cough, or increased respiratory distress.
+
+2. **Asthma Management:**
+   - Reaffirm adherence to the daily low-dose inhaled corticosteroid regimen.
+   - Ensure proper usage of the short-acting bronchodilator as needed for acute symptoms.
+   - Educate the patient and her mother on recognizing early warning signs of an asthma exacerbation, emphasizing the importance of immediate intervention.
+
+3. **Routine Child Health Check:**
+   - Schedule a routine follow-up visit in two weeks.
+   - Provide anticipatory guidance related to her stage of development and reinforce the importance of maintaining a smoke-free environment.
+
+**Follow-Up:**
+The patient and her mother are instructed to return to the clinic if her symptoms worsen or do not show significant improvement within a week. Emergent follow-up care details have been explained, and instructions have been provided to contact the clinic should any concerns arise before the scheduled follow-up. The patient and her mother demonstrate understanding and agree with the management plan.

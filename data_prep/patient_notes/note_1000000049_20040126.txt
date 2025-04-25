@@ -1,0 +1,90 @@
+**Visit Information:**
+- **Patient Num:** 1000000049
+- **Visit Date:** January 26, 2004
+
+---
+
+**Subjective:**
+
+This is a 39-year-old Black male who speaks Spanish and has been a patient at our clinic for several years, primarily for asthma management. He presents today for a follow-up visit with complaints of worsening asthma symptoms, including increased wheezing and shortness of breath, over the past two weeks. These exacerbations are particularly troubling at night and during physical activity. 
+
+The patient reports a history of severe asthma episodes, including previous status asthmaticus, alongside ongoing allergic rhinitis. He notes that his inhaler usage has intensified recently, using his albuterol inhaler beyond the recommended frequency. Additionally, he admits to occasional lapses in his prescribed daily low-dose inhaled corticosteroid regime, attributing non-adherence to forgetfulness and misunderstanding the importance of consistent use. 
+
+In terms of his broader medical history, the patient has experienced episodic generalized and unspecified abdominal pain, for which no specific surgical interventions have been carried out. He employs over-the-counter antihistamines sporadically for his allergic rhinitis.
+
+Socially, he lives with his family and works in construction, which increases his exposure to dust and similar irritants. He is a non-smoker, does not drink alcohol, and strives to maintain a balanced diet. The patient has expressed that his physical activity has diminished due to his recurrent respiratory difficulties. He has no known drug allergies but manages seasonal allergies with OTC medications.
+
+Main reported symptoms at this visit are persistent cough with nocturnal chest tightness and episodic wheezing exacerbated by dust exposure. He uses a humidifier at night and practices breathing exercises, finding moderate relief.
+
+---
+
+**Objective:**
+
+- **Vital Signs:**
+    - **Blood Pressure:** 115/80 mmHg
+    - **Heart Rate:** 78 bpm
+    - **Respiratory Rate:** 24 breaths per minute
+    - **Temperature:** 98.7°F
+    - **Oxygen Saturation:** 95% on room air
+
+- **General Appearance:**
+    The patient is alert, oriented, and appears in mild respiratory distress, yet well-nourished and hydrated.
+
+- **Cardiovascular:**
+    Normal S1 and S2 heart sounds, no murmurs, rubs, or gallops noted.
+
+- **Respiratory:**
+    Bilateral wheezing detected, especially in lower lung regions. No cyanosis or use of accessory muscles observed. Symmetrical lung expansion with overall clear breath sounds aside from noted wheezing.
+
+- **Abdomen:**
+    Soft, non-tender, non-distended abdomen with normal bowel sounds.
+
+- **Musculoskeletal:**
+    Full range of motion in all joints, no abnormalities noted.
+
+- **Neurological:**
+    Fully alert and oriented × 3, cranial nerves intact, and normal motor and sensory responses.
+
+- **Skin:**
+    Warm, dry skin with no rashes or lesions.
+
+Recent lab results are within normal ranges for several repeated tests, including Hematocrit, Hemoglobin, Mean Corpuscular Volume, White Blood Cell count, Blood Urea Nitrogen, Creatinine, Sodium, Potassium, Chloride, Carbon Dioxide, and Absolute Neutrophils, Monocytes, and Lymphocytes.
+
+---
+
+**Assessment:**
+
+The primary clinical impression is poorly controlled asthma, possibly exacerbated by occupational exposures and inconsistent medication adherence. 
+
+Additional considerations include:
+- Allergic rhinitis, likely contributing to respiratory symptoms.
+- History of episodic abdominal pain, managed conservatively.
+- Potential musculoskeletal implications from repetitive physical labor.
+
+---
+
+**Plan:**
+
+1. **Asthma Management:**
+    - Reinforce correct inhaler technique and consider a spacer to improve medication administration.
+    - Introduce a daily leukotriene receptor antagonist to the current regimen.
+    - Revisit and personalize the asthma action plan focusing on trigger identification and management.
+    - Schedule follow-ups for consistent monitoring and timely intervention.
+
+2. **Allergic Rhinitis Management:**
+    - Continue OTC antihistamines.
+    - Implement measures to reduce allergen exposure at work, including potential use of protective masks.
+
+3. **Lifestyle and Occupational Adjustments:**
+    - Advise on reducing exposure to respiratory irritants.
+    - Suggest ergonomic adjustments at work to mitigate musculoskeletal strain.
+
+---
+
+**Follow-Up:**
+
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if any new concerning symptoms arise. Emphasize the importance of adhering to medication regimens and consistent follow-up. Plan for a follow-up visit in four weeks to reassess asthma control and overall health.
+
+**Patient Education:**
+
+Extensively discussed the importance of correct and consistent use of asthma medications. Addressed strategies to identify and avoid triggers, particularly in the workplace. Reinforced the need for regular use of non-pharmacological interventions like humidifiers and breathing exercises. The patient understands and agrees with the management plan for asthma and associated conditions. He commits to enhancing his treatment adherence and scheduling the next follow-up.

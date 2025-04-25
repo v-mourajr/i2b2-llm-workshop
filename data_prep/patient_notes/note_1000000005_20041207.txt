@@ -1,0 +1,70 @@
+Visit Information:
+- Patient Num: 1000000005
+- Visit Date: 12/07/2004
+
+Subjective:
+This is a 32-year-old Hispanic female who has been receiving care at our clinic for several years. She presents today for a follow-up of her chronic asthma, which has worsened recently due to environmental changes. She describes an increase in episodes of shortness of breath and wheezing, particularly nocturnal, along with a non-productive cough that has persisted for the last week. The patient reports increased usage of her albuterol inhaler, which provides only partial relief.
+
+The patient's history includes multiple past occurrences of respiratory infections. Her current medications consist of a daily combination inhaler (fluticasone/salmeterol) and albuterol as a rescue inhaler. The patient adheres to her medication regimen, although the increased use of the rescue inhaler indicates suboptimal asthma control. She reports no recent hospitalizations for asthma-related issues.
+
+The patient lives with her family and works as a cashier, where she is frequently exposed to various respiratory irritants. She has a history of cocaine and opioid abuse but denies current use. She does not smoke and does not consume alcohol. She has no known allergies and has undergone an episiotomy in the past during childbirth but no other surgeries. Her lifestyle factors include standing for prolonged periods and engaging with many customers at her job, which may aggravate her symptoms.
+
+Objective:
+- Vital Signs:
+  - Blood Pressure: 120/78 mmHg
+  - Heart Rate: 84 bpm
+  - Respiratory Rate: 22 breaths per minute
+  - Temperature: 98.6°F (37°C)
+  - Oxygen Saturation: 94% on room air
+
+- General Appearance:
+The patient appears well-groomed, slightly anxious, and exhibits mild tachypnea. She is using accessory muscles for respiration but is in no acute distress.
+
+- Cardiovascular:
+No abnormalities detected. Heart sounds are regular with no murmurs, gallops, or rubs.
+
+- Respiratory:
+Bilateral wheezing is present, notably in the lower lobes, with diminished air entry bilaterally. No rales or rhonchi are observed.
+
+- Abdomen:
+Soft, non-tender, and non-distended with normal bowel sounds.
+
+- Musculoskeletal:
+No signs of joint swelling or deformities. The patient exhibits normal strength and range of motion in all extremities.
+
+- Neurological:
+Cranial nerves II-XII are grossly intact. Reflexes are 2+ and symmetrical, and muscle strength is normal.
+
+- Skin:
+Clear and healthy with no rashes or lesions.
+
+Assessment:
+- Primary Diagnosis:
+  Chronic asthma exacerbated by recent environmental triggers.
+
+- Secondary Diagnoses:
+  - History of recurrent respiratory infections
+  - Routine urinalysis abnormalities including amorphous crystals, bacteria, bilirubin, casts, and protein suggest further evaluation for potential urinary tract issues or a systemic condition.
+
+Plan:
+1. **Asthma Management:**
+   - Continue current inhalers: fluticasone/salmeterol for maintenance and albuterol for rescue.
+   - Initiate a short course of oral corticosteroids (prednisone) for five days to manage the current exacerbation.
+   - Consider adjusting the dose of fluticasone/salmeterol if there is no improvement post-steroids.
+
+2. **Follow-Up Testing:**
+   - Order spirometry to assess lung function and severity of asthma.
+   - Obtain a chest X-ray to identify any structural or infectious contributors to the current exacerbation.
+
+3. **Referral:**
+   - Refer to a pulmonologist if symptoms persist or if there is a lack of improvement following the current treatment adjustments.
+
+4. **Lifestyle and Education:**
+   - Educate the patient on identifying asthma triggers, such as dust, smoke, and strong odors, and advise on avoiding these triggers.
+   - Provide training on proper inhaler techniques for optimal medication delivery.
+   - Emphasize the importance of recognizing signs of severe asthma attacks and seeking immediate medical attention if needed.
+
+Follow-Up:
+- Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate a need for further evaluation.
+- Schedule a follow-up appointment in two weeks to assess the patient's response to treatment and make any necessary adjustments.
+- The patient confirms understanding of the treatment plan, including medication adjustments, follow-up testing, and avoidance of asthma triggers.

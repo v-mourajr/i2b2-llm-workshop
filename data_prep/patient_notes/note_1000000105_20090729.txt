@@ -1,0 +1,85 @@
+**Visit Information:**
+- Patient Number: 1000000105
+- Visit Date: 07/29/2009
+
+**Subjective:**
+
+This is a 67-year-old Hispanic male who speaks German, presenting today for a follow-up visit. The patient continues to suffer from consistent asthma symptoms, reporting frequent wheezing, dyspnea, and nocturnal cough that produces clear sputum. He notes that these symptoms are exacerbated by exposure to cold air and physical activity. Despite adhering to his prescribed regimen of a long-acting beta agonist and corticosteroid inhaler, he has observed a notable decline in their effectiveness over the last month.
+
+The patient's medical history is significant for chronic obstructive asthma, atrial fibrillation, bipolar affective disorder, cardiomegaly, coronary atherosclerosis, and essential hypertension. He also has esophageal reflux, gout, lumbar spinal stenosis, and morbid obesity. He has undergone significant cardiovascular procedures including left heart cardiac catheterization and coronary arteriography.
+
+His current medications include asthma inhalers, antihypertensive agents, statins for hypercholesterolemia, anticoagulants, allopurinol for gout, and SSD AF cream for skin issues. He leads a primarily sedentary lifestyle and maintains an unrestricted diet. There are no known drug allergies.
+
+**Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 150/92 mmHg
+- Heart Rate: 84 beats per minute
+- Respiratory Rate: 18 breaths per minute
+- Temperature: 99.0°F
+- Oxygen Saturation: 92% on room air
+
+**General Appearance:**
+The patient appears well-nourished but exhibits mild dyspnea on exertion. He is alert, oriented, and in no acute distress.
+
+**Cardiovascular:**
+Examination reveals a regular heart rate and rhythm. No murmurs, gallops, or rubs are noted. Peripheral pulses are palpable and equal bilaterally.
+
+**Respiratory:**
+Inspection reveals mild use of accessory muscles. Auscultation of the chest reveals diffuse expiratory wheezes throughout both lung fields, and a prolonged expiratory phase; there are no crackles or rhonchi.
+
+**Abdomen:**
+The abdomen is soft and non-tender on palpation. Bowel sounds are normal. There is no hepatosplenomegaly or abdominal masses.
+
+**Musculoskeletal:**
+Tenderness is noted along the lumbar spine with a restricted range of motion due to pain. There are no joint swelling, deformities, or effusions.
+
+**Neurological:**
+No focal neurological deficits noted. Motor strength is 5/5 in all extremities, sensory examination is intact, and reflexes are 2+ and symmetrical.
+
+**Skin:**
+The skin is warm and dry, with no rashes or lesions.
+
+**Laboratory Results:**
+Liver and renal function tests including AST, ALT, BUN, and Creatinine are within normal limits. The patient's LDL cholesterol remains elevated despite statin therapy.
+
+**Assessment:**
+
+1. **Asthma (Unspecified and Chronic Obstructive):** The current exacerbation is likely attributed to environmental triggers and a potential decrease in medication efficacy.
+2. **Atrial Fibrillation:** The condition appears controlled with the current medication regimen.
+3. **Bipolar Disorder:** Mood remains stable, with no recent episodes reported.
+4. **Coronary Artery Disease and Essential Hypertension:** Blood pressure remains elevated, requiring ongoing treatment adjustment.
+5. **Lumbar Spinal Stenosis and Disc Displacement:** Chronic lower back pain persists, currently managed through physical therapy.
+6. **Hypercholesterolemia:** Elevated LDL levels despite ongoing statin therapy.
+7. **Gout and Esophageal Reflux:** Both conditions are stable with current medications and lifestyle modifications.
+
+**Plan:**
+
+1. **Asthma:**
+   - Increase the dosage of the corticosteroid inhaler to better manage the exacerbation.
+   - Add a leukotriene receptor antagonist to the current treatment regimen.
+   - Schedule a follow-up pulmonary function test to monitor progress and assess any need for further treatment adjustments.
+   - Advise the patient to avoid known triggers, specifically cold air and strenuous physical activity.
+
+2. **Atrial Fibrillation:**
+   - Continue current anticoagulation and rhythm control medications.
+   - Regularly monitor heart rate and rhythm.
+
+3. **Bipolar Disorder:**
+   - Maintain the current pharmacotherapy.
+   - Schedule a follow-up appointment with a psychiatrist in three months for reevaluation.
+
+4. **Lumbar Pain:**
+   - Continue physical therapy and nonsteroidal anti-inflammatory drugs (NSAIDs) for pain management.
+   - Consider an orthopedic consultation if symptoms persist or worsen.
+
+5. **Hypertension and Hypercholesterolemia:**
+   - Continue antihypertensive therapy and statins.
+   - Reassess in three months with repeat lipid profile and blood pressure measurements.
+
+6. **Gout and Esophageal Reflux:**
+   - Continue with current allopurinol regimen and dietary guidelines for gout.
+   - Maintain proton pump inhibitors and recommended dietary measures for reflux management.
+
+**Follow-Up:**
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week. Schedule the next visit for three months or sooner based on test results. Engage the patient in a discussion about medication adherence and necessary lifestyle modifications for better disease control. The patient indicates understanding and agrees to the outlined treatment plan.

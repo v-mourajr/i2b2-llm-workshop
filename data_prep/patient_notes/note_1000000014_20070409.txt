@@ -1,0 +1,76 @@
+**Visit Information:**
+
+- Patient Num: 1000000014
+- Visit Date: 04/09/2007
+
+**Subjective:**
+
+This is a 52-year-old White male who speaks German and has been under our clinic's care for approximately ten years. He presents today for a regular follow-up visit concerning his asthma. The patient's asthma, previously diagnosed and managed with an inhaled corticosteroid (Fluticasone) and a Albuterol inhaler for acute symptoms, has shown stability but with ongoing mild symptoms. He reports experiencing episodes of wheezing and shortness of breath, particularly during physical exertion and at night, albeit less frequent with his current therapy. He denies any recent hospitalizations for asthma exacerbations or significant changes in health status.
+
+The patient also has a diagnosis of chronic rhinitis, typically managed with Loratadine and nasal corticosteroids, and experiences occasional sinus congestion. Additionally, he mentions dealing with atypical facial pain and frequent ingrown nails, both of which he manages with over-the-counter pain relief when necessary.
+
+Medications: 
+- Fluticasone inhaler, 2 puffs twice daily for asthma management
+- Albuterol inhaler, as needed for acute bronchospasm
+- Loratadine, 10 mg daily for chronic rhinitis
+
+The patient denies any known drug or food allergies. He previously stated adherence to a balanced diet and a sedentary lifestyle, which he has been attempting to improve with increased physical activity. He is a non-smoker and works in an office environment.
+
+**Objective:**
+
+- Vital Signs:
+  - Blood Pressure: 128/84 mmHg
+  - Heart Rate: 78 bpm
+  - Respiratory Rate: 17 breaths per minute
+  - Temperature: 36.6°C
+  - Oxygen Saturation: 97% on room air
+
+- General Appearance: The patient is well-groomed, alert, and appears in no acute distress.
+
+- Cardiovascular: Normal S1 and S2 heart sounds without any murmurs, rubs, or gallops.
+
+- Respiratory: Mild bilateral expiratory wheezing noted upon auscultation, otherwise clear lung fields. No crackles or rhonchi were noted, and the patient maintained good air movement.
+
+- Abdomen: Soft, non-tender, and non-distended with normal bowel sounds auscultated.
+
+- Musculoskeletal: Normal range of motion across all extremities with no joint abnormalities or tenderness observed.
+
+- Neurological: The patient is alert and oriented to time, place, and person. Cranial nerves II through XII are intact, and motor and sensory exams are within normal limits.
+
+- Skin: The skin is intact with no new rashes or lesions. The patient's previous sebaceous cysts and neoplasms have shown no signs of progression.
+
+Routine laboratory tests including blood counts, renal and liver function (including ALT, AST), and pulmonary function tests were all within normal limits. Follow-up on immune markers (IgE, ESR) and blood glucose and lipid profiles showed no aberrant findings.
+
+**Assessment:**
+
+Primary: Asthma, unspecified without mention of status asthmaticus.
+Secondary: Chronic rhinitis.
+Tertiary: Atypical facial pain, ingrowing nails, sebaceous cysts, and benign neoplasms of the skin.
+
+The patient's asthma appears moderately controlled, with occasional breakthrough symptoms indicating a need for reassessment of the current therapeutic strategy to ensure optimal management.
+
+**Plan:**
+
+1. **Asthma Management:**
+   - Continue with Fluticasone inhaler, 2 puffs twice daily.
+   - Continue Albuterol inhaler as needed for acute bronchospasm.
+   - Consider adding a long-acting beta-agonist (Salmeterol) if symptoms persist.
+   - Regular review of inhaler technique and adherence to ensure correct usage.
+   - Schedule spirometry for comprehensive lung function assessment and ongoing monitoring.
+
+2. **Chronic Rhinitis:**
+   - Maintain current Loratadine regimen.
+   - Reinforce patient education on allergen avoidance and environment control measures.
+   - Consider intermittent use of nasal corticosteroids (Fluticasone Propionate nasal spray) for persistent nasal congestion.
+
+3. **Lifestyle and Supportive Measures:**
+   - Encourage gradual increase in physical activity to enhance cardiovascular and pulmonary fitness.
+   - Discuss ergonomic adjustments at the workplace to reduce respiratory irritants.
+   - Periodic review of ingrown nails and recommendations for preventive foot care.
+
+4. **Additional Testing:**
+   - Continue routine laboratory evaluations including CBC, renal and liver function panels, lipid profiles, and glucose monitoring to identify any emerging health issues.
+
+**Follow-Up:**
+
+The patient was instructed to contact the clinic if symptoms worsen or do not improve within a week, or if test results suggest the need for further evaluation. A follow-up appointment is scheduled in four to six weeks to reassess asthma control and overall health status. Patient education was provided regarding the importance of adherence to treatment, lifestyle modifications, and monitoring of symptoms. The treatment plan was clearly explained, and the patient confirmed understanding and agreement with the proposed strategies.

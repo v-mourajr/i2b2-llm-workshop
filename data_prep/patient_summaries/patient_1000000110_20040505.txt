@@ -1,0 +1,51 @@
+demographics
+patient_num: 1000000110  age: 33
+patient_num: 1000000110  sex: M
+patient_num: 1000000110  race: hispanic
+patient_num: 1000000110  language: german
+patient_num: 1000000110  vital_status: alive
+patient_num: 1000000110  earliest fact: Apr  2 2001 12:00AM
+patient_num: 1000000110  latest fact: May  5 2004 12:00AM
+patient_num: 1000000110  range in days: 1129
+totals
+patient_num: 1000000110  distinct concepts: 44
+patient_num: 1000000110  total facts: 85
+patient_num: 1000000110  total encounters: 17
+patient_num: 1000000110  total asthma: 2
+descriptive
+patient_num: 1000000110  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 2
+patient_num: 1000000110  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 2
+patient_num: 1000000110  diagnosis code: ICD9:216.5  name: Benign neoplasm of skin of trunk, except scrotum  count: 1
+patient_num: 1000000110  diagnosis code: ICD9:228.01  name: Hemangioma of skin and subcutaneous tissue  count: 2
+patient_num: 1000000110  diagnosis code: ICD9:V07.2  name: Need for prophylactic immunotherapy  count: 1
+patient_num: 1000000110  diagnosis code: ICD9:V05.8  name: Need for prophylactic vaccination and inoculation against other specified disease  count: 1
+patient_num: 1000000110  diagnosis code: ICD9:238.2  name: Neoplasm of uncertain behavior of skin  count: 1
+patient_num: 1000000110  diagnosis code: ICD9:239.5  name: Neoplasm of unspecified nature of other genitourinary organs  count: 1
+patient_num: 1000000110  diagnosis code: ICD9:702.19  name: Other seborrheic keratosis  count: 2
+patient_num: 1000000110  diagnosis code: ICD9:608.89  name: Other specified disorders of male genital organs  count: 1
+patient_num: 1000000110  diagnosis code: ICD9:786.52  name: Painful respiration  count: 1
+patient_num: 1000000110  diagnosis code: ICD9:V70.0  name: Routine general medical examination at a health care facility  count: 2
+patient_num: 1000000110  diagnosis code: ICD9:780.2  name: Syncope and collapse  count: 2
+patient_num: 1000000110  laboratory code: LOINC:706-2  name: Basophils - Auto (Group:BASOS)  count: 1
+patient_num: 1000000110  laboratory code: LOINC:3094-0  name: Blood Urea Nitrogen (Group:BUN)  count: 1
+patient_num: 1000000110  laboratory code: LOINC:2028-9  name: Carbon Dioxide (Group:CO2)  count: 1
+patient_num: 1000000110  laboratory code: LOINC:2075-0  name: Chloride (Group:CL)  count: 1
+patient_num: 1000000110  laboratory code: LOINC:2160-0  name: Creatinine (Group:CRE)  count: 1
+patient_num: 1000000110  laboratory code: LOINC:X2012-1  name: Differential Request (Group:DIFFR)  count: 1
+patient_num: 1000000110  laboratory code: LOINC:713-8  name: Eosinophils - Auto (Group:EOS)  count: 1
+patient_num: 1000000110  laboratory code: LOINC:6777-7  name: Glucose (Group:GLU)  count: 1
+patient_num: 1000000110  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 1
+patient_num: 1000000110  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 1
+patient_num: 1000000110  laboratory code: LOINC:736-9  name: Lymphocytes - Auto (Group:LYMPHS)  count: 1
+patient_num: 1000000110  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 1
+patient_num: 1000000110  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 1
+patient_num: 1000000110  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 1
+patient_num: 1000000110  laboratory code: LOINC:5905-5  name: Monocytes - Auto (Group:MONOS)  count: 1
+patient_num: 1000000110  laboratory code: LOINC:770-8  name: Neutrophils - Auto (Group:POLYS)  count: 1
+patient_num: 1000000110  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 1
+patient_num: 1000000110  laboratory code: LOINC:2823-3  name: Potassium (Group:K)  count: 1
+patient_num: 1000000110  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 1
+patient_num: 1000000110  laboratory code: LOINC:11273-0  name: RBC Morph Auto (Group:RCM-A)  count: 1
+patient_num: 1000000110  laboratory code: LOINC:788-0  name: RDW (Group:RDW)  count: 1
+patient_num: 1000000110  laboratory code: LOINC:2951-2  name: Sodium (Group:NA)  count: 1
+patient_num: 1000000110  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 1

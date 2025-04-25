@@ -1,0 +1,72 @@
+**Visit Information:**
+- Patient Num: 1000000080
+- Visit Date: 07/06/2009
+
+**Subjective:**
+This is a 35-year-old Indian male who speaks English and has been under our care for over a decade. He presents today for a follow-up appointment due to his ongoing management of moderate persistent asthma. The patient reports that over the past month, he has experienced a worsening of his symptoms. He notes increased frequency of wheezing and coughing, particularly at night, which has disrupted his sleep. Furthermore, he now relies on his Albuterol inhaler approximately ten to twelve times per week. He denies any recent respiratory infections or fevers.
+
+The patient's medical history includes asthma, which has been complicated by recurrent acute exacerbations. He also has a history of gastroesophageal reflux disease (GERD) and attention deficit disorder of childhood with hyperactivity, although the latter seems less relevant to the current issues. His asthma and GERD have been managed with medications and lifestyle adjustments. The patient’s current medications include Beclomethasone inhaler 160 mcg twice daily, Albuterol inhaler as needed, Omeprazole 20 mg once daily, and occasional use of Morphine Sulfate 25 mg/ml solution for severe pain.
+
+Socially, he leads a sedentary lifestyle typical of his profession as a software developer. He maintains a balanced diet, does not smoke, and drinks alcohol only rarely. There are no known medication or food allergies. Recently, he has attempted non-pharmacological interventions such as avoiding outdoor activities during peak pollen times and practicing breathing exercises to manage anxiety during asthma attacks. These have provided limited relief.
+
+**Objective:**
+- **Vital Signs:**
+  - Blood Pressure: 130/85 mmHg
+  - Heart Rate: 88 beats per minute
+  - Respiratory Rate: 22 breaths per minute
+  - Temperature: 98.7°F
+  - Oxygen Saturation: 94% on room air
+
+- **General Appearance:**
+  The patient appears alert, oriented, and in mild respiratory distress. He is otherwise well-groomed and cooperative.
+
+- **Cardiovascular:**
+  Regular rhythm with no murmurs, rubs, or gallops detected.
+
+- **Respiratory:**
+  Notable for bilateral wheezing, predominantly at the bases of the lungs. No crackles or rhonchi are heard.
+
+- **Abdomen:**
+  Soft, non-tender, and non-distended. No hepatosplenomegaly.
+
+- **Musculoskeletal:**
+  Normal muscle strength and tone, full range of motion in all joints, without tenderness or deformity.
+
+- **Neurological:**
+  The patient is fully oriented with normal reflexes and no apparent neurological deficits.
+
+- **Skin:**
+  Warm and dry, no rashes, lesions, or signs of infection noted.
+
+- **Laboratory Findings:**
+  Recent labs indicate stable renal function and normal hepatic panels. Electrolytes and glucose levels are within normal limits.
+
+**Assessment:**
+1. **Asthma, moderate persistent:**
+   The patient currently exhibits suboptimal control over asthma symptoms. Increased reliance on the rescue inhaler and physical findings of bilateral wheezing suggest the need for therapy adjustment.
+
+2. **Gastroesophageal reflux disease (GERD), stable:**
+   The condition remains controlled with Omeprazole, no new or worsening symptoms reported.
+
+3. **Hypertension, controlled:**
+   Blood pressure readings indicate well-managed hypertension, no recent episodes of hypertensive urgency or emergency.
+
+**Plan:**
+1. **Asthma:**
+   - Increase Beclomethasone inhaler to 320 mcg twice daily.
+   - Continue using Albuterol inhaler as needed.
+   - Order a repeat spirometry test to evaluate lung function and monitor for changes indicative of worsening asthma.
+   - Provide a peak flow meter and educate the patient on its daily use to monitor asthma control.
+   - Discuss the avoidance of known asthma triggers and reinforce proper inhaler technique.
+   - Consider a referral to a pulmonologist for specialized management if the patient's symptoms do not improve with medication adjustments.
+
+2. **GERD:**
+   - Continue Omeprazole 20 mg daily.
+   - Advise the patient to maintain dietary and lifestyle modifications to minimize GERD symptoms.
+
+3. **Hypertension:**
+   - Maintain current antihypertensive regimen.
+   - Encourage routine home blood pressure monitoring and reporting of any abnormal readings.
+
+**Follow-Up:**
+Instruct the patient to contact the clinic if asthma symptoms worsen or remain uncontrolled within the coming week, or if new symptoms arise. A follow-up appointment is scheduled for four weeks to review spirometry results and reassess asthma management. The patient has been educated on the management plan and expressed understanding and commitment to follow it.

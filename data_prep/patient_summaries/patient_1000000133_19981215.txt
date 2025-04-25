@@ -1,0 +1,20 @@
+demographics
+patient_num: 1000000133  age: 6
+patient_num: 1000000133  sex: F
+patient_num: 1000000133  race: asian
+patient_num: 1000000133  language: spanish
+patient_num: 1000000133  vital_status: alive
+patient_num: 1000000133  earliest fact: Sep 24 1998 12:00AM
+patient_num: 1000000133  latest fact: Dec 15 1998 12:00AM
+patient_num: 1000000133  range in days: 82
+totals
+patient_num: 1000000133  distinct concepts: 6
+patient_num: 1000000133  total facts: 10
+patient_num: 1000000133  total encounters: 7
+descriptive
+patient_num: 1000000133  diagnosis code: ICD9:462  name: Acute pharyngitis  count: 1
+patient_num: 1000000133  diagnosis code: ICD9:832.01  name: Closed anterior dislocation of elbow  count: 3
+patient_num: 1000000133  diagnosis code: ICD9:278.0  name: Obesity  count: 2
+patient_num: 1000000133  diagnosis code: ICD9:719.43  name: Pain in joint involving forearm  count: 2
+patient_num: 1000000133  diagnosis code: ICD9:845.10  name: Unspecified site of foot sprain  count: 1
+patient_num: 1000000133  diagnosis code: ICD9:079.99  name: Unspecified viral infection in conditions classified elsewhere and of unspecified site  count: 1

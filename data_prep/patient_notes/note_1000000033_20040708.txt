@@ -1,0 +1,58 @@
+**Visit Information:**
+ - Patient Num: 1000000033
+ - Visit Date: 07/08/2004
+
+**Subjective:**
+This is a 24-year-old Asian male who is primarily a Spanish speaker and has been under our clinic’s care for seven years. He presents today for a follow-up appointment concerning his ongoing asthma management. His asthma has been previously categorized as both unspecified without mention of status asthmaticus and extrinsic asthma without mention of status asthmaticus. Over the past month, he reports an increase in wheezing, shortness of breath, and nocturnal coughing which has disrupted his sleep. His albuterol inhaler use has increased to daily use, providing only transient relief. The patient denies any episodes of fever, chest pain, hematemesis, or hemoptysis.
+
+In addition to his respiratory complaints, the patient has a history of recurrent acute pharyngitis, abdominal pain, and recent weight loss. He has no recent hospital admissions or emergency department visits. The patient currently uses an albuterol inhaler for acute episodes and fluticasone propionate as a daily maintenance medication but admits to occasionally missing his evening doses of the latter. No herbal supplements or other medications are reported.
+
+The patient, a high school student, lives at home with his parents. He does not smoke or consume alcohol. The home environment includes fans but no pets, which can sometimes aggravate his asthma symptoms due to stirred dust.
+
+**Objective:**
+ - **Vital Signs:**
+   - Blood Pressure: 115/75 mmHg
+   - Heart Rate: 82 bpm
+   - Respiratory Rate: 18 breaths/min
+   - Temperature: 37.0°C
+   - Oxygen Saturation: 97% on room air
+  
+ - **General Appearance:**
+   The patient appears alert, slightly anxious but not in acute distress.
+ 
+ - **Cardiovascular:**
+   Regular rate and rhythm with no murmurs, rubs, or gallops.
+ 
+ - **Respiratory:**
+   Bilateral wheezing observed, especially on exhalation, with mild intercostal retractions. Chest is symmetrically expanding. No crackles or rhonchi detected.
+ 
+ - **Abdomen:**
+   The abdomen is soft and non-tender with normal bowel sounds in all quadrants.
+ 
+ - **Musculoskeletal:**
+   Examination reveals normal muscle tone and strength without joint swelling or tenderness.
+ 
+ - **Neurological:**
+   The patient is fully alert and oriented with intact cranial nerves II-XII.
+ 
+ - **Skin:**
+   The skin is clear without any rashes, lesions, or significant abnormalities. Normal turgor and color are present.
+
+**Assessment:**
+The primary diagnosis of asthma, unspecified and extrinsic without mention of status asthmaticus, remains pertinent. The recent exacerbation is likely related to dust exposure within his home environment. His history is significant for acute pharyngitis, abdominal pain, and weight loss, with anxiety also playing a role in his overall well-being.
+
+**Plan:**
+- **Asthma Management:**
+  1. Reinforce adherence to prescribed medications, including regular use of fluticasone propionate, and proper technique using the albuterol inhaler.
+  2. Provide patient with a spacer to enhance medication delivery.
+  3. Counsel the patient on environmental control measures, such as using HEPA filters and maintaining a dust-free environment.
+  4. Schedule a follow-up visit in four weeks, with instructions to return sooner if symptoms persist or worsen.
+  
+- **Environmental Control:**
+  - Referral to a social worker for assessment and recommendations to improve home living conditions, focusing on identifying and mitigating asthma triggers.
+  
+- **General Care:**
+  - Reiterate instructions for contacting the clinic if symptoms worsen or fail to improve within a week.
+  - Review and ensure the patient understands the asthma action plan, including emergency care procedures.
+  
+Patient education was provided, emphasizing the importance of medication adherence and avoidance of triggers. The patient expressed understanding and agreement with the plan. Immediate follow-up will be necessary if there are any concerns with symptom management.

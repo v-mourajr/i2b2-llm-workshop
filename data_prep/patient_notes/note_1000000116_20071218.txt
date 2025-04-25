@@ -1,0 +1,38 @@
+Visit Information:
+- Patient Num: 1000000116
+- Visit Date: 12/18/2007
+
+This is a 12-year-old Black male who has been receiving care at our clinic for approximately eight years. He speaks Spanish and presents today, 12/18/2007, for a follow-up visit primarily due to an exacerbation of his asthma symptoms. The patient has been diagnosed with asthma, including both unspecified types and extrinsic asthma without status asthmaticus. He has a history of various respiratory conditions such as acute bronchiolitis due to RSV and bacterial pneumonia, as well as conjunctivitis and atopic dermatitis.
+
+**Subjective:**
+
+The patient and his mother report continued exacerbation of his asthma symptoms over the past several days, characterized by frequent coughing, wheezing, and persistent difficulty in breathing, especially noted at night and following any physical activity. Additionally, his mother reports he has displayed increased fatigue and a decreased appetite but has not had a fever. His asthma, previously well-controlled with Albuterol and Fluticasone, appears to have worsened despite adherence to his medication regimen as prescribed. The patient's mother has been administering nebulizer treatments with some relief, but she remains concerned due to the heightened frequency and intensity of these exacerbations.
+
+Socially, the patient lives in an urban setting with his mother and younger sibling. He attends fourth grade and typically participates actively in school and home activities, although his engagement often is limited by his asthma. The patient does not have exposure to tobacco smoke at home. There are no known allergies. The current symptoms began abruptly five days ago, and they are exacerbated notably by physical activity, causing significant nocturnal distress. 
+
+**Objective:**
+
+Vital signs today include a blood pressure of 100/64 mmHg, heart rate of 102 beats per minute, respiratory rate of 25 breaths per minute, temperature of 98.7°F, and oxygen saturation of 92% on room air.
+
+On general examination, the patient appears somewhat distressed from breathing difficulties yet remains alert. Cardiovascular exam findings include a regular heart rate and rhythm without murmurs. Respiratory examination reveals bilateral wheezes more pronounced on expiration, mild intercostal retractions, and diminished air entry in both lung bases; no rhonchi or stridor are appreciated. The abdomen is soft, non-tender, and non-distended, with normal bowel sounds. Musculoskeletal examination shows normal tone and strength, with no joint abnormalities. Neurologically, he is fully alert and oriented, with normal speech and appropriate interactions. His skin appears dry, warm, and free from obvious rashes or lesions.
+
+**Assessment:**
+
+The clinical impression is that the patient is experiencing an acute exacerbation of his asthma, potentially triggered by environmental or viral factors. There is also the chronic management concern of maintaining effective control over his asthma to prevent future exacerbations. Concomitantly, issues of potential upper respiratory infections or allergies contributing to the current state should be considered.
+
+**Plan:**
+
+For the acute exacerbation of asthma:
+1. Continuation of Albuterol inhalation therapy with increased frequency to every four hours during acute symptoms.
+2. Maintenance of Fluticasone for long-term asthma control.
+3. Initiation of a short course of oral corticosteroids, such as Prednisone, to reduce airway inflammation.
+4. Monitoring peak flow rates at home and possible chest X-ray if symptoms persist or worsen.
+5. Consideration of singulair (Montelukast) as an adjunct therapy for better control during such episodes.
+
+The patient's mother is instructed to ensure strict adherence to the medication regimen and to monitor his symptoms closely. She has been educated on recognizing the signs of exacerbation that warrant prompt medical attention. A follow-up appointment has been scheduled in one week to assess the treatment response, and they are instructed to contact the clinic immediately if symptoms do not improve or worsen.
+
+The mother verbalized understanding of the plan and agreed to the management and follow-up instructions. If frequent exacerbations continue despite the current measures, a referral to a pediatric pulmonologist will be considered for further specialized asthma management.
+
+**Follow-Up:**
+
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. A follow-up appointment is scheduled for next week to re-evaluate his asthma control and response to the current treatment plan. The mother fully understands the education provided and agrees to the outlined plan.

@@ -1,0 +1,46 @@
+**Visit Information:**
+- Patient Num: 1000000090
+- Visit Date: 05/30/2010
+
+**Subjective:**
+The patient in question is a 43-year-old Indian male who speaks German and has been under our care for several years. He is presenting today for a follow-up visit to manage his asthma and related conditions. The patient reports that his asthma remains a significant concern, characterized by episodes of shortness of breath, wheezing, and nocturnal awakenings. Despite the regular use of his albuterol inhaler, he achieves only partial relief.
+
+The patient also has a history of allergic rhinitis, with exposure to various allergens causing symptoms such as sneezing, nasal congestion, and itchy eyes. He has experienced intermittent abdominal pain, which does not correlate with dietary changes or stress factors. He also occasionally suffers from joint pain in unspecified locations, with no recent injuries to provide an explanation.
+
+His medication regimen includes albuterol for asthma, Allegra for allergic rhinitis, Celexa for depressive symptoms, Flonase for nasal symptoms, and lorazepam for anxiety. He reports mild palpitations following the use of his inhaler but otherwise has no significant medication issues. 
+
+Socially, the patient works in an office setting with limited physical activity but makes an effort to engage in moderate exercise. He does not smoke and has no known drug or food allergies.
+
+**Objective:**
+Vital Signs:
+- Blood Pressure: 118/78 mmHg
+- Heart Rate: 78 bpm
+- Respiratory Rate: 18 breaths per minute
+- Temperature: 98.6°F
+- Oxygen Saturation: 97% on room air
+
+The patient appears alert, oriented, and well-nourished without acute distress. A cardiac examination reveals a regular rhythm without murmurs or other abnormal sounds. Peripheral pulses are normal and symmetric. In the respiratory examination, the lung fields are clear to auscultation at rest, but mild expiratory wheezes are detected on forced exhalation. The abdomen is soft, non-tender, with normal bowel sounds and no palpable masses. The musculoskeletal exam presents with full range of motion in all extremities, and there is no joint swelling. Neurological assessment shows intact cranial nerve function, strength, and reflexes that are symmetrical.
+
+The skin examination notes mild eczematous changes on the eyelids and some residual acne lesions without signs of infection. Recent laboratory studies, including liver function tests and a complete blood count, returned within normal limits.
+
+**Assessment:**
+1. Asthma, unspecified without mention of status asthmaticus.
+2. Extrinsic asthma exacerbated by allergens.
+3. Allergic rhinitis due to multiple allergens.
+4. Eczematous dermatitis of the eyelids.
+5. Chronic non-specific abdominal pain, likely functional dyspepsia.
+6. Nonspecific joint pain.
+
+**Plan:**
+1. Continue albuterol as needed for acute asthma symptoms. Consider prescribing a combination inhaler containing a long-acting beta-agonist and inhaled corticosteroid for better symptom control. Monitor peak expiratory flow rates regularly.
+2. Maintain the current Allegra regimen for allergic rhinitis. Add an intranasal corticosteroid (such as Flonase) if symptoms persist. Recommend allergen avoidance strategies.
+3. For eczematous dermatitis, advise regular use of moisturizers and over-the-counter antihistamines.
+4. Encourage regular physical exercise and proper hydration to possibly alleviate joint discomfort.
+5. Schedule a follow-up in four weeks to reassess asthma and allergy management.
+6. Inform the patient to seek immediate care for acute exacerbations of asthma and to contact the clinic if there's no improvement in symptoms within a week.
+
+The patient has been educated on the importance of adhering to the treatment plans and emergency protocols for asthma exacerbations. He confirms understanding and agrees with the proposed management plan.
+
+**Follow-Up:**
+- Schedule a follow-up appointment in four weeks.
+- Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if new symptoms arise.

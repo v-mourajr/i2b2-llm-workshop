@@ -1,0 +1,54 @@
+### Visit Information:
+- **Patient Num:** 1000000024
+- **Visit Date:** 05/23/2010
+
+### Subjective:
+A 32-year-old Black male has been receiving care at our clinic for several years. He presents today, 05/23/2010, for a follow-up appointment primarily concerning his asthma management. The patient reports experiencing ongoing episodes of wheezing, shortness of breath, and chest tightness, which are exacerbated during physical activity and at night. Over the past few months, he has noticed a dry cough that worsens with exertion. Despite adherence to his medication regimen, including regular use of his albuterol inhaler, he continues to experience persistent symptoms and an increased need for reliever medication. There have been occasional nocturnal awakenings due to breathlessness. 
+
+The patient's asthma symptoms have been a recurring issue since childhood, though he has not had any recent hospitalizations for asthma exacerbations. He regularly uses fluticasone as part of his maintenance therapy and has not reported significant side effects from the medication. Socially, he leads an active lifestyle; he is a college student residing in a dormitory and participates in basketball activities. He denies any history of smoking or recreational drug use and only engages in social drinking. There are no known allergies, including environmental or drug-related.
+
+### Objective:
+**Vital Signs:**
+- Blood Pressure: 122/80 mmHg
+- Heart Rate: 72 bpm
+- Respiratory Rate: 18 breaths/min
+- Temperature: 98.6°F (37°C)
+- Oxygen Saturation: 96% on room air
+
+**Physical Examination:**
+The patient appears well-nourished, alert, and in no acute distress. On auscultation, the cardiovascular exam revealed normal S1 and S2 heart sounds without murmurs, gallops, or rubs, and peripheral pulses were symmetrical. The respiratory examination indicated mild expiratory wheezing bilaterally, without significant use of accessory muscles for breathing, although clear lung fields were noted otherwise. The abdominal exam was unremarkable, with a soft and non-tender abdomen, and no organomegaly. The musculoskeletal exam demonstrated a full range of motion without joint tenderness. Neurologically, the patient was alert and oriented to person, place, and time with intact cranial nerves and no focal deficits. The skin examination revealed warm, dry, and intact skin without rashes or lesions.
+
+**Laboratory Findings:**
+Recent laboratory results include normal complete blood count evaluations with white blood cells and differentials, such as neutrophils, eosinophils, and basophils, being within normal limits. Liver function tests, including Aspartate Aminotransferase and other key indicators, were within normal ranges. Electrolyte levels were unremarkable, including sodium and potassium.
+
+### Assessment:
+1. **Primary Diagnosis: Asthma**
+   - Clinical Impression: The patient presents with mild persistent asthma exhibiting recent exacerbations likely induced by physical activity and nocturnal factors.
+   - Differential Diagnosis: The differential includes respiratory infections and allergic rhinitis as secondary contributors to his symptoms.
+
+2. **Secondary Diagnosis: Cardiac Dysrhythmia**
+   - Clinical Impression: The patient's cardiac dysrhythmia remains stable with no new symptoms or episodes since the last visit.
+
+3. **Secondary Diagnosis: Primary Thrombocytopenia**
+   - Clinical Impression: Primary thrombocytopenia appears stable with current blood results indicating normal platelet counts.
+
+### Plan:
+1. **Asthma Management:**
+   - Continue using albuterol inhaler for acute symptom relief.
+   - Increase the dosage of the maintenance inhaler (fluticasone) to manage persistent symptoms.
+   - Recommend spirometry during today's visit to evaluate current lung function and adjust therapy accordingly.
+   - Provide education on asthma triggers, medication adherence, and proper inhaler use.
+
+2. **Cardiac Dysrhythmia:**
+   - Monitor for symptoms or episodes with no new treatment needed at this time, given the stable presentation.
+
+3. **Primary Thrombocytopenia:**
+   - Continue routine monitoring of platelet counts at regular intervals during follow-up visits.
+
+### Follow-Up:
+- Schedule allergen testing to identify potential triggers if symptoms persist.
+- Arrange a follow-up appointment in one month to reassess asthma control and make any necessary adjustments.
+- Instruct the patient to seek immediate medical care if he experiences severe breathlessness, unresponsive exacerbations, or the onset of new, concerning symptoms.
+- Reinforce education on recognizing signs of asthma exacerbations and the importance of adherence to prescribed medication regimens.
+
+The patient was encouraged to keep a symptom diary, noting triggers and response to medications to provide a clearer picture at the next visit. Instructed to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.

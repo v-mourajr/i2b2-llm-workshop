@@ -1,0 +1,48 @@
+**Visit Information:**
+
+- **Patient Num:** 1000000048
+- **Visit Date:** November 13, 2009
+
+**Subjective:**
+
+This is a 15-year-old Hispanic female with a primary language of Spanish, returning to the clinic for follow-up regarding ongoing headaches and episodes of dizziness. The patient's mother accompanies her today and reports persistent and worsening symptoms despite adhering to the previously advised management plan. The patient’s medical history includes conditions such as adjustment reaction with mixed emotional features, recurrent upper respiratory infections, and esophageal reflux, for which she takes omeprazole with good effect. She has also been treated for acute pharyngitis and diaper rash in the past. Current usage of ibuprofen is noted for headache relief, and there are no reported herbal supplement intakes. The mother is actively involved in her care.
+
+The patient's living situation is stable, being cared for primarily by her mother in a single-parent household. Socially, the patient is well-integrated but has noted recent increased school absences due to headaches described as persistent, throbbing, and predominantly frontal, becoming more severe in the afternoons. Dizziness is described as lightheadedness, particularly pronounced upon rapid changes in posture. The patient denies fevers, nausea, or visual disturbances, and no new medications or treatments have been introduced since the last visit. Known allergies include penicillin, which causes a mild rash.
+
+**Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 110/70 mmHg
+- Heart Rate: 90 bpm
+- Respiratory Rate: 18 breaths per minute
+- Temperature: 36.8°C (98.2°F)
+- Oxygen Saturation: 99%
+
+**Physical Examination:**
+- **General Appearance:** The patient appears well-nourished, alert, and oriented, though she exhibits signs of mild fatigue.
+- **Cardiovascular:** Regular heart rhythm with no detected murmurs, rubs, or gallops.
+- **Respiratory:** Clear lung fields with no wheezing or abnormal breath sounds.
+- **Abdomen:** The abdomen is soft and non-tender, with no palpable masses or organomegaly.
+- **Musculoskeletal:** No joint swelling, tenderness, or limitations were observed. Full range of motion is intact.
+- **Neurological:** Mild difficulty detected with tandem gait; otherwise, deep tendon reflexes are normal, cranial nerve function is intact, and motor strength is 5/5 throughout.
+- **Skin:** No rashes or lesions were identified, including stable remnants of diaper rash.
+
+Recent lab results exhibited slight leukocytosis but were otherwise unremarkable, with a noted resolution of mild bacteriuria on recent urinalysis.
+
+**Assessment:**
+
+The clinical presentation strongly suggests a diagnosis of tension-type headache, given the described quality, location, and timing of the pain. The associated episodes of dizziness may be indicative of orthostatic hypotension. Esophageal reflux continues to be well-controlled with omeprazole, without exacerbations.
+
+**Plan:**
+
+1. **Headache Management:** Continue over-the-counter ibuprofen on an as-needed basis for pain relief, ensuring adherence to proper dosing intervals. Emphasize non-pharmacological approaches such as rest, adequate hydration, and maintaining a regular sleep schedule.
+
+2. **Management of Dizziness:** Reinforce the importance of adequate fluid intake to improve hydration status and advise the patient to avoid rapid positional changes that could precipitate dizziness. Monitor dietary balance to prevent any nutritional deficiencies that could contribute to symptoms.
+
+3. **Diagnostic Workup:** Plan to conduct an orthostatic blood pressure series to confirm or rule out orthostatic hypotension should dizziness persist. Additionally, consider monitoring hemoglobin and hematocrit to exclude anemia as a contributing factor.
+
+4. **Caregiver Education:** Inform the patient and her mother about signs indicating worsening conditions, such as severe or persistent headaches unrelieved by medication, or dizziness affecting daily activities. Stress proper hydration and safe postural changes.
+
+5. **Follow-Up:** Arrange a follow-up appointment in two weeks to reassess the patient's condition, headache frequency, and the effectiveness of the current interventions. Adjust the treatment plan based on clinical findings and symptom progression.
+
+Instruct the patient's caregiver to contact the clinic if her symptoms worsen or fail to improve within the advised period, or if any new concerning symptoms emerge. Provide reassurance and support to the patient and her caregiver as they navigate through managing the current symptoms.

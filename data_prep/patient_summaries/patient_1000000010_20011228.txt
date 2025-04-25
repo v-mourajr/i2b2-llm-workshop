@@ -1,0 +1,45 @@
+demographics
+patient_num: 1000000010  age: 26
+patient_num: 1000000010  sex: F
+patient_num: 1000000010  race: hispanic
+patient_num: 1000000010  language: english
+patient_num: 1000000010  vital_status: alive
+patient_num: 1000000010  earliest fact: May 28 1999 12:00AM
+patient_num: 1000000010  latest fact: Dec 28 2001 12:00AM
+patient_num: 1000000010  range in days: 945
+totals
+patient_num: 1000000010  distinct concepts: 38
+patient_num: 1000000010  total facts: 68
+patient_num: 1000000010  total encounters: 10
+patient_num: 1000000010  total asthma: 1
+descriptive
+patient_num: 1000000010  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 1
+patient_num: 1000000010  diagnosis code: ICD9:462  name: Acute pharyngitis  count: 1
+patient_num: 1000000010  diagnosis code: ICD9:465.9  name: Acute upper respiratory infections of unspecified site  count: 1
+patient_num: 1000000010  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 1
+patient_num: 1000000010  diagnosis code: ICD9:923.00  name: Contusion of shoulder region  count: 1
+patient_num: 1000000010  diagnosis code: ICD9:V06.5  name: Need for prophylactic vaccination and inoculation with Tetanus-diphtheria [Td]  count: 1
+patient_num: 1000000010  diagnosis code: ICD9:959.2  name: Other and unspecified injury to shoulder and upper arm  count: 1
+patient_num: 1000000010  diagnosis code: ICD9:V22.2  name: Pregnant state, incidental  count: 1
+patient_num: 1000000010  diagnosis code: ICD9:V70.0  name: Routine general medical examination at a health care facility  count: 2
+patient_num: 1000000010  diagnosis code: ICD9:842.00  name: Sprain of unspecified site of wrist  count: 3
+patient_num: 1000000010  laboratory code: LOINC:8246-1  name: Amorph Crystals (Group:UAS-AMOR)  count: 1
+patient_num: 1000000010  laboratory code: LOINC:5769-5  name: Bacteria (Group:UAS-BACT)  count: 1
+patient_num: 1000000010  laboratory code: LOINC:5770-3  name: Bilirubin (Group:UA-BILI)  count: 1
+patient_num: 1000000010  laboratory code: LOINC:9439-1  name: Casts (Group:CASTS)  count: 1
+patient_num: 1000000010  laboratory code: LOINC:5778-6  name: Color (Group:UA-COLOR)  count: 1
+patient_num: 1000000010  laboratory code: LOINC:X4005-4  name: Crystals (Group:UAS-CRYS)  count: 1
+patient_num: 1000000010  laboratory code: LOINC:5792-7  name: Glucose - UA (Group:UA-GLUC)  count: 1
+patient_num: 1000000010  laboratory code: LOINC:5797-6  name: Ketones (Group:UA-KET)  count: 1
+patient_num: 1000000010  laboratory code: LOINC:8247-9  name: Mucous (Group:UAS-MUC)  count: 1
+patient_num: 1000000010  laboratory code: LOINC:5802-4  name: Nitrites (Group:UA-NIT)  count: 1
+patient_num: 1000000010  laboratory code: LOINC:5794-3  name: Occult Blood (Group:UA-BLD)  count: 1
+patient_num: 1000000010  laboratory code: LOINC:11279-7  name: Other/Comments (Group:UAS-COM)  count: 1
+patient_num: 1000000010  laboratory code: LOINC:5803-2  name: PH (Group:UA-PH)  count: 1
+patient_num: 1000000010  laboratory code: LOINC:5804-0  name: Protein (Group:UA-ALB)  count: 1
+patient_num: 1000000010  laboratory code: LOINC:5808-1  name: RBC - Urine Sed (Group:UAS-RBC)  count: 1
+patient_num: 1000000010  laboratory code: LOINC:5811-5  name: Specific Gravity (Group:UA-SPGR)  count: 1
+patient_num: 1000000010  laboratory code: LOINC:11277-1  name: Squamous Cells (Group:UAS-SQUA)  count: 1
+patient_num: 1000000010  laboratory code: LOINC:5818-0  name: Urobilinogen (Group:UA-UROBI)  count: 1
+patient_num: 1000000010  laboratory code: LOINC:5821-4  name: WBC - Urine Sed (Group:UAS-WBC)  count: 1
+patient_num: 1000000010  laboratory code: LOINC:5799-2  name: WBC Screen (Group:UA-WBC)  count: 1

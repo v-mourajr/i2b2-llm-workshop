@@ -1,0 +1,100 @@
+Visit Information:
+- Patient Num: 1000000054
+- Visit Date: 11/05/2007
+
+Subjective:
+This is a 64-year-old Asian female who speaks English and has been receiving care at our clinic for over nine years. She presents today for further evaluation of her asthma management. She reports an increase in asthma symptoms, including persistent shortness of breath, wheezing, and a nightly cough that disrupts her sleep. She mentions that these symptoms are exacerbated by exposure to allergens, such as dust and pollen, and physical activities.
+
+In addition to her asthma, she experiences recurring episodes of bronchitis and has a diagnosis of chronic obstructive pulmonary disease (COPD). The patient also mentions chronic joint pain attributed to osteoarthrosis and reports a continuous sense of malaise and fatigue. She has noted occasional episodes of abdominal discomfort without specific triggers.
+
+Her past medical history is significant for endometrial cystic hyperplasia, ganglion of the joint, menopausal symptoms, hyperlipidemia, postmenopausal bleeding, and occasional angina pectoris. She has undergone a closed biopsy of the uterus.
+
+The patient's current medications include:
+- Albuterol inhaler for asthma as needed.
+- Zocor for hyperlipidemia.
+- Provera, Factrel, and Climara for managing menopausal symptoms.
+- Over-the-counter analgesics for joint pain, which provide varying levels of relief.
+
+Social history reveals that she lives alone, leads a relatively sedentary lifestyle due to joint discomfort, and does not smoke, drink alcohol, or use illicit drugs. She has no known allergies.
+
+Objective:
+Vital Signs:
+- Blood Pressure: 135/90 mmHg
+- Heart Rate: 90 bpm
+- Respiratory Rate: 22 breaths per minute
+- Temperature: 98.6°F (37°C)
+- Oxygen Saturation: 94% on room air
+
+General Appearance:
+The patient appears mildly distressed due to her respiratory symptoms, including audible wheezing.
+
+Cardiovascular:
+Cardiac examination reveals a regular rate and rhythm, with no murmurs, rubs, or gallops.
+
+Respiratory:
+The patient exhibits bilateral expiratory wheezing, a prolonged expiratory phase, and mild chest retractions, though no accessory muscle use is observed.
+
+Abdomen:
+The abdomen is soft and non-distended. Mild tenderness is noted in the lower quadrants, with no palpable organomegaly or masses.
+
+Musculoskeletal:
+There is no visible swelling or redness in the joints. The patient reports diffuse joint pain consistent with osteoarthrosis.
+
+Neurological:
+The patient is alert and oriented to person, place, and time. Cranial nerves II-XII are intact, with no observed focal deficits.
+
+Skin:
+The skin examination shows no lesions, rashes, or abnormal changes.
+
+Assessment:
+Primary Diagnosis:
+- Asthma, unspecified, without status asthmaticus.
+
+Secondary Diagnoses:
+- Recurring Bronchitis and COPD
+- Endometrial cystic hyperplasia
+- Osteoarthrosis
+- Malaise and fatigue
+- Abdominal pain, unspecified
+- Hyperlipidemia
+
+Plan:
+
+1. Asthma:
+Assessment:
+The patient is likely experiencing an asthma exacerbation.
+Diagnostic Tests:
+Perform spirometry and peak flow measurements to evaluate current pulmonary function.
+Treatment Plan:
+- Continue using the albuterol inhaler as needed.
+- Initiate inhaled corticosteroid therapy (Fluticasone) to better control symptoms.
+- Educate the patient on the proper inhaler technique and emphasize adherence to the prescribed regimen.
+
+Referral:
+Referral to a pulmonologist for the specialized management of asthma.
+
+2. Bronchitis and COPD:
+Assessment:
+These conditions are likely contributing to the respiratory disturbances.
+Diagnostic Tests:
+Request a chest X-ray to differentiate between chronic and acute changes and repeat comprehensive blood panels, including Total Bilirubin and AST levels, for continuous monitoring.
+Treatment Plan:
+- Encourage symptomatic treatments, such as increased fluid intake and humidity control.
+- Monitor the patient closely for signs of infection or worsening symptoms.
+
+Referral:
+Continue care under a pulmonologist for integrated treatment with asthma.
+
+3. Osteoarthrosis:
+Assessment:
+Chronic osteoarthrosis is causing diffuse joint pain.
+Diagnostic Tests:
+Consider obtaining X-rays of the symptomatic joints.
+Treatment Plan:
+- Recommend physical therapy focused on increasing joint mobility and reducing pain.
+- Continue using over-the-counter analgesics, consider stronger pain relief if needed.
+
+Follow-Up:
+The patient is instructed to contact the clinic if symptoms worsen or do not improve within a week or if test results suggest the need for further evaluation. Schedule a follow-up visit in four weeks to review the effectiveness of the new asthma management plan and assess the impact of any new therapies. Educate the patient on avoiding environmental triggers, adhering to medication regimens, and making lifestyle adjustments to alleviate joint pain.
+
+The patient has been informed and agrees with the management plan, understanding its importance in maintaining her overall health.

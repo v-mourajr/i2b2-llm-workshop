@@ -1,0 +1,67 @@
+Visit Information:
+- Patient Num: 1000000022
+- Visit Date: 12/11/1998
+
+Subjective:
+This is a 33-year-old White male who speaks Spanish and has been receiving care at our clinic for approximately 319 days. He presents today for a follow-up evaluation. The patient reports experiencing increased frequency and severity of his asthma attacks in recent weeks, noting that these episodes are primarily triggered by exposure to cold air and physical exertion. He denies any recent hospitalizations for asthma. 
+
+His medical history is significant for asthma, which is currently managed with a short-acting beta-agonist as needed. He also has a past diagnosis of an abscess of the salivary gland, acute pharyngitis, and acute upper respiratory infections. Additionally, he has experienced alopecia, organic impotence, lumbago, and other acne. He recently noted swelling in the head and neck area, which is of concern.
+
+The patient is currently taking salbutamol inhaler as needed and reports compliance with the treatment regimen. He mentions using over-the-counter ibuprofen for back pain relief related to lumbago and has an over-the-counter acne medication. He denies taking any herbal supplements.
+
+Socially, the patient is a non-smoker, does not consume alcohol, and works in construction, which may contribute to his asthma exacerbations. He is married and supports his family. 
+
+He has no known allergies. He describes his asthma symptoms as wheezing, shortness of breath, and a tight feeling in the chest that typically resolves with rest and medication. He notes that he experiences impotence consistently, which is managed with hormone therapy, as indicated by recent prolactin and testosterone tests.
+
+Objective:
+Vital Signs:
+- Blood Pressure: 124/82 mmHg
+- Heart Rate: 76 beats per minute
+- Respiratory Rate: 18 breaths per minute
+- Temperature: 98.6°F
+- Oxygen Saturation: 96% on room air
+
+General Appearance:
+The patient appears well-developed, well-nourished, and in no acute distress.
+
+Cardiovascular:
+Heart regular in rate and rhythm, no murmurs, gallops, or rubs noted.
+
+Respiratory:
+Mild expiratory wheezing heard bilaterally, especially on forced expiration. No crackles or rhonchi. Chest expansion is symmetrical.
+
+Abdomen:
+Soft and non-tender with normal bowel sounds. No organomegaly or masses detected.
+
+Musculoskeletal:
+Mild tenderness to palpation in the lumbar region. Full range of motion in all extremities.
+
+Neurological:
+Alert and oriented to person, place, and time. Cranial nerves II-XII are intact. No focal deficits noted.
+
+Skin:
+Scalp shows patches of hair loss consistent with alopecia. No acute lesions, rashes, or signs of infection.
+
+Assessment:
+This patient presents with a history of asthma, most likely to be triggered by environmental factors and physical exertion, with recent mild exacerbation. Additionally, he has a history of organic impotence likely secondary to hormone imbalances, managed by hormone therapy.
+
+Problems and Diagnoses:
+1. Asthma, unspecified: The patient's current exacerbation likely due to cold exposure and physical exertion.
+2. Organic impotence: Persistent, managed with hormone therapy.
+3. Alopecia: No acute changes noted.
+4. Acute pharyngitis and upper respiratory infections: Currently resolved.
+5. Lumbago: Mild chronic back pain managed with NSAIDs.
+6. Salivary gland abscess: Resolved.
+7. Acne: Treated with over-the-counter medication.
+
+Plan:
+1. Increase the patient's use of a long-term controller medication for asthma, such as inhaled corticosteroids, while continuing the use of the short-acting beta-agonist for acute episodes.
+2. Educate the patient on avoidance of asthma triggers and proper inhaler technique.
+3. Continue monitoring hormone levels and adjusting treatment as necessary for organic impotence.
+4. Recommend continuation of current management for alopecia and acne, and follow up if symptoms worsen or do not improve.
+5. For lumbago, suggest physical therapy and continued use of NSAIDs as needed. 
+6. Instruct the patient to return to the clinic if symptoms of respiratory infection recur.
+7. Schedule follow-up in 4 weeks to reassess asthma control and adjust treatment as needed.
+
+Follow-Up:
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.

@@ -1,0 +1,66 @@
+**Visit Information:**
+- **Patient Num:** 1000000057
+- **Visit Date:** 10/17/2007
+
+**Subjective:**
+This is a 28-year-old Black female who has been receiving care at our clinic for several years. She speaks German and presents today for a follow-up visit to manage her asthma, a condition which has been problematic, particularly over the past month. She reports experiencing frequent episodes of shortness of breath, chest tightness, and nocturnal wheezing. These symptoms are temporarily alleviated by her inhaled bronchodilator, but recur shortly after. She has also noted increased fatigue, which she attributes to her asthma.
+
+The patient's past medical history includes asthma, anemia of unspecified type, bone cyst of the knee, and a benign neoplasm of the connective tissue of the upper limb. She has previously been treated for acute pharyngitis, has sustained injuries from falls, and has a history of second-degree burns on her hand. She attends routine medical and dental check-ups regularly. She denies any surgeries.
+
+The patient is currently taking an inhaled bronchodilator for asthma and an iron supplement for anemia. She does not use any herbal supplements and has not had any adverse reactions to medications. She is a non-smoker, does not consume alcohol, and does not use illicit drugs. She is a university student living in a dormitory environment, where she is frequently exposed to potential allergens such as dust mites.
+
+There are no known drug allergies. Her symptoms include nocturnal wheezing, chest tightness, exertional dyspnea, and fatigue. She describes her asthma symptoms as moderate and notes they significantly impact her daily activities and studies.
+
+**Objective:**
+- **Vital Signs:**
+  - Blood Pressure: 120/78 mmHg
+  - Heart Rate: 80 bpm
+  - Respiratory Rate: 20 breaths per minute
+  - Temperature: 97.8°F
+  - Oxygen Saturation: 95% on room air
+
+- **General Appearance:** The patient appears well-nourished and well-hydrated but mildly fatigued. She is alert and oriented, in no acute distress.
+
+- **Cardiovascular:** Regular rate and rhythm; no murmurs, gallops, or rubs.
+
+- **Respiratory:** Mild to moderate wheezing noted in all lung fields bilaterally. No use of accessory muscles for respiration, good air entry noted.
+
+- **Abdomen:** Soft, non-tender, no organomegaly, and normal bowel sounds.
+
+- **Musculoskeletal:** No visible deformities, full range of motion in all extremities, no joint tenderness or swelling.
+
+- **Neurological:** Alert and oriented to person, place, and time. Cranial nerves II-XII intact.
+
+- **Skin:** Normal turgor, no rashes, no lesions noted.
+
+Recent laboratory tests have shown:
+- Hemoglobin and Hematocrit levels slightly below normal, consistent with anemia.
+- Normal liver function tests, including aspartate aminotransferase (AST).
+- Urinalysis shows normal bilirubin and ketone levels.
+- Complete blood count, including white blood cell and platelet counts, within normal limits.
+
+**Assessment:**
+The patient primarily presents with moderate persistent asthma, which remains symptomatically uncontrolled with the current use of an inhaled bronchodilator. Secondary diagnoses include anemia of unspecified type and a history of benign neoplasm of the connective tissue in the upper limb.
+
+- **Asthma:** The patient’s nocturnal and exertional symptoms suggest moderate persistent asthma.
+- **Anemia:** The patient's fatigue is consistent with her known anemia, likely secondary to chronic blood loss or inadequate dietary iron.
+- **Benign Neoplasm:** History noted, no current symptoms or treatments are required at this time.
+
+**Plan:**
+1. **Asthma:**
+   - Continue the inhaled bronchodilator as needed.
+   - Initiate an inhaled corticosteroid to improve symptom control.
+   - Educate the patient on the use of a peak flow meter for daily monitoring and maintaining a written asthma action plan.
+   - Advise the patient to minimize exposure to allergens by using allergen-proof bed covers and reducing dust exposure in her living environment.
+   - Schedule a follow-up appointment in 3 months or sooner if symptoms do not improve or worsen.
+
+2. **Anemia:**
+   - Continue the current iron supplementation.
+   - Recommend repeating the complete blood count (CBC) in 3 months to monitor hemoglobin and hematocrit levels.
+
+3. **Routine Health:**
+   - Encourage the patient to continue with regular medical and dental check-ups.
+   - Advise a balanced diet rich in iron and essential nutrients to support overall health. Consider referral to nutritional counseling to ensure adequate dietary intake of iron and vitamins.
+
+**Follow-Up:**
+Instruct the patient to contact the clinic if her symptoms worsen, fail to improve within a week, or if further evaluation is needed based on test results. Reiterate the importance of adherence to the treatment plan and early recognition of asthma exacerbation signs. Ensure the patient understands and agrees with the plan and the need for ongoing condition monitoring.

@@ -1,0 +1,15 @@
+demographics
+patient_num: 1000000044  age: 5
+patient_num: 1000000044  sex: M
+patient_num: 1000000044  race: asian
+patient_num: 1000000044  language: english
+patient_num: 1000000044  vital_status: alive
+patient_num: 1000000044  earliest fact: Dec 31 1998 12:00AM
+patient_num: 1000000044  latest fact: Dec 31 1998 12:00AM
+patient_num: 1000000044  range in days: 0
+totals
+patient_num: 1000000044  distinct concepts: 10
+patient_num: 1000000044  total facts: 10
+patient_num: 1000000044  total encounters: 1
+descriptive
+patient_num: 1000000044  diagnosis code: ICD9:V70.0  name: Routine general medical examination at a health care facility  count: 1

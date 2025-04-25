@@ -1,0 +1,55 @@
+Visit Information:
+    - Patient Num: 1000000058
+    - Visit Date: 01/02/2009
+
+This is a 20-year-old Hispanic male who predominantly speaks Spanish and presents to the clinic for a follow-up concerning his chronic asthma and epilepsy. He has been receiving care since 1997 with frequent visits due to various health conditions. Today, he reports an increase in asthma symptoms over the past week, including nocturnal wheezing and persistent coughing, despite adherence to his prescribed medications.
+
+Subjective:
+The patient lives in a non-smoking household with his parents and younger sister. His chief complaints today include increased nocturnal wheezing and an ongoing cough that have not been alleviated by his usual inhalers. His past medical history is significant for chronic asthma, managed with a daily inhaled corticosteroid and an as-needed Albuterol inhaler, epilepsy controlled with an anticonvulsant medication, recurrent upper respiratory infections, allergies, and previous surgical interventions for an inguinal hernia and varicocele. His mother reports no drug allergies. He is compliant with his medications and follows up with regular appointments. Socially, he is a student, but misses school occasionally due to health issues.
+
+Objective:
+- Vital Signs:
+  - Blood Pressure: 102/68 mmHg
+  - Heart Rate: 89 beats per minute
+  - Respiratory Rate: 22 breaths per minute
+  - Temperature: 37.1°C
+  - Oxygen Saturation: 96% on room air
+- General Appearance:
+  The patient appears slightly anxious but is well-nourished and hydrated, in no acute distress.
+- Cardiovascular:
+  Regular heart rate and rhythm without murmurs, rubs, or gallops.
+- Respiratory:
+  Mild wheezing bilaterally, no retractions or use of accessory muscles, clear breath sounds in the lower lobes.
+- Abdomen:
+  Soft, non-tender, no organomegaly, well-healed surgical scars.
+- Musculoskeletal:
+  Normal tone, strength, no swelling or deformities.
+- Neurological:
+  Alert, oriented, normal reflexes, no focal deficits, epilepsy well-managed with current anticonvulsant.
+- Skin:
+  No rashes or lesions, skin examination is unremarkable.
+
+Assessment:
+This patient remains managed for chronic asthma and epilepsy, with an exacerbation of asthma symptoms despite adherence to therapy. Recent fever has resolved, but nocturnal wheezing and persistent cough persist.
+
+Plan:
+1. Asthma Exacerbation:
+   - Increase the frequency of Albuterol inhaler use as needed for acute symptoms.
+   - Continue daily inhaled corticosteroid as current.
+   - Schedule spirometry for the next visit to assess lung function comprehensively.
+   - Educate the patient and family on proper inhaler techniques, asthma action plan, and the significance of monitoring symptoms.
+
+2. Epilepsy Management:
+   - Continue current anticonvulsant therapy.
+   - Regular monitoring for potential side effects and ensuring adherence to medication.
+
+3. Preventive and Supportive Care:
+   - Ensure proper nutrition and hydration.
+   - Routine follow-up appointments.
+   - Reinforce strategies to reduce asthma triggers at home.
+   - Educate the patient and family on recognizing signs of asthma exacerbation and managing symptoms effectively.
+
+Follow-Up:
+Instruct the patient to contact the clinic if respiratory symptoms worsen or remain unimproved within a week, or if any concerns regarding seizures arise. Comprehensive education on asthma and seizure management provided. Emphasis on medication adherence and preventative measures is essential.
+
+Further instructions include maintaining close monitoring and ensuring family comfort and compliance with the treatment plan.

@@ -1,0 +1,37 @@
+Visit Information:
+- Patient Num: 1000000006
+- Visit Date: 10/22/2001
+
+Subjective:
+A 21-year-old Black female, primarily a Spanish speaker, has been receiving care at our clinic for asthma management for several years. She attends a follow-up visit today because she experiences frequent asthma exacerbations and recurrent episodes of acute pharyngitis. She reports that her asthma symptoms—wheezing, difficulty breathing, and tightness in the chest—are exacerbated by exposure to allergens and physical activity. These episodes occur predominantly at night despite adherence to prescribed medications.
+
+The patient has a history of extrinsic and unspecified asthma, acute suppurative otitis media, conjunctivitis, cellulitis, and various allergies. Her current medication regimen includes albuterol as needed for asthma attacks, a daily inhaled corticosteroid for maintenance of asthma symptoms, and antihistamines to control allergy symptoms. She has been mostly compliant with her medications but struggles with occasional nocturnal symptoms.
+
+Social history reveals she is a university student, single, lives with her parents, and has good family support. She denies smoking, alcohol consumption, and is not sexually active. She has no known drug allergies and has not undergone major surgery.
+
+Objective:
+- Vital Signs:
+  - Blood Pressure: 120/78 mmHg
+  - Heart Rate: 75 bpm
+  - Respiratory Rate: 18 breaths per minute
+  - Temperature: 37.0°C (98.6°F)
+  - Oxygen Saturation: 97% on room air
+
+Upon physical examination, the patient appears well-developed and well-nourished, showing no signs of acute distress. Cardiovascular examination reveals a regular rate and rhythm with no murmurs, rubs, or gallops. On respiratory examination, she is clear to auscultation bilaterally without wheezes or crackles at rest, though mild expiratory wheezes are noted on forced expiration. Abdominal examination shows no tenderness or organomegaly. The musculoskeletal exam indicates full range of motion with no joint swelling or tenderness. Neurologically, she is alert and oriented, with cranial nerves intact. The skin is clear with no rashes or signs of infection.
+
+Assessment:
+The patient presents with asthma, both unspecified and extrinsic, without mention of status asthmaticus. The diagnosis is supported by her history of nocturnal symptoms, episodes triggered by allergens and exercise, and response to inhaled corticosteroids and rescue albuterol. Additional challenges include a history of acute pharyngitis, acute suppurative otitis media, and a variety of allergic reactions.
+
+Assessment of her current condition suggests relatively stable asthma management with periodic exacerbations. Her recurrent pharyngitis episodes and history of otitis media warrant close monitoring.
+
+Plan:
+1. Continue the current asthma management with albuterol PRN and the inhaled corticosteroid daily.
+2. Educate the patient on avoiding allergen triggers and maintaining compliance with medication.
+3. Prescribe a short course of oral antibiotics for acute pharyngitis and loratadine for her allergy symptoms.
+4. Schedule an ENT specialist consultation for recurring otitis media.
+5. Encourage a healthy lifestyle incorporating adequate hydration, a balanced diet, and regular physical activity.
+6. Monitor for acute asthma exacerbations and adherence to treatment. Recommended routine lung function tests to track asthma control.
+7. Instruct the patient to return if symptoms worsen or if there are any signs of a severe asthma attack that do not respond to her usual medication.
+
+Follow-Up:
+The patient should contact the clinic immediately if symptoms worsen or do not improve within a week, or if any new concerning symptoms arise. Another visit is scheduled for four weeks to reassess her condition and make any necessary adjustments to her treatment plan. Patient education on proper medication usage, adherence to her asthma action plan, and allergen avoidance was provided, and she understands and agrees to the follow-up schedule.

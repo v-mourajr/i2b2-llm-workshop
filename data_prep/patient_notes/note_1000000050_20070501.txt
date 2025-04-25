@@ -1,0 +1,47 @@
+**Visit Information:**
+
+- Patient Num: 1000000050
+- Visit Date: 05/01/2007
+
+**Subjective:**
+This is a 19-year-old Black female who has been under our care for several years for the management of asthma. She is a German speaker and presents today for her routine follow-up. The patient reports an increase in episodes of dyspnea and wheezing, especially during physical activity. She uses a prescribed rescue inhaler, which partially relieves her symptoms.
+
+Her past medical history includes asthma, pneumonia, pulmonary collapse, pleural effusion, and respiratory distress syndrome. There is no history of significant surgeries or known allergies to medications.
+
+Currently, she is on Atrovent, Flonase, and Singulair. Her family supports her by minimizing exposure to triggers like dust, cold air, and allergens. 
+
+**Objective:**
+Vital signs:
+- Blood Pressure: 112/72 mmHg
+- Heart Rate: 85 beats per minute
+- Respiratory Rate: 18 breaths per minute
+- Temperature: 98.4°F
+- Oxygen Saturation: 97% on room air
+
+On examination, she is alert, well-nourished, and in no acute distress. Cardiovascular examination shows a regular heart rhythm with no murmurs, gallops, or rubs. Respiratory assessment reveals mild expiratory wheezing bilaterally, diminished breath sounds in the lower lobes, and no use of accessory muscles. The abdomen is soft, non-tender, and without hepatosplenomegaly. Musculoskeletal and neurological exams are normal. Skin is clear with no rashes or lesions.
+
+**Assessment:**
+The primary diagnosis remains asthma, unspecified without mention of status asthmaticus, with secondary diagnoses including recurrent respiratory issues such as pulmonary insufficiency, pneumonia, and episodes of pulmonary collapse.
+
+**Plan:**
+
+1. **Asthma Management:**
+   - Continue current medications: Atrovent, Flonase, and Singulair.
+   - Reinforce the importance of medication adherence and proper use of the rescue inhaler.
+   - Consider a short course of oral corticosteroids if symptoms persist.
+   - Refer to a pulmonologist for further evaluation of recurrent respiratory issues.
+
+2. **Diagnostics:**
+   - Order a chest X-ray to investigate ongoing respiratory issues.
+   - Conduct pulmonary function tests to evaluate asthma control and lung function.
+   - Perform routine blood tests, including a complete blood count and liver function tests.
+
+3. **Follow-Up:**
+   - Advise the patient and family to monitor symptoms and report any worsening.
+   - Schedule follow-up visits every three months or as needed based on symptom control.
+   - Encourage immediate contact if symptoms worsen or do not improve within a week.
+
+**Patient Education & Understanding of the Plan:**
+The patient and her family were educated on the importance of medication adherence, early recognition of asthma exacerbations, and the action plan. They acknowledged understanding and agreed with the care plan.
+
+The patient is scheduled to return in three months for follow-up, with instructions to contact the clinic immediately if there are any concerning changes.

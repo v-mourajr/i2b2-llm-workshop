@@ -1,0 +1,63 @@
+**Visit Information:**
+- Patient Num: 1000000002
+- Visit Date: 05/11/2010
+
+**Subjective:**
+This is a 45-year-old White female who has been receiving care at our clinic for approximately 13 years. She is fluent in Spanish and presents today for a follow-up visit. Her primary complaints include persistent generalized anxiety, which has been exacerbated by recent workplace stressors, as well as chronic headaches, hand pain, and irregular menstrual cycles.
+
+The patient’s medical history is significant for generalized anxiety disorder, major depressive disorder, bacterial pneumonia, cervicalgia, and cervicitis. She previously underwent surgery for a closed ankle fracture. Currently, she is taking Desipramine Hydrochloride 25mg daily for anxiety and depression, Lo/Ovral for contraceptive management, and uses Naproxen 500mg as needed for joint pain, all of which she reports having effective outcomes with no adverse reactions.
+
+Her social history reveals that she lives alone and works full-time as a customer service representative. She indicates limited family support, occasional alcohol consumption, and mentions that she has been in remission from a mild tobacco use disorder. She has no known allergies and does not take any herbal or over-the-counter medications.
+
+The patient mentions that her headaches, which have become more frequent over the past few months, now occur almost daily, primarily presenting as temporal pain. Her hand joint pain has persisted for several months, with notable stiffness in the mornings.
+
+**Objective:**
+- Vital Signs:
+  - Blood Pressure: 120/80 mmHg
+  - Heart Rate: 82 bpm
+  - Respiratory Rate: 16 breaths per minute
+  - Temperature: 98.6°F
+  - Oxygen Saturation: 98%
+
+- General Appearance:
+The patient appears well-nourished and in no acute distress. Mild anxiety is observed, but she remains cooperative throughout the examination.
+
+- Cardiovascular:
+Cardiac examination reveals regular heart rate and rhythm, with no murmurs, gallops, or rubs auscultated.
+
+- Respiratory:
+Breath sounds are clear bilaterally on auscultation, with no wheezes, rales, or rhonchi detected.
+
+- Abdomen:
+The abdomen is soft, non-tender, without palpable masses or organomegaly. Bowel sounds are present and normal in all quadrants.
+
+- Musculoskeletal:
+The patient has a full range of motion in all extremities. Mild tenderness is noted on palpation of the interphalangeal joints of both hands. There is no observed swelling, erythema, or deformities.
+
+- Neurological:
+The patient is alert and oriented to person, place, and time. Cranial nerves II-XII are intact. Motor strength and reflexes are normal and symmetric. No focal neurological deficits are noted.
+
+- Skin:
+Examination reveals no rashes, lesions, or other abnormalities.
+
+**Assessment:**
+1. Generalized Anxiety Disorder and Major Depressive Disorder: 
+   - The patient's symptoms of anxiety and depression are being managed effectively with current medications but continue to require monitoring.
+
+2. Irregular Menstrual Cycle:
+   - Ongoing menstrual irregularities suggest the need for further evaluation to rule out potential endocrine or gynecological issues.
+
+3. Chronic Headaches and Hand Joint Pain:
+   - The frequent headaches and persistent joint pain in the hands require additional investigation to identify underlying causes.
+
+**Plan:**
+- Continue Desipramine Hydrochloride 25mg daily for anxiety and depression.
+- Maintain the contraceptive regimen with Lo/Ovral.
+- Continue using Naproxen 500mg as needed for joint pain.
+- Schedule a pelvic ultrasound to investigate the cause of the irregular menstrual cycles and refer to endocrinology if required.
+- Order routine blood tests, including a complete blood count, comprehensive metabolic panel, and ESR, to assist in diagnosing the cause of headaches and joint pain.
+- Advise on ergonomic adjustments at work to manage joint pain and provide educational materials covering anxiety, depression, and joint pain management, with translation in Spanish.
+- Consider a rheumatology referral if joint pain persists.
+- Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if new symptoms arise, and schedule a follow-up appointment in four weeks to review ultrasound results, blood tests, and adjust the treatment plan as needed. 
+
+In summary, the patient’s medication regimen will be continued as currently prescribed, further testing will be conducted to identify the causes of menstrual irregularities, headaches, and joint pain, and appropriate management strategies will be discussed during the next follow-up visit.

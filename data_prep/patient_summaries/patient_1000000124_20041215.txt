@@ -1,0 +1,78 @@
+demographics
+patient_num: 1000000124  age: 27
+patient_num: 1000000124  sex: F
+patient_num: 1000000124  race: indian
+patient_num: 1000000124  language: spanish
+patient_num: 1000000124  vital_status: alive
+patient_num: 1000000124  earliest fact: Jun 25 2003 12:00AM
+patient_num: 1000000124  latest fact: Dec 15 2004 12:00AM
+patient_num: 1000000124  range in days: 539
+totals
+patient_num: 1000000124  distinct concepts: 71
+patient_num: 1000000124  total facts: 257
+patient_num: 1000000124  total encounters: 32
+patient_num: 1000000124  total asthma: 10
+descriptive
+patient_num: 1000000124  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 12
+patient_num: 1000000124  diagnosis code: ICD9:786.7  name: Abnormal chest sounds  count: 1
+patient_num: 1000000124  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 12
+patient_num: 1000000124  diagnosis code: ICD9:85.32  name: Bilateral reduction mammoplasty  count: 1
+patient_num: 1000000124  diagnosis code: ICD9:733.20  name: Cyst of bone (localized), unspecified  count: 1
+patient_num: 1000000124  diagnosis code: ICD9:782.3  name: Edema  count: 1
+patient_num: 1000000124  diagnosis code: ICD9:780.6  name: Fever  count: 1
+patient_num: 1000000124  diagnosis code: ICD9:611.1  name: Hypertrophy of breast  count: 4
+patient_num: 1000000124  diagnosis code: ICD9:276.8  name: Hypopotassemia  count: 1
+patient_num: 1000000124  diagnosis code: ICD9:648.93  name: Other current conditions classifiable elsewhere of mother, antepartum  count: 1
+patient_num: 1000000124  diagnosis code: ICD9:V70.8  name: Other specified general medical examinations  count: 2
+patient_num: 1000000124  diagnosis code: ICD9:719.46  name: Pain in joint involving lower leg  count: 3
+patient_num: 1000000124  diagnosis code: ICD9:V22.2  name: Pregnant state, incidental  count: 3
+patient_num: 1000000124  diagnosis code: ICD9:786.05  name: Shortness of breath  count: 4
+patient_num: 1000000124  diagnosis code: ICD9:836.0  name: Tear of medial cartilage or meniscus of knee, current  count: 2
+patient_num: 1000000124  diagnosis code: ICD9:V70.9  name: Unspecified general medical examination  count: 1
+patient_num: 1000000124  diagnosis code: ICD9:845.10  name: Unspecified site of foot sprain  count: 1
+patient_num: 1000000124  medication code: NDC:39822020005  name: Baci-Rx 100% powder Pharma-Tek  count: 3
+patient_num: 1000000124  medication code: NDC:00364246533  name: Cefazolin Sodium 1gm powder for injection Schein Pharmaceuticals Inc  count: 4
+patient_num: 1000000124  medication code: NDC:00517970210  name: Droperidol 2.5 mg/ml solution American Regent Laboratories Inc  count: 3
+patient_num: 1000000124  medication code: NDC:00574711612  name: Morphine Sulfate 30mg suppository Paddock Laboratories Inc  count: 4
+patient_num: 1000000124  medication code: NDC:64011001411  name: Precare Conceive Prenatal Multivitamins tablet Ther-Rx Corporation  count: 6
+patient_num: 1000000124  laboratory code: LOINC:704-7  name: Abs Basos Auto (Group:ABASOS)  count: 2
+patient_num: 1000000124  laboratory code: LOINC:711-2  name: Abs EOS Auto (Group:AEOS)  count: 2
+patient_num: 1000000124  laboratory code: LOINC:731-0  name: Abs Lymphs Auto (Group:ALYMPHS)  count: 2
+patient_num: 1000000124  laboratory code: LOINC:742-7  name: Abs Monos Auto (Group:AMONOS)  count: 2
+patient_num: 1000000124  laboratory code: LOINC:752-6  name: Abs Neuts Auto (Group:ANEUTS)  count: 2
+patient_num: 1000000124  laboratory code: LOINC:10466-1  name: Anion Gap (Group:ANION)  count: 2
+patient_num: 1000000124  laboratory code: LOINC:735-1  name: Atypical Lymphs (Group:ATYPS)  count: 2
+patient_num: 1000000124  laboratory code: LOINC:764-1  name: Bands - Manual (Group:BAND)  count: 2
+patient_num: 1000000124  laboratory code: LOINC:706-2  name: Basophils - Auto (Group:BASOS)  count: 2
+patient_num: 1000000124  laboratory code: LOINC:707-0  name: Basophils - Manual (Group:BASO)  count: 2
+patient_num: 1000000124  laboratory code: LOINC:3094-0  name: Blood Urea Nitrogen (Group:BUN)  count: 3
+patient_num: 1000000124  laboratory code: LOINC:2000-8  name: Calcium (Group:CA)  count: 1
+patient_num: 1000000124  laboratory code: LOINC:2028-9  name: Carbon Dioxide (Group:CO2)  count: 3
+patient_num: 1000000124  laboratory code: LOINC:2075-0  name: Chloride (Group:CL)  count: 3
+patient_num: 1000000124  laboratory code: LOINC:2160-0  name: Creatinine (Group:CRE)  count: 3
+patient_num: 1000000124  laboratory code: LOINC:713-8  name: Eosinophils - Auto (Group:EOS)  count: 2
+patient_num: 1000000124  laboratory code: LOINC:714-6  name: Eosinophils - Manual (Group:EO)  count: 2
+patient_num: 1000000124  laboratory code: LOINC:6777-7  name: Glucose (Group:GLU)  count: 3
+patient_num: 1000000124  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 3
+patient_num: 1000000124  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 3
+patient_num: 1000000124  laboratory code: LOINC:728-6  name: Hypochromia (Group:HYPO)  count: 2
+patient_num: 1000000124  laboratory code: LOINC:736-9  name: Lymphocytes - Auto (Group:LYMPHS)  count: 2
+patient_num: 1000000124  laboratory code: LOINC:737-7  name: Lymphocytes - Manual (Group:LYMPH)  count: 2
+patient_num: 1000000124  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 3
+patient_num: 1000000124  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 3
+patient_num: 1000000124  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 3
+patient_num: 1000000124  laboratory code: LOINC:5905-5  name: Monocytes - Auto (Group:MONOS)  count: 2
+patient_num: 1000000124  laboratory code: LOINC:744-3  name: Monocytes - Manual (Group:MONO)  count: 2
+patient_num: 1000000124  laboratory code: LOINC:770-8  name: Neutrophils - Auto (Group:POLYS)  count: 2
+patient_num: 1000000124  laboratory code: LOINC:769-0  name: Neutrophils - Manual (Group:POLY)  count: 2
+patient_num: 1000000124  laboratory code: LOINC:774-0  name: Ovalocytes (Group:OVALS)  count: 1
+patient_num: 1000000124  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 3
+patient_num: 1000000124  laboratory code: LOINC:9317-9  name: PLT Estimate (Group:PLTEST)  count: 2
+patient_num: 1000000124  laboratory code: LOINC:779-9  name: Poikilocytosis (Group:POIK)  count: 1
+patient_num: 1000000124  laboratory code: LOINC:10378-8  name: Polychromasia (Group:POLYCH)  count: 1
+patient_num: 1000000124  laboratory code: LOINC:2823-3  name: Potassium (Group:K)  count: 3
+patient_num: 1000000124  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 3
+patient_num: 1000000124  laboratory code: LOINC:788-0  name: RDW (Group:RDW)  count: 3
+patient_num: 1000000124  laboratory code: LOINC:2951-2  name: Sodium (Group:NA)  count: 3
+patient_num: 1000000124  laboratory code: LOINC:802-9  name: Spherocytes (Group:SPHERO)  count: 1
+patient_num: 1000000124  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 3

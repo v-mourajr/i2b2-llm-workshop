@@ -1,0 +1,163 @@
+demographics
+patient_num: 1000000011  age: 62
+patient_num: 1000000011  sex: F
+patient_num: 1000000011  race: white
+patient_num: 1000000011  language: english
+patient_num: 1000000011  vital_status: alive
+patient_num: 1000000011  earliest fact: Aug  6 1998 12:00AM
+patient_num: 1000000011  latest fact: Apr  4 2008 12:00AM
+patient_num: 1000000011  range in days: 3529
+totals
+patient_num: 1000000011  distinct concepts: 159
+patient_num: 1000000011  total facts: 712
+patient_num: 1000000011  total encounters: 90
+patient_num: 1000000011  total asthma: 10
+descriptive
+patient_num: 1000000011  asthma code: ICD9:493.92  name: Asthma, unspecified type, with acute exacerbation  count: 2
+patient_num: 1000000011  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 8
+patient_num: 1000000011  diagnosis code: ICD9:789.3  name: Abdominal or pelvic swelling, mass, or lump  count: 1
+patient_num: 1000000011  diagnosis code: ICD9:466.0  name: Acute bronchitis  count: 2
+patient_num: 1000000011  diagnosis code: ICD9:410.9  name: Acute myocardial infarction, unspecified site  count: 1
+patient_num: 1000000011  diagnosis code: ICD9:461.9  name: Acute sinusitis, unspecified  count: 1
+patient_num: 1000000011  diagnosis code: ICD9:80.21  name: Arthroscopy of shoulder  count: 1
+patient_num: 1000000011  diagnosis code: ICD9:117.3  name: Aspergillosis  count: 2
+patient_num: 1000000011  diagnosis code: ICD9:493.92  name: Asthma, unspecified type, with acute exacerbation  count: 2
+patient_num: 1000000011  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 8
+patient_num: 1000000011  diagnosis code: ICD9:V58.3  name: Attention to surgical dressings and sutures  count: 1
+patient_num: 1000000011  diagnosis code: ICD9:724.5  name: Backache, unspecified  count: 1
+patient_num: 1000000011  diagnosis code: ICD9:233.1  name: Carcinoma in situ of cervix uteri  count: 3
+patient_num: 1000000011  diagnosis code: ICD9:89.41  name: Cardiovascular stress test using treadmill  count: 2
+patient_num: 1000000011  diagnosis code: ICD9:831.00  name: Closed dislocation of shoulder, unspecified site  count: 1
+patient_num: 1000000011  diagnosis code: ICD9:87.21  name: Contrast myelogram  count: 1
+patient_num: 1000000011  diagnosis code: ICD9:311  name: Depressive disorder, not elsewhere classified  count: 1
+patient_num: 1000000011  diagnosis code: ICD9:722.10  name: Displacement of lumbar intervertebral disc without myelopathy  count: 5
+patient_num: 1000000011  diagnosis code: ICD9:622.1  name: Dysplasia of cervix (uteri)  count: 3
+patient_num: 1000000011  diagnosis code: ICD9:228.00  name: Hemangioma of unspecified site  count: 2
+patient_num: 1000000011  diagnosis code: ICD9:03.92  name: Injection of other agent into spinal canal  count: 2
+patient_num: 1000000011  diagnosis code: ICD9:99.23  name: Injection of steroid  count: 2
+patient_num: 1000000011  diagnosis code: ICD9:218.1  name: Intramural leiomyoma of uterus  count: 1
+patient_num: 1000000011  diagnosis code: ICD9:724.2  name: Lumbago  count: 3
+patient_num: 1000000011  diagnosis code: ICD9:721.3  name: Lumbosacral spondylosis without myelopathy  count: 2
+patient_num: 1000000011  diagnosis code: ICD9:180.9  name: Malignant neoplasm of cervix uteri, unspecified  count: 1
+patient_num: 1000000011  diagnosis code: ICD9:183.0  name: Malignant neoplasm of ovary  count: 1
+patient_num: 1000000011  diagnosis code: ICD9:787.02  name: Nausea alone  count: 2
+patient_num: 1000000011  diagnosis code: ICD9:793.1  name: Nonspecific abnormal findings on radiological and other examination of lung field  count: 2
+patient_num: 1000000011  diagnosis code: ICD9:793.2  name: Nonspecific abnormal findings on radiological and other examination of other intrathoracic organs  count: 1
+patient_num: 1000000011  diagnosis code: ICD9:V71.4  name: Observation following other accident  count: 1
+patient_num: 1000000011  diagnosis code: ICD9:715.91  name: Osteoarthrosis, unspecified whether generalized or localized, involving shoulder region  count: 5
+patient_num: 1000000011  diagnosis code: ICD9:722.93  name: Other and unspecified disc disorder of lumbar region  count: 1
+patient_num: 1000000011  diagnosis code: ICD9:786.59  name: Other chest pain  count: 2
+patient_num: 1000000011  diagnosis code: ICD9:478.1  name: Other diseases of nasal cavity and sinuses  count: 2
+patient_num: 1000000011  diagnosis code: ICD9:786.09  name: Other dyspnea and respiratory abnormality  count: 8
+patient_num: 1000000011  diagnosis code: ICD9:780.9  name: Other general symptoms  count: 2
+patient_num: 1000000011  diagnosis code: ICD9:718.81  name: Other joint derangement, not elsewhere classified, involving shoulder region  count: 10
+patient_num: 1000000011  diagnosis code: ICD9:E927  name: Overexertion and strenuous movements  count: 1
+patient_num: 1000000011  diagnosis code: ICD9:719.41  name: Pain in joint involving shoulder region  count: 5
+patient_num: 1000000011  diagnosis code: ICD9:729.5  name: Pain in limb  count: 2
+patient_num: 1000000011  diagnosis code: ICD9:785.1  name: Palpitations  count: 1
+patient_num: 1000000011  diagnosis code: ICD9:300.01  name: Panic disorder  count: 1
+patient_num: 1000000011  diagnosis code: ICD9:V14.2  name: Personal history of allergy to sulfonamides  count: 1
+patient_num: 1000000011  diagnosis code: ICD9:515  name: Postinflammatory pulmonary fibrosis  count: 2
+patient_num: 1000000011  diagnosis code: ICD9:786.51  name: Precordial pain  count: 2
+patient_num: 1000000011  diagnosis code: ICD9:V72.81  name: Preoperative cardiovascular examination  count: 1
+patient_num: 1000000011  diagnosis code: ICD9:272.0  name: Pure hypercholesterolemia  count: 1
+patient_num: 1000000011  diagnosis code: ICD9:718.31  name: Recurrent dislocation of joint of shoulder region  count: 3
+patient_num: 1000000011  diagnosis code: ICD9:81.82  name: Repair of recurrent dislocation of shoulder  count: 1
+patient_num: 1000000011  diagnosis code: ICD9:724.3  name: Sciatia  count: 3
+patient_num: 1000000011  diagnosis code: ICD9:V78.8  name: Screening for other disorders of blood and blood-forming organs  count: 1
+patient_num: 1000000011  diagnosis code: ICD9:218.0  name: Submucous leiomyoma of uterus  count: 1
+patient_num: 1000000011  diagnosis code: ICD9:218.2  name: Subserous leiomyoma of uterus  count: 1
+patient_num: 1000000011  diagnosis code: ICD9:68.4  name: Total abdominal hysterectomy  count: 1
+patient_num: 1000000011  diagnosis code: ICD9:250.00  name: type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication  count: 3
+patient_num: 1000000011  diagnosis code: ICD9:786.50  name: Unspecified chest pain  count: 2
+patient_num: 1000000011  diagnosis code: ICD9:719.91  name: Unspecified disorder of joint of shoulder region  count: 1
+patient_num: 1000000011  diagnosis code: ICD9:401.9  name: Unspecified essential hypertension  count: 4
+patient_num: 1000000011  diagnosis code: ICD9:382.9  name: Unspecified otitis media  count: 1
+patient_num: 1000000011  diagnosis code: ICD9:845.00  name: Unspecified site of ankle sprain  count: 1
+patient_num: 1000000011  medication code: NDC:00456016410  name: Almora 500mg tablet Forest Pharmaceuticals  count: 4
+patient_num: 1000000011  laboratory code: LOINC:26444-0  name: Abs Basos (Group:ABASOP)  count: 1
+patient_num: 1000000011  laboratory code: LOINC:704-7  name: Abs Basos Auto (Group:ABASOS)  count: 5
+patient_num: 1000000011  laboratory code: LOINC:26449-9  name: Abs Eos (Group:AEOSN)  count: 1
+patient_num: 1000000011  laboratory code: LOINC:711-2  name: Abs EOS Auto (Group:AEOS)  count: 5
+patient_num: 1000000011  laboratory code: LOINC:26474-7  name: Abs Lymphs (Group:ALYMP)  count: 1
+patient_num: 1000000011  laboratory code: LOINC:731-0  name: Abs Lymphs Auto (Group:ALYMPHS)  count: 5
+patient_num: 1000000011  laboratory code: LOINC:26484-6  name: Abs Monos (Group:AMONS)  count: 1
+patient_num: 1000000011  laboratory code: LOINC:742-7  name: Abs Monos Auto (Group:AMONOS)  count: 5
+patient_num: 1000000011  laboratory code: LOINC:26499-4  name: Abs Neuts (Group:ANEU)  count: 1
+patient_num: 1000000011  laboratory code: LOINC:752-6  name: Abs Neuts Auto (Group:ANEUTS)  count: 5
+patient_num: 1000000011  laboratory code: LOINC:1751-7  name: Albumin (Group:ALB)  count: 1
+patient_num: 1000000011  laboratory code: LOINC:1742-6  name: ALT (SGPT) (Group:SGPT)  count: 1
+patient_num: 1000000011  laboratory code: LOINC:8246-1  name: Amorph Crystals (Group:UAS-AMOR)  count: 2
+patient_num: 1000000011  laboratory code: LOINC:10466-1  name: Anion Gap (Group:ANION)  count: 2
+patient_num: 1000000011  laboratory code: LOINC:1920-8  name: AST (SGOT) (Group:SGOT)  count: 1
+patient_num: 1000000011  laboratory code: LOINC:5769-5  name: Bacteria (Group:UAS-BACT)  count: 2
+patient_num: 1000000011  laboratory code: LOINC:30180-4  name: Basophils (Group:BASOP)  count: 1
+patient_num: 1000000011  laboratory code: LOINC:706-2  name: Basophils - Auto (Group:BASOS)  count: 5
+patient_num: 1000000011  laboratory code: LOINC:5770-3  name: Bilirubin (Group:UA-BILI)  count: 3
+patient_num: 1000000011  laboratory code: LOINC:3094-0  name: Blood Urea Nitrogen (Group:BUN)  count: 3
+patient_num: 1000000011  laboratory code: LOINC:2000-8  name: Calcium (Group:CA)  count: 1
+patient_num: 1000000011  laboratory code: LOINC:14815-5  name: Calculated LDL (Group:LDLCAL)  count: 1
+patient_num: 1000000011  laboratory code: LOINC:2028-9  name: Carbon Dioxide (Group:CO2)  count: 3
+patient_num: 1000000011  laboratory code: LOINC:9439-1  name: Casts (Group:CASTS)  count: 2
+patient_num: 1000000011  laboratory code: LOINC:2075-0  name: Chloride (Group:CL)  count: 3
+patient_num: 1000000011  laboratory code: LOINC:2093-3  name: Cholesterol (Group:CHOL)  count: 1
+patient_num: 1000000011  laboratory code: LOINC:6773-6  name: CK-MB QUANT (Group:CPK-MB)  count: 5
+patient_num: 1000000011  laboratory code: LOINC:5778-6  name: Color (Group:UA-COLOR)  count: 3
+patient_num: 1000000011  laboratory code: LOINC:2157-6  name: CPK (Group:CPK)  count: 4
+patient_num: 1000000011  laboratory code: LOINC:2160-0  name: Creatinine (Group:CRE)  count: 3
+patient_num: 1000000011  laboratory code: LOINC:X4005-4  name: Crystals (Group:UAS-CRYS)  count: 2
+patient_num: 1000000011  laboratory code: LOINC:2342-4  name: CSF Glucose (Group:CSF-GLU)  count: 1
+patient_num: 1000000011  laboratory code: LOINC:2880-3  name: CSF Total Protein (Group:CSF-TP)  count: 1
+patient_num: 1000000011  laboratory code: LOINC:13532-7  name: CSF Xanthochromia (Group:CSF-XA)  count: 1
+patient_num: 1000000011  laboratory code: LOINC:X2012-1  name: Differential Request (Group:DIFFR)  count: 1
+patient_num: 1000000011  laboratory code: LOINC:26450-7  name: Eosinophils (Group:EOSP)  count: 1
+patient_num: 1000000011  laboratory code: LOINC:713-8  name: Eosinophils - Auto (Group:EOS)  count: 5
+patient_num: 1000000011  laboratory code: LOINC:4537-7  name: ESR (Group:ESR)  count: 2
+patient_num: 1000000011  laboratory code: LOINC:2336-6  name: Globulin (Group:GLOB)  count: 1
+patient_num: 1000000011  laboratory code: LOINC:6777-7  name: Glucose (Group:GLU)  count: 2
+patient_num: 1000000011  laboratory code: LOINC:5792-7  name: Glucose - UA (Group:UA-GLUC)  count: 3
+patient_num: 1000000011  laboratory code: LOINC:2119-6  name: HCG-Quant (Group:HCG,QT)  count: 2
+patient_num: 1000000011  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 9
+patient_num: 1000000011  laboratory code: LOINC:2086-7  name: HDL (Group:HDL)  count: 1
+patient_num: 1000000011  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 9
+patient_num: 1000000011  laboratory code: LOINC:2462-0  name: IgE (Group:IGE)  count: 1
+patient_num: 1000000011  laboratory code: LOINC:5797-6  name: Ketones (Group:UA-KET)  count: 3
+patient_num: 1000000011  laboratory code: LOINC:17790-7  name: LShift (Group:LShift)  count: 1
+patient_num: 1000000011  laboratory code: LOINC:26478-8  name: Lymphocytes (Group:LYMP)  count: 1
+patient_num: 1000000011  laboratory code: LOINC:736-9  name: Lymphocytes - Auto (Group:LYMPHS)  count: 5
+patient_num: 1000000011  laboratory code: LOINC:11554-3  name: Magnesium (Group:MG)  count: 2
+patient_num: 1000000011  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 9
+patient_num: 1000000011  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 9
+patient_num: 1000000011  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 9
+patient_num: 1000000011  laboratory code: LOINC:26485-3  name: Monocytes (Group:MON)  count: 1
+patient_num: 1000000011  laboratory code: LOINC:5905-5  name: Monocytes - Auto (Group:MONOS)  count: 5
+patient_num: 1000000011  laboratory code: LOINC:8247-9  name: Mucous (Group:UAS-MUC)  count: 2
+patient_num: 1000000011  laboratory code: LOINC:26511-6  name: Neutrophils (Group:NEUT)  count: 1
+patient_num: 1000000011  laboratory code: LOINC:770-8  name: Neutrophils - Auto (Group:POLYS)  count: 5
+patient_num: 1000000011  laboratory code: LOINC:5802-4  name: Nitrites (Group:UA-NIT)  count: 3
+patient_num: 1000000011  laboratory code: LOINC:5794-3  name: Occult Blood (Group:UA-BLD)  count: 3
+patient_num: 1000000011  laboratory code: LOINC:11279-7  name: Other/Comments (Group:UAS-COM)  count: 2
+patient_num: 1000000011  laboratory code: LOINC:5803-2  name: PH (Group:UA-PH)  count: 3
+patient_num: 1000000011  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 9
+patient_num: 1000000011  laboratory code: LOINC:2823-3  name: Potassium (Group:K)  count: 3
+patient_num: 1000000011  laboratory code: LOINC:5804-0  name: Protein (Group:UA-ALB)  count: 3
+patient_num: 1000000011  laboratory code: LOINC:5902-2  name: PT (Group:PT)  count: 4
+patient_num: 1000000011  laboratory code: LOINC:6301-6  name: PT-INR (Group:PT-INR)  count: 2
+patient_num: 1000000011  laboratory code: LOINC:5898-2  name: PTT (Group:PTT)  count: 4
+patient_num: 1000000011  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 9
+patient_num: 1000000011  laboratory code: LOINC:5808-1  name: RBC - Urine Sed (Group:UAS-RBC)  count: 2
+patient_num: 1000000011  laboratory code: LOINC:788-0  name: RDW (Group:RDW)  count: 9
+patient_num: 1000000011  laboratory code: LOINC:2951-2  name: Sodium (Group:NA)  count: 3
+patient_num: 1000000011  laboratory code: LOINC:5811-5  name: Specific Gravity (Group:UA-SPGR)  count: 3
+patient_num: 1000000011  laboratory code: LOINC:11277-1  name: Squamous Cells (Group:UAS-SQUA)  count: 2
+patient_num: 1000000011  laboratory code: LOINC:1975-2  name: Total Bilirubin (Group:TBILI)  count: 2
+patient_num: 1000000011  laboratory code: LOINC:2885-2  name: Total Protein (Group:TP)  count: 1
+patient_num: 1000000011  laboratory code: LOINC:2571-8  name: Triglycerides (Group:TRIG)  count: 1
+patient_num: 1000000011  laboratory code: LOINC:10839-9  name: Troponin-I (Group:TROP-I)  count: 3
+patient_num: 1000000011  laboratory code: LOINC:3016-3  name: TSH (Group:TSH)  count: 1
+patient_num: 1000000011  laboratory code: LOINC:5767-9  name: Turbidity (Group:UA-TURB)  count: 1
+patient_num: 1000000011  laboratory code: LOINC:5818-0  name: Urobilinogen (Group:UA-UROBI)  count: 3
+patient_num: 1000000011  laboratory code: LOINC:2092-5  name: VLDL (Group:VLDL)  count: 1
+patient_num: 1000000011  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 9
+patient_num: 1000000011  laboratory code: LOINC:5821-4  name: WBC - Urine Sed (Group:UAS-WBC)  count: 2
+patient_num: 1000000011  laboratory code: LOINC:5799-2  name: WBC Screen (Group:UA-WBC)  count: 3

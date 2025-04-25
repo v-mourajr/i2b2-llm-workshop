@@ -1,0 +1,74 @@
+\nVisit Information:
+    - Patient Num: 1000000093
+    - Visit Date: 11/06/1998
+
+Subjective:
+This is a 20-year-old Black female who presents for a routine general medical examination. She has been under our care for a couple of months, and her last visit was on 11/04/1998. She is currently not experiencing any specific symptoms but is here for a preventive health checkup. She reports being generally healthy and denies any recent illnesses or complaints.
+
+Her past medical history is unremarkable and does not include any chronic conditions. She has not had any previous surgeries. She is currently not on any medications or taking any herbal supplements, and she follows a relatively healthy lifestyle with no significant stressors.
+
+The patient does not smoke, drink alcohol, or use recreational drugs. She works part-time as a cashier and is also a college student. She lives with her parents and has a supportive social environment. She denies any known allergies.
+
+She confirms compliance with annual medical check-ups and reports a healthy diet and regular exercise. There have been no recent hospitalizations or ER visits. Her immunizations are up-to-date.
+
+Objective:
+Vital Signs:
+    - Blood Pressure: 120/80 mmHg
+    - Heart Rate: 72 beats per minute
+    - Respiratory Rate: 16 breaths per minute
+    - Temperature: 98.6°F
+    - Oxygen Saturation: 98% on room air
+
+General Appearance:
+The patient appears well-nourished, alert, and oriented. She is in no acute distress and displays good personal hygiene.
+
+Cardiovascular:
+Normal S1 and S2 heart sounds with no murmurs, rubs, or gallops. Peripheral pulses are strong and symmetrical with no signs of edema.
+
+Respiratory:
+Clear breath sounds bilaterally with no wheezes, rales, or rhonchi. Respiratory efforts are unlabored.
+
+Abdomen:
+Soft, non-tender, and non-distended with normal bowel sounds in all quadrants. There are no palpable masses or hepatosplenomegaly.
+
+Musculoskeletal:
+Full range of motion is observed in all extremities. There is no swelling, deformities, or tenderness noted.
+
+Neurological:
+The patient is alert and oriented to person, place, and time. Cranial nerves II-XII are intact. Motor and sensory functions are normal, and reflexes are 2+ and equal bilaterally.
+
+Skin:
+The skin is warm and dry with no rashes, lesions, or signs of infection.
+
+Laboratory Findings:
+Urinalysis results are within normal limits:
+    - Bilirubin: Negative
+    - Color: Yellow, clear
+    - Glucose: Negative
+    - Ketones: Negative
+    - Nitrites: Negative
+    - Occult Blood: Negative
+    - pH: 6.0
+    - Protein: Negative
+    - Specific Gravity: 1.020
+    - Turbidity: Clear
+    - Urobilinogen: Normal
+    - WBC Screen: Negative
+Complete Blood Count (CBC) and metabolic panel results are unremarkable.
+
+Assessment:
+The patient appears to be in good overall health with no evidence of acute or chronic illness. 
+
+1. Routine General Medical Examination:
+    Assessment: The patient presents for a well-check. There are no current health issues.
+    Diagnostic Tests: Annual physical examination and routine laboratory tests, including urinalysis and complete blood count.
+    Treatment Plan: Continue with routine annual medical examinations. Emphasize the importance of maintaining a healthy lifestyle through diet and exercise. 
+
+Plan:
+- No new medications or treatments are necessary at this time.
+- Continue current preventive health measures.
+- Instruct the patient to follow up in one year for her next annual physical examination.
+- Educate the patient regarding the benefits of regular exercise, a balanced diet, and the importance of staying hydrated.
+- Instruct patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.
+
+The patient verbalized understanding of the plan and agreed to the follow-up recommendations.

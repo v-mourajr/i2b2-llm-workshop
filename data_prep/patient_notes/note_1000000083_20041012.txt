@@ -1,0 +1,79 @@
+**Visit Information:**
+- Patient Num: 1000000083
+- Visit Date: 10/12/2004
+
+**Subjective:**
+This is a 61-year-old Black female who predominantly speaks German and has been a long-term patient at our clinic. She presents today for a follow-up regarding her asthma and overall health maintenance. The patient reports a notable increase in shortness of breath and wheezing that has worsened over the past several days, particularly during the night, leading to disturbed sleep. Despite using her rescue inhaler, relief has been minimal. She denies any new cough, fever, or chest pain.
+
+The patient’s medical history is significant for asthma with frequent exacerbations, hypertension, hyperlipidemia, osteoporosis, and a past diagnosis of carcinoma in situ of the breast. She also has a past medical history of migraines and dyspepsia. She has had a biopsy of a lymphatic structure and a local excision of a breast lesion, with regular screenings for malignant neoplasms due to a family history of breast cancer.
+
+For her asthma, she uses a daily inhaled corticosteroid and a long-acting beta-agonist, and she has an albuterol inhaler for rescue use. She is adherent to her antihypertensive medication and cholesterol-lowering drugs. The patient experiences mild tremors occasionally when using her albuterol inhaler.
+
+Socially, she lives alone, leads an active lifestyle that includes walking and light exercise, and she does not smoke or drink alcohol. She reports no known allergies. She finds managing her worsening wheezing and shortness of breath challenging despite her adherence to the prescribed regimen.
+
+**Objective:**
+- **Vital Signs:**
+  - Blood Pressure: 145/92 mmHg
+  - Heart Rate: 88 bpm
+  - Respiratory Rate: 20 breaths per minute
+  - Temperature: 98.6°F
+  - Oxygen Saturation: 95% on room air
+
+- **General Appearance:**
+  The patient appears to be in mild respiratory distress but is alert and oriented.
+
+- **Cardiovascular:**
+  Normal heart sounds with a regular rate and rhythm. No murmurs, rubs, or gallops detected.
+
+- **Respiratory:**
+  Lung examination reveals a prolonged expiratory phase with diffuse wheezing in all lung fields. No use of accessory muscles noted.
+
+- **Abdomen:**
+  The abdomen is soft, non-tender, and without hepatosplenomegaly. Bowel sounds are normal.
+
+- **Musculoskeletal:**
+  The patient exhibits a full range of motion with no signs of joint swelling or tenderness.
+
+- **Neurological:**
+  She is alert and oriented with no focal neurological deficits.
+
+- **Skin:**
+  No rashes, cyanosis, or clubbing observed.
+
+Recent laboratory tests have shown normal liver and renal function, lipid profiles, and glucose levels, including readings for Albumin, ALT, AST, bilirubin, cholesterol, creatinine, and sodium.
+
+**Assessment:**
+
+1. **Asthma:**
+   The patient continues to experience frequent exacerbations despite good adherence to her medication regime.
+   
+2. **Hypertension:**
+   Blood pressure remains mildly elevated and will need ongoing monitoring.
+   
+3. **Hyperlipidemia:**
+   Stable and well controlled with present medication but requires regular follow-up.
+
+**Plan:**
+
+1. **Asthma Management:**
+   - Continue the current inhaled corticosteroid and long-acting beta-agonist.
+   - Increase the dosage of the inhaled corticosteroid.
+   - Start a leukotriene receptor antagonist to achieve better asthma control.
+   - Educate the patient on correct inhaler techniques and usage.
+   - Provide a spacer for the albuterol inhaler to improve delivery and minimize side effects.
+   - Schedule pulmonary function tests to further evaluate asthma status and guide treatment modifications.
+   - Educate the patient on recognizing asthma exacerbation signs and seeking immediate medical attention.
+
+2. **Hypertension Control:**
+   - Continue the current antihypertensive therapy.
+   - Monitor blood pressure regularly to maintain target ranges.
+   
+3. **Hyperlipidemia Management:**
+   - Plan a follow-up lipid profile assessment in three months to determine if medication adjustments are necessary.
+   
+4. **Follow-Up:**
+   - Reassess asthma control and blood pressure in one month.
+   - Return for earlier follow-up if symptoms worsen.
+   - Reinforce patient education on the asthma action plan, medication adherence, and when to seek emergency care.
+
+The patient has demonstrated understanding of the management plan and the importance of adherence to her treatment regimen for optimal control of her conditions.

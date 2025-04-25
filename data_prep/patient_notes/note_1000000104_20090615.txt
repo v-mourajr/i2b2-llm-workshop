@@ -1,0 +1,53 @@
+### Visit Information:
+- **Patient Num:** 1000000104
+- **Visit Date:** June 15, 2009
+
+### Subjective:
+This is a 32-year-old Hispanic male who speaks English and has been receiving care at our clinic for asthma management over the past several years. He presents today for a follow-up of his asthma and to address some recent respiratory symptoms. He has been experiencing increased wheezing and shortness of breath over the past two weeks, which are more pronounced at night. Despite adherence to his prescribed daily low-dose inhaled corticosteroid and the use of an albuterol inhaler as needed, he reports using the rescue inhaler 3-4 times a day, which is more frequently than usual. He also mentions episodes of coughing, particularly at night, and occasionally experiences palpitations during these episodes.
+
+He has a known history of acute pharyngitis; however, he denies any recent episodes of sore throat, fever, or other signs of an active infection. The patient has a diagnosis of attention deficit disorder of childhood without mention of hyperactivity and is on medication for this condition. He denies any known allergies to medications, foods, or environmental factors. His social history reveals that he lives with his parents, does not smoke, and does not consume alcohol. He is currently a college student and pays close attention to his oral health, with a recent dental examination showing no issues. 
+
+### Objective:
+**Vital Signs:**
+- Blood Pressure: 118/76 mmHg
+- Heart Rate: 84 bpm
+- Respiratory Rate: 18 breaths per minute
+- Temperature: 98.6°F (37°C)
+- Oxygen Saturation: 95% on room air
+
+**Physical Examination:**
+- **General Appearance:** The patient is well-developed, well-nourished, and in no acute distress. He is alert and oriented.
+- **Cardiovascular:** Heart sounds S1 and S2 are present with no murmurs, rubs, or gallops. Pulses are strong and regular.
+- **Respiratory:** Breath sounds are diminished with notable expiratory wheezes bilaterally. There are no crackles, but the use of accessory muscles during breathing is evident.
+- **Abdomen:** The abdomen is soft and non-tender with no distension. Normal bowel sounds are present, and there is no organomegaly.
+- **Musculoskeletal:** The range of motion is within normal limits. There are no deformities or tenderness observed.
+- **Neurological:** The patient is alert and oriented with no focal neurological deficits.
+- **Skin:** The skin is clear with no rashes, lesions, or signs of infection.
+
+Recent laboratory investigations, including bilirubin, glucose, and protein levels, showed normal results. Urinalysis for ketones, nitrites, and specific gravity were also within normal limits. Hematocrit and white blood cell counts were normal, ruling out signs of infection or anemia.
+
+### Assessment:
+1. **Asthma:** The patient continues to experience asthma, unspecified without mention of status asthmaticus. The recent increase in symptom frequency and severity represents an exacerbation that requires adjustment of his current treatment.
+2. **Acute Pharyngitis:** Currently in remission, with no active complaints or symptoms necessitating intervention.
+3. **Attention Deficit Disorder of Childhood without Mention of Hyperactivity:** This condition remains stable under current treatment.
+
+### Plan:
+1. **Asthma:**
+   - Increase the dosage of the inhaled corticosteroid to improve symptom control.
+   - Continue with the albuterol inhaler as needed for acute symptoms.
+   - Advise the patient to monitor peak expiratory flow rates daily at home to better assess asthma control.
+   - Schedule a follow-up appointment in one week to evaluate the effectiveness of the management plan. If symptoms persist or worsen, consider a referral to a pulmonologist.
+   - Discuss the potential triggers and advise on strategies to avoid them, including the importance of stress management and minimizing exposure to known respiratory irritants.
+
+2. **Acute Pharyngitis:**
+   - No current symptoms requiring treatment; continue monitoring.
+
+3. **Attention Deficit Disorder:**
+   - Continue current medication regimen for ADD.
+   - Schedule routine follow-up visits to monitor progress and response to therapy.
+
+**Follow-Up:**
+The patient was instructed to contact the clinic if his symptoms worsen or do not improve within a week or if test results indicate a need for further evaluation. A follow-up appointment is planned in four weeks to reassess asthma management and the efficacy of the treatment adjustments. 
+
+**Patient Education & Understanding of the Plan:**
+The patient demonstrated understanding of the treatment plan and acknowledged the importance of medication adherence. He was advised to maintain good oral hygiene and attend regular dental check-ups. Additionally, he was counseled on the importance of follow-up care and recognized the need to report any changes or persistence in symptoms.

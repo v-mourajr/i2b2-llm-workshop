@@ -1,0 +1,67 @@
+Visit Information:
+- Patient Num: 1000000099
+- Visit Date: October 25, 2007
+
+This is a 34-year-old Black male who has been receiving care at our clinic for approximately a decade. He speaks German and presents today for a follow-up visit related to his ongoing asthma management. The patient's primary complaint is persistent wheezing and coughing that have not improved despite recent medication adjustments. Additionally, he reports experiencing shortness of breath, particularly at night, leading to sleep interruptions. These symptoms are consistent with his previous asthma exacerbations, exacerbated by exposure to dusty environments and cold air.
+
+The patient's medical history is significant for recurrent episodes of asthma, allergic rhinitis, bronchitis, and benign skin neoplasms. Currently, he uses albuterol sulfate as a rescue inhaler and Claritin for allergic rhinitis. He also reports using over-the-counter expectorants for symptom relief.
+
+He works a sedentary office job and does not engage in regular physical exercise. He has no smoking history, consumes alcohol socially, and denies any known allergies to medications, foods, or environmental factors. His symptoms include persistent wheezing and coughing, shortness of breath aggravated by dust and cold air, and sleep interruption due to nocturnal symptoms. He denies chest pain, fever, or recent infections.
+
+Objective:
+Vital Signs:
+- Blood Pressure: 118/78 mmHg
+- Heart Rate: 76 beats per minute
+- Respiratory Rate: 22 breaths per minute
+- Temperature: 98.4°F
+- Oxygen Saturation: 95% on room air
+
+General Appearance:
+The patient appears alert, oriented, and in mild respiratory distress but otherwise comfortable.
+
+Cardiovascular:
+Heart sounds are normal with no murmurs, rubs, or gallops. Peripheral pulses are palpable and equal bilaterally.
+
+Respiratory:
+Bilateral wheezing is noted on auscultation, more pronounced in the lower lung fields, with a prolonged expiratory phase. The respiratory effort appears increased with mild use of accessory muscles during inspiration. No rales or rhonchi are present.
+
+Abdomen:
+The abdomen is soft and non-tender with normal bowel sounds. There is no hepatosplenomegaly.
+
+Musculoskeletal:
+There is no joint swelling or tenderness. The extremities exhibit full range of motion and strength.
+
+Neurological:
+The patient is alert and oriented. Cranial nerves are intact. Reflexes are 2+ and symmetric throughout. Sensation is normal to light touch and pinprick.
+
+Skin:
+The skin does not show any new lesions or rashes. The previously noted benign neoplasm on the forearm remains unchanged.
+
+Laboratory Results:
+Recent laboratory results within normal ranges: Hematocrit, Hemoglobin, Lymphocytes, Mean Corpuscular Hemoglobin, Mean Corpuscular Hemoglobin Concentration, Mean Corpuscular Volume, Monocytes, Neutrophils, Red Blood Cells, and White Blood Cells.
+
+Assessment:
+The patient demonstrates a history of asthma with current suboptimal control, likely exacerbated by environmental factors such as dust and cold air.
+
+Plan:
+1. Asthma:
+   - Assessment:
+     The primary diagnosis is asthma with differential diagnoses including COPD and reactive airway disease.
+   - Diagnostic Tests:
+     Perform pulmonary function testing (spirometry) to assess asthma severity and tailor treatment.
+   - Treatment Plan:
+     Continue inhaled corticosteroids at the current dose.
+     Add a leukotriene receptor antagonist (e.g., montelukast) to improve control.
+     Reinforce inhaler technique and adherence to the treatment regimen.
+     Advise avoidance of asthma triggers such as dust and cold air.
+     Consider referral to a pulmonologist if symptoms do not improve significantly.
+
+2. Follow-Up:
+   Instruct the patient to monitor symptoms and contact the clinic if symptoms worsen or do not improve within a week. Schedule a follow-up visit in four weeks to reassess symptom control and review pulmonary function results.
+
+3. Patient Education:
+   Discuss the importance of avoiding known asthma triggers.
+   Encourage the patient to engage in appropriate physical activity to enhance respiratory health.
+   Ensure the patient understands the asthma action plan, including the use of rescue inhalers during exacerbations.
+
+In conclusion, the patient will continue his current regimen with the addition of a leukotriene receptor antagonist. Pulmonary function testing will be conducted to further evaluate his asthma. A follow-up visit is scheduled in four weeks to assess treatment efficacy and make necessary adjustments.

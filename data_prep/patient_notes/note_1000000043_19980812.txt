@@ -1,0 +1,41 @@
+**Visit Information:**
+- Patient Num: 1000000043
+- Visit Date: 08/12/1998
+
+**Subjective:**
+This is a 50-year-old Hispanic male who has been receiving care at our clinic for asthma. He primarily speaks Spanish and presented today for a follow-up visit concerning his asthma management. The patient reports experiencing increased shortness of breath and wheezing over the past week, particularly at night. He denies any episodes of status asthmaticus. 
+
+The patient has a history of allergic rhinitis, often exacerbated by pollen exposure. He mentions that his symptoms of nasal congestion and sneezing have also been troublesome recently. His current medications include an albuterol inhaler for acute asthma symptoms and a daily loratadine tablet for allergy management. He reports adherence to his medication regimen and effectively managing acute episodes with his inhaler. However, he finds the nasal congestion bothersome despite regular use of loratadine.
+
+**Objective:**
+The patient's vital signs are as follows:
+- Blood Pressure: 120/80 mmHg
+- Heart Rate: 78 bpm
+- Respiratory Rate: 20 breaths per minute
+- Temperature: 98.7°F
+- Oxygen Saturation: 98% on room air
+
+On general examination, the patient appears moderately uncomfortable but in no acute distress. Cardiovascular examination reveals normal heart sounds with no murmurs. Respiratory examination indicates diffuse wheezing on auscultation but no retractions or use of accessory muscles. The abdominal examination is unremarkable with normal bowel sounds and no tenderness or organomegaly. No musculoskeletal or neurological abnormalities are observed. The skin is free from rashes or other lesions.
+
+**Assessment:**
+This patient has asthma with recurrent symptoms, primarily nocturnal. His condition includes allergic rhinitis due to pollen, contributing to his ongoing symptoms.
+
+- **Issue 1: Asthma**
+    - Assessment: Likely diagnosis is asthma exacerbation.
+    - Diagnostic Tests: Pulmonary function tests have been planned to assess the severity of airway obstruction.
+    - Treatment Plan: Increase frequency of albuterol inhaler use as needed, introduce an inhaled corticosteroid (Fluticasone) to his regimen, and continue monitoring symptom progression.
+    - Relevant Referrals: Referral to a pulmonologist for further evaluation and long-term management.
+
+- **Issue 2: Allergic Rhinitis**
+    - Assessment: Allergic rhinitis aggravated by current pollen exposure.
+    - Diagnostic Tests: Consider checking for specific allergen sensitivities if symptoms persist.
+    - Treatment Plan: Continue with daily loratadine and add an intranasal corticosteroid spray (Fluticasone propionate). Encourage the avoidance of known allergens and discuss additional environmental control measures.
+    - Relevant Referrals: Referral to an allergist if symptoms do not improve with current management.
+
+**Plan:**
+Instruct the patient to continue using his medications as directed and monitor his symptoms closely. If the symptoms worsen or do not show significant improvement within a week, or if pulmonary function tests indicate further evaluation is necessary, he should contact the clinic. Educate the patient on proper inhaler techniques and the importance of compliance with the new treatment regimen. Follow-up in two weeks to reassess his asthma control and review the effectiveness of the added medications. 
+
+Patient's education included information on recognizing warning signs of acute exacerbations and when to seek emergent care. The patient verbalized understanding and agreed to adhere to the recommended follow-up and treatment plans. 
+
+**Follow-Up:**
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. Follow-up appointment scheduled in two weeks to reassess and evaluate progress in managing asthma and allergic rhinitis symptoms.

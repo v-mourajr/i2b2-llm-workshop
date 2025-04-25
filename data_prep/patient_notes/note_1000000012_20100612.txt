@@ -1,0 +1,36 @@
+Visit Information:
+- Patient Num: 1000000012
+- Visit Date: 06/12/2010
+
+This is a 20-year-old Black female who has been a patient at our clinic for approximately 10 years. She speaks Spanish and presents today for follow-up concerning her ongoing asthma management among other recurrent conditions. The patient reported persistent asthma symptoms including shortness of breath and wheezing, which have been particularly problematic at night and during physical activities. She also described experiencing frequent episodes of acute pharyngitis and otitis media over the past few years. Her condition has historically been managed with intermittent courses of antibiotics.
+
+Her medication regime currently includes Albuterol Sulfate tablets taken as needed for her asthma, and she recently concluded a course of Trimox following an episode of acute otitis media. She has tried non-pharmacological strategies such as using a humidifier at night and saline gargles with some success. The patient's family, who are non-smokers, provided a supportive environment, and there are no pets in the household. She is highly active in sports, particularly soccer, which remains a significant part of her routine despite her respiratory challenges. The patient and her family have no known drug allergies.
+
+Vital signs today are as follows: Blood Pressure 118/76 mmHg, Heart Rate 84 bpm, Respiratory Rate 20/min, Temperature 99.0°F, and Oxygen Saturation 97% on room air. Upon examining her, she appeared well-nourished and in no acute distress. Cardiovascular examination revealed a regular heart rhythm without murmurs. Respiratory examination showed clear lung fields with no wheezes, crackles, or rhonchi. The abdominal examination indicated a soft, non-tender abdomen with no palpable masses or organomegaly. Musculoskeletal evaluation showed a full range of motion without joint tenderness or swelling. Neurologically, the patient was intact without focal deficits. Skin was warm, dry, and free from rashes or lesions.
+
+Assessment:
+1. Asthma:
+   - The patient shows signs of exacerbation possibly linked to recent respiratory infections. Management requires continued monitoring and adherence to the asthma action plan.
+   
+2. Recurrent acute pharyngitis:
+   - Persistent sore throat likely due to chronic infections, necessitating further evaluation and consistent treatment to prevent complications.
+   
+3. Recurrent acute suppurative otitis media:
+   - The recurrent occurrences suggest Eustachian tube dysfunction; further diagnostic assessment is needed.
+   
+4. Other conditions to be considered:
+   - The patient’s records indicate various other conditions including acquired musculoskeletal deformities, acute cystitis, allergic rhinitis, bacterial pneumonia, and more, all of which should be included in her comprehensive management strategy.
+
+Plan:
+- Continue Albuterol Sulfate for the management of asthma, stressing strict adherence to the asthma action plan.
+- Procure a throat culture and CBC to investigate the possibility of bacterial pharyngitis and underlying infection.
+- Prescribe a steroid nasal spray to address potential Eustachian tube dysfunction linked to otitis media.
+- Refer the patient to an ENT specialist for further evaluation of recurrent pharyngitis and otitis media.
+- Educate the patient on avoiding asthma triggers, maintaining good hygiene to prevent infections, and the critical importance of adhering to her medication regimen.
+- Schedule a follow-up appointment in two weeks to assess her progress and review test results.
+
+Follow-Up:
+- Direct the patient and her mother to monitor for any worsening or new symptoms and to contact the clinic if there is no improvement within one week.
+- Confirm that the patient and her mother fully understand the treatment plan and the essential nature of follow-up visits for ongoing assessment and suitable adjustments to her management plan.
+
+The patient and her mother acknowledged understanding the entirety of the care plan and agreed to adhere to it. Both seemed reassured and comfortable with the prescribed course of action to manage her conditions effectively.

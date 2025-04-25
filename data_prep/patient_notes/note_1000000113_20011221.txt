@@ -1,0 +1,62 @@
+Visit Information:
+    - Patient Num: 1000000113
+    - Visit Date: 12/21/2001
+
+Subjective:
+    - Chief Complaints & History of Present Illness:
+        This is a 4-year-old Asian female who has been presenting to our clinic over the past 6 months. She has been diagnosed with unspecified otitis media and presents today following two prior visits for the same issue. The patient has been experiencing pain and discomfort in her right ear for the last two days, which appears to be exacerbated at night. Her mother notes that the patient has been more irritable than usual and has a reduced appetite. She is not currently exhibiting any discharge from the ear.
+    - Past Medical & Surgical History:
+        The patient's medical history is notable for recurrent otitis media. There is no history of major surgeries.
+    - Medications & Supplements:
+        The patient is currently taking amoxicillin as prescribed during the previous visit for otitis media. Her mother reports adherence to the medication regimen with no significant improvement in symptoms.
+    - Social History:
+        The patient lives at home with her parents and attends preschool. There are no known tobacco or substance exposures, and the family practices good hygiene. The family history is not remarkable for recurrent infections.
+    - Allergies:
+        The patient has no known drug allergies.
+    - Symptom Details:
+        The ear pain started two days ago, is localized to the right ear, and is described as a dull ache that fluctuates in intensity.
+    - Additional Narrative:
+        This patient’s mother has been managing symptoms with over-the-counter acetaminophen, which provides only temporary relief. There have been no new upper respiratory symptoms, and she has not experienced any fever. There have been no recent changes in her condition as described at the last visit.
+
+Objective:
+    - Vital Signs:
+        - Blood Pressure: Not applicable for age
+        - Heart Rate: 110 bpm
+        - Respiratory Rate: 22 breaths per minute
+        - Temperature: 99.1°F
+        - Oxygen Saturation: 98% on room air
+    - General Appearance:
+        The patient appears alert but slightly uncomfortable, with her mother holding her for comfort.
+    - Cardiovascular:
+        Heart sounds are normal with no murmurs, rubs, or gallops.
+    - Respiratory:
+        Breath sounds are clear bilaterally with no wheezing, rales, or rhonchi.
+    - Abdomen:
+        Soft, non-tender, no organomegaly; bowel sounds are present and normal.
+    - Musculoskeletal:
+        Normal range of motion, no deformities, and no signs of joint swelling or tenderness.
+    - Neurological:
+        The patient is alert and oriented to age; cranial nerves II-XII are intact.
+    - Skin:
+        No rashes or lesions, skin is warm, dry, and with normal turgor.
+
+Assessment:
+    - Diagnosis or Clinical Impression:
+        The patient presents with recurrent unspecified otitis media. Given the lack of improvement on antibiotics, a reevaluation of the treatment plan is warranted.
+    - Issue/Problem/Request 1:
+        Assessment:
+            Likely diagnosis: Otitis Media with potential antibiotic resistance.
+            Differential diagnosis: Viral otitis media.
+        Diagnostic Tests:
+            Plan to repeat a middle ear culture to identify any resistant bacteria.
+        Treatment Plan:
+            Consider changing the current antibiotics to a broader spectrum if culture results confirm bacterial resistance. Recommend symptomatic treatment with acetaminophen for pain relief.
+            Relevant referrals: Referral to an otolaryngologist if persistent or worsening symptoms occur despite the change in treatment.
+
+Follow-Up:
+    - Instructions for emergent follow-up care or monitoring:
+        Instruct patient’s mother to return to the clinic if symptoms worsen or do not improve within a week, or if test results indicate the need for further evaluation.
+    - Follow-Up for persistent, changing, or worsening symptoms:
+        Schedule a follow-up visit in one week to reassess the patient’s ear condition and review culture results.
+    - Patient Education & Understanding of the Plan:
+        Educated the mother regarding the importance of adhering to the new antibiotic regimen if prescribed and monitoring the patient’s symptoms. They verbalized understanding and agreed with the plan.

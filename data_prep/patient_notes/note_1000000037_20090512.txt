@@ -1,0 +1,47 @@
+**Visit Information:**
+- Patient Num: 1000000037
+- Visit Date: 05/12/2009
+
+This is a 20-year-old Indian male who has been receiving care at our clinic for approximately 12 years. He speaks English and presented today for his follow-up visit regarding the management of his asthma.
+
+**Subjective:**
+
+The patient reports ongoing issues with nocturnal cough and shortness of breath during physical activity, which has been more frequent over the past few weeks. Despite being diligent with his long-term inhaled corticosteroid regimen, he has needed to use his rescue inhaler—albuterol—more often. He notes that exposure to secondhand smoke at home has persistently aggravated his symptoms. Historically, he has been diagnosed with unspecified asthma, and his medical records indicate other issues such as cystic fibrosis without mention of meconium ileus, and recurring acute upper respiratory infections. He has no known allergies and takes albuterol for acute asthma exacerbations along with his corticosteroid.
+
+The patient lives in an urban setting where secondhand smoke exposure remains a significant trigger for his asthma. He enjoys outdoor activities, which he finds challenging due to his symptoms. Lifestyle modifications to reduce exposures and avoid triggers have proven somewhat difficult.
+
+**Objective:**
+
+- Vital Signs:
+  - Blood Pressure: 118/78 mmHg
+  - Heart Rate: 88 bpm
+  - Respiratory Rate: 24 breaths per minute
+  - Temperature: 98.4°F
+  - Oxygen Saturation: 94% on room air
+
+- General Appearance: The patient appeared well-nourished and well-developed but was visibly fatigued.
+- Cardiovascular: No murmurs, gallops, or rubs, with a regular rate and rhythm.
+- Respiratory: Mild intercostal retractions, decreased breath sounds bilaterally, prolonged expiratory phase with diffuse expiratory wheezes.
+- Abdomen: Soft, non-tender, non-distended, with normal bowel sounds.
+- Musculoskeletal: No deformities were noted; full range of motion was present and without discomfort.
+- Neurological: Alert and oriented with normal gait and no focal deficits.
+- Skin: Warm, dry, with no rashes or lesions.
+
+Recent laboratory tests were reviewed and indicated normal values for blood urea nitrogen, creatinine, glucose, hemoglobin, and white blood cell count. His routine urinalysis revealed no abnormalities, with an unremarkable color, specific gravity, and pH.
+
+**Assessment:**
+
+The patient’s primary diagnosis remains uncontrolled asthma, which has resulted in increased nocturnal symptoms, dyspnea, and elevated reliance on rescue medication. His condition is exacerbated by ongoing exposure to secondhand smoke at home.
+
+Secondary to the primary issue, his history of cystic fibrosis without meconium ileus, and recurrent upper respiratory infections should be considered, as they could complicate his asthma management.
+
+**Plan:**
+
+1. Continue the prescribed inhaled corticosteroids, ensuring patient adherence to the correct dosage.
+2. Introduce a brief course of oral corticosteroids to address the current exacerbation.
+3. Strongly advise reducing secondhand smoke exposure at home, stressing the importance of a smoke-free environment for effective asthma control.
+4. Reinforce the asthma action plan, including essential instructions on proper inhaler usage.
+5. Encourage daily monitoring with a peak flow meter to track lung function and asthma control.
+6. Schedule a follow-up appointment in two weeks to evaluate the patient's response to the treatment adjustment and overall symptom improvement.
+
+The patient and his family have been instructed to monitor symptoms closely and to contact the clinic if there is a persistence or worsening of symptoms within a week. They were also educated about emergency symptoms that would necessitate immediate medical attention, including severe chest tightness, significant difficulty breathing, or cyanosis. Educational materials on avoiding asthma triggers and maintaining a healthy environment were provided to further support ongoing home management efforts.

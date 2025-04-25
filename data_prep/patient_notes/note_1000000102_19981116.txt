@@ -1,0 +1,61 @@
+**Visit Information:**
+
+- Patient Num: 1000000102
+- Visit Date: 11/16/1998
+
+**Subjective:**
+
+This is a 24-year-old Indian male who has been receiving care at our clinic for approximately two months. He is a Spanish-speaking patient who presents today for a follow-up visit concerning his asthma condition. The patient reported that his asthma symptoms have been manageable with his current medication, although he experiences occasional shortness of breath, particularly with physical exertion. He mentioned having had multiple injuries to his elbow, forearm, and wrist and a recent superficial injury to his hand. There are no known allergies and no history of surgeries. The patient is currently taking a bronchodilator as a maintenance medication for asthma and has noticed some improvement in his respiratory symptoms. He lives alone, works in a sedentary job, and denies smoking or alcohol use.
+
+The patient described asthma exacerbations as occurring primarily during physical activities and has been using his rescue inhaler approximately twice a week. He reports no new symptoms other than occasional mild chest tightness, which he can relieve with his inhaler. He has not tried any non-pharmacological interventions recently and has not experienced any significant side effects from his current medications.
+
+**Objective:**
+
+- Vital Signs:
+  - Blood Pressure: 120/80 mmHg
+  - Heart Rate: 70 bpm
+  - Respiratory Rate: 18 breaths per minute
+  - Temperature: 98.6°F
+  - Oxygen Saturation: 98% on room air
+
+- General Appearance: The patient appears well-nourished, in no acute distress, and is cooperative during the examination.
+
+- Cardiovascular: Heart sounds are normal with regular rhythm, no murmurs, rubs, or gallops detected.
+
+- Respiratory: Breath sounds are clear bilaterally with no wheezing, rales, or rhonchi. Mild expiratory wheezing noted upon forced expiration.
+
+- Abdomen: Soft, non-tender, no hepatosplenomegaly or masses.
+
+- Musculoskeletal: Normal range of motion in all joints. Tenderness noted at the left elbow and forearm with minor bruising. Superficial abrasion observed on the hand, cleaned and healing well.
+
+- Neurological: Alert and oriented to person, place, and time. Cranial nerves II-XII intact. 
+
+- Skin: No rashes or other significant dermatological findings.
+
+**Assessment:**
+
+Primary Diagnosis:
+- Asthma, unspecified (chronic condition requiring maintenance medication).
+
+Secondary Diagnoses:
+- Multiple injuries to elbow, forearm, and wrist (recent but improving).
+- Superficial injury of the hand (healing without complications).
+
+**Plan:**
+
+1. Asthma:
+   - Continue current bronchodilator therapy.
+   - Encourage the use of peak flow meter to monitor asthma control.
+   - Educate the patient on avoiding known asthma triggers and ensure proper inhaler technique.
+   - Schedule a follow-up visit in one month to reassess asthma control and consider stepping up therapy if symptoms persist.
+
+2. Elbow, Forearm, and Wrist Injuries:
+   - Advise the patient to continue the use of over-the-counter analgesics as needed for pain.
+   - Recommend physiotherapy referral for strengthening exercises and improving the range of motion as needed.
+
+3. Hand Injury:
+   - Advise continued cleaning of the abrasion with mild soap and water, apply a topical antibiotic, and cover with a bandage to prevent infection.
+   - Review wound healing process during the next visit.
+
+**Follow-Up:**
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. Provide education on asthma management and ensure the patient understands the treatment plan. Schedule follow-up appointments for monitoring treatment progress and addressing any new concerns.

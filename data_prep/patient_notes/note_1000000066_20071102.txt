@@ -1,0 +1,56 @@
+Visit Information:
+- Patient Num: 1000000066
+- Visit Date: November 2, 2007
+
+This is a 20-year-old Black female who has been receiving care at our clinic since March 15, 1999. She speaks English fluently and presents today for follow-up regarding her persistent asthma symptoms.
+
+Subjective:
+The patient reports experiencing an increase in wheezing and shortness of breath, particularly at night, exacerbated by physical activity and exposure to cold air. She has been using her rescue inhaler more frequently, roughly three times a day, which provides only temporary relief, with symptoms recurring shortly after use. She also mentions feeling generally fatigued but does not necessarily attribute this to her respiratory issues.
+
+Her past medical history includes asthma, unspecified without status asthmaticus, with episodes of acute pharyngitis and multiple upper respiratory infections. She also has a history of generalized convulsive epilepsy, both with and without intractable epilepsy, and has experienced several convulsions.
+
+Currently, the patient is on maintenance inhalers for asthma with no new medication changes since her last visit. She reports no hospitalizations or urgent care visits since late September.
+
+The patient is a non-smoker with no secondhand smoke exposure. She is a student and engages in mild physical activities at school. Her family provides a supportive environment, and she has no known allergies influencing her current condition.
+
+Objective:
+Vital signs: blood pressure 110/70 mmHg, heart rate 78 bpm, respiratory rate 20 breaths per minute, temperature 98.6°F, oxygen saturation 96% on room air.
+
+General appearance: The patient is well-nourished, alert, oriented, and in no acute distress.
+
+Cardiovascular: Heart sounds are regular, with no murmurs, rubs, or gallops.
+
+Respiratory: Expiratory wheezing is noted bilaterally without crackles or rhonchi. Mild intercostal retractions are observed with deep breaths, and her respiratory effort appears slightly labored.
+
+Abdomen: The abdomen is soft, non-tender, and non-distended, with bowel sounds present in all quadrants.
+
+Musculoskeletal: The patient has grossly normal muscle tone and strength in all extremities, with no deformities or joint abnormalities observed.
+
+Neurological: No focal deficits, cranial nerves II-XII are intact, and gait and balance are normal. No recent seizures reported.
+
+Skin: The skin is warm, dry, with no rashes or lesions.
+
+Review of recent lab results include an elevated IgE, suggesting allergen sensitivity, and markers of infection or inflammation within normal limits.
+
+Assessment:
+1. Asthma (Unspecified without status asthmaticus): The patient’s asthma appears poorly controlled, indicated by increased rescue inhaler use and nocturnal symptoms. Spirometry should be performed to evaluate lung function.
+2. Generalized Convulsive Epilepsy (Non-Intractable): The epilepsy is currently stable with no recent seizure activity.
+3. Acute Pharyngitis and Upper Respiratory Infections: Recurrent episodes could be exacerbating asthma.
+
+Plan:
+1. Asthma Management:
+   - Initiate a trial of an inhaled corticosteroid and long-acting beta-agonist combination inhaler to better control symptoms and reduce nighttime occurrences.
+   - Reassess and educate the patient on inhaler technique.
+   - Schedule spirometry for pulmonary function evaluation.
+   - Educate the patient and family on the Asthma Action Plan to recognize early exacerbation signs and know when to seek medical attention.
+   - Discuss strategies to avoid known triggers such as cold air and physical exertion.
+
+2. Generalized Convulsive Epilepsy:
+   - Continue current antiepileptic medications with regular neurologist follow-up. No regimen changes recommended at this time.
+
+3. Acute Pharyngitis and Upper Respiratory Infections:
+   - Emphasize hydration and good nutritional support to strengthen the immune system.
+   - Consider saline nasal irrigation to assist pulmonary hygiene and reduce respiratory tract irritation.
+
+Follow-Up:
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week or if test results indicate further evaluation. Ensure the patient understands the importance of adhering to the prescribed treatment plan and recognizing worsening asthma signs.

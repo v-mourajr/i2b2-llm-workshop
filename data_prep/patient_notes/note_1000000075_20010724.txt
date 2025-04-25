@@ -1,0 +1,96 @@
+This physician's note pertains to a 50-year-old Black female who has been receiving care at our clinic over the past three years. She is fluent in English and visited today, 07/24/2001, for a follow-up consultation regarding her asthma management and related health conditions.
+
+### Subjective:
+
+The patient presented for a scheduled follow-up, primarily complaining of intermittent asthma exacerbations. She reports experiencing increased shortness of breath, which she describes as occurring two to three times per week, primarily at night. These episodes are occasionally associated with wheezing and a tight chest. She rates her dyspnea during these exacerbations as 7/10 in severity and notes mild improvement with her rescue inhaler.
+
+**Past Medical & Surgical History:**
+The patient has a history of chronic conditions, including asthma, chronic bronchitis, and intermittent episodes of a chronic airway obstruction, not elsewhere classified. She also has a documented history of benign neoplasms affecting her bronchus and trachea, and prior episodes of emphysema resulting from previous surgical procedures.
+
+**Medications & Supplements:**
+The patient is currently on a regimen that includes daily inhaled corticosteroids and periodic use of a short-acting beta-agonist inhaler for acute asthma symptoms. Additionally, she takes levothyroxine for her hypothyroidism and an ACE inhibitor for hypertension. She denies using any herbal supplements.
+
+**Social History:**
+She does not smoke and consumes alcohol occasionally. She works as a secretary and leads a relatively sedentary lifestyle. 
+
+**Allergies:**
+The patient has no reported drug allergies.
+
+**Symptom Details:**
+The exacerbation of asthma symptoms has been especially noticeable over the past month, with increased occurrences at night. She describes the wheeze as high-pitched and predominantly expiratory. The symptoms are aggravated by cold weather and physical exertion and partially relieved by her inhaler.
+
+**Additional Narrative:**
+The patient has been using non-pharmacological interventions, such as keeping her environment free of dust and other allergens. She has reported no significant side effects from her medications, apart from occasional mild tremors after using the beta-agonist inhaler. She noted that her fatigue has been more pronounced recently, possibly related to her underlying chronic conditions.
+
+### Objective:
+
+**Vital Signs:**
+- Blood Pressure: 138/90 mmHg
+- Heart Rate: 82 bpm
+- Respiratory Rate: 18 breaths per minute
+- Temperature: 98.6°F
+- Oxygen Saturation: 97% on room air
+
+**General Appearance:**
+The patient appears comfortable at rest but slightly distressed when discussing her nighttime dyspnea. She is alert and oriented.
+
+**Cardiovascular:**
+Normal heart sounds; S1 and S2 present with no additional heart sounds or murmurs.
+
+**Respiratory:**
+Expiratory wheezes heard bilaterally on auscultation. No significant rales or ronchi. Breath sounds are otherwise clear, with no signs of acute respiratory distress.
+
+**Abdomen:**
+Soft, non-distended with no organomegaly. Mild tenderness noted on deep palpation in the right lower quadrant, consistent with her history of renal calculus.
+
+**Musculoskeletal:**
+No edema or deformities noted. Full range of motion in all extremities. 
+
+**Neurological:**
+No focal deficits. Cranial nerves II-XII are intact, and motor and sensory function are within normal limits.
+
+**Skin:**
+No rashes, lesions, or signs of infection.
+
+### Assessment:
+
+The clinical impression includes:
+- Chronic asthma with recent exacerbation, uncontrolled with current therapy.
+- Chronic bronchitis contributing to respiratory complaints.
+- Unspecified hypothyroidism, under control with current medication.
+- Hypertension, well managed with prescription medication.
+- Chronic neck sprain with intermittent symptoms.
+
+### Plan:
+
+**Issue/Problem/Request 1: Asthma Exacerbation**
+- Assessment: Chronic asthma with recent exacerbation, secondary to possible allergen exposure or ineffective current therapy.
+- Diagnostic Tests: Pulmonary function tests to reevaluate baseline lung function. Consider obtaining a chest X-ray if symptoms persist or worsen.
+- Treatment Plan: Increase the dosage of inhaled corticosteroids and consider adding a long-acting beta-agonist inhaler. Provide additional education on asthma management, including avoidance of known triggers.
+- Relevant Referrals: Referral to a pulmonologist for further evaluation and management.
+
+**Issue/Problem/Request 2: Chronic Bronchitis**
+- Assessment: Chronic bronchitis possibly exacerbated by environmental factors or underlying asthma.
+- Diagnostic Tests: Sputum culture if productive cough persists.
+- Treatment Plan: Symptomatic treatment with increased fluid intake and expectorants. Consider a short course of oral steroids if no improvement is noted.
+- Relevant Referrals: None indicated at this time.
+
+**Issue/Problem/Request 3: Chronic Airway Obstruction**
+- Assessment: Ongoing airway obstruction not responding optimally to current inhaled therapies.
+- Diagnostic Tests: Consider repeating spirometry and evaluating the need for further imaging studies.
+- Treatment Plan: Adjust existing treatment regimen, as described above, with a close follow-up to monitor response to medication adjustments.
+- Relevant Referrals: As indicated for asthma, referral to a pulmonologist.
+
+**Issue/Problem/Request 4: Ureteral Calculus**
+- Assessment: History of ureteral calculus with possible intermittent flare-ups.
+- Diagnostic Tests: Renal ultrasound to monitor for current calculus and possible obstruction.
+- Treatment Plan: Continue adequate hydration and monitoring. Evaluate for potential urologic intervention if symptomatic calculus is detected.
+- Relevant Referrals: Urology referral if renal ultrasound indicates significant findings.
+
+### Follow-Up:
+
+The patient was advised to contact the clinic if respiratory or other symptoms worsen or do not improve within the next week. An urgent follow-up will be scheduled post-diagnostic tests, with attention to any new symptoms. The necessity of consistent follow-up with the pulmonologist and potential adjustments in her therapeutic regimen were explained thoroughly.
+
+Education on the new treatment plan was provided. The patient understood and agreed with the proposed interventions and expressed hope for improved symptom management with the new medication adjustments. 
+
+Reevaluation will occur following the results of the outlined diagnostic procedures to further refine the treatment plan.

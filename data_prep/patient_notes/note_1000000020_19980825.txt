@@ -1,0 +1,64 @@
+Visit Information:
+    - Patient Number: 1000000020
+    - Visit Date: 08/25/1998
+
+This is a 41-year-old Black male who has been receiving care at our clinic for approximately 46 days. He speaks English and presents today, 08/25/1998, for a follow-up visit concerning his asthma and related symptoms.
+
+**Subjective:**
+    The patient reports experiencing an increase in his asthma symptoms over the past week, including episodes of shortness of breath and wheezing especially at night. He also describes a constant itchy rash that has been present for a few days and nasal congestion consistent with his history of allergic rhinitis. 
+
+    He has a known history of asthma and allergic rhinitis. There is no significant past surgical history. The patient is currently taking albuterol inhaler as needed for asthma attacks, fluticasone propionate nasal spray for rhinitis, and an over-the-counter antihistamine for his allergies. He mentions that the medications generally help but recent triggers such as pollen seem to have exacerbated his symptoms.
+
+    The patient reports no significant changes in his social history, lives alone, and works as a construction worker, which sometimes exposes him to dust and other allergens. He denies tobacco use, but occasionally consumes alcohol. 
+
+**Objective:**
+    - Vital Signs:
+        - Blood Pressure: 128/76 mmHg
+        - Heart Rate: 82 beats per minute
+        - Respiratory Rate: 18 breaths per minute
+        - Temperature: 98.6°F 
+        - Oxygen Saturation: 96% on room air
+    - General Appearance:
+        Patient appears mildly distressed due to breathing difficulties, is alert and oriented, and in no acute distress.
+    - Cardiovascular:
+        Heart sounds S1 and S2 were normal without murmurs, rubs, or gallops.
+    - Respiratory:
+        Bilateral wheezing noted upon auscultation, more pronounced in lower fields, no retractions or cyanosis.
+    - Abdomen:
+        The abdomen is soft, non-tender, and non-distended, with normal bowel sounds.
+    - Musculoskeletal:
+        No joint swelling, redness, or deformity. Full range of motion noted without pain.
+    - Neurological:
+        Cranial nerves II-XII are intact, no focal neurological deficits.
+    - Skin:
+        Erythematous maculopapular rash noted on the patient’s arms and neck, consistent with an allergic reaction. No signs of infection.
+
+**Assessment:**
+    1. Asthma (primary diagnosis) - Likely exacerbation due to environmental triggers.
+    2. Allergic rhinitis - Symptomatic, probable seasonal exacerbation.
+    3. Rash, nonspecific skin eruption - Most likely an allergic reaction.
+
+**Plan:**
+    - Asthma:
+        - Continue with albuterol inhaler as needed.
+        - Add a maintenance inhaler with inhaled corticosteroids (e.g., fluticasone) for better control.
+        - Reinforce asthma action plan and educate the patient about trigger avoidance.
+        - Follow-up in 1 month to reassess condition.
+    - Allergic rhinitis:
+        - Continue with fluticasone propionate nasal spray.
+        - Maintain antihistamines as required.
+        - Suggest minimizing exposure to known allergens and using air purifiers at home.
+    - Rash:
+        - Prescribe a topical corticosteroid cream to apply to the affected areas.
+        - Educate about avoidance of known allergens that might be causing the rash.
+        - Monitor and follow-up in two weeks or sooner if symptoms worsen.
+    - Additional:
+        - Comprehensive blood work including cholesterol and glucose levels was ordered given the patient's background and monitoring needs.
+        - Reiterate the importance of consistent medication use and adherence to prescribed treatments.
+
+**Follow-Up:**
+    - Instruct patient to contact the clinic if asthma symptoms worsen or do not improve within a week, or if the rash becomes more severe or signs of infection appear.
+    - Plan for a follow-up appointment in one month to review progress and adjust treatments as necessary.
+    - Educated the patient regarding the importance of monitoring peak flow readings at home and understanding when to seek immediate medical attention.
+
+In summary, the patient was examined and treated for exacerbations of asthma and allergic rhinitis, along with an unidentified allergic skin rash. Further evaluations and follow-ups are scheduled to ensure proper management and mitigation of these conditions.

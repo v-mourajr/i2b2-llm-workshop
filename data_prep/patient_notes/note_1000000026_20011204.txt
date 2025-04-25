@@ -1,0 +1,70 @@
+**Visit Information:**
+    - Patient Num: 1000000026
+    - Visit Date: 12/04/2001
+
+**Subjective:**
+This is a 57-year-old White male who speaks German and has been under our care for various health issues, chief among them being asthma. He presents today for a follow-up regarding his asthma management. The patient reports experiencing increased shortness of breath and wheezing, particularly in the evenings, over the past week. He admits to occasionally missing doses of his prescribed inhaler due to forgetfulness. He also recounts a recent episode of gastrointestinal bleeding which was evaluated with a colonoscopy, though he has had no further bleeding episodes since the procedure.
+
+**Past Medical & Surgical History:**
+The patient has a known history of asthma, with both unspecified type with status asthmaticus and without mention of status asthmaticus episodes noted multiple times. He has also experienced gastrointestinal hemorrhage, evaluated through a colonoscopy.
+
+**Medications & Supplements:**
+The patient takes Midazolam Hydrochloride 1 mg/ml solution PRN for sedation. He reports feeling drowsy after its administration but otherwise manages well with this medication.
+
+**Social History:**
+The patient lives alone and is currently retired. He does not smoke but occasionally drinks alcohol. There are no known illicit drug uses.
+
+**Allergies:**
+No known drug allergies were mentioned.
+
+**Symptom Details:**
+The onset of his respiratory symptoms was insidious, primarily localized in the chest, fluctuates in severity, and is often alleviated by the use of his inhaler. However, missing doses has aggravated his condition. There are no nocturnal symptoms reported other than the earlier mentioned increase in evening wheeze and breathlessness.
+
+**Additional Narrative:**
+Non-pharmacological interventions such as using air purifiers and avoiding known asthma triggers (dust, pollen) have been tried with moderate success. He acknowledges his condition worsens with physical exertion and is conscientious about avoiding rigorous activities.
+
+**Objective:**
+**Vital Signs:**
+    - Blood Pressure: 130/85 mmHg
+    - Heart Rate: 82 bpm
+    - Respiratory Rate: 20 breaths per minute
+    - Temperature: 98.6°F
+    - Oxygen Saturation: 95% on room air
+
+**General Appearance:**
+The patient appears well-nourished and in no acute distress.
+
+**Cardiovascular:**
+Heart rate is regular with no murmurs, gallops, or rubs.
+
+**Respiratory:**
+Lungs are clear to auscultation bilaterally with a prolonged expiratory phase and occasional wheeze noted on forced exhalation.
+
+**Abdomen:**
+Abdomen is non-tender, with no hepatosplenomegaly or masses. Bowel sounds are present.
+
+**Musculoskeletal:**
+Normal range of motion in all extremities. No tenderness or swelling noted.
+
+**Neurological:**
+The patient is alert and oriented to person, place, and time. Cranial nerves II-XII are intact.
+
+**Skin:**
+Skin is warm and dry with no rashes or lesions.
+
+**Assessment:**
+This patient’s primary diagnosis remains asthma, unspecified type. Given episodes of both status and non-status asthmaticus, management primarily focuses on preventing exacerbations and ensuring medication adherence. The additional issue of gastrointestinal hemorrhage appears to have been resolved post-colonoscopy with no current signs of active bleed.
+
+**Plan:**
+1. **Asthma Management:**
+   Assessment: Likely diagnosis of asthma (both status and non-status asthmaticus).
+   - Diagnostic Tests: Repeat pulmonary function tests to assess current lung function, consider allergy testing to identify triggers.
+   - Treatment Plan: Reinforce the importance of adherence to prescribed inhaler regimen and consider adding a long-acting bronchodilator. Possible referral to a pulmonologist for detailed asthma management.
+
+2. **Gastrointestinal Follow-Up:**
+   Assessment: History of gastrointestinal hemorrhage, currently stable.
+   - Diagnostic Tests: Routine follow-up with gastroenterology is recommended.
+   - Treatment Plan: Monitor for any signs of recurrent gastrointestinal bleeding, advise the patient to report any recurrent symptoms immediately.
+
+**Follow-Up:**
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. Reaffirmed the importance of medication compliance and provided education on recognizing early signs of asthmatic exacerbations. A follow-up appointment will be scheduled in one month to reassess his asthma control and evaluate the need for additional interventions.

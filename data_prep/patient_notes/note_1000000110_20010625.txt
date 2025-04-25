@@ -1,0 +1,67 @@
+Visit Information:
+    - Patient Num: 1000000110
+    - Visit Date: 06/25/2001
+
+Subjective:
+This is a 30-year-old Hispanic male who speaks German and has been receiving care at our clinic for the past three months. He presents today for follow-up regarding his asthma, as well as to discuss recent episodes of painful respiration and fainting.
+
+The patient reports increased frequency of asthma attacks over the past month, especially at night, and notes that his inhaler has become less effective. He describes episodes of shortness of breath and chest tightness, which occasionally escalate to painful respiration. Additionally, he experienced two instances of syncope in the past week. No significant head trauma or injuries were reported with these fainting spells.
+
+There is no history of hospital stays for asthma exacerbation in the past year. He denies any recent upper respiratory infections. The patient is currently using a short-acting beta-agonist inhaler as needed and has been compliant with this medication. He does not take any herbal supplements.
+
+Socially, he is a non-smoker and works in an office environment with no known exposure to respiratory irritants. He does not consume alcohol. There are no known allergies.
+
+The patient mentions trying non-pharmacological interventions such as steam inhalation and chest percussion, which have offered limited relief. He also experiences occasional side effects from the inhaler, including palpitations, which he describes as mild and non-progressive.
+
+Objective:
+Vital Signs:
+    - Blood Pressure: 120/80 mmHg
+    - Heart Rate: 82 bpm
+    - Respiratory Rate: 18 breaths per minute
+    - Temperature: 98.6°F
+    - Oxygen Saturation: 98% on room air
+
+General Appearance:
+The patient appears well-nourished and in no acute distress.
+
+Cardiovascular:
+Regular rate and rhythm with no murmurs, gallops, or rubs.
+
+Respiratory:
+Decreased breath sounds at the bases bilaterally, with mild expiratory wheezing. No crackles or rales. The chest is symmetric with no use of accessory muscles during respiration.
+
+Abdomen:
+Soft, non-tender, with no organomegaly. Bowel sounds are normal.
+
+Musculoskeletal:
+Normal range of motion throughout; no joint tenderness or swelling.
+
+Neurological:
+Alert and oriented to person, place, and time. Cranial nerves II-XII intact. Motor strength is 5/5 in all extremities. Reflexes are 2+ and symmetric.
+
+Skin:
+Multiple small hemangiomas noted on the arms and trunk. They are non-tender and without signs of infection.
+
+Laboratory data from recent visits indicate normal levels of basophils, blood urea nitrogen, carbon dioxide, and chloride. Creatinine, glucose, and liver function tests were within normal limits. Complete blood count showed normal values for eosinophils, lymphocytes, neutrophils, monocytes, and red blood cells. Electrolyte levels, including potassium and sodium, were also unremarkable.
+
+Assessment:
+1. Asthma, currently suboptimally controlled with increased nocturnal exacerbations and frequent shortness of breath.
+2. Painful respiration, likely secondary to asthma exacerbations.
+3. Syncope, likely vasovagal in nature, though differential diagnosis includes possible cardiovascular or neurological causes.
+
+Plan:
+1. Asthma:
+    - Increase the dose of the inhaled corticosteroid regimen and introduce a long-acting beta-agonist inhaler for better nocturnal control.
+    - Provide a peak flow meter to monitor daily variability and educate the patient on usage.
+    - Refer to pulmonology for further evaluation and management.
+
+2. Painful respiration:
+    - Encourage continued use of the short-acting beta-agonist during acute episodes.
+    - Consider a short course of oral corticosteroids if symptoms do not improve with the adjusted inhaler regimen.
+
+3. Syncope:
+    - Schedule an ECG and echocardiogram to rule out any underlying cardiac conditions.
+    - Order orthostatic blood pressure measurements to assess for possible hypotension.
+
+Follow-Up:
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. Follow-up appointment in 2 weeks to reassess asthma control and review results of the cardiac workup. Reiterate the importance of medication adherence and proper inhaler technique. Ensure the patient understands the treatment plan and agrees to the follow-up schedule.

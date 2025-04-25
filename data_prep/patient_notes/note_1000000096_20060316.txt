@@ -1,0 +1,46 @@
+**Visit Information:**
+
+- Patient Num: 1000000096
+- Visit Date: 03/16/2006
+
+**Subjective:**
+
+This is a 77-year-old Black female, who communicates primarily in Spanish and has been under our care for nearly a decade. Today, she presents for a follow-up visit due to her ongoing management of asthma, which has been the most predominant concern. The patient recounts frequent episodes of wheezing and shortness of breath, particularly during the early mornings and late evenings. Despite consistent use of prescribed medications, including her albuterol inhaler as needed, these episodes persist, necessitating the use of her rescue inhaler several times each week.
+
+In addition to her respiratory symptoms, she reports feeling persistently sad, plagued with anxiety, and experiencing occasional panic attacks, which she describes as increasingly debilitating. She has noticed a decline in her interest in daily activities and a struggle to maintain coordination, specifically impacting her ability to manage day-to-day tasks involving her upper limbs.
+
+Her adherence to medications includes the use of an albuterol inhaler for asthma management, a daily dose of sertraline for depression, and various medications addressing her vascular and thyroid conditions. She has a documented history of chronic lymphocytic thyroiditis post-thyroidectomy, depressive disorders, conversion disorder, coronary artery disease with a history of myocardial infarctions, osteoarthritis, and esophageal reflux disease. She lives alone and has minimal social interactions due to her depressive symptoms, denies smoking, and has no known allergies.
+
+**Objective:**
+
+Upon examination, the patient’s vital signs are as follows: blood pressure 138/86 mmHg, heart rate 80 beats per minute, respiratory rate 18 breaths per minute, temperature 98.8°F, and oxygen saturation 96% on room air. 
+
+The patient appears fatigued and somewhat anxious but does not exhibit any signs of acute distress. Cardiovascular examination reveals a regular heart rhythm with no appreciable murmurs, rubs, or gallops, and normal jugular venous pressure. No peripheral edema is noted.
+
+Respiratory examination is significant for scattered bilateral wheezes and a slight prolonged expiration phase, indicative of compromised lung function. The abdomen is non-tender with normal bowel sounds and no hepatosplenomegaly. Musculoskeletal evaluation reveals a reduced range of motion in both shoulders without any swelling or tenderness. Neurological examination reveals mild impaired coordination, evidenced by slight dysmetria during finger-to-nose testing.
+
+Recent laboratory results reviewed show slight eosinophilia and an elevated erythrocyte sedimentation rate, which align with her known asthma and inflammatory profile. Other lab parameters including renal function, liver enzymes, and glucose levels are within normal limits.
+
+**Assessment:**
+
+The clinical impression is that the patient's asthma remains suboptimally controlled. Secondary concerns include chronic depressive and conversion disorders, a history of coronary atherosclerosis with prior myocardial infarctions, and issues with coordination most likely secondary to her existing neurological condition or osteoarthritic changes.
+
+**Plan:**
+
+1. **Asthma Management:**
+   - Escalate therapy by increasing the dose of inhaled corticosteroids.
+   - Introduce a leukotriene receptor antagonist to potentially reduce frequency and severity of asthma exacerbations.
+   - Educate the patient thoroughly on the asthma action plan and ensure proper inhaler technique.
+   - Schedule pulmonary function testing, including spirometry, to assess the current state of lung function.
+
+2. **Depressive Disorders and Conversion Disorder:**
+   - Continue current sertraline therapy.
+   - Initiate a referral to a psychiatrist for comprehensive mental health evaluation and potential adjustment of therapy.
+   - Coordinate follow-up with mental health services for psychotherapy to further support her psychological well-being.
+
+3. **Physical and Coordination Issues:**
+   - Refer to physical therapy to develop an exercise plan aimed at improving shoulder mobility and coordination.
+   - Plan for reassessment in one month to monitor progress with physical therapy and coordination improvement.
+
+**Follow-Up:**
+The patient is instructed to contact the clinic if her respiratory symptoms or depressive symptoms worsen or if new symptoms arise. A follow-up visit is scheduled in one month to review asthma control, assess mental health status, and evaluate progress with physical therapy. Educational materials regarding medication adherence and relaxation techniques for managing anxiety have been provided, which the patient acknowledges understanding and agrees to follow.

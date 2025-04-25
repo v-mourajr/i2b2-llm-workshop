@@ -1,0 +1,21 @@
+demographics
+patient_num: 1000000109  age: 55
+patient_num: 1000000109  sex: M
+patient_num: 1000000109  race: hispanic
+patient_num: 1000000109  language: english
+patient_num: 1000000109  vital_status: alive
+patient_num: 1000000109  earliest fact: Oct 28 1999 12:00AM
+patient_num: 1000000109  latest fact: Mar 29 2001 12:00AM
+patient_num: 1000000109  range in days: 518
+totals
+patient_num: 1000000109  distinct concepts: 14
+patient_num: 1000000109  total facts: 23
+patient_num: 1000000109  total encounters: 2
+patient_num: 1000000109  total asthma: 1
+descriptive
+patient_num: 1000000109  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 1
+patient_num: 1000000109  diagnosis code: ICD9:465.9  name: Acute upper respiratory infections of unspecified site  count: 1
+patient_num: 1000000109  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 1
+patient_num: 1000000109  diagnosis code: ICD9:87.49  name: Other chest x-ray  count: 1
+patient_num: 1000000109  diagnosis code: ICD9:93.94  name: Respiratory medication administered by nebulizer  count: 1
+patient_num: 1000000109  diagnosis code: ICD9:V70.9  name: Unspecified general medical examination  count: 1

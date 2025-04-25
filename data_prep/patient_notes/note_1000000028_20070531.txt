@@ -1,0 +1,57 @@
+**Visit Information:**
+- Patient Number: 1000000028
+- Visit Date: May 31, 2007
+
+**Subjective:**
+This is a 42-year-old Hispanic male who speaks German and has been under our care for several years due to asthma. Today, he presents for a follow-up regarding his persistent asthma symptoms. The patient reports that his symptoms have remained relatively stable since his last visit but continues to experience episodes of shortness of breath and wheezing, particularly with physical exertion and exposure to cold air. Despite regular use of his prescribed inhaled corticosteroid and rescue inhaler (Albuterol Sulfate), he is still required to use the rescue inhaler multiple times per week.
+
+His medical history includes asthma, bipolar affective disorder, and situs inversus. He has a history of various conditions such as acute pharyngitis, anxiety, cough, malaise and fatigue, obesity, hyperlipidemia, shoulder injuries, syncope, neurotic depression, and essential hypertension but has not undergone any surgical procedures.
+
+Currently, his medication regimen comprises Albuterol Sulfate and Paxil suspension. He reports compliance with his medication but is concerned about the frequency of his rescue inhaler use. Socially, he continues to live alone and works as a manual laborer, which sometimes triggers his asthma. He is a non-smoker and drinks alcohol socially, consuming 1-2 drinks per week. He has no known allergies.
+
+The patient describes his wheezing as intermittent and lasting for a few minutes to half an hour, often relieved by Albuterol. Non-pharmacological measures, such as avoiding cold environments and using a humidifier, provide limited relief. He has experienced no significant side effects from his medications.
+
+**Objective:**
+- **Vital Signs:**
+  - Blood Pressure: 130/85 mmHg
+  - Heart Rate: 80 bpm
+  - Respiratory Rate: 22 breaths per minute
+  - Temperature: 98.6°F
+  - Oxygen Saturation: 96% on room air
+
+- **General Appearance:**
+  The patient is alert, oriented, and in no acute distress, exhibiting mild exertional dyspnea.
+
+- **Cardiovascular:**
+  Heart sounds are normal with a regular rate and rhythm; no murmurs, gallops, or rubs.
+
+- **Respiratory:**
+  Bilateral wheezes are heard, especially in the lower lung fields, with no rales, and a moderately prolonged expiratory phase.
+
+- **Abdomen:**
+  Soft, non-tender with no hepatosplenomegaly or masses. Bowel sounds are present and normal.
+
+- **Musculoskeletal:**
+  No visible deformities or swelling; full range of motion in all extremities.
+
+- **Neurological:**
+  Alert and oriented to person, place, and time; cranial nerves intact, motor strength is 5/5 in all extremities.
+
+- **Skin:**
+  Warm, dry, and intact; without rashes or lesions.
+
+**Assessment:**
+The primary diagnosis remains asthma, unspecified without mention of status asthmaticus. The patient's asthma control is suboptimal, likely due to physical and environmental triggers. Secondary concerns include the patient's history of bipolar affective disorder, neurotic depression, episodes of cough, fever, obesity, hyperlipidemia, essential hypertension, and occasional syncope—all currently stable.
+
+**Plan:**
+- **Asthma Management:**
+  - Continue the current inhaled corticosteroid and Albuterol Sulfate as needed.
+  - Introduce a long-acting beta-agonist (LABA) to enhance symptom control.
+  - Schedule regular spirometry and peak flow monitoring to assess airway function and response to therapy.
+  - Refer to an allergist for evaluation and management of potential allergen sensitivities.
+
+**Follow-Up:**
+- Advise the patient to contact the clinic if symptoms worsen, do not improve within a week, or if test results indicate a need for additional evaluation.
+- Arrange a follow-up visit in 1 month to reassess asthma control and review spirometry results. Adjust the treatment regimen as needed based on allergist recommendations.
+- Educate the patient on the proper inhaler technique and the significance of adhering to daily maintenance therapy. Discuss the importance of avoiding environmental triggers and ensure the patient understands and agrees to follow the asthma action plan provided.
+

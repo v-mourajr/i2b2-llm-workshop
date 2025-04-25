@@ -1,0 +1,93 @@
+### Visit Information:
+Patient Number: 1000000075  
+Visit Date: 01/12/2010
+
+### Subjective:
+The patient is a 53-year-old Black female who has been under our clinic’s care for a number of years. She presents today for a follow-up consultation focusing on her asthma and associated health concerns. According to her report, she has been experiencing intermittent asthma exacerbations characterized by shortness of breath and asthma attacks occurring primarily at night. These episodes happen about two to three times per week, accompanied by wheezing and chest tightness. Currently, the severity of her dyspnea during these exacerbations is rated by her as a 7/10. She mentions that her symptoms improve moderately following the use of her albuterol inhaler.
+
+**Past Medical & Surgical History:**
+Her medical history is significant for chronic conditions including asthma (both unspecified and intrinsic types), chronic bronchitis, chronic airway obstruction, and benign neoplasms affecting her bronchus, lung, and trachea. Additionally, there is a history of emphysema which is attributed to previous surgical procedures. She has also struggled with unspecified hypothyroidism and hypertension.
+
+**Medications & Supplements:**
+Currently, she is on a regimen including:
+- Albuterol Sulfate 
+- Atenolol for hypertension
+- Bupropion Hydrochloride for depression 
+- Hydrochlorothiazide 
+- Lorazepam for anxiety
+- Remeron (Mirtazapine) for depression 
+She reports compliance with her medication schedule and denies any side effects apart from occasional mild tremors after using her beta-agonist inhaler.
+
+**Social History:**
+The patient does not smoke and consumes alcohol socially. She works as a secretary, which involves prolonged periods of sitting, and she engages in minimal physical activity.
+
+**Allergies:**
+There are no reported drug allergies.
+
+**Symptom Details:**
+Asthma symptoms, including shortness of breath and wheezing, have notably intensified over the past month, particularly nocturnal. These symptoms are exacerbated by cold air and physical effort, with partial relief provided by her rescue inhaler.
+
+**Additional Narrative:**
+Non-pharmacological interventions, such as maintaining an allergen-free environment, have been effectively integrated into her management plan. Recently, she reports increased fatigue, possibly connected to her chronic conditions. 
+
+### Objective:
+
+**Vital Signs:**
+- Blood Pressure: 140/86 mmHg
+- Heart Rate: 80 bpm
+- Respiratory Rate: 18 breaths per minute
+- Temperature: 98.4°F
+- Oxygen Saturation: 97% on room air
+
+**General Appearance:**
+The patient appears slightly distressed when discussing her symptoms. She is awake, alert, and oriented.
+
+**Cardiovascular:**
+Heart sounds are normal with a regular rate and rhythm, S1 and S2 present, no murmurs, gallops, or rubs.
+
+**Respiratory:**
+Lung examination reveals bilateral expiratory wheezes especially prominent at the bases. No rales or rhonchi detected. Breathing pattern is regular without signs of acute respiratory distress.
+
+**Abdomen:**
+Soft and non-tender, with no palpable masses. Mild tenderness in the suprapubic region was noted, correlating with her history of renal calculus.
+
+**Musculoskeletal:**
+Normal range of motion in all joints without deformity or swelling.
+
+**Neurological:**
+Cranial nerves II-XII are intact. Motor and sensory exams are grossly non-focal. Reflexes are 2+ and symmetrical.
+
+**Skin:**
+No rashes, lesions, or other dermatological findings.
+
+### Assessment:
+
+**Diagnosis or Clinical Impression:**
+1. Chronic Asthma: Uncontrolled with recent exacerbations.
+2. Chronic Bronchitis: Persistent symptoms contributing to respiratory complaints.
+3. Unspecified Hypothyroidism.
+4. Hypertension: Currently well-managed.
+5. Chronic Airway Obstruction.
+
+**Issue/Problem/Request 1: Asthma Exacerbation**
+- **Assessment:** Likely exacerbation of chronic asthma, likely due to allergen exposure or inadequate current therapy.
+- **Diagnostic Tests:** Pulmonary function tests and chest X-ray as indicated.
+- **Treatment Plan:** Increase inhaled corticosteroids dosage; add a long-acting beta-agonist inhaler. Emphasize education on avoiding triggers.
+- **Relevant Referrals:** Refer to pulmonologist.
+
+**Issue/Problem/Request 2: Chronic Bronchitis**
+- **Assessment:** Ongoing chronic bronchitis potentially worsened by chronic asthma.
+- **Diagnostic Tests:** Consider sputum culture if a productive cough persists.
+- **Treatment Plan:** Encourage increased fluid intake and use of expectorants. Consider short-term oral steroids if no improvement.
+- **Relevant Referrals:** None at this time.
+
+**Issue/Problem/Request 3: Chronic Airway Obstruction**
+- **Assessment:** Persistent airway obstruction.
+- **Diagnostic Tests:** Repeat spirometry and possible imaging studies.
+- **Treatment Plan:** Adjustment of treatment as aforementioned. Close monitoring of therapy response.
+- **Relevant Referrals:** Pulmonologist referral for further assessment.
+
+### Follow-Up:
+Instructed the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. An urgent follow-up appointment will be arranged shortly after diagnostic tests. The patient was educated regarding the new treatments and strategies for symptom management, and she voiced understanding and agreement with the plan. Further reassessment will hinge on the results of the pulmonary function tests and any further diagnostic findings. 
+
+Patient is hopeful for improvement with new medication adjustments and the proposed intervention plan.

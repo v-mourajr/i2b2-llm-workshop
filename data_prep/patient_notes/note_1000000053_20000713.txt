@@ -1,0 +1,68 @@
+**Visit Information:**
+- Patient Number: 1000000053
+- Visit Date: 07/13/2000
+
+**Subjective:**
+This is a 5-year-old Asian male who has been receiving care at our clinic for asthma. The patient speaks Spanish, and his mother is present to aid communication. Today, he is here for a follow-up visit regarding his asthma and recent respiratory issues.
+
+The mother reports that the patient has been experiencing increased coughing and wheezing, especially at night, which has occasionally disturbed his sleep. She also mentions that he has had intermittent dyspnea during exertion, and there has been a recent episode of a viral infection, manifesting as a fever and runny nose, which seems to have exacerbated his symptoms. The patient also has a history of frequent skin rashes.
+
+His asthma management includes the use of a rescue inhaler with albuterol as needed, and a maintenance plan involving a daily corticosteroid inhaler. The mother reports adherence to the medication regimen, but there has been no significant improvement in symptoms.
+
+**Objective:**
+- Vital Signs:
+  - Blood Pressure: 95/60 mmHg
+  - Heart Rate: 100 bpm
+  - Respiratory Rate: 24 breaths per minute
+  - Temperature: 98.6°F
+  - Oxygen Saturation: 96% on room air
+
+- General Appearance: Active, alert, well-nourished Asian male child in no acute distress.
+  
+- Cardiovascular: Heart sounds normal, no murmurs, regular rhythm.
+  
+- Respiratory: Mild respiratory distress, with audible wheezing on auscultation, particularly during expiration. Mild intercostal retraction noted. Breath sounds decreased bilaterally.
+  
+- Abdomen: Soft, non-tender, no hepatosplenomegaly.
+  
+- Musculoskeletal: No joint deformities or swelling.
+  
+- Neurological: Alert, oriented for age, no focal deficits.
+  
+- Skin: Several areas of erythematous, raised rash on the arms and chest without signs of infection.
+
+**Assessment:**
+- Primary Diagnosis: Asthma, unspecified without mention of status asthmaticus
+  - Likely diagnosis includes asthma exacerbation, potentially triggered by recent viral upper respiratory infection.
+  - Differential diagnosis also considers other respiratory abnormalities contributing to dyspnea.
+  
+- Secondary Diagnosis: Rash and other nonspecific skin eruptions likely related to an underlying allergic or atopic condition.
+  
+- Additional Issues: Recent viral infection, which may be influencing his overall respiratory status.
+
+**Plan:**
+1. Asthma Management:
+   - Continue current asthma medications (corticosteroid inhaler daily and albuterol as needed).
+   - Add a short course of oral corticosteroids to manage acute symptoms.
+   - Educate the mother on recognizing early signs of an asthma attack and appropriate use of medications.
+   - Recommend a follow-up appointment in one month or sooner if symptoms worsen.
+
+2. Diagnostic Tests:
+   - Perform a pulmonary function test to assess baseline respiratory function and determine the need for any adjustments in long-term asthma management.
+   - CBC and differential to rule out any underlying infection or anemia.
+
+3. Treatment Plan for Skin Eruption:
+   - Topical corticosteroids for rash, with application instructions provided to the mother.
+   - Advise keeping a symptom diary to help identify potential environmental triggers.
+
+4. Viral Infection:
+   - Supportive care, including adequate hydration and rest.
+   - Monitor symptoms and return if fever persists or respiratory symptoms worsen.
+
+5. Patient Education:
+   - The mother was instructed to ensure environmental triggers such as dust or smoke are minimized at home.
+   - Emphasize the importance of medication adherence and timely administration.
+  
+**Follow-Up:**
+- Instruct the mother to contact the clinic if the patient's symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.
+- Scheduled a follow-up appointment in four weeks to reassess the patient’s condition and response to the updated treatment plan.

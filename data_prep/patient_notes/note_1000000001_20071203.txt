@@ -1,0 +1,61 @@
+Visit Information:
+- Patient Num: 1000000001
+- Visit Date: 12/03/2007
+
+Subjective:
+This is a 23-year-old Black female who has been under the care of our clinic for a span of nearly 5 years. Fluent in English, she presents today for follow-up regarding her asthma management and to address recent exacerbations.
+
+The patient reports that while her asthma symptoms are generally well-managed with her current medications, which include Albuterol Sulfate 4mg as needed, Flovent 110 mcg, and Singulair 5mg daily, she has experienced a recent increase in episodes of dyspnea and coughing. These exacerbations occur predominantly during physical exertion or when exposed to known allergens. She describes the symptoms as intermittent but more troublesome in the past month. Additionally, she has experienced recurrent episodes of dizziness, primarily upon standing, which she attributes to the hypotension documented on previous visits.
+
+She denies experiencing any chest pain, syncope, or palpitations. Her personal and social history reveals no significant changes, and she continues to live with her parents, abstaining from smoking, alcohol, or illicit drugs. Her allergic history includes a known sensitivity to pollen and dust mites, which typically aggravates her asthma.
+
+Past medical history is significant for recurrent asthma exacerbations, managed largely through medication adjustments. She has not had any recent hospitalizations or major surgical procedures.
+
+Objective:
+Vital Signs:
+- Blood Pressure: 100/65 mmHg
+- Heart Rate: 78 bpm
+- Respiratory Rate: 18 breaths/minute
+- Temperature: 98.4°F
+- Oxygen Saturation: 98% on room air
+
+General Appearance: The patient is well-groomed and in no apparent distress.
+
+Cardiovascular: Regular heart rate and rhythm without murmurs, gallops, or rubs. Peripheral perfusion is adequate with intact pulses.
+
+Respiratory: Bilateral lung fields are clear to auscultation. Mild expiratory wheezing noted at the bases. No use of accessory muscles.
+
+Abdomen: Without tenderness, organomegaly, or masses.
+
+Musculoskeletal: Normal range of motion, no deformities or tenderness noted. Muscle strength 5/5 in all major muscle groups.
+
+Neurological: Cranial nerves II-XII are intact, reflexes are normal. No focal neurological deficits observed.
+
+Skin: Warm, dry, and intact without any rashes or lesions.
+
+Recent laboratory results:
+- Complete blood count and differential: All parameters within normal limits indicating no signs of infection or systemic inflammation.
+- Comprehensive metabolic panel: Includes normal liver function tests (AST, ALT, bilirubin), renal function tests (BUN, creatinine), and electrolytes.
+
+Assessment:
+- Primary diagnosis: Asthma, unspecified type, recurrent with recent acute exacerbations.
+- Secondary diagnosis: Hypotension, unspecified, related to positional dizziness.
+
+Plan:
+1. Asthma Management:
+   - Continuation of current medications: Albuterol as needed, Flovent, and Singulair.
+   - Addition of a long-acting beta-agonist for exercise-induced bronchospasm.
+   - Daily peak flow monitoring to track lung function and preempt exacerbations.
+   - Environmental control strategies to reduce allergen exposure.
+   - Scheduled follow-up in 3 months for reassessment.
+
+2. Hypotension Management:
+   - Increase oral hydration and salt intake.
+   - Education on positional changes to mitigate symptoms of orthostatic hypotension.
+   - Consideration of compression stockings for venous support.
+   - Follow-up in 1 month to re-evaluate symptoms and blood pressure control.
+
+Patient Education & Follow-Up:
+The patient was instructed to contact the clinic if her symptoms worsen or do not improve within a week, or if follow-up results dictate. Education was provided on asthma management including symptom monitoring and proper inhaler use, as well as strategies for managing dizziness related to hypotension. The patient demonstrated understanding and agreement with the management plan and is scheduled to return for follow-up visits as outlined. 
+
+The comprehensive nature of the management plan and the proactive monitoring strategies should assist in maintaining optimal control of her chronic conditions while addressing her immediate concerns effectively.

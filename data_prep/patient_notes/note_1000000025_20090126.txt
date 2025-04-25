@@ -1,0 +1,52 @@
+Visit Information:
+- Patient Num: 1000000025
+- Visit Date: 01/26/2009
+
+This is a 78-year-old Hispanic female, fluent in Spanish, who has been under our clinic’s care regularly over the past several years. She presents for a follow-up visit, primarily concerning her asthma management and associated health conditions. 
+
+Subjective:
+The patient reports a recent increase in her asthma symptoms, characterized by persistent shortness of breath and wheezing over the last two days. Despite diligent adherence to her prescribed inhaled corticosteroids and using albuterol as needed, her symptoms have notably worsened, particularly nocturnally. She has not experienced any recent respiratory infections or notable changes in her living environment. Her medical history includes various types of asthma (extrinsic and intrinsic), alongside chronic conditions such as brachial neuritis, bronchiectasis, carpal tunnel syndrome, disturbance of skin sensation, hyperhidrosis, and episodic chest pain. 
+
+Currently, her medication regimen includes Flovent for asthma, albuterol for acute symptoms, Evista for osteoporosis, Lescol for hyperlipidemia, Metoprolol for hypertension, and magnesium sulfate for muscle relaxation. Additionally, she uses midazolam hydrochloride for sedation during procedures. She lives independently, refrains from smoking and alcohol, and maintains a routine of daily walks. There are no known allergies reported. Her breathing difficulties are exacerbated by physical exertion and improved slightly with rest and albuterol use. She ranked her current breathing difficulty as a 6 out of 10.
+
+Objective:
+Vital Signs:
+- Blood Pressure: 132/86 mmHg
+- Heart Rate: 82 bpm
+- Respiratory Rate: 22 breaths per minute
+- Temperature: 98.7°F
+- Oxygen Saturation: 93% on room air
+
+General Appearance: She presents as alert and oriented, with mild dyspnea but not in acute distress.
+Cardiovascular: Heart examination reveals a regular rhythm without audible murmurs, gallops, or rubs. Peripheral pulses are strong and palpable.
+Respiratory: Auscultation demonstrates diffuse wheezing throughout the lungs, with a notably prolonged expiratory phase. Use of accessory muscles is observed, although no rales or rhonchi are detected.
+Abdomen: Inspection and palpation indicate a soft, non-tender abdomen with normal bowel sounds and no palpable organomegaly.
+Musculoskeletal: Bilateral wrist movements elicit mild discomfort, and Tinel’s sign is positive, consistent with carpal tunnel syndrome. Full range of motion is retained in all extremities.
+Neurological: Sensory and motor functions are intact, with muscle strength recorded as normal (5/5) throughout.
+Skin: Warm and dry complexion without rashes or cyanosis.
+
+Assessment:
+The primary clinical impression is an exacerbation of asthma, observed despite appropriate use of current medications. Secondary issues include brachial neuritis, carpal tunnel syndrome, disturbance of skin sensation, hyperhidrosis, episodic chest pain, coronary conditions, and a comprehensive history of various allergies.
+
+Plan:
+1. Asthma Exacerbation:
+    - Increase the dose of inhaled corticosteroids as appropriate.
+    - Continue the usage of albuterol for symptomatic relief.
+    - Commence a short course of oral corticosteroids (Prednisone) for acute management.
+    - Refer to pulmonology for detailed evaluation and potential adjustment in asthma management strategy.
+    - Schedule spirometry for early assessment of pulmonary function following acute exacerbation.
+
+2. Carpal Tunnel Syndrome:
+    - Advise on the use of nighttime wrist splints and nonsteroidal anti-inflammatory drugs (NSAIDs) for pain control.
+    - Order an electromyography (EMG) study to further assess the condition.
+    - Consider orthopedic consultation if symptoms persist despite conservative management.
+
+3. Episodic Chest Pain:
+    - Continue with attentive monitoring and initiate a repeat electrocardiogram (ECG).
+    - Contemplate a cardiovascular stress test if chest discomfort continues.
+    - Potential referral for comprehensive cardiology evaluation based on ongoing complaints.
+
+Follow-Up:
+- Instruct the patient to reach out to the clinic if symptoms exacerbate or fail to improve within a week, or if test results prompt further intervention.
+- Schedule a follow-up appointment in one week to reassess asthma control and review diagnostic outcomes.
+- Provided patient education regarding her asthma action plan, and confirmed patient understanding and compliance with the delineated interventions.

@@ -1,0 +1,100 @@
+Visit Information:
+    Patient Num: 1000000089
+    Visit Date: 08/31/1998
+
+This is a 34-year-old Black male who has been receiving care at our clinic for approximately 16 months. He speaks German and presents today, 31st August 1998, for a follow-up evaluation of his asthma management and review of results from recent laboratory tests.
+
+Subjective:
+    Chief Complaints & History of Present Illness:
+    The patient reports continuing episodes of asthma exacerbations, which have been more frequent over the past month. He describes experiencing shortness of breath, wheezing, and chest tightness three to four times a week, especially during exercise and at night. He is compliant with his prescribed inhaled corticosteroid and uses his rescue inhaler approximately twice a week. He denies any hospitalizations or emergency room visits for asthma in the past year but is concerned about the increasing symptom frequency.
+
+    Past Medical & Surgical History:
+    The patient has a history of asthma, unspecified hearing loss, and chronic joint pain. There is no surgical history on record.
+
+    Medications & Supplements:
+    He is currently using an inhaled corticosteroid for long-term control of his asthma and a short-acting beta-agonist (rescue inhaler) as needed. He takes ibuprofen occasionally for joint pain. No herbal supplements or additional medications are reported.
+
+    Social History:
+    The patient lives with his partner and works as an accountant. He does not smoke or drink alcohol. Physical activity is limited due to asthma symptoms which worsen with exertion.
+
+    Allergies:
+    No known drug, food, or environmental allergies.
+
+    Symptom Details:
+    Asthma symptoms started several years ago, with the recent exacerbation lasting for a month. Symptoms are worse with physical exertion and at night. Alleviating factors include the use of his inhaler; however, triggers such as pollen exposure tend to aggravate his symptoms. Pain in the joints is mild to moderate and managed with over-the-counter pain relief. Unspecified hearing loss is noted but not elaborately described.
+
+    Additional Narrative:
+    Symptom management includes the use of prescribed inhalers. The patient has recently attempted to avoid asthma triggers more effectively, such as staying indoors during high pollen counts and using air purifiers.
+
+Objective:
+    Vital Signs:
+        - Blood Pressure: 120/80 mmHg
+        - Heart Rate: 74 beats per minute
+        - Respiratory Rate: 18 breaths per minute
+        - Temperature: 98.6°F (37°C)
+        - Oxygen Saturation: 98% on room air
+
+    General Appearance:
+    The patient appears well-nourished and in no acute distress.
+
+    Cardiovascular:
+    Heart sounds are normal with no murmurs, rubs, or gallops. Peripheral pulses are intact.
+
+    Respiratory:
+    Mild wheezing is noted on auscultation with prolonged expiration. No use of accessory muscles observed.
+
+    Abdomen:
+    Soft, non-tender, with no hepatosplenomegaly or other abnormalities.
+
+    Musculoskeletal:
+    Full range of motion in all joints, no visible swelling or deformities, mild pain reported with palpation over the larger joints.
+
+    Neurological:
+    Alert and oriented to person, place, and time. Cranial nerves II-XII intact, no focal neurological deficits.
+
+    Skin:
+    No rashes, lesions, or other abnormalities observed.
+
+Assessment:
+    - Diagnosis or Clinical Impression:
+    The primary diagnosis is asthma, unspecified without mention of status asthmaticus. Secondary issues include joint pain, site unspecified, and unspecified hearing loss.
+
+    - Issue 1:
+        Assessment:
+            - Likely diagnosis: Asthma exacerbation
+            - Differential diagnosis: Bronchitis, allergic rhinitis
+        Diagnostic Tests:
+            - Peak flow measurement
+            - Repeat pulmonary function tests
+        Treatment Plan:
+            - Continue current inhaled corticosteroid
+            - Increase the dose of inhaled corticosteroid or consider adding long-acting beta-agonist as needed
+            - Prescribe a short course of oral corticosteroids if symptoms worsen
+            - Relevant referrals: Follow-up with pulmonologist if no improvement
+
+    - Issue 2:
+        Assessment:
+            - Likely diagnosis: Chronic joint pain
+            - Differential diagnosis: Osteoarthritis, rheumatoid arthritis
+        Diagnostic Tests:
+            - None at this time, manage symptomatically
+        Treatment Plan:
+            - Continue use of over-the-counter analgesics as needed
+            - Consider referral to rheumatology if symptoms persist or worsen
+
+    - Issue 3:
+        Assessment:
+            - Likely diagnosis: Unspecified hearing loss
+            - Differential diagnosis: Conductive hearing loss, sensorineural hearing loss
+        Diagnostic Tests:
+            - Audiometry test
+        Treatment Plan:
+            - Referral to ENT specialist for further evaluation
+
+Follow-Up:
+    - Instructions for emergent follow-up care or monitoring:
+    Instruct patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.
+    - Follow-Up for persistent, changing, or worsening symptoms:
+    Schedule a follow-up appointment in four weeks to review the effectiveness of the adjusted asthma management plan and any changes in joint pain or hearing status.
+    - Patient Education & Understanding of the Plan:
+    The patient was educated about asthma triggers and the importance of medication adherence. He understood the instructions and agreed with the proposed plan of care.

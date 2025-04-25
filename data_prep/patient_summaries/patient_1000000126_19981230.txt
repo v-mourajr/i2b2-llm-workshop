@@ -1,0 +1,22 @@
+demographics
+patient_num: 1000000126  age: 7
+patient_num: 1000000126  sex: M
+patient_num: 1000000126  race: indian
+patient_num: 1000000126  language: german
+patient_num: 1000000126  vital_status: alive
+patient_num: 1000000126  earliest fact: Oct  1 1997 12:00AM
+patient_num: 1000000126  latest fact: Dec 30 1998 12:00AM
+patient_num: 1000000126  range in days: 455
+totals
+patient_num: 1000000126  distinct concepts: 15
+patient_num: 1000000126  total facts: 25
+patient_num: 1000000126  total encounters: 6
+patient_num: 1000000126  total asthma: 1
+descriptive
+patient_num: 1000000126  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 1
+patient_num: 1000000126  diagnosis code: ICD9:309.28  name: Adjustment reaction with mixed emotional features  count: 1
+patient_num: 1000000126  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 1
+patient_num: 1000000126  diagnosis code: ICD9:924.3  name: Contusion of toe  count: 1
+patient_num: 1000000126  diagnosis code: ICD9:127.4  name: Enterobiasis  count: 1
+patient_num: 1000000126  diagnosis code: ICD9:V70.0  name: Routine general medical examination at a health care facility  count: 2
+patient_num: 1000000126  diagnosis code: ICD9:382.9  name: Unspecified otitis media  count: 1

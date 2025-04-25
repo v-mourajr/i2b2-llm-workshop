@@ -1,0 +1,56 @@
+Visit Information:
+    - Patient Num: 1000000004
+    - Visit Date: December 5, 2007
+
+This is a 32-year-old Black male who has been receiving care at our clinic for several years. He speaks English and presents today for a follow-up related to his chronic respiratory issues, primarily asthma. The patient reports experiencing increasingly frequent episodes of shortness of breath and wheezing, particularly at night and with physical exertion. Despite adherence to his prescribed asthma medications, he has used his rescue inhaler multiple times over the past week. He expresses concern regarding his poor respiratory control but denies any recent hospitalizations.
+
+Subjective:
+    The patient’s past medical history is notable for chronic asthma, with additional diagnoses including acute bronchitis, allergic rhinitis, and numerous respiratory infections. He also has a history of adjustment disorder with emotional features and past substance abuse with alcohol, cannabis, and cocaine. He reports quitting all substances and currently denies any use.
+
+    He is taking an inhaled corticosteroid and a long-acting beta-agonist daily, and uses albuterol as needed for acute symptoms. He occasionally consumes alcohol but has avoided other substance use. He works a physically demanding job, which may contribute to his exacerbated respiratory symptoms. The patient lives alone and maintains regular medical appointments. He has no known allergies and mentions difficulty managing stress as a notable issue affecting his overall health.
+
+Objective:
+    Vital Signs:
+        - Blood Pressure: 118/76 mmHg
+        - Heart Rate: 78 beats per minute
+        - Respiratory Rate: 20 breaths per minute
+        - Temperature: 98.4°F
+        - Oxygen Saturation: 96% on room air
+
+    General Appearance:
+        The patient appears well-nourished, alert, and oriented. He is in no acute distress and maintains good personal hygiene.
+
+    Cardiovascular:
+        Normal S1 and S2 heart sounds with no murmurs, rubs, or gallops present. The examination revealed no peripheral edema.
+
+    Respiratory:
+        Lung examination reveals mild wheezing in all lung fields on auscultation. The patient reports mild dyspnea on exertion, but no crackles or rhonchi are observed.
+
+    Abdomen:
+        Examination shows a soft, non-tender, and non-distended abdomen with normal bowel sounds. No organomegaly or masses are detected.
+
+    Musculoskeletal:
+        The patient demonstrates a full range of motion in all extremities without joint swelling or tenderness.
+
+    Neurological:
+        The patient is alert and oriented, and cranial nerves II-XII are intact, with no focal neurological deficits observed.
+
+    Skin:
+        Skin appears warm, dry, and intact, with no rashes or lesions present.
+
+Assessment:
+    Chronic asthma is the primary diagnosis, with a recent increase in symptom frequency and reliance on the rescue inhaler indicating poorly controlled asthma. There is also a recognition of the impact of emotional stress related to the patient’s adjustment disorder and the history of substance abuse on his overall health.
+
+Plan:
+    - Continue current medications for asthma management, including the inhaled corticosteroid and long-acting beta-agonist.
+    - Prescribe a short course of oral corticosteroids to manage the acute exacerbation of asthma symptoms.
+    - Educate the patient on proper inhaler techniques and the importance of medication adherence.
+    - Implement peak flow monitoring to better assess and manage the patient’s asthma control.
+    - Schedule a follow-up appointment in 6 weeks to reassess the patient’s asthma management and symptom control.
+    - Refer the patient to a mental health professional to address adjustment disorder and develop coping strategies.
+    - Offer a referral to substance abuse counseling for continued support in maintaining abstinence.
+    - Encourage regular physical activity, while advising avoidance of known asthma triggers.
+    - Provide education on avoiding environmental triggers for asthma and proper use of the rescue inhaler.
+
+Follow-Up:
+    The patient is instructed to contact the clinic if symptoms worsen, do not improve within a week, or if any test results suggest the need for further evaluation. A follow-up visit is scheduled for 6 weeks to reassess asthma control and emotional health. The patient expresses an understanding of the plan and agrees to the proposed interventions.

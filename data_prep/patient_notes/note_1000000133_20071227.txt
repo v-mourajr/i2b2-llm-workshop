@@ -1,0 +1,66 @@
+**Visit Information:**
+
+- Patient Num: 1000000133
+- Visit Date: 12/27/2007
+
+**Subjective:**
+
+This is a follow-up visit for a 15-year-old Asian female who communicates primarily in Spanish. She has been under our care for the past years primarily for asthma management and other related respiratory conditions. Her asthma has been characterized by repeated acute episodes requiring frequent medical attention.
+
+The patient’s mother reports a recent exacerbation of her asthma symptoms, including increased wheezing, shortness of breath, and persistent night-time coughing over the past two weeks. These symptoms have been particularly noted to worsen with cold weather and physical activity. The use of her prescribed albuterol inhaler offers temporary relief; however, the symptoms are significantly impacting her daily activities and school performance.
+
+Additionally, she has had intermittent episodes of acute pharyngitis, typically associated with viral infections. Emotional adjustment has been challenging for her, due to frequent health disruptions. She has no history of surgeries and relies on hydration and rest as non-pharmacological interventions for managing her pharyngitis. Currently, she is not on any long-term pharmacotherapy for asthma, with only an as-needed use of the inhaler. Socially, she engages in light physical activities and follows family-led nutritional adaptations to manage her obesity.
+
+**Objective:**
+
+- **Vital Signs:**
+  - Blood Pressure: 100/62 mmHg
+  - Heart Rate: 85 bpm
+  - Respiratory Rate: 22 breaths per minute
+  - Temperature: 37.8°C (100.0°F)
+  - Oxygen Saturation: 96% on room air
+
+- **General Appearance:**
+  The patient appears mildly distressed but is cooperative and alert during the examination.
+
+- **Cardiovascular:**
+  Normal heart sounds noted with no murmurs, rubs, or gallops. Pulses are palpable and symmetrical in all extremities.
+
+- **Respiratory:**
+  Auscultation reveals audible wheezing on forced expiration, especially in the upper lobes. No rales or rhonchi noted. The patient shows mild use of accessory muscles during respiration.
+
+- **Abdomen:**
+  The abdomen is soft, non-tender, and non-distended with active bowel sounds. No palpable masses or organomegaly.
+
+- **Musculoskeletal:**
+  There are no overt signs of pain during the limited examination focused on the respiratory complaint.
+
+- **Neurological:**
+  Cranial nerves II-XII are intact, and motor and sensory exams are within normal limits. Deep tendon reflexes (DTRs) are 2+ bilaterally and symmetric.
+
+- **Skin:**
+  Skin is warm, dry, and intact without rashes or lesions.
+
+**Assessment:**
+
+The patient continues to deal with persistent asthma characterized by frequent exacerbations, including status asthmaticus and acute upper respiratory infections. Adjustment disorder related to her chronic respiratory issues remains a concern. Obesity management is an ongoing aspect of her care.
+
+**Plan:**
+
+- **For Asthma:**
+  - Continue the use of the albuterol inhaler as needed.
+  - Start a low-dose inhaled corticosteroid to be taken twice daily to manage and control long-term symptoms.
+  - If there is no improvement in symptoms over the next 48 hours, consider a brief course of oral corticosteroids.
+  - Schedule a follow-up appointment in two weeks to reassess asthma control and adjust treatment if necessary.
+
+- **For Acute Pharyngitis and URIs:**
+  - Symptomatic treatment includes warm fluids, throat lozenges, and adequate rest.
+  - Should symptoms persist beyond one week or worsen, consider further evaluation with a throat swab.
+
+- **For Obesity Management:**
+  - Continue with dietary management in consultation with an in-house nutritionist.
+  - Encourage sustained physical activity that is age-appropriate and engaging.
+
+**Follow-Up:**
+
+Instruct the family to contact the clinic if her symptoms worsen or do not improve after the current interventions or if new concerning symptoms arise. Emphasize the importance of following the asthma action plan and the recommended treatment regimen. Schedule the follow-up visit to reassess asthma management, dietary progress, and any other concerns. The patient and her family were educated on the management plan, which they understood and agreed to follow.

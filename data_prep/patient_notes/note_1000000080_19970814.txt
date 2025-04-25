@@ -1,0 +1,48 @@
+**Visit Information:**
+- Patient Num: 1000000080
+- Visit Date: 08/14/1997
+
+**Subjective:**
+This is a 23-year-old Indian male who speaks English and has been receiving care at our clinic. He presents today, 08/14/1997, for a follow-up regarding his asthma management. The patient reports experiencing increased wheezing and shortness of breath over the past two weeks, especially at night and during physical activity. He mentions using his rescue inhaler more frequently than usual, about four times a week. He denies any associated chest pain or recent upper respiratory infections. Past medical history is significant for asthma, diagnosed in early childhood. He is also on medication for hypertension.
+
+Currently, he is taking Beclomethasone 80 mcg inhaler twice daily and Albuterol inhaler as needed. The patient reports adhering to the medication regimen but expresses concerns about the increased need for his rescue inhaler. He follows a balanced diet, does not smoke, and occasionally drinks alcohol. He works as a software developer and describes his job as sedentary. No known medication or food allergies are recorded. 
+
+**Objective:**
+Vital Signs:
+- Blood Pressure: 132/84 mmHg
+- Heart Rate: 88 beats per minute
+- Respiratory Rate: 20 breaths per minute
+- Temperature: 98.6°F
+- Oxygen Saturation: 95% on room air
+
+General Appearance: The patient appears alert and oriented, in no acute distress.
+Cardiovascular: Regular heart rate and rhythm with no murmurs, rubs, or gallops detected.
+Respiratory: Bilateral wheezing on auscultation, more pronounced at the bases. No crackles or diminished breath sounds noted.
+Abdomen: Soft, non-tender, with no hepatosplenomegaly.
+Musculoskeletal: Normal muscle tone and strength, no joint deformities or tenderness.
+Neurological: Grossly intact, no focal deficits noted.
+Skin: Warm and dry, no rashes or lesions observed.
+
+Recent laboratory tests reflect stable hepatic and renal function. Aspartate Aminotransferase and Blood Urea Nitrogen levels are within normal limits. Glucose readings suggest stable levels with no significant fluctuations noted. Electrolytes including Sodium, Potassium, and Calcium are well within normal ranges.
+
+**Assessment:**
+1. Asthma, moderate persistent
+   - The patient's increased inhaler use indicates suboptimal asthma control. Wheezing present on examination supports persistent bronchoconstriction.
+2. Hypertension, well-controlled
+   - Blood pressure readings remain within target range without significant hypertensive episodes.
+
+**Plan:**
+1. Asthma:
+   - Increase Beclomethasone to 160 mcg twice daily for better control.
+   - Continue Albuterol inhaler as needed.
+   - Schedule a follow-up spirometry to evaluate lung function.
+   - Prescribe a peak flow meter for daily monitoring of respiratory status.
+   - Educate the patient on the importance of avoiding known asthma triggers and proper inhaler techniques.
+   - Referral to an asthma specialist for further management if symptoms persist or worsen.
+
+2. Hypertension:
+   - Continue current antihypertensive medication.
+   - Monitor blood pressure bi-weekly and report any significant changes.
+
+**Follow-Up:**
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. Follow-up appointment scheduled in four weeks to reassess asthma control and review spirometry results. The patient was provided education on the plan and verbalized understanding of the instructions.

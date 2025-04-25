@@ -1,0 +1,70 @@
+Visit Information: 
+- Patient Number: 1000000053
+- Visit Date: 09/20/2004
+
+Subjective:
+This is an 8-year-old Asian male who has been receiving care at our clinic for approximately 4 years. He speaks Spanish, and his mother accompanies him to assist with communication. The visit today is primarily for follow-up management of his asthma and associated respiratory issues. The mother reports that over the past week, the patient has been experiencing increased coughing and wheezing, particularly at night, which has disturbed his sleep pattern. Additionally, she mentions intermittent episodes of shortness of breath during exertion. Recently, he had a viral infection presenting with fever and runny nose, which appears to have worsened his asthma symptoms. The mother also notes frequent skin rashes that come and go without any specific identifiable cause.
+
+The patient currently uses a rescue inhaler containing albuterol as needed and adheres to a daily corticosteroid inhaler regimen. Despite compliance with his medication regimen, there has been little improvement in his symptoms. 
+
+Objective:
+- Vital Signs:
+  - Blood Pressure: 100/65 mmHg
+  - Heart Rate: 95 bpm
+  - Respiratory Rate: 22 breaths per minute
+  - Temperature: 98.7°F
+  - Oxygen Saturation: 97% on room air
+
+- General Appearance: The patient appears alert, active, and well-nourished, with no signs of acute distress.
+
+- Cardiovascular: Normal heart sounds with no murmurs and a regular rhythm.
+
+- Respiratory: On auscultation, mild respiratory distress is noted with wheezing, more pronounced during expiration. There is evidence of intercostal retractions, and the breath sounds are decreased bilaterally.
+
+- Abdomen: Soft, non-tender, with no hepatosplenomegaly.
+
+- Musculoskeletal: No deformities, swelling, or abnormal joint findings.
+
+- Neurological: The patient is alert and oriented, displaying appropriate behavior for his age with no focal neurological deficits.
+
+- Skin: Multiple erythematous, raised rashes observed on the arms and chest; no signs of secondary infection.
+
+Assessment:
+Primary Diagnosis: Asthma, unspecified without mention of status asthmaticus.
+- The patient appears to have an exacerbation of asthma likely triggered by a recent viral upper respiratory tract infection.
+- Differential diagnoses to consider include other respiratory conditions contributing to the dyspnea.
+
+Secondary Diagnosis:
+- Rash likely related to an allergic or atopic response.
+
+Additional Concerns:
+- Viral infection which may be impacting his current respiratory status.
+
+Plan:
+1. Asthma Management:
+   - Continue with current asthma management, including the daily use of the corticosteroid inhaler and as-needed albuterol.
+   - Introduce a short course of oral corticosteroids to manage the acute exacerbation.
+   - Provide education to the mother on recognizing early asthma exacerbations and the correct administration of medications.
+   - Schedule follow-up in one month to monitor progress and re-evaluate the treatment plan.
+
+2. Diagnostic Testing:
+   - Conduct pulmonary function tests to establish baseline respiratory function and adjust long-term management as needed.
+   - Perform a complete blood count (CBC) with differential to rule out underlying infections or anemia.
+
+3. Management of Skin Rash:
+   - Prescribe topical corticosteroids for rash management with specific application instructions for the mother.
+   - Suggest keeping a diary to identify potential triggers causing the rashes.
+
+4. Management of Viral Infection:
+   - Ensure adequate supportive care, including hydration and rest.
+   - Advise the mother to monitor the patient closely and return if symptoms persist or worsen.
+
+5. Patient Education:
+   - Instruct on reducing environmental triggers, such as dust and smoke, at home.
+   - Emphasize the importance of adherence to asthma medication and proper usage.
+
+Follow-Up:
+- The mother is instructed to contact the clinic if her son's symptoms do not improve, worsen, or if the test results necessitate further evaluation.
+- A follow-up appointment is scheduled in four weeks to reassess the patient’s condition and response to the updated treatment plan. 
+
+Ensure all aspects of today's consultation are documented and any educational materials provided to the mother are noted.

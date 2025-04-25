@@ -1,0 +1,51 @@
+demographics
+patient_num: 1000000122  age: 6
+patient_num: 1000000122  sex: F
+patient_num: 1000000122  race: indian
+patient_num: 1000000122  language: german
+patient_num: 1000000122  vital_status: alive
+patient_num: 1000000122  earliest fact: Sep 12 2002 12:00AM
+patient_num: 1000000122  latest fact: Oct 25 2004 12:00AM
+patient_num: 1000000122  range in days: 774
+totals
+patient_num: 1000000122  distinct concepts: 44
+patient_num: 1000000122  total facts: 109
+patient_num: 1000000122  total encounters: 40
+patient_num: 1000000122  total asthma: 11
+descriptive
+patient_num: 1000000122  asthma code: ICD9:493.92  name: Asthma, unspecified type, with acute exacerbation  count: 5
+patient_num: 1000000122  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 8
+patient_num: 1000000122  diagnosis code: ICD9:466.19  name: Acute bronchiolitis due to other infectious organisms  count: 2
+patient_num: 1000000122  diagnosis code: ICD9:465.9  name: Acute upper respiratory infections of unspecified site  count: 3
+patient_num: 1000000122  diagnosis code: ICD9:995.61  name: Anaphylactic shock due to adverse food reaction to peanuts  count: 1
+patient_num: 1000000122  diagnosis code: ICD9:733.49  name: Aseptic necrosis of other bone sites  count: 1
+patient_num: 1000000122  diagnosis code: ICD9:493.92  name: Asthma, unspecified type, with acute exacerbation  count: 5
+patient_num: 1000000122  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 8
+patient_num: 1000000122  diagnosis code: ICD9:112.9  name: Candidiasis of unspecified site  count: 1
+patient_num: 1000000122  diagnosis code: ICD9:372.30  name: Conjunctivitis, unspecified  count: 1
+patient_num: 1000000122  diagnosis code: ICD9:692.9  name: Contact dermatitis and other eczema, unspecified cause  count: 2
+patient_num: 1000000122  diagnosis code: ICD9:V65.3  name: Dietary surveillance and counseling  count: 4
+patient_num: 1000000122  diagnosis code: ICD9:V17.5  name: Family history of asthma  count: 2
+patient_num: 1000000122  diagnosis code: ICD9:V06.9  name: Need for prophylactic vaccination with unspecified combined vaccine  count: 1
+patient_num: 1000000122  diagnosis code: ICD9:793.1  name: Nonspecific abnormal findings on radiological and other examination of lung field  count: 1
+patient_num: 1000000122  diagnosis code: ICD9:117.9  name: Other and unspecified mycoses  count: 1
+patient_num: 1000000122  diagnosis code: ICD9:786.09  name: Other dyspnea and respiratory abnormality  count: 2
+patient_num: 1000000122  diagnosis code: ICD9:486  name: Pneumonia, organism unspecified  count: 4
+patient_num: 1000000122  diagnosis code: ICD9:V20.2  name: Routine infant or child health check  count: 4
+patient_num: 1000000122  diagnosis code: ICD9:V30.0  name: Single liveborn, born in hospital  count: 1
+patient_num: 1000000122  diagnosis code: ICD9:V30.00  name: Single liveborn, born in hospital, delivered without mention of cesarean section  count: 1
+patient_num: 1000000122  diagnosis code: ICD9:564.0  name: Slow transit constipation  count: 1
+patient_num: 1000000122  diagnosis code: ICD9:382.9  name: Unspecified otitis media  count: 2
+patient_num: 1000000122  diagnosis code: ICD9:698.9  name: Unspecified pruritic disorder  count: 1
+patient_num: 1000000122  diagnosis code: ICD9:276.5  name: Volume depletion  count: 1
+patient_num: 1000000122  medication code: NDC:00597008214  name: Atrovent 18 mcg/inh aerosol Boehringer-Ingelheim  count: 16
+patient_num: 1000000122  medication code: NDC:00364021702  name: Prednisolone Acetate 5mg tablet Schein Pharmaceuticals Inc  count: 4
+patient_num: 1000000122  medication code: NDC:00173044100  name: Zantac 1 mg/ml solution Glaxo Wellcome  count: 3
+patient_num: 1000000122  laboratory code: LOINC:5792-7  name: Glucose - UA (Group:UA-GLUC)  count: 1
+patient_num: 1000000122  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 1
+patient_num: 1000000122  laboratory code: LOINC:5797-6  name: Ketones (Group:UA-KET)  count: 1
+patient_num: 1000000122  laboratory code: LOINC:5802-4  name: Nitrites (Group:UA-NIT)  count: 1
+patient_num: 1000000122  laboratory code: LOINC:5794-3  name: Occult Blood (Group:UA-BLD)  count: 1
+patient_num: 1000000122  laboratory code: LOINC:5803-2  name: PH (Group:UA-PH)  count: 1
+patient_num: 1000000122  laboratory code: LOINC:5811-5  name: Specific Gravity (Group:UA-SPGR)  count: 1
+patient_num: 1000000122  laboratory code: LOINC:5799-2  name: WBC Screen (Group:UA-WBC)  count: 1

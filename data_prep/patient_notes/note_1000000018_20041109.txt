@@ -1,0 +1,81 @@
+**Visit Information:**
+
+- Patient Num: 1000000018
+- Visit Date: 11/09/2004
+
+**Subjective:**
+
+This is a 66-year-old Indian male who has been receiving care at our clinic since July 29, 1997. He predominantly communicates in Spanish and presented today for a follow-up appointment. The patient reports experiencing an exacerbation of his chronic asthma symptoms, characterized by increased shortness of breath, wheezing, and chest tightness. These symptoms have been most troublesome at night, leading to disrupted sleep over the past week. He is currently using his albuterol inhaler as prescribed, which provides temporary alleviation, though his symptoms are still persistent. The patient also mentioned experiencing nasal congestion and sneezing, which he attributes to his allergic rhinitis.
+
+His significant past medical history includes asthma, allergic rhinitis, chronic ischemic heart disease, nontoxic multinodular goiter, eosinophilia, obstructive chronic bronchitis, lumbar sprain, and an open wound on his fingers. He has previously undergone a partial thyroidectomy. 
+
+He continues to use albuterol regularly and has not introduced any new medications since his last visit. He quit smoking ten years ago and denies the use of alcohol or illicit drugs. The patient describes his lifestyle as relatively sedentary due to his chronic respiratory issues which limit his physical activity. He reports no known allergies to medications and is currently recovering from an open wound on his finger.
+
+**Objective:**
+
+Vital signs recorded today are:
+
+- Blood Pressure: 145/88 mmHg
+- Heart Rate: 78 bpm
+- Respiratory Rate: 20 breaths per minute
+- Temperature: 98.7°F
+- Oxygen Saturation: 92% on room air
+
+The patient is well-developed, well-nourished, and in no acute distress, alert and oriented to person, place, and time.
+
+Cardiovascular examination reveals normal heart sounds, with no murmurs, gallops, or rubs, and peripheral pulses are strong and symmetrical.
+
+A respiratory examination reveals bilateral wheezing with prolonged expiratory phase, but no use of accessory muscles or severe respiratory distress.
+
+Abdominal exam is unremarkable, with a soft non-tender abdomen, no hepatosplenomegaly, and normoactive bowel sounds.
+
+Musculoskeletal assessment shows no joint deformities, swelling, or tenderness, with a normal range of motion in all joints.
+
+Neurological exam confirms intact cranial nerves II-XII, and normal strength, sensation, reflexes, with no focal deficits noted.
+
+Skin examination reveals no rashes or lesions. The healing open wound on the finger shows no signs of infection.
+
+Recent laboratory findings include stable levels of albumin, bilirubin, BUN, calcium, and thyroid function tests (TSH and T4). Blood glucose, HCT, HGB, RBC, and WBC levels are within normal limits, and there are no significant abnormalities.
+
+**Assessment:**
+
+1. Asthma, unspecified type, with acute exacerbation
+   - Patient experiencing exacerbation of chronic asthma with nocturnal symptoms suggesting poor control.
+2. Allergic rhinitis
+   - Managed with ongoing symptomatic treatment.
+3. Obstructive chronic bronchitis with acute exacerbation
+   - Corelated with frequent asthma exacerbations.
+4. Nontoxic multinodular goiter
+   - Stable post-partial thyroidectomy.
+5. Open wound of fingers
+   - Healing without complications.
+
+**Plan:**
+
+1. Asthma:
+   - Increase the frequency of albuterol inhaler use as needed.
+   - Prescribe a corticosteroid inhaler (fluticasone) to manage chronic symptoms better.
+   - Continue non-pharmacologic strategies, including breathing exercises.
+   - Schedule a follow-up appointment in two weeks to reassess asthma control. Consider referral to pulmonology if symptoms persist or worsen.
+
+2. Allergic Rhinitis:
+   - Continue with antihistamines as needed.
+   - Consider a nasal corticosteroid spray if symptoms persist.
+
+3. Obstructive Chronic Bronchitis:
+   - Manage exacerbation with inhaled bronchodilators.
+   - Monitor for signs of infection or additional exacerbations.
+
+4. Nontoxic Multinodular Goiter:
+   - Regular monitoring of thyroid function tests.
+   - Continue consultation with endocrinology for long-term management adjustments.
+
+5. Open Wound of Fingers:
+   - Continue local wound care.
+   - Follow-up in one week to monitor healing. Return earlier if signs of infection occur.
+
+**Follow-Up:**
+
+Instructed the patient to contact the clinic if symptoms worsen or do not improve within the week, or if test results indicate further evaluation is needed. The importance of adhering to asthma medication and recognizing signs of exacerbation was emphasized. The patient confirmed understanding and agreement with the outlined plan. 
+
+The patient will return in two weeks for re-evaluation or sooner if there are significant changes in his condition.

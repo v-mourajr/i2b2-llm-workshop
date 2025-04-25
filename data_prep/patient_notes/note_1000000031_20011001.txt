@@ -1,0 +1,51 @@
+**Visit Information:**
+- Patient Num: 1000000031
+- Visit Date: 10/01/2001
+
+**Subjective:**
+This is a 42-year-old Hispanic male who speaks Spanish, presenting for a follow-up visit concerning his asthma management. He has been receiving care at our clinic for the past few years. His asthma, classified as unspecified without mention of status asthmaticus, has been a persistent issue for him. He uses an albuterol inhaler as needed and a daily corticosteroid inhaler, reporting general symptom control with occasional nocturnal coughing and dyspnea on exertion. Recently, he has noticed a slight increase in these symptoms, particularly during his physically demanding work as a manual laborer.
+
+The patient also has a notable history of severe burns with full-thickness skin loss on unspecified sites, including his hand. These injuries occurred in a workplace accident. He continues to experience discomfort and occasional tingling in his affected hand. He experiences chest discomfort under physical strain but denies any resting chest pain. For pain control, he takes acetaminophen occasionally and does not use other medications or supplements. He leads a healthy lifestyle, not smoking or consuming alcohol. There are no known drug allergies.
+
+**Objective:**
+- Vital Signs:
+  - Blood Pressure: 128/78 mmHg
+  - Heart Rate: 84 beats per minute
+  - Respiratory Rate: 18 breaths per minute
+  - Temperature: 98.6°F
+  - Oxygen Saturation: 97% on room air
+
+- General Appearance: The patient appears well-nourished and in no acute distress.
+- Cardiovascular: Heart rate is regular with no murmurs, rubs, or gallops. Peripheral pulses are intact.
+- Respiratory: Breath sounds are clear bilaterally without wheezes, rales, or rhonchi. There is no use of accessory muscles, and his chest expansion is symmetric.
+- Abdomen: Soft and non-tender without hepatosplenomegaly or masses.
+- Musculoskeletal: Observations include healing burn scars on the right hand, slight erythema without signs of infection, and a full range of motion with mild discomfort.
+- Neurological: The patient is alert and oriented to person, place, and time. Cranial nerves are grossly intact. Reflexes are normal; sensation to light touch is intact except over scarred areas.
+- Skin: No new lesions. Healing scars from previous burns are noted on the hand without evidence of new rashes or eruptions. 
+
+**Assessment:**
+- Primary Diagnosis: Asthma, unspecified without mention of status asthmaticus.
+- Secondary Diagnosis: Full-thickness skin loss due to burn (third degree) of unspecified site of hand.
+- Tertiary Diagnosis: Unspecified chest pain, likely musculoskeletal in nature related to his occupational activities.
+
+**Plan:**
+1. **Asthma:**
+   - Continue the current medication regimen: albuterol inhaler as needed and a daily corticosteroid inhaler.
+   - Reinforce the importance of adherence to medication and correct inhalation techniques.
+   - Advise the patient to avoid known asthma triggers.
+   - Schedule spirometry testing at the next visit to assess pulmonary function comprehensively.
+
+2. **Burn Management:**
+   - Continue with hand care, including the use of moisturizing creams and vigilance for infection signs.
+   - Consider physical and occupational therapy referral to improve hand functionality and manage discomfort.
+   - Advise on pain control using acetaminophen as needed.
+
+3. **Chest pain:**
+   - Monitor chest pain symptoms closely; advise reducing heavy physical exertion at work.
+   - Consider ordering a chest X-ray if the chest pain persists or worsens to rule out other causes.
+
+**Follow-Up:**
+- Instruct the patient to contact the clinic if asthma symptoms do not improve or worsen within a week, or if any new symptoms arise.
+- Schedule a follow-up appointment in one month to reassess asthma control and evaluate the progression of hand burn healing. 
+
+The patient has been thoroughly educated on medication adherence, proper hand care, and signs that require emergency attention. He understands and agrees with the proposed plan.

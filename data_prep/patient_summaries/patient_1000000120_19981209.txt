@@ -1,0 +1,44 @@
+demographics
+patient_num: 1000000120  age: 25
+patient_num: 1000000120  sex: M
+patient_num: 1000000120  race: hispanic
+patient_num: 1000000120  language: english
+patient_num: 1000000120  vital_status: alive
+patient_num: 1000000120  earliest fact: May 26 1998 12:00AM
+patient_num: 1000000120  latest fact: Dec  9 1998 12:00AM
+patient_num: 1000000120  range in days: 197
+totals
+patient_num: 1000000120  distinct concepts: 37
+patient_num: 1000000120  total facts: 80
+patient_num: 1000000120  total encounters: 11
+patient_num: 1000000120  total asthma: 1
+descriptive
+patient_num: 1000000120  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 1
+patient_num: 1000000120  diagnosis code: ICD9:78.19  name: Application of external fixation device, other  count: 1
+patient_num: 1000000120  diagnosis code: ICD9:81.72  name: Arthroplasty of metacarpophalangeal and interphalangeal joint without implant  count: 1
+patient_num: 1000000120  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 1
+patient_num: 1000000120  diagnosis code: ICD9:78.09  name: Bone graft of other bone, except facial bones  count: 1
+patient_num: 1000000120  diagnosis code: ICD9:816.01  name: Closed fracture of middle or proximal phalanx or phalanges of hand  count: 1
+patient_num: 1000000120  diagnosis code: ICD9:77.79  name: Excision of other bone for graft, except facial bones  count: 1
+patient_num: 1000000120  diagnosis code: ICD9:82.01  name: Exploration of tendon sheath of hand  count: 1
+patient_num: 1000000120  diagnosis code: ICD9:78.59  name: Internal fixation of other bone, except facial bones, without fracture reduction  count: 1
+patient_num: 1000000120  diagnosis code: ICD9:905.9  name: Late effect of traumatic amputation  count: 2
+patient_num: 1000000120  diagnosis code: ICD9:E929.8  name: Late effects of other accidents  count: 1
+patient_num: 1000000120  diagnosis code: ICD9:82.91  name: Lysis of adhesions of hand  count: 1
+patient_num: 1000000120  diagnosis code: ICD9:715.94  name: Osteoarthrosis, unspecified whether generalized or localized, involving hand  count: 1
+patient_num: 1000000120  diagnosis code: ICD9:959.4  name: Other and unspecified injury to hand, except finger  count: 2
+patient_num: 1000000120  diagnosis code: ICD9:77.39  name: Other division of other bone, except facial bones  count: 1
+patient_num: 1000000120  diagnosis code: ICD9:86.3  name: Other local excision or destruction of lesion or tissue of skin and subcutaneous tissue  count: 1
+patient_num: 1000000120  diagnosis code: ICD9:719.64  name: Other symptoms referable to hand joint  count: 1
+patient_num: 1000000120  diagnosis code: ICD9:709.2  name: Scar conditions and fibrosis of skin  count: 1
+patient_num: 1000000120  diagnosis code: ICD9:V49.62  name: Status post amputation of other finger(s)  count: 1
+patient_num: 1000000120  diagnosis code: ICD9:886.0  name: Traumatic amputation of other finger(s) (complete) (partial), without mention of complication  count: 3
+patient_num: 1000000120  diagnosis code: ICD9:736.20  name: Unspecified deformity of finger  count: 4
+patient_num: 1000000120  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 1
+patient_num: 1000000120  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 1
+patient_num: 1000000120  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 1
+patient_num: 1000000120  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 1
+patient_num: 1000000120  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 1
+patient_num: 1000000120  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 1
+patient_num: 1000000120  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 1
+patient_num: 1000000120  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 1

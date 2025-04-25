@@ -1,0 +1,61 @@
+Visit Information:
+- Patient Num: 1000000036
+- Visit Date: Aug 19, 1998
+
+Subjective:
+This is a 31-year-old Black female who has been receiving care at our clinic for approximately 11 months, presenting today for follow-up on previously diagnosed convulsions. Known to be fluent in English, she mentions experiencing sporadic convulsions over the past several months. She is concerned about the frequency of these episodes and their impact on her daily life. Her first encountered convulsion episode was on record during her initial visit on Oct 6, 1997.
+
+The patient has a known history of convulsions and there are no significant surgical histories to report. Current medications include an anticonvulsant, which she has been compliant with, but she reports mixed results in managing her symptoms. She has not been using any herbal supplements or over-the-counter medications.
+
+In discussions about her social history, she lives alone and works as a clerk. She has no children, does not smoke, and consumes alcohol only occasionally. She has no known drug allergies.
+
+Concerning her convulsions, the episodes typically occur without warning, with the last episode happening two weeks ago. The onset is abrupt, and she experiences loss of consciousness followed by muscle rigidity and jerking movements. Each episode lasts for a few minutes, and she reports feeling extremely fatigued afterward. She avoids potential triggers, such as flashing lights, and manages her daily activities cautiously to prevent injury during episodes. She has not encountered any significant changes in her symptoms since her last visit but feels anxious about the recurring nature of these convulsions.
+
+Objective:
+Vital Signs:
+- Blood Pressure: 124/78 mmHg
+- Heart Rate: 72 bpm
+- Respiratory Rate: 18 breaths/min
+- Temperature: 98.6°F
+- Oxygen Saturation: 98% on room air
+
+General Appearance:
+The patient appears well-nourished and in no acute distress. She is alert and oriented, cooperative, and appropriately dressed for the weather.
+
+Cardiovascular:
+Regular rate and rhythm with no murmurs, gallops, or rubs. Peripheral pulses are intact and symmetric.
+
+Respiratory:
+Clear to auscultation bilaterally with no wheezing, rales, or rhonchi. The chest wall movement is equal and unlabored.
+
+Abdomen:
+Soft, non-tender, with no organomegaly. Bowel sounds are present and normoactive.
+
+Musculoskeletal:
+Normal tone and muscle bulk without any deformities. Full range of motion in all extremities with no tenderness, swelling, or instability.
+
+Neurological:
+Cranial nerves II-XII are grossly intact. Strength is 5/5 in all extremities. Reflexes are 2+ and symmetric. The sensory exam is unremarkable, and coordination is intact. Gait is steady without ataxia.
+
+Skin:
+No rashes or lesions. Normal skin turgor and coloration.
+
+Laboratory Findings:
+Most recent hematologic tests including HCT, HGB, MCH, MCHC, MCV, PLT, RBC, and WBC levels were all within the normal range, showing no signs of anemia, leukemia, or other hematologic disorders.
+
+Assessment:
+1. Convulsions:
+   - The patient has a history consistent with convulsive disorder, with episodic tonic-clonic seizures occurring sporadically over the past months.
+
+Plan:
+1. Convulsions:
+   - Continue the current anticonvulsant medication and reinforce medication adherence.
+   - Schedule an EEG to further evaluate electrical activity in the brain.
+   - Recommend a follow-up visit with a neurology specialist for in-depth assessment and potential adjustment of the anticonvulsant treatment.
+   - Educate the patient on seizure first aid, emphasizing safety measures during episodes to prevent injury.
+   - Encourage maintaining a seizure diary to log the frequency, duration, and triggers of convulsions to enhance management and treatment plans during follow-up.
+
+Follow-Up:
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. Follow-up in 4 weeks with the seizure diary and EEG results for further assessment. Emphasize the importance of attending the neurology consultation and stress the need for ongoing monitoring to optimize control of her condition. 
+
+The patient verbalizes understanding and agrees with the proposed plan. She is optimistic about achieving better control over her seizures with continued treatment and evaluations.

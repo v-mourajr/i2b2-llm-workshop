@@ -1,0 +1,63 @@
+Visit Information:
+   - Patient Num: 1000000051
+   - Visit Date: 02/24/2000
+
+This is a 34-year-old Asian male who speaks English and has been receiving care at our clinic for approximately three weeks. He presents today for a follow-up visit primarily concerning his asthma management.
+
+Subjective:
+The patient reports an increase in shortness of breath and wheezing over the past three days, which he attributes to recent environmental changes and a mild upper respiratory infection. He indicates that his albuterol inhaler provides temporary relief. His asthma symptoms typically worsen during cold weather and when exposed to dust and smoke. He has a history of pleurisy and pneumonia, leading to prior admissions. Additionally, he mentions episodes of diarrhea, which resolved without intervention.
+
+Past Medical & Surgical History includes diagnosed asthma, a history of pneumonia, and pleurisy without effusion. He has had a routine general medical examination in the past year, noting normal findings.
+
+The patient is currently on albuterol for asthma management, with additional medications for symptom relief. His adherence to the regimen is good, and he has not experienced significant side effects.
+
+Social history reveals that he is a non-smoker and consumes alcohol occasionally. He resides in an urban area with moderate air pollution, which he believes exacerbates his condition. He actively participates in light physical activities and follows a balanced diet.
+
+He has no known drug allergies. Symptom details include persistent wheezing, shortness of breath on exertion, a mild cough, and occasional chest tightness. Symptoms aggravate during physical activities and exposure to cold air.
+
+Objective:
+Vital Signs:
+   - Blood Pressure: 120/80 mmHg
+   - Heart Rate: 80 bpm
+   - Respiratory Rate: 20 breaths per minute
+   - Temperature: 98.6°F
+   - Oxygen Saturation: 96% on room air
+
+General Appearance: The patient appears in moderate distress, coughing intermittently, and showing signs of respiratory effort.
+
+Cardiovascular: Normal heart sounds with no murmurs. Peripheral pulses are intact.
+
+Respiratory: The patient exhibits wheezing upon auscultation, with reduced breath sounds in the lower lung fields. No crackles or rhonchi are noted.
+
+Abdomen: Soft and non-tender, with no hepatosplenomegaly. Bowel sounds are normal.
+
+Musculoskeletal: No joint swelling or tenderness. Full range of motion in all extremities.
+
+Neurological: Alert and oriented, with no focal deficits observed.
+
+Skin: No rashes or lesions. Skin turgor is normal.
+
+Assessment:
+The patient has a primary diagnosis of asthma, unspecified without status asthmaticus. Secondary issues include a history of pleurisy and recent pneumonia. He also has resolved episodes of diarrhea and concurrent mild upper respiratory infection likely contributing to his current asthmatic flare.
+
+Plan:
+1. Asthma management:
+   - Continue current use of albuterol inhaler as needed.
+   - Add a long-acting bronchodilator for better symptom control.
+   - Prescribe a short course of oral corticosteroids to manage the acute flare.
+
+2. Follow-Up Tests:
+   - Pulmonary function tests, including vital capacity determination.
+   - Repeat chest X-ray to ensure resolution of previous pneumonia.
+   - Spirometry to assess current asthma control.
+
+3. Referrals:
+   - Referral to a pulmonologist for comprehensive asthma management and evaluation of potential underlying issues contributing to chronic symptoms.
+
+4. Education and Monitoring:
+   - Instruct the patient on proper inhaler techniques.
+   - Advise avoiding known asthma triggers and monitoring symptoms closely.
+   - Inform the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.
+
+Follow-Up:
+   - The patient is scheduled for a follow-up visit in two weeks to reassess asthma control and review test results.

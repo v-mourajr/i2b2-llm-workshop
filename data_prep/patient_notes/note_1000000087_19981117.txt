@@ -1,0 +1,81 @@
+**Visit Information:**
+- Patient Num: 1000000087
+- Visit Date: 11/17/1998
+
+**Subjective:**
+
+This is a 44-year-old Asian male presenting today, accompanied by his wife, for a routine follow-up visit. He has been a patient at our clinic for the past 19 months. The patient primarily communicates in Spanish. He reports increased fatigue over the past two months, associated with intermittent headaches and generalized body weakness. He denies any recent infections or significant changes in his daily routine. 
+
+In terms of medical history, the patient has been managing hypertension for several years, successfully controlled on his current antihypertensive regimen. Additionally, he has a history of hyperlipidemia and chronic bronchitis. In terms of surgical history, he underwent an appendectomy approximately ten years ago with an uneventful recovery.
+
+The patient’s current medication list includes Lisinopril 20 mg once daily for hypertension, Atorvastatin 10 mg daily for hyperlipidemia, and over-the-counter acetaminophen as needed for headaches. He denies any herbal supplements. The patient adheres to his medication regimen and reports no adverse effects. 
+
+His social history is notable for a moderate alcohol intake, limited to weekends, and he denies smoking or the use of recreational drugs. The patient works in an office setting and leads a relatively sedentary lifestyle but enjoys weekend walks with his family.
+
+He has no known drug or food allergies. The patient reports his fatigue typically worsens in the late afternoons and evenings but is somewhat relieved with rest. The headaches, described as a dull ache, are temporally located, occurring several times a week, and are only slightly alleviated by acetaminophen. Neither nausea nor photophobia is associated with the headaches.
+
+**Objective:**
+
+- **Vital Signs:**
+  - Blood Pressure: 132/86 mmHg
+  - Heart Rate: 78 beats per minute
+  - Respiratory Rate: 16 breaths per minute
+  - Temperature: 98.6°F
+  - Oxygen Saturation: 98% on room air
+
+- **General Appearance:**
+The patient appears well-nourished and in no acute distress, though he looks slightly fatigued.
+
+- **Cardiovascular:**
+Regular rate and rhythm, no murmurs, rubs, or gallops. Peripheral pulses are intact and symmetrical.
+
+- **Respiratory:**
+Clear to auscultation bilaterally with no wheezes, rales, or rhonchi.
+
+- **Abdomen:**
+Soft, non-tender, with normal bowel sounds. No organomegaly or masses noted.
+
+- **Musculoskeletal:**
+Full range of motion in all extremities, no joint swelling or deformities.
+
+- **Neurological:**
+Alert and oriented to person, place, and time. Cranial nerves II-XII intact. No focal neurological deficits observed.
+
+- **Skin:**
+Warm, dry, and intact, without rashes or lesions.
+
+Laboratory results from the most recent testing have indicated slight elevations in his cholesterol and LDL levels, which are currently being managed with statin therapy. Renal function tests, including Creatinine and Blood Urea Nitrogen, were within normal ranges, as were his electrolyte levels (sodium, potassium, chloride, and carbon dioxide). Hematologic parameters, including hemoglobin, hematocrit, and full blood count, were within normal limits, although there were mild variances in lymphocyte and neutrophil counts that warrant routine monitoring.
+
+**Assessment:**
+
+1. **Chronic Hypertension:** 
+   - Well-controlled on current antihypertensive management with Lisinopril.
+  
+2. **Hyperlipidemia:** 
+   - Managed with atorvastatin; continue to monitor lipid panel. 
+
+3. **Chronic Fatigue Syndrome:** 
+   - Likely contributing factors include lifestyle and potential medication side effects. Differential to consider includes thyroid dysfunction and metabolic abnormalities.
+
+4. **Chronic Bronchitis:**
+   - Currently stable with no acute exacerbations.
+
+**Plan:**
+
+1. Continue the current dosage of Lisinopril for hypertension control and Atorvastatin for lipid management. Encourage the patient to maintain a low-sodium, heart-healthy diet and engage in regular physical activity.
+   
+2. Order a comprehensive metabolic panel to further investigate causes of continued fatigue, including thyroid function tests. Repeat lipid panel and a complete blood count in six months to re-evaluate overall management.
+   
+3. Advise the patient on lifestyle modifications, including the reduction of alcohol intake and the incorporation of regular physical exercise to help combat fatigue.
+   
+4. Schedule a follow-up appointment in three months to reassess his symptoms, adherence to lifestyle modifications, and review results of the ordered diagnostic tests.
+
+**Follow-Up:**
+
+- Instruct the patient to contact the clinic if his symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. Advise him on the significance of medication adherence and lifestyle changes.
+
+**Patient Education & Understanding of the Plan:**
+
+- Discussed with the patient and his wife the importance of continuing current medication, lifestyle modifications, and follow-up appointments. Both verbalized understanding and agreement with the management plan.
+
+The narrative provided integrates clinical findings and ongoing management steps for chronic conditions, ensuring continuity of care and clear communication between the healthcare team and the patient.

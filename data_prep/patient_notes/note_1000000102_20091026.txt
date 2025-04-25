@@ -1,0 +1,61 @@
+\nVisit Information:  
+- Patient Num: 1000000102  
+- Visit Date: 10/26/2009
+
+Subjective:  
+This is a 36-year-old Indian male who has been receiving care at our clinic for over a decade. He primarily speaks Spanish and presents today for a follow-up visit concerning his asthma, which is categorized as unspecified and extrinsic without mention of status asthmaticus. He reports that his asthma is generally well managed with his current maintenance bronchodilator but continues to experience episodic dyspnea during exertion approximately twice weekly. These episodes are typically relieved through the use of his rescue inhaler. The patient also mentions persistent joint pain in his lower leg and forearm, which he attributes to prior injuries and notes as causing mild effusion. He denies any recent exacerbations of asthma, new respiratory symptoms, or the use of new non-pharmacological interventions since his last visit. He tolerates his maintenance medication without notable side effects. The patient has no known allergies, denies any history of surgeries, and has noted no significant changes in his condition. His social history reveals that he lives alone, holds a sedentary job, and denies the use of tobacco or alcohol.
+
+Objective:  
+- Vital Signs:
+  - Blood Pressure: 118/76 mmHg
+  - Heart Rate: 70 bpm
+  - Respiratory Rate: 20 breaths per minute
+  - Temperature: 98.6°F
+  - Oxygen Saturation: 96% on room air
+
+- General Appearance: The patient appears well-developed, well-nourished, and in no acute distress.
+
+- Cardiovascular: Normal heart sounds with regular rhythm. No murmurs, rubs, or gallops detected.
+
+- Respiratory: Lungs clear to auscultation bilaterally at rest. Mild expiratory wheezing detected on forced expiration. No crackles or rhonchi heard.
+
+- Abdomen: Soft and non-tender, with no hepatosplenomegaly or masses detected.
+
+- Musculoskeletal: Mild tenderness and bruising over the left elbow and forearm with residual effusion noted in the knee joint of the lower leg. Full range of motion retained in all joints.
+
+- Neurological: The patient is alert and oriented, with intact cranial nerves II-XII. No neurological deficits observed.
+
+- Skin: No rashes present. A clean, healing, superficial abrasion is noted on the left hand.
+
+Assessment:  
+The patient is diagnosed with asthma (unspecified and extrinsic), which is stable under the current management plan but associated with exertion-induced dyspnea. There is a history of acute and unspecified bronchitis, allergic rhinitis, and an adjustment reaction with mixed emotional features. The patient also contends with musculoskeletal pain from previous injuries, particularly in the joints of the lower leg and forearm, along with a superficial hand injury that is currently healing.
+
+Plan:  
+
+1. Asthma:
+   - Continue maintenance bronchodilator therapy.
+   - Reinforce education on proper inhaler technique and encourage regular use of a peak flow meter.
+   - Advise the patient to avoid known asthma triggers.
+   - Schedule a follow-up visit in one month to reassess asthma control and consider adjusting treatment as needed.
+
+2. Bronchitis:
+   - Advise the patient to monitor for recurrent symptoms.
+   - Encourage measures including rest, hydration, and appropriate over-the-counter medications for symptom relief.
+   - Recommend immediate medical attention if symptoms worsen.
+
+3. Adjustment Reaction:
+   - Provide ongoing counseling and support services.
+   - Monitor the patient's mental health closely and consider a referral to a mental health specialist if warranted.
+
+4. Musculoskeletal Complaints:
+   - Recommend over-the-counter analgesics for pain management.
+   - Refer the patient to physiotherapy to help improve joint strength and mobility.
+   - Follow closely for any signs of persistent discomfort or effusion that may require further intervention.
+
+5. Hand Injury:
+   - Advise continued cleaning with mild soap and water followed by topical antibiotic application.
+   - Recommend using a protective dressing until the abrasion has fully healed.
+   - Reassess the injury at the next visit to ensure proper healing.
+
+Follow-Up:  
+Instruct the patient to contact the clinic if his symptoms worsen or do not improve within a week, or if test results suggest further evaluation is necessary. Emphasize the importance of adherence to the asthma management plan and ensure he understands the treatment strategy. Arrange follow-up appointments to monitor his progress and address any new or existing concerns.

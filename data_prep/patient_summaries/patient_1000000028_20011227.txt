@@ -1,0 +1,63 @@
+demographics
+patient_num: 1000000028  age: 33
+patient_num: 1000000028  sex: M
+patient_num: 1000000028  race: hispanic
+patient_num: 1000000028  language: german
+patient_num: 1000000028  vital_status: alive
+patient_num: 1000000028  earliest fact: Feb 17 1998 12:00AM
+patient_num: 1000000028  latest fact: Dec 27 2001 12:00AM
+patient_num: 1000000028  range in days: 1409
+totals
+patient_num: 1000000028  distinct concepts: 56
+patient_num: 1000000028  total facts: 169
+patient_num: 1000000028  total encounters: 36
+patient_num: 1000000028  total asthma: 6
+descriptive
+patient_num: 1000000028  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 6
+patient_num: 1000000028  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 6
+patient_num: 1000000028  diagnosis code: ICD9:296.40  name: Bipolar affective disorder, manic, unspecified degree  count: 1
+patient_num: 1000000028  diagnosis code: ICD9:780.3  name: Convulsions  count: 1
+patient_num: 1000000028  diagnosis code: ICD9:786.2  name: Cough  count: 4
+patient_num: 1000000028  diagnosis code: ICD9:381.81  name: Dysfunction of Eustachian tube  count: 1
+patient_num: 1000000028  diagnosis code: ICD9:780.6  name: Fever  count: 1
+patient_num: 1000000028  diagnosis code: ICD9:996.4  name: Mechanical complication of internal orthopedic device, implant, and graft  count: 1
+patient_num: 1000000028  diagnosis code: ICD9:300.4  name: Neurotic depression  count: 4
+patient_num: 1000000028  diagnosis code: ICD9:793.0  name: Nonspecific abnormal findings on radiological and other examination of skull and head  count: 1
+patient_num: 1000000028  diagnosis code: ICD9:278.00  name: Obesity, unspecified  count: 1
+patient_num: 1000000028  diagnosis code: ICD9:272.4  name: Other and unspecified hyperlipidemia  count: 1
+patient_num: 1000000028  diagnosis code: ICD9:959.2  name: Other and unspecified injury to shoulder and upper arm  count: 2
+patient_num: 1000000028  diagnosis code: ICD9:272.0  name: Pure hypercholesterolemia  count: 2
+patient_num: 1000000028  diagnosis code: ICD9:759.3  name: Situs inversus  count: 1
+patient_num: 1000000028  diagnosis code: ICD9:840.9  name: Sprain of unspecified site of shoulder and upper arm  count: 2
+patient_num: 1000000028  diagnosis code: ICD9:780.2  name: Syncope and collapse  count: 3
+patient_num: 1000000028  diagnosis code: ICD9:401.9  name: Unspecified essential hypertension  count: 2
+patient_num: 1000000028  diagnosis code: ICD9:079.99  name: Unspecified viral infection in conditions classified elsewhere and of unspecified site  count: 2
+patient_num: 1000000028  laboratory code: LOINC:1798-8  name: Amylase (Group:AMY)  count: 1
+patient_num: 1000000028  laboratory code: LOINC:702-1  name: Anisocytosis (Group:ANISO)  count: 1
+patient_num: 1000000028  laboratory code: LOINC:707-0  name: Basophils - Manual (Group:BASO)  count: 2
+patient_num: 1000000028  laboratory code: LOINC:3094-0  name: Blood Urea Nitrogen (Group:BUN)  count: 1
+patient_num: 1000000028  laboratory code: LOINC:2028-9  name: Carbon Dioxide (Group:CO2)  count: 1
+patient_num: 1000000028  laboratory code: LOINC:2075-0  name: Chloride (Group:CL)  count: 1
+patient_num: 1000000028  laboratory code: LOINC:2093-3  name: Cholesterol (Group:CHOL)  count: 1
+patient_num: 1000000028  laboratory code: LOINC:2160-0  name: Creatinine (Group:CRE)  count: 1
+patient_num: 1000000028  laboratory code: LOINC:X2012-1  name: Differential Request (Group:DIFFR)  count: 1
+patient_num: 1000000028  laboratory code: LOINC:714-6  name: Eosinophils - Manual (Group:EO)  count: 2
+patient_num: 1000000028  laboratory code: LOINC:6777-7  name: Glucose (Group:GLU)  count: 2
+patient_num: 1000000028  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 4
+patient_num: 1000000028  laboratory code: LOINC:2086-7  name: HDL (Group:HDL)  count: 1
+patient_num: 1000000028  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 4
+patient_num: 1000000028  laboratory code: LOINC:2090-9  name: LDL (Group:LDL)  count: 1
+patient_num: 1000000028  laboratory code: LOINC:737-7  name: Lymphocytes - Manual (Group:LYMPH)  count: 2
+patient_num: 1000000028  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 4
+patient_num: 1000000028  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 4
+patient_num: 1000000028  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 4
+patient_num: 1000000028  laboratory code: LOINC:744-3  name: Monocytes - Manual (Group:MONO)  count: 2
+patient_num: 1000000028  laboratory code: LOINC:769-0  name: Neutrophils - Manual (Group:POLY)  count: 2
+patient_num: 1000000028  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 4
+patient_num: 1000000028  laboratory code: LOINC:9317-9  name: PLT Estimate (Group:PLTEST)  count: 2
+patient_num: 1000000028  laboratory code: LOINC:2823-3  name: Potassium (Group:K)  count: 1
+patient_num: 1000000028  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 4
+patient_num: 1000000028  laboratory code: LOINC:6742-1  name: RBC Morph Manual (Group:RCM-M)  count: 2
+patient_num: 1000000028  laboratory code: LOINC:2951-2  name: Sodium (Group:NA)  count: 1
+patient_num: 1000000028  laboratory code: LOINC:2571-8  name: Triglycerides (Group:TRIG)  count: 1
+patient_num: 1000000028  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 4

@@ -1,0 +1,19 @@
+demographics
+patient_num: 1000000020  age: 41
+patient_num: 1000000020  sex: M
+patient_num: 1000000020  race: black
+patient_num: 1000000020  language: english
+patient_num: 1000000020  vital_status: alive
+patient_num: 1000000020  earliest fact: Jul 10 1998 12:00AM
+patient_num: 1000000020  latest fact: Aug 25 1998 12:00AM
+patient_num: 1000000020  range in days: 46
+totals
+patient_num: 1000000020  distinct concepts: 14
+patient_num: 1000000020  total facts: 23
+patient_num: 1000000020  total encounters: 4
+descriptive
+patient_num: 1000000020  diagnosis code: ICD9:477.9  name: Allergic rhinitis, cause unspecified  count: 1
+patient_num: 1000000020  diagnosis code: ICD9:782.1  name: Rash and other nonspecific skin eruption  count: 1
+patient_num: 1000000020  diagnosis code: ICD9:V70.0  name: Routine general medical examination at a health care facility  count: 1
+patient_num: 1000000020  laboratory code: LOINC:2093-3  name: Cholesterol (Group:CHOL)  count: 1
+patient_num: 1000000020  laboratory code: LOINC:6777-7  name: Glucose (Group:GLU)  count: 1

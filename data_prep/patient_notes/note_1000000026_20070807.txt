@@ -1,0 +1,69 @@
+**Visit Information:**
+- Patient Num: 1000000026
+- Visit Date: 08/07/2007
+
+**Subjective:**
+This is a 63-year-old White male, German-speaking, with a long-standing history of chronic conditions, primarily asthma, who has been under the care of our clinic for several years. He presented today for a follow-up regarding his asthma and other comorbidities. The patient reported experiencing an increase in shortness of breath and wheezing, particularly in the evenings, over the past week. He admitted to occasionally missing doses of his inhaler, which he attributes to forgetfulness. To manage his symptoms, he has been using air purifiers and avoids known asthma triggers. Despite these measures, his symptoms are aggravated by physical activity, which he tries to avoid altogether.
+
+His medical history is significant for multiple episodes of status asthmaticus, chronic obstructive asthma, acute myocardial infarctions, and chronic ischemic heart disease. He has previously undergone a colonoscopy and numerous cardiovascular examinations. In terms of current medications, he is prescribed Midazolam Hydrochloride 1 mg/ml solution for sedation, which he reports causes drowsiness but is otherwise well-tolerated. His past medications also include Cefazolin Sodium, Droperidol, Heparin Sodium, and Integrelin.
+
+Socially, the patient is retired, lives alone, does not smoke, but occasionally consumes alcohol. He has no known drug allergies. His respiratory symptoms, which have been worsening gradually, are somewhat relieved by inhaler use, although recent non-compliance has worsened his condition. Nocturnal wheezing and evening breathlessness are particularly troubling for him.
+
+The patient also noted improved gastrointestinal symptoms following a colonoscopy done for gastrointestinal bleeding, with no recurrence of symptoms. He continues to proactively manage his asthma by avoiding strenuous activity and utilizing air purifiers.
+
+**Objective:**
+- **Vital Signs:**
+  - Blood Pressure: 130/85 mmHg
+  - Heart Rate: 82 bpm
+  - Respiratory Rate: 20 breaths per minute
+  - Temperature: 98.6°F
+  - Oxygen Saturation: 95% on room air
+
+- **General Appearance:**
+  - The patient appeared well-nourished and in no acute distress.
+
+- **Cardiovascular:**
+  - Regular heart rate and rhythm with no murmurs, gallops, or rubs.
+
+- **Respiratory:**
+  - Clear to auscultation bilaterally with a prolonged expiratory phase; occasional wheeze noted on forced exhalation.
+
+- **Abdomen:**
+  - Non-tender, no hepatosplenomegaly or masses. Bowel sounds present.
+
+- **Musculoskeletal:**
+  - Full range of motion in all extremities with no tenderness or swelling.
+
+- **Neurological:**
+  - Alert and oriented to person, place, and time. Cranial nerves II-XII intact.
+
+- **Skin:**
+  - Warm, dry, without rashes or lesions.
+
+**Assessment:**
+1. **Asthma:**
+   - Unspecified type with a history of status asthmaticus and chronic obstructive asthma. The patient is experiencing exacerbations likely due to non-adherence to the inhaler regimen.
+
+2. **Gastrointestinal Hemorrhage:**
+   - Resolved gastrointestinal bleeding, with no current symptoms or recurrence noted.
+
+3. **Cardiovascular Disease:**
+   - Chronic ischemic heart disease with a history of multiple myocardial infarctions. Ongoing management and monitoring required.
+
+**Plan:**
+1. **Asthma Management:**
+   - Emphasize the importance of regular inhaler use to the patient.
+   - Consider adding a long-acting bronchodilator to his treatment regimen.
+   - Schedule pulmonary function tests to evaluate current lung function.
+   - Refer the patient to a pulmonologist for comprehensive asthma management if deemed necessary by test results.
+
+2. **Gastrointestinal Follow-Up:**
+   - Continue regular follow-up with gastroenterology.
+   - Monitor for any signs of recurrent gastrointestinal bleeding and advise immediate reporting of any issues.
+
+3. **Cardiovascular Monitoring:**
+   - Maintain regular monitoring for ischemic heart disease.
+   - Assess current cardiovascular medication regimen and adjust if needed based on assessment.
+
+**Follow-Up:**
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results suggest the need for further evaluation. The patient understood the plan and acknowledged the importance of medication compliance. A follow-up appointment has been scheduled for one month to reassess his asthma control and cardiovascular status.

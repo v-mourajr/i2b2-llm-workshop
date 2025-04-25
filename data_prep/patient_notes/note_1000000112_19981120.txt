@@ -1,0 +1,59 @@
+Visit Information:
+    - Patient Num: 1000000112
+    - Visit Date: 11/20/1998
+
+Subjective:
+    This is a 6-year-old Black male from a Spanish-speaking household who has been under our clinic's care for approximately 6 months. He presents today for follow-up on his recent issues with otitis media. His mother reports that he has been experiencing intermittent ear pain, particularly in the right ear, accompanied by occasional fever. She also mentions that he has been having difficulty hearing in this ear. The symptoms have persisted despite initial treatment. His past medical history includes hypertrophy of the adenoids and a retained foreign body in the middle ear. The family tried managing symptoms at home using over-the-counter pain relief, but they found it only provided temporary relief.
+
+    The patient is currently taking an antibiotic regimen and an analgesic for pain management. There has been no recent history of surgeries. He is compliant with taking his medications, though his mother notes that he experiences slight drowsiness as a side effect. Socially, he lives with his parents and attends school where he is communicative but somewhat distressed due to his hearing difficulties.
+
+Objective:
+    - Vital Signs:
+        - Blood Pressure: 102/68 mmHg
+        - Heart Rate: 85 bpm
+        - Respiratory Rate: 20 breaths/min
+        - Temperature: 99.5 °F
+        - Oxygen Saturation: 98% on room air
+    - General Appearance:
+        Well-nourished, alert, and cooperative young boy.
+    - Cardiovascular:
+        Normal heart sounds with no murmurs.
+    - Respiratory:
+        Clear to auscultation bilaterally, no wheezing or crackles.
+    - Abdomen:
+        Soft, non-tender, no masses or hepatosplenomegaly.
+    - Musculoskeletal:
+        Full range of motion, no deformities or tenderness.
+    - Neurological:
+        Alert and oriented, normal gait, cranial nerves intact.
+    - Skin:
+        No rashes, lesions, or signs of infection.
+
+Assessment:
+    - Diagnosis or Clinical Impression:
+        The patient has a history of hypertrophy of the adenoids, retained foreign body in the middle ear, and unspecified otitis media. Today’s visit concerns the persistent symptoms of otitis media.
+    - Issue/Problem/Request 1:
+        - Assessment:
+            Likely unresolved otitis media exacerbated by underlying adenoid hypertrophy.
+            Differential diagnosis may include re-infection or inadequate response to current antibiotics.
+        - Diagnostic Tests:
+            Plan to obtain an otoscopic examination and possibly a tympanometry to evaluate middle ear function.
+        - Treatment Plan:
+            Continue current antibiotics, consider adjustment based on culture results if no improvement, possible referral to ENT for further evaluation.
+    - Issue/Problem/Request 2:
+        - Assessment:
+            Hypertrophy of the adenoids potentially contributing to eustachian tube dysfunction.
+        - Diagnostic Tests:
+            Consider an endoscopic evaluation for adenoid assessment.
+        - Treatment Plan:
+            Conservative management with nasal steroids or possible surgical intervention if symptoms persist.
+    - Issue/Problem/Request 3:
+        - Assessment:
+            History of retained foreign body in the middle ear is less likely to be the direct cause but warrants review to ensure no residual impact.
+        - Diagnostic Tests:
+            If issues persist, review prior imaging or consider repeat imaging to ensure all foreign material has been adequately removed.
+        - Treatment Plan:
+            No specific interventions needed unless imaging indicates otherwise.
+ 
+Plan:
+    Instruct the patient’s mother to monitor for any worsening of symptoms, such as increased pain or fever. Emphasize the importance of completing the antibiotic course. Arrange a follow-up visit in one week to reassess the patient's ear condition, and if the symptoms persist or worsen, earlier evaluation will be required. Patient education focused on symptom monitoring and the necessity of keeping the ear dry during the treatment period. Reassurance provided to the mother about potential next steps if the current treatment fails, including ENT referral for further evaluation.

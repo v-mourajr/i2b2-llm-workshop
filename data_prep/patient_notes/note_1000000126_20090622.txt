@@ -1,0 +1,58 @@
+**Visit Information:**
+- Patient Num: 1000000126
+- Visit Date: 06/22/2009
+
+**Subjective:**
+This is a 19-year-old Indian male, fluent in German, presenting to the clinic for a follow-up on his asthma management. He reports worsening asthma symptoms over the past two weeks, with increased frequency of wheezing and shortness of breath, particularly during physical activities. The patient has been using his prescribed Albuterol inhaler more frequently but finds it insufficient for full symptom control. Additionally, he has had a mild, persistent cough and nasal congestion.
+
+The patient has a significant medical history of various asthma types, including unspecified asthma with and without status asthmaticus and extrinsic asthma, indicating a chronic respiratory condition. Other past medical diagnoses include acute pharyngitis, upper respiratory tract infections, adjustment reaction with mixed emotional features, and a benign brain neoplasm. He has a history of allergies and a closed fracture of the sacrum and coccyx.
+
+Current medications include Albuterol Sulfate tablets and Flovent inhaler. He also has a history of taking Cimetidine for gastric issues. The patient has not reported any known allergies or adverse reactions to these medications.
+
+Socially, the patient lives with his parents who assist in managing his health. He maintains a relatively active lifestyle but has been limited by his recent respiratory symptoms.
+
+**Objective:**
+- **Vital Signs:**
+  - Blood Pressure: 102/64 mmHg
+  - Heart Rate: 90 bpm
+  - Respiratory Rate: 24 breaths/min
+  - Temperature: 37.0°C
+  - Oxygen Saturation: 94% on room air
+
+- **General Appearance:** The patient appears alert but slightly fatigued. He is in no acute distress.
+- **Cardiovascular:** Normal S1 and S2 sounds with no murmurs, rubs, or gallops.
+- **Respiratory:** There are noticeable mild intercostal retractions. Bilateral expiratory wheezes are heard and airflow is slightly diminished. There are no crackles or rhonchi.
+- **Abdomen:** Soft, non-tender, non-distended; bowel sounds are normal in all quadrants.
+- **Musculoskeletal:** Full range of motion without pain or discomfort. The right great toe is healing from a contusion with no signs of infection.
+- **Neurological:** The patient is alert and oriented to person, place, and time. Cranial nerves II-XII are intact without deficits.
+- **Skin:** No rashes, lesions, or other abnormalities.
+
+**Assessment:**
+1. **Primary Diagnosis:**
+   - Asthma, unspecified without status asthmaticus, currently exacerbated.
+2. **Secondary Diagnoses:**
+   - Adjustment reaction with mixed emotional features, stable.
+   - Benign neoplasm of brain, stable with no active symptoms or new neurologic signs.
+   - History suggestive of mild allergies, currently unspecified.
+3. **Other Clinical Considerations:**
+   - Healing contusion on right great toe with no active treatment required other than observation.
+
+**Plan:**
+1. **Asthma Management:**
+   - Initiate a daily inhaled corticosteroid (likely Flovent) to control and reduce inflammatory symptoms.
+   - Continue the use of the Albuterol Sulfate inhaler as needed for acute symptoms.
+   - Educate the patient on correct inhaler technique and the importance of adherence to the prescribed regimen.
+   - Implement daily peak flow monitoring at home for tracking respiratory status.
+   - Schedule a follow-up visit in one month to reassess asthma control and adjust treatment if necessary. Consider referral to a pulmonologist if symptoms do not improve.
+
+2. **Adjustment Disorder:**
+   - Maintain current supportive management strategies, including regular mental health follow-up with his counselor.
+
+3. **Toe Contusion:**
+   - No further intervention is required for the healing contusion. Patient advised to monitor for any signs of worsening or infection.
+
+4. **Preventive Care:**
+   - Continue routine health checkups and immunizations. Advise immediate consultation should symptoms of upper respiratory infections or ear infections recur.
+
+**Follow-Up:**
+The patient and his parents have been instructed to contact the clinic if symptoms worsen, fail to improve within a week, or if adverse reactions to the new inhaler occur. They have also been educated on the signs of an asthma attack and the necessity of prompt management. The patient demonstrates understanding of the treatment plan and is scheduled for a follow-up appointment in one month.

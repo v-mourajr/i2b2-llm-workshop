@@ -1,0 +1,61 @@
+**Visit Information:**
+- Patient Num: 1000000031
+- Visit Date: 06/22/2010
+
+**Subjective:**
+This is a 51-year-old Hispanic male, Spanish-speaking, who has been under the care of our clinic for various health concerns, for over a decade. On this visit, he is presenting primarily for an ongoing follow-up of his asthma. The patient reports that his asthma, categorized as unspecified type without mention of status asthmaticus, continues to be a significant issue. He has experienced intermittent exacerbations, despite adherence to his prescribed treatment regimen.
+
+Currently, his medications include Albuterol Sulfate for acute relief of bronchospasm, Flonase for nasal congestion, Allegra for allergy symptoms, Lipitor for hyperlipidemia, and Niaspan ER for cholesterol management. He believes his daily use of Flonase and Albuterol provides substantial control over his symptoms. However, in the past few weeks, he has noted a recurrence of nocturnal coughing and exertional shortness of breath, which is particularly bothersome at his physically demanding job as a manual laborer. 
+
+The patient has a notable medical history of significant burns resulting in full-thickness skin loss on his right hand, following a workplace accident. While the physical discomfort and tingling in the affected hand persist, there are no signs of infection. He also has benign essential hypertension, managed with lifestyle changes, and an episode of pneumonia in the past which has since resolved. His social history is significant for a healthy lifestyle devoid of smoking or alcohol use. There are no known drug allergies.
+
+**Objective:**
+
+- **Vital Signs:**
+    - Blood Pressure: 130/85 mmHg
+    - Heart Rate: 88 beats per minute
+    - Respiratory Rate: 20 breaths per minute
+    - Temperature: 98.6°F
+    - Oxygen Saturation: 95% on room air
+
+- **General Appearance:** The patient is alert, cooperative, and in no apparent distress. He appears well-nourished.
+
+- **Cardiovascular:** The heart rhythm is regular, and no murmurs, rubs, or gallops are present. Peripheral pulses are strong and equal bilaterally.
+
+- **Respiratory:** Lung sounds are clear to auscultation bilaterally with no wheezing, rales, or rhonchi noted. The patient exhibits symmetric chest expansion and does not use accessory muscles for breathing.
+
+- **Abdomen:** The abdomen is soft, non-tender, with no organomegaly or masses.
+
+- **Musculoskeletal:** Observe healing scars on the right hand, remnants of significant burns. No signs of active infection. There is full range of motion, though the patient reports mild discomfort upon flexion of the fingers.
+
+- **Neurological:** The patient is awake, alert, and oriented to person, place, and time. Cranial nerves II-XII are grossly intact. Reflexes are normal and sensation is intact with no deficits, except slight diminished sensation over scar tissue.
+
+- **Skin:** The healing scars on the patient's hand are slightly erythematous, but the overall wound looks clean with no purulent discharge.
+
+**Assessment:**
+
+1. **Asthma, unspecified without mention of status asthmaticus:** The patient continues to experience symptoms requiring medication. The recent exacerbations may be linked to his physical exertion at work.
+2. **Significant burns, full-thickness skin loss on the right hand, healing without infection:** The patient needs ongoing monitoring and potential physical therapy to enhance function and reduce discomfort.
+3. **Benign essential hypertension:** Currently well-controlled with lifestyle modifications.
+
+**Plan:**
+
+1. **Asthma:**
+   - Continue prescribed daily corticosteroid inhaler and Albuterol inhaler for acute symptoms.
+   - Reinforce the importance of medication adherence and proper inhaler technique.
+   - Monitor exposure to known asthma triggers and suggest minimization or avoidance.
+   - Schedule spirometry for the next visit to evaluate pulmonary function and adjust treatment as needed.
+
+2. **Burn Management:**
+   - Advise to continue using moisturizing creams to keep scar tissue soft and flexible.
+   - Plan referral to physical and occupational therapy to aid recovery and improve hand dexterity and strength.
+   - Recommend acetaminophen for pain management as necessary.
+
+3. **Musculoskeletal Chest Pain:**
+   - Advise patient to monitor and minimize physical strain activities, suggest ergonomic modifications at work.
+   - If chest pain persists, order a chest X-ray to rule out other potential causes.
+
+**Follow-Up:**
+- Inform the patient to contact the clinic if asthma symptoms do not improve or worsen within a week or if any new or troubling symptoms develop.
+- Schedule a follow-up appointment in one month to reassess his asthma control, pulmonary function, and progress with burn management.
+- Provide educational resources on asthma management and the importance of monitoring his symptoms thoroughly. The patient expresses understanding and agrees to the outlined plan.

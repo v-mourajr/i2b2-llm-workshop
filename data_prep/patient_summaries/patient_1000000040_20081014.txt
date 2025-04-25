@@ -1,0 +1,173 @@
+demographics
+patient_num: 1000000040  age: 19
+patient_num: 1000000040  sex: M
+patient_num: 1000000040  race: black
+patient_num: 1000000040  language: english
+patient_num: 1000000040  vital_status: alive
+patient_num: 1000000040  earliest fact: Aug 29 1997 12:00AM
+patient_num: 1000000040  latest fact: Oct 14 2008 12:00AM
+patient_num: 1000000040  range in days: 4064
+totals
+patient_num: 1000000040  distinct concepts: 172
+patient_num: 1000000040  total facts: 700
+patient_num: 1000000040  total encounters: 142
+patient_num: 1000000040  total asthma: 12
+descriptive
+patient_num: 1000000040  asthma code: ICD9:493.91  name: Asthma, unspecified type, with status asthmaticus  count: 5
+patient_num: 1000000040  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 7
+patient_num: 1000000040  diagnosis code: ICD9:789.00  name: Abdominal pain, unspecified site  count: 1
+patient_num: 1000000040  diagnosis code: ICD9:372.00  name: Acute conjunctivitis, unspecified  count: 1
+patient_num: 1000000040  diagnosis code: ICD9:462  name: Acute pharyngitis  count: 11
+patient_num: 1000000040  diagnosis code: ICD9:461.9  name: Acute sinusitis, unspecified  count: 1
+patient_num: 1000000040  diagnosis code: ICD9:382.00  name: Acute suppurative otitis media without spontaneous rupture of ear drum  count: 3
+patient_num: 1000000040  diagnosis code: ICD9:465.9  name: Acute upper respiratory infections of unspecified site  count: 7
+patient_num: 1000000040  diagnosis code: ICD9:309.28  name: Adjustment reaction with mixed emotional features  count: 2
+patient_num: 1000000040  diagnosis code: ICD9:477.8  name: Allergic rhinitis due to other allergen  count: 1
+patient_num: 1000000040  diagnosis code: ICD9:994.7  name: Asphyxiation and strangulation  count: 3
+patient_num: 1000000040  diagnosis code: ICD9:493.91  name: Asthma, unspecified type, with status asthmaticus  count: 5
+patient_num: 1000000040  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 7
+patient_num: 1000000040  diagnosis code: ICD9:427.32  name: Atrial flutter  count: 1
+patient_num: 1000000040  diagnosis code: ICD9:314.01  name: Attention deficit disorder of childhood with hyperactivity  count: 4
+patient_num: 1000000040  diagnosis code: ICD9:314.00  name: Attention deficit disorder of childhood without mention of hyperactivity  count: 1
+patient_num: 1000000040  diagnosis code: ICD9:682.6  name: Cellulitis and abscess of leg, except foot  count: 1
+patient_num: 1000000040  diagnosis code: ICD9:682.8  name: Cellulitis and abscess of other specified sites  count: 1
+patient_num: 1000000040  diagnosis code: ICD9:810.00  name: Closed fracture of clavicle, unspecified part  count: 1
+patient_num: 1000000040  diagnosis code: ICD9:823.81  name: Closed fracture of unspecified part of fibula  count: 1
+patient_num: 1000000040  diagnosis code: ICD9:692.9  name: Contact dermatitis and other eczema, unspecified cause  count: 1
+patient_num: 1000000040  diagnosis code: ICD9:924.8  name: Contusion of multiple sites, not elsewhere classified  count: 2
+patient_num: 1000000040  diagnosis code: ICD9:923.9  name: Contusion of unspecified part of upper limb  count: 1
+patient_num: 1000000040  diagnosis code: ICD9:786.2  name: Cough  count: 1
+patient_num: 1000000040  diagnosis code: ICD9:311  name: Depressive disorder, not elsewhere classified  count: 5
+patient_num: 1000000040  diagnosis code: ICD9:379.90  name: Disorder of eye, unspecified  count: 1
+patient_num: 1000000040  diagnosis code: ICD9:959.01  name: Head injury, unspecified  count: 2
+patient_num: 1000000040  diagnosis code: ICD9:784.0  name: Headache  count: 2
+patient_num: 1000000040  diagnosis code: ICD9:312.30  name: Impulse control disorder, unspecified  count: 2
+patient_num: 1000000040  diagnosis code: ICD9:959.09  name: Injury of face and neck  count: 2
+patient_num: 1000000040  diagnosis code: ICD9:008.8  name: Intestinal infection due to other organism, not elsewhere classified  count: 1
+patient_num: 1000000040  diagnosis code: ICD9:783.4  name: Lack of expected normal physiological development  count: 1
+patient_num: 1000000040  diagnosis code: ICD9:296.33  name: Major depressive disorder, recurrent episode, severe degree, without mention of psychotic behavior  count: 2
+patient_num: 1000000040  diagnosis code: ICD9:296.30  name: Major depressive disorder, recurrent episode, unspecified degree  count: 11
+patient_num: 1000000040  diagnosis code: ICD9:E819.9  name: Motor vehicle traffic accident of unspecified nature injuring unspecified person  count: 1
+patient_num: 1000000040  diagnosis code: ICD9:V05.3  name: Need for prophylactic vaccination and inoculation against viral hepatitis  count: 1
+patient_num: 1000000040  diagnosis code: ICD9:V06.9  name: Need for prophylactic vaccination with unspecified combined vaccine  count: 3
+patient_num: 1000000040  diagnosis code: ICD9:300.4  name: Neurotic depression  count: 3
+patient_num: 1000000040  diagnosis code: ICD9:795.5  name: Nonspecific reaction to tuberculin skin test without active tuberculosis  count: 1
+patient_num: 1000000040  diagnosis code: ICD9:V71.4  name: Observation following other accident  count: 2
+patient_num: 1000000040  diagnosis code: ICD9:880.00  name: Open wound of shoulder region, without mention of complication  count: 1
+patient_num: 1000000040  diagnosis code: ICD9:959.3  name: Other and unspecified injury to elbow, forearm, and wrist  count: 2
+patient_num: 1000000040  diagnosis code: ICD9:959.2  name: Other and unspecified injury to shoulder and upper arm  count: 3
+patient_num: 1000000040  diagnosis code: ICD9:959.1  name: Other and unspecified injury to trunk  count: 3
+patient_num: 1000000040  diagnosis code: ICD9:E812.0  name: Other motor vehicle traffic accident involving collision with motor vehicle injuring driver of motor vehicle other than motorcycle  count: 1
+patient_num: 1000000040  diagnosis code: ICD9:315.2  name: Other specific developmental learning difficulties  count: 1
+patient_num: 1000000040  diagnosis code: ICD9:309.89  name: Other specified adjustment reactions  count: 5
+patient_num: 1000000040  diagnosis code: ICD9:280.8  name: Other specified iron deficiency anemias  count: 1
+patient_num: 1000000040  diagnosis code: ICD9:719.46  name: Pain in joint involving lower leg  count: 2
+patient_num: 1000000040  diagnosis code: ICD9:724.1  name: Pain in thoracic spine  count: 5
+patient_num: 1000000040  diagnosis code: ICD9:486  name: Pneumonia, organism unspecified  count: 5
+patient_num: 1000000040  diagnosis code: ICD9:686.1  name: Pyogenic granuloma of skin and subcutaneous tissue  count: 3
+patient_num: 1000000040  diagnosis code: ICD9:313.3  name: Relationship problems specific to childhood and adolescence  count: 1
+patient_num: 1000000040  diagnosis code: ICD9:V70.0  name: Routine general medical examination at a health care facility  count: 4
+patient_num: 1000000040  diagnosis code: ICD9:V20.2  name: Routine infant or child health check  count: 8
+patient_num: 1000000040  diagnosis code: ICD9:V74.1  name: Screening examination for pulmonary tuberculosis  count: 1
+patient_num: 1000000040  diagnosis code: ICD9:372.01  name: Serous conjunctivitis, except viral  count: 1
+patient_num: 1000000040  diagnosis code: ICD9:V72.2  name: Special investigations and examinations - Dental examination  count: 2
+patient_num: 1000000040  diagnosis code: ICD9:844.9  name: Sprain of unspecified site of knee and leg  count: 1
+patient_num: 1000000040  diagnosis code: ICD9:918.1  name: Superficial injury of cornea  count: 1
+patient_num: 1000000040  diagnosis code: ICD9:709.9  name: Unspecified disorder of skin and subcutaneous tissue  count: 3
+patient_num: 1000000040  diagnosis code: ICD9:312.9  name: Unspecified disturbance of conduct  count: 1
+patient_num: 1000000040  diagnosis code: ICD9:523.9  name: Unspecified gingival and periodontal disease  count: 2
+patient_num: 1000000040  diagnosis code: ICD9:382.9  name: Unspecified otitis media  count: 6
+patient_num: 1000000040  diagnosis code: ICD9:298.9  name: Unspecified psychosis  count: 2
+patient_num: 1000000040  diagnosis code: ICD9:473.9  name: Unspecified sinusitis (chronic)  count: 2
+patient_num: 1000000040  diagnosis code: ICD9:079.9  name: Unspecified viral and chlamydial infection in conditions classified elsewhere and of unspecified site  count: 1
+patient_num: 1000000040  diagnosis code: ICD9:078.10  name: Viral warts, unspecified  count: 1
+patient_num: 1000000040  medication code: NDC:00093029001  name: Bupropion Hydrochloride 100mg tablet Teva Pharmaceuticals USA  count: 4
+patient_num: 1000000040  medication code: NDC:00049496050  name: Zoloft 25mg tablet Pfizer U.S. Pharmaceuticals  count: 4
+patient_num: 1000000040  laboratory code: LOINC:704-7  name: Abs Basos Auto (Group:ABASOS)  count: 2
+patient_num: 1000000040  laboratory code: LOINC:711-2  name: Abs EOS Auto (Group:AEOS)  count: 2
+patient_num: 1000000040  laboratory code: LOINC:731-0  name: Abs Lymphs Auto (Group:ALYMPHS)  count: 5
+patient_num: 1000000040  laboratory code: LOINC:742-7  name: Abs Monos Auto (Group:AMONOS)  count: 2
+patient_num: 1000000040  laboratory code: LOINC:752-6  name: Abs Neuts Auto (Group:ANEUTS)  count: 2
+patient_num: 1000000040  laboratory code: LOINC:1751-7  name: Albumin (Group:ALB)  count: 3
+patient_num: 1000000040  laboratory code: LOINC:1742-6  name: ALT (SGPT) (Group:SGPT)  count: 3
+patient_num: 1000000040  laboratory code: LOINC:8246-1  name: Amorph Crystals (Group:UAS-AMOR)  count: 1
+patient_num: 1000000040  laboratory code: LOINC:1798-8  name: Amylase (Group:AMY)  count: 3
+patient_num: 1000000040  laboratory code: LOINC:10466-1  name: Anion Gap (Group:ANION)  count: 2
+patient_num: 1000000040  laboratory code: LOINC:8099-4  name: Antithyroid Ab (Group:TPO)  count: 1
+patient_num: 1000000040  laboratory code: LOINC:1920-8  name: AST (SGOT) (Group:SGOT)  count: 3
+patient_num: 1000000040  laboratory code: LOINC:5769-5  name: Bacteria (Group:UAS-BACT)  count: 2
+patient_num: 1000000040  laboratory code: LOINC:764-1  name: Bands - Manual (Group:BAND)  count: 2
+patient_num: 1000000040  laboratory code: LOINC:30180-4  name: Basophils (Group:BASOP)  count: 2
+patient_num: 1000000040  laboratory code: LOINC:706-2  name: Basophils - Auto (Group:BASOS)  count: 2
+patient_num: 1000000040  laboratory code: LOINC:5770-3  name: Bilirubin (Group:UA-BILI)  count: 2
+patient_num: 1000000040  laboratory code: LOINC:3094-0  name: Blood Urea Nitrogen (Group:BUN)  count: 5
+patient_num: 1000000040  laboratory code: LOINC:2000-8  name: Calcium (Group:CA)  count: 2
+patient_num: 1000000040  laboratory code: LOINC:2028-9  name: Carbon Dioxide (Group:CO2)  count: 6
+patient_num: 1000000040  laboratory code: LOINC:9439-1  name: Casts (Group:CASTS)  count: 1
+patient_num: 1000000040  laboratory code: LOINC:2075-0  name: Chloride (Group:CL)  count: 6
+patient_num: 1000000040  laboratory code: LOINC:2093-3  name: Cholesterol (Group:CHOL)  count: 1
+patient_num: 1000000040  laboratory code: LOINC:6773-6  name: CK-MB QUANT (Group:CPK-MB)  count: 1
+patient_num: 1000000040  laboratory code: LOINC:5778-6  name: Color (Group:UA-COLOR)  count: 2
+patient_num: 1000000040  laboratory code: LOINC:2157-6  name: CPK (Group:CPK)  count: 1
+patient_num: 1000000040  laboratory code: LOINC:2160-0  name: Creatinine (Group:CRE)  count: 5
+patient_num: 1000000040  laboratory code: LOINC:X4005-4  name: Crystals (Group:UAS-CRYS)  count: 2
+patient_num: 1000000040  laboratory code: LOINC:X2012-1  name: Differential Request (Group:DIFFR)  count: 1
+patient_num: 1000000040  laboratory code: LOINC:1968-7  name: Direct Bilirubin (Group:DBILI)  count: 2
+patient_num: 1000000040  laboratory code: LOINC:26450-7  name: Eosinophils (Group:EOSP)  count: 2
+patient_num: 1000000040  laboratory code: LOINC:713-8  name: Eosinophils - Auto (Group:EOS)  count: 2
+patient_num: 1000000040  laboratory code: LOINC:4537-7  name: ESR (Group:ESR)  count: 1
+patient_num: 1000000040  laboratory code: LOINC:3024-7  name: Free T4 (Group:FREET4)  count: 1
+patient_num: 1000000040  laboratory code: LOINC:2336-6  name: Globulin (Group:GLOB)  count: 2
+patient_num: 1000000040  laboratory code: LOINC:6777-7  name: Glucose (Group:GLU)  count: 3
+patient_num: 1000000040  laboratory code: LOINC:5792-7  name: Glucose - UA (Group:UA-GLUC)  count: 2
+patient_num: 1000000040  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 9
+patient_num: 1000000040  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 8
+patient_num: 1000000040  laboratory code: LOINC:5797-6  name: Ketones (Group:UA-KET)  count: 2
+patient_num: 1000000040  laboratory code: LOINC:2532-0  name: LDH (Group:LDH)  count: 2
+patient_num: 1000000040  laboratory code: LOINC:3040-3  name: Lipase (Group:LIPS)  count: 2
+patient_num: 1000000040  laboratory code: LOINC:26478-8  name: Lymphocytes (Group:LYMP)  count: 2
+patient_num: 1000000040  laboratory code: LOINC:736-9  name: Lymphocytes - Auto (Group:LYMPHS)  count: 3
+patient_num: 1000000040  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 7
+patient_num: 1000000040  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 7
+patient_num: 1000000040  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 8
+patient_num: 1000000040  laboratory code: LOINC:4545-0  name: MHCT (Group:MHCT)  count: 1
+patient_num: 1000000040  laboratory code: LOINC:741-9  name: Microcytes (Group:MICROC)  count: 1
+patient_num: 1000000040  laboratory code: LOINC:26485-3  name: Monocytes (Group:MON)  count: 2
+patient_num: 1000000040  laboratory code: LOINC:5905-5  name: Monocytes - Auto (Group:MONOS)  count: 2
+patient_num: 1000000040  laboratory code: LOINC:8247-9  name: Mucous (Group:UAS-MUC)  count: 1
+patient_num: 1000000040  laboratory code: LOINC:26511-6  name: Neutrophils (Group:NEUT)  count: 2
+patient_num: 1000000040  laboratory code: LOINC:770-8  name: Neutrophils - Auto (Group:POLYS)  count: 2
+patient_num: 1000000040  laboratory code: LOINC:5802-4  name: Nitrites (Group:UA-NIT)  count: 2
+patient_num: 1000000040  laboratory code: LOINC:5794-3  name: Occult Blood (Group:UA-BLD)  count: 2
+patient_num: 1000000040  laboratory code: LOINC:11279-7  name: Other/Comments (Group:UAS-COM)  count: 1
+patient_num: 1000000040  laboratory code: LOINC:5803-2  name: PH (Group:UA-PH)  count: 2
+patient_num: 1000000040  laboratory code: LOINC:2777-1  name: Phosphorus (Group:PHOS)  count: 1
+patient_num: 1000000040  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 8
+patient_num: 1000000040  laboratory code: LOINC:2823-3  name: Potassium (Group:K)  count: 6
+patient_num: 1000000040  laboratory code: LOINC:5804-0  name: Protein (Group:UA-ALB)  count: 2
+patient_num: 1000000040  laboratory code: LOINC:5902-2  name: PT (Group:PT)  count: 2
+patient_num: 1000000040  laboratory code: LOINC:6301-6  name: PT-INR (Group:PT-INR)  count: 1
+patient_num: 1000000040  laboratory code: LOINC:5898-2  name: PTT (Group:PTT)  count: 2
+patient_num: 1000000040  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 8
+patient_num: 1000000040  laboratory code: LOINC:5808-1  name: RBC - Urine Sed (Group:UAS-RBC)  count: 2
+patient_num: 1000000040  laboratory code: LOINC:6742-1  name: RBC Morph Manual (Group:RCM-M)  count: 1
+patient_num: 1000000040  laboratory code: LOINC:788-0  name: RDW (Group:RDW)  count: 6
+patient_num: 1000000040  laboratory code: LOINC:2951-2  name: Sodium (Group:NA)  count: 6
+patient_num: 1000000040  laboratory code: LOINC:5811-5  name: Specific Gravity (Group:UA-SPGR)  count: 2
+patient_num: 1000000040  laboratory code: LOINC:11277-1  name: Squamous Cells (Group:UAS-SQUA)  count: 1
+patient_num: 1000000040  laboratory code: LOINC:3050-2  name: T3 Uptake (Group:T3UP)  count: 2
+patient_num: 1000000040  laboratory code: LOINC:3021-3  name: Thyroxine Bind Glob (Group:TBG)  count: 1
+patient_num: 1000000040  laboratory code: LOINC:3026-2  name: Thyroxine T4 (Group:T4)  count: 2
+patient_num: 1000000040  laboratory code: LOINC:1975-2  name: Total Bilirubin (Group:TBILI)  count: 6
+patient_num: 1000000040  laboratory code: LOINC:2885-2  name: Total Protein (Group:TP)  count: 3
+patient_num: 1000000040  laboratory code: LOINC:3053-6  name: Total T3 (Group:T3)  count: 2
+patient_num: 1000000040  laboratory code: LOINC:803-7  name: Toxic Granulation (Group:TGRAN)  count: 1
+patient_num: 1000000040  laboratory code: LOINC:2571-8  name: Triglycerides (Group:TRIG)  count: 1
+patient_num: 1000000040  laboratory code: LOINC:10839-9  name: Troponin-I (Group:TROP-I)  count: 1
+patient_num: 1000000040  laboratory code: LOINC:3016-3  name: TSH (Group:TSH)  count: 2
+patient_num: 1000000040  laboratory code: LOINC:5767-9  name: Turbidity (Group:UA-TURB)  count: 1
+patient_num: 1000000040  laboratory code: LOINC:3084-1  name: Uric Acid (Group:URIC)  count: 1
+patient_num: 1000000040  laboratory code: LOINC:5818-0  name: Urobilinogen (Group:UA-UROBI)  count: 2
+patient_num: 1000000040  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 8
+patient_num: 1000000040  laboratory code: LOINC:5821-4  name: WBC - Urine Sed (Group:UAS-WBC)  count: 2
+patient_num: 1000000040  laboratory code: LOINC:5799-2  name: WBC Screen (Group:UA-WBC)  count: 2

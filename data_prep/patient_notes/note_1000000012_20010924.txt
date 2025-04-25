@@ -1,0 +1,80 @@
+Visit Information:
+    - Patient Num: 1000000012
+    - Visit Date: 09/24/2001
+
+Subjective:
+    - Chief Complaints & History of Present Illness:
+        This is an 11-year-old Black female presenting for follow-up after experiencing recurrent bouts of pharyngitis and otitis media over the past several months. She has a history of multiple episodes of acute pharyngitis and suppurative otitis media, which has been closely monitored since her initial visit to our clinic. She reports a sore throat and difficulty hearing, which have persisted despite previous treatments. Her mother is concerned about frequent illness and occasional headaches.
+    - Past Medical & Surgical History:
+        The patient has a history of acute cystitis and nasopharyngitis. Additionally, she has experienced acute serous otitis media and influenza with other manifestations. She has also had routine health checks and dental examinations. Her history includes conductive hearing loss and unspecified gingival and periodontal disease.
+    - Medications & Supplements:
+        The patient is currently on a course of amoxicillin for her latest ear infection, and she takes chewable multivitamins daily. She has completed courses of antibiotics for previous infections but reported limited relief.
+    - Social History:
+        The patient lives with her parents and two younger siblings. She attends school and performs well academically. Spanish is the primary language spoken at home. There are no pets, and she is not exposed to smokers. She engages in regular physical activity during physical education classes and enjoys playing soccer.
+    - Allergies:
+        No known drug allergies.
+    - Symptom Details:
+        The sore throat began approximately two weeks ago, characterized by pain with swallowing and occasional hoarseness. Ear pain has been intermittent, primarily affecting the right ear, with associated conductive hearing loss. Symptoms are exacerbated by lying down and alleviated temporarily with warm compresses.
+    - Additional Narrative:
+        Non-pharmacological interventions attempted include warm saline gargles for throat discomfort and the use of a humidifier at night. The patient reports feeling frustrated with the recurrence of symptoms but is otherwise in good spirits. Her mother has noted no significant changes in appetite or weight.
+
+Objective:
+    - Vital Signs:
+        - Blood Pressure: 110/70 mmHg
+        - Heart Rate: 88 bpm
+        - Respiratory Rate: 18 breaths per minute
+        - Temperature: 98.6°F
+        - Oxygen Saturation: 98% on room air
+    - General Appearance:
+        The patient appears well-nourished and in no acute distress. She is alert and cooperative.
+    - Cardiovascular:
+        Heart rhythm is regular with no murmurs, gallops, or rubs auscultated.
+    - Respiratory:
+        Lungs are clear to auscultation bilaterally, with no wheezes, rales, or rhonchi.
+    - Abdomen:
+        Abdomen is soft, non-tender, with no hepatosplenomegaly noted.
+    - Musculoskeletal:
+        Normal range of motion in all extremities, no joint swelling or tenderness.
+    - Neurological:
+        Cranial nerves II-XII are intact; no focal neurological deficits observed.
+    - Skin:
+        No rashes or lesions noted; skin is warm and dry.
+
+Assessment:
+    - Diagnosis or Clinical Impression:
+        The patient presents with recurrent acute pharyngitis and suppurative otitis media. Given the frequency and chronicity of these episodes, underlying factors such as seasonal allergies or immune system irregularities will be explored.
+    - Issue/Problem/Request 1:
+        Assessment:
+            - Likely diagnosis: Recurrent acute pharyngitis.
+            - Differential diagnosis: Viral pharyngitis, allergic rhinitis.
+        Diagnostic Tests:
+            - Throat culture to determine the presence of group A streptococcus.
+            - Complete blood count (CBC) to evaluate for underlying infection or immune disorder.
+        Treatment Plan:
+            - Continue current antibiotics; consider a longer course or alternate antibiotic if non-responsive.
+            - Refer to ENT for further evaluation and management of recurrent infections.
+    - Issue/Problem/Request 2:
+        Assessment:
+            - Likely diagnosis: Recurrent suppurative otitis media.
+            - Differential diagnosis: Chronic otitis media, Eustachian tube dysfunction.
+        Diagnostic Tests:
+            - Tympanometry to assess middle ear function.
+            - Hearing test to quantify the extent of conductive hearing loss.
+        Treatment Plan:
+            - Initiate a steroid nasal spray to reduce Eustachian tube inflammation.
+            - Follow-up with an audiologist for potential hearing aid fitting if indicated.
+    - Issue/Problem/Request 3:
+        Assessment:
+            - Likely diagnosis: Possible seasonal allergies contributing to recurrent infections.
+            - Differential diagnosis: Perennial allergic rhinitis, non-allergic rhinitis.
+        Diagnostic Tests:
+            - Allergy testing (skin prick or serum IgE).
+        Treatment Plan:
+            - Start intranasal corticosteroid spray and antihistamine as needed.
+            - Provide education on allergy avoidance and environmental controls.
+
+Follow-Up:
+    - Instruct patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.
+    - Schedule a follow-up visit in two weeks to review test results and re-evaluate symptoms.
+    - Patient Education & Understanding of the Plan:
+        The patient and her mother express understanding of the plan and agree to adhere to the prescribed treatments and follow-up schedule. Educational materials on symptom management and hygiene practices were provided.

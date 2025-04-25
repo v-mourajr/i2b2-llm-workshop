@@ -1,0 +1,98 @@
+demographics
+patient_num: 1000000055  age: 14
+patient_num: 1000000055  sex: F
+patient_num: 1000000055  race: hispanic
+patient_num: 1000000055  language: english
+patient_num: 1000000055  vital_status: alive
+patient_num: 1000000055  earliest fact: Sep 16 1998 12:00AM
+patient_num: 1000000055  latest fact: Dec 17 2003 12:00AM
+patient_num: 1000000055  range in days: 1918
+totals
+patient_num: 1000000055  distinct concepts: 92
+patient_num: 1000000055  total facts: 644
+patient_num: 1000000055  total encounters: 62
+patient_num: 1000000055  total asthma: 12
+descriptive
+patient_num: 1000000055  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 12
+patient_num: 1000000055  diagnosis code: ICD9:789.03  name: Abdominal pain, right lower quadrant  count: 1
+patient_num: 1000000055  diagnosis code: ICD9:789.00  name: Abdominal pain, unspecified site  count: 12
+patient_num: 1000000055  diagnosis code: ICD9:595.0  name: Acute cystitis  count: 1
+patient_num: 1000000055  diagnosis code: ICD9:463  name: Acute tonsillitis  count: 1
+patient_num: 1000000055  diagnosis code: ICD9:477.9  name: Allergic rhinitis, cause unspecified  count: 2
+patient_num: 1000000055  diagnosis code: ICD9:541  name: Appendicitis, unqualified  count: 1
+patient_num: 1000000055  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 12
+patient_num: 1000000055  diagnosis code: ICD9:314.01  name: Attention deficit disorder of childhood with hyperactivity  count: 1
+patient_num: 1000000055  diagnosis code: ICD9:786.2  name: Cough  count: 4
+patient_num: 1000000055  diagnosis code: ICD9:58.6  name: Dilation of urethra  count: 1
+patient_num: 1000000055  diagnosis code: ICD9:780.6  name: Fever  count: 12
+patient_num: 1000000055  diagnosis code: ICD9:V72.6  name: Laboratory examination  count: 1
+patient_num: 1000000055  diagnosis code: ICD9:300.4  name: Neurotic depression  count: 1
+patient_num: 1000000055  diagnosis code: ICD9:795.5  name: Nonspecific reaction to tuberculin skin test without active tuberculosis  count: 1
+patient_num: 1000000055  diagnosis code: ICD9:873.63  name: Open wound of tooth (broken), uncomplicated  count: 1
+patient_num: 1000000055  diagnosis code: ICD9:959.0  name: Other and unspecified injury to head, face, and neck  count: 2
+patient_num: 1000000055  diagnosis code: ICD9:558.9  name: Other and unspecified noninfectious gastroenteritis and colitis  count: 1
+patient_num: 1000000055  diagnosis code: ICD9:595.2  name: Other chronic cystitis  count: 1
+patient_num: 1000000055  diagnosis code: ICD9:57.32  name: Other cystoscopy  count: 1
+patient_num: 1000000055  diagnosis code: ICD9:786.09  name: Other dyspnea and respiratory abnormality  count: 1
+patient_num: 1000000055  diagnosis code: ICD9:486  name: Pneumonia, organism unspecified  count: 1
+patient_num: 1000000055  diagnosis code: ICD9:309.81  name: Prolonged posttraumatic stress disorder  count: 22
+patient_num: 1000000055  diagnosis code: ICD9:V20.2  name: Routine infant or child health check  count: 3
+patient_num: 1000000055  diagnosis code: ICD9:737.30  name: Scoliosis (and kyphoscoliosis), idiopathic  count: 1
+patient_num: 1000000055  diagnosis code: ICD9:V74.8  name: Screening examination for other specified bacterial and spirochetal diseases  count: 1
+patient_num: 1000000055  diagnosis code: ICD9:V79.3  name: Screening for developmental handicaps in early childhood  count: 1
+patient_num: 1000000055  diagnosis code: ICD9:389.10  name: Sensorineural hearing loss, unspecified  count: 1
+patient_num: 1000000055  diagnosis code: ICD9:034.0  name: Streptococcal sore throat  count: 2
+patient_num: 1000000055  diagnosis code: ICD9:V70.9  name: Unspecified general medical examination  count: 1
+patient_num: 1000000055  diagnosis code: ICD9:136.9  name: Unspecified infectious and parasitic diseases  count: 1
+patient_num: 1000000055  diagnosis code: ICD9:58.1  name: Urethral meatotomy  count: 1
+patient_num: 1000000055  diagnosis code: ICD9:598.9  name: Urethral stricture, unspecified  count: 1
+patient_num: 1000000055  diagnosis code: ICD9:599.0  name: Urinary tract infection, site not specified  count: 3
+patient_num: 1000000055  laboratory code: LOINC:711-2  name: Abs EOS Auto (Group:AEOS)  count: 1
+patient_num: 1000000055  laboratory code: LOINC:1751-7  name: Albumin (Group:ALB)  count: 2
+patient_num: 1000000055  laboratory code: LOINC:1798-8  name: Amylase (Group:AMY)  count: 1
+patient_num: 1000000055  laboratory code: LOINC:702-1  name: Anisocytosis (Group:ANISO)  count: 8
+patient_num: 1000000055  laboratory code: LOINC:1920-8  name: AST (SGOT) (Group:SGOT)  count: 2
+patient_num: 1000000055  laboratory code: LOINC:706-2  name: Basophils - Auto (Group:BASOS)  count: 1
+patient_num: 1000000055  laboratory code: LOINC:707-0  name: Basophils - Manual (Group:BASO)  count: 8
+patient_num: 1000000055  laboratory code: LOINC:3094-0  name: Blood Urea Nitrogen (Group:BUN)  count: 2
+patient_num: 1000000055  laboratory code: LOINC:2000-8  name: Calcium (Group:CA)  count: 1
+patient_num: 1000000055  laboratory code: LOINC:2028-9  name: Carbon Dioxide (Group:CO2)  count: 1
+patient_num: 1000000055  laboratory code: LOINC:2075-0  name: Chloride (Group:CL)  count: 1
+patient_num: 1000000055  laboratory code: LOINC:2157-6  name: CPK (Group:CPK)  count: 1
+patient_num: 1000000055  laboratory code: LOINC:2160-0  name: Creatinine (Group:CRE)  count: 2
+patient_num: 1000000055  laboratory code: LOINC:X2012-1  name: Differential Request (Group:DIFFR)  count: 9
+patient_num: 1000000055  laboratory code: LOINC:713-8  name: Eosinophils - Auto (Group:EOS)  count: 1
+patient_num: 1000000055  laboratory code: LOINC:714-6  name: Eosinophils - Manual (Group:EO)  count: 8
+patient_num: 1000000055  laboratory code: LOINC:4537-7  name: ESR (Group:ESR)  count: 1
+patient_num: 1000000055  laboratory code: LOINC:2336-6  name: Globulin (Group:GLOB)  count: 2
+patient_num: 1000000055  laboratory code: LOINC:6777-7  name: Glucose (Group:GLU)  count: 1
+patient_num: 1000000055  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 17
+patient_num: 1000000055  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 17
+patient_num: 1000000055  laboratory code: LOINC:728-6  name: Hypochromia (Group:HYPO)  count: 8
+patient_num: 1000000055  laboratory code: LOINC:2462-0  name: IgE (Group:IGE)  count: 1
+patient_num: 1000000055  laboratory code: LOINC:2532-0  name: LDH (Group:LDH)  count: 4
+patient_num: 1000000055  laboratory code: LOINC:736-9  name: Lymphocytes - Auto (Group:LYMPHS)  count: 1
+patient_num: 1000000055  laboratory code: LOINC:737-7  name: Lymphocytes - Manual (Group:LYMPH)  count: 8
+patient_num: 1000000055  laboratory code: LOINC:11554-3  name: Magnesium (Group:MG)  count: 1
+patient_num: 1000000055  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 17
+patient_num: 1000000055  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 17
+patient_num: 1000000055  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 17
+patient_num: 1000000055  laboratory code: LOINC:5905-5  name: Monocytes - Auto (Group:MONOS)  count: 1
+patient_num: 1000000055  laboratory code: LOINC:744-3  name: Monocytes - Manual (Group:MONO)  count: 8
+patient_num: 1000000055  laboratory code: LOINC:770-8  name: Neutrophils - Auto (Group:POLYS)  count: 1
+patient_num: 1000000055  laboratory code: LOINC:769-0  name: Neutrophils - Manual (Group:POLY)  count: 8
+patient_num: 1000000055  laboratory code: LOINC:2777-1  name: Phosphorus (Group:PHOS)  count: 1
+patient_num: 1000000055  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 17
+patient_num: 1000000055  laboratory code: LOINC:9317-9  name: PLT Estimate (Group:PLTEST)  count: 14
+patient_num: 1000000055  laboratory code: LOINC:779-9  name: Poikilocytosis (Group:POIK)  count: 8
+patient_num: 1000000055  laboratory code: LOINC:10378-8  name: Polychromasia (Group:POLYCH)  count: 11
+patient_num: 1000000055  laboratory code: LOINC:2823-3  name: Potassium (Group:K)  count: 1
+patient_num: 1000000055  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 17
+patient_num: 1000000055  laboratory code: LOINC:11273-0  name: RBC Morph Auto (Group:RCM-A)  count: 1
+patient_num: 1000000055  laboratory code: LOINC:6742-1  name: RBC Morph Manual (Group:RCM-M)  count: 8
+patient_num: 1000000055  laboratory code: LOINC:788-0  name: RDW (Group:RDW)  count: 16
+patient_num: 1000000055  laboratory code: LOINC:2951-2  name: Sodium (Group:NA)  count: 1
+patient_num: 1000000055  laboratory code: LOINC:1975-2  name: Total Bilirubin (Group:TBILI)  count: 2
+patient_num: 1000000055  laboratory code: LOINC:2885-2  name: Total Protein (Group:TP)  count: 2
+patient_num: 1000000055  laboratory code: LOINC:3084-1  name: Uric Acid (Group:URIC)  count: 1
+patient_num: 1000000055  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 17

@@ -1,0 +1,90 @@
+demographics
+patient_num: 1000000116  age: 15
+patient_num: 1000000116  sex: M
+patient_num: 1000000116  race: black
+patient_num: 1000000116  language: spanish
+patient_num: 1000000116  vital_status: alive
+patient_num: 1000000116  earliest fact: Oct  6 1999 12:00AM
+patient_num: 1000000116  latest fact: Feb 27 2009 12:00AM
+patient_num: 1000000116  range in days: 3432
+totals
+patient_num: 1000000116  distinct concepts: 87
+patient_num: 1000000116  total facts: 415
+patient_num: 1000000116  total encounters: 91
+patient_num: 1000000116  total asthma: 10
+descriptive
+patient_num: 1000000116  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 9
+patient_num: 1000000116  asthma code: ICD9:493.00  name: Extrinsic asthma without mention of status asthmaticus  count: 1
+patient_num: 1000000116  diagnosis code: ICD9:998.2  name: Accidental puncture or laceration during a procedure  count: 1
+patient_num: 1000000116  diagnosis code: ICD9:466.11  name: Acute bronchiolitis due to respiratory syncytial virus (RSV)  count: 1
+patient_num: 1000000116  diagnosis code: ICD9:460  name: Acute nasopharyngitis (common cold)  count: 1
+patient_num: 1000000116  diagnosis code: ICD9:381.00  name: Acute nonsuppurative otitis media, unspecified  count: 3
+patient_num: 1000000116  diagnosis code: ICD9:464.10  name: Acute tracheitis without mention of obstruction  count: 1
+patient_num: 1000000116  diagnosis code: ICD9:465.9  name: Acute upper respiratory infections of unspecified site  count: 3
+patient_num: 1000000116  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 9
+patient_num: 1000000116  diagnosis code: ICD9:482.9  name: Bacterial pneumonia, unspecified  count: 1
+patient_num: 1000000116  diagnosis code: ICD9:112.0  name: Candidiasis of mouth  count: 1
+patient_num: 1000000116  diagnosis code: ICD9:64.0  name: Circumcision  count: 2
+patient_num: 1000000116  diagnosis code: ICD9:372.30  name: Conjunctivitis, unspecified  count: 1
+patient_num: 1000000116  diagnosis code: ICD9:564.00  name: Constipation, unspecified  count: 1
+patient_num: 1000000116  diagnosis code: ICD9:786.2  name: Cough  count: 3
+patient_num: 1000000116  diagnosis code: ICD9:V65.3  name: Dietary surveillance and counseling  count: 9
+patient_num: 1000000116  diagnosis code: ICD9:530.81  name: Esophageal reflux  count: 4
+patient_num: 1000000116  diagnosis code: ICD9:493.00  name: Extrinsic asthma without mention of status asthmaticus  count: 1
+patient_num: 1000000116  diagnosis code: ICD9:783.41  name: Failure to thrive  count: 1
+patient_num: 1000000116  diagnosis code: ICD9:780.6  name: Fever  count: 1
+patient_num: 1000000116  diagnosis code: ICD9:474.12  name: Hypertrophy of adenoids alone  count: 2
+patient_num: 1000000116  diagnosis code: ICD9:V05.3  name: Need for prophylactic vaccination and inoculation against viral hepatitis  count: 2
+patient_num: 1000000116  diagnosis code: ICD9:V06.9  name: Need for prophylactic vaccination with unspecified combined vaccine  count: 9
+patient_num: 1000000116  diagnosis code: ICD9:V71.9  name: Observation for unspecified suspected mental condition  count: 1
+patient_num: 1000000116  diagnosis code: ICD9:558.9  name: Other and unspecified noninfectious gastroenteritis and colitis  count: 1
+patient_num: 1000000116  diagnosis code: ICD9:691.8  name: Other atopic dermatitis and related conditions  count: 2
+patient_num: 1000000116  diagnosis code: ICD9:786.09  name: Other dyspnea and respiratory abnormality  count: 2
+patient_num: 1000000116  diagnosis code: ICD9:763.1  name: Other malpresentation, malposition, and disproportion during labor and delivery affecting fetus or newborn  count: 1
+patient_num: 1000000116  diagnosis code: ICD9:719.65  name: Other symptoms referable to joint of pelvic region and thigh  count: 1
+patient_num: 1000000116  diagnosis code: ICD9:536.2  name: Persistent vomiting  count: 2
+patient_num: 1000000116  diagnosis code: ICD9:486  name: Pneumonia, organism unspecified  count: 1
+patient_num: 1000000116  diagnosis code: ICD9:99.55  name: Prophylactic administration of vaccine against other diseases  count: 2
+patient_num: 1000000116  diagnosis code: ICD9:V20.2  name: Routine infant or child health check  count: 17
+patient_num: 1000000116  diagnosis code: ICD9:V50.2  name: Routine or ritual circumcision  count: 3
+patient_num: 1000000116  diagnosis code: ICD9:V30.0  name: Single liveborn, born in hospital  count: 2
+patient_num: 1000000116  diagnosis code: ICD9:V30.01  name: Single liveborn, born in hospital, delivered by cesarean section  count: 2
+patient_num: 1000000116  diagnosis code: ICD9:V30.00  name: Single liveborn, born in hospital, delivered without mention of cesarean section  count: 4
+patient_num: 1000000116  diagnosis code: ICD9:709.9  name: Unspecified disorder of skin and subcutaneous tissue  count: 1
+patient_num: 1000000116  diagnosis code: ICD9:382.9  name: Unspecified otitis media  count: 5
+patient_num: 1000000116  diagnosis code: ICD9:473.9  name: Unspecified sinusitis (chronic)  count: 1
+patient_num: 1000000116  diagnosis code: ICD9:079.99  name: Unspecified viral infection in conditions classified elsewhere and of unspecified site  count: 1
+patient_num: 1000000116  medication code: NDC:00005306343  name: Albuterol Sulfate 4mg tablet ESI Lederle Generics  count: 8
+patient_num: 1000000116  medication code: NDC:00074110202  name: Codeine Phosphate 30 mg/ml solution Abbott Pharmaceutical  count: 6
+patient_num: 1000000116  medication code: NDC:00173049900  name: Flovent 220 mcg/inh aerosol with adapter Glaxo Wellcome  count: 4
+patient_num: 1000000116  medication code: NDC:00364207558  name: Nystatin 100000 u/ml suspension Schein Pharmaceuticals Inc  count: 6
+patient_num: 1000000116  medication code: NDC:00003010960  name: Trimox 500mg capsule Bristol-Myers Squibb  count: 4
+patient_num: 1000000116  laboratory code: LOINC:731-0  name: Abs Lymphs Auto (Group:ALYMPHS)  count: 3
+patient_num: 1000000116  laboratory code: LOINC:1751-7  name: Albumin (Group:ALB)  count: 2
+patient_num: 1000000116  laboratory code: LOINC:1742-6  name: ALT (SGPT) (Group:SGPT)  count: 2
+patient_num: 1000000116  laboratory code: LOINC:1798-8  name: Amylase (Group:AMY)  count: 2
+patient_num: 1000000116  laboratory code: LOINC:1920-8  name: AST (SGOT) (Group:SGOT)  count: 2
+patient_num: 1000000116  laboratory code: LOINC:735-1  name: Atypical Lymphs (Group:ATYPS)  count: 1
+patient_num: 1000000116  laboratory code: LOINC:764-1  name: Bands - Manual (Group:BAND)  count: 3
+patient_num: 1000000116  laboratory code: LOINC:30180-4  name: Basophils (Group:BASOP)  count: 3
+patient_num: 1000000116  laboratory code: LOINC:1968-7  name: Direct Bilirubin (Group:DBILI)  count: 8
+patient_num: 1000000116  laboratory code: LOINC:26450-7  name: Eosinophils (Group:EOSP)  count: 3
+patient_num: 1000000116  laboratory code: LOINC:2276-4  name: Ferritin (Group:FER)  count: 1
+patient_num: 1000000116  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 6
+patient_num: 1000000116  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 6
+patient_num: 1000000116  laboratory code: LOINC:2498-4  name: Iron (Group:FE)  count: 1
+patient_num: 1000000116  laboratory code: LOINC:3040-3  name: Lipase (Group:LIPS)  count: 2
+patient_num: 1000000116  laboratory code: LOINC:26478-8  name: Lymphocytes (Group:LYMP)  count: 3
+patient_num: 1000000116  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 5
+patient_num: 1000000116  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 5
+patient_num: 1000000116  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 5
+patient_num: 1000000116  laboratory code: LOINC:26485-3  name: Monocytes (Group:MON)  count: 3
+patient_num: 1000000116  laboratory code: LOINC:26511-6  name: Neutrophils (Group:NEUT)  count: 3
+patient_num: 1000000116  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 5
+patient_num: 1000000116  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 5
+patient_num: 1000000116  laboratory code: LOINC:6742-1  name: RBC Morph Manual (Group:RCM-M)  count: 3
+patient_num: 1000000116  laboratory code: LOINC:788-0  name: RDW (Group:RDW)  count: 5
+patient_num: 1000000116  laboratory code: LOINC:2500-7  name: TIBC (Group:TIBC)  count: 1
+patient_num: 1000000116  laboratory code: LOINC:1975-2  name: Total Bilirubin (Group:TBILI)  count: 8
+patient_num: 1000000116  laboratory code: LOINC:2885-2  name: Total Protein (Group:TP)  count: 1
+patient_num: 1000000116  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 5

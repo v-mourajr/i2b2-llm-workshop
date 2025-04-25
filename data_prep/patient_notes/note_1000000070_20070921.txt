@@ -1,0 +1,71 @@
+**Visit Information:**
+- Patient Num: 1000000070
+- Visit Date: September 21, 2007
+
+**Subjective:**
+This is a 36-year-old Black male who has been receiving care at our clinic for approximately 10 years, with primary concerns revolving around asthma management and several other chronic conditions. The patient is fluent in German and presented today for a follow-up appointment.
+
+During this visit, he reports experiencing increased frequency and severity of asthma exacerbations over the past few weeks. These exacerbations are characterized by nocturnal wheezing, shortness of breath, and increased respiratory effort during physical activities. Despite adhering to his prescribed Maxair Autohaler 0.2 mg/inh for rescue inhalation, he only achieves transient relief, with symptoms resurfacing within hours.
+
+He also complains about persistent lower extremity edema and joint pain, which he rates at 7 out of 10. The swelling and pain in his legs significantly hinder his mobility. He suspects his sedentary occupation, which requires prolonged sitting, contributes to the symptomatology. Additionally, his chronic back pain persists, exacerbated by recent work activities.
+
+The patient’s past medical history includes unspecified asthma, allergic rhinitis, lower leg injuries, a history of anterior cruciate ligament disruption, mechanical complications from orthopedic devices, and recurrent back pain. Notably, he has undergone knee arthroscopy and other reparative knee surgeries.
+
+Current medications include Albuterol Sulfate, Allegra, Flovent, Maxair Autohaler, and Prilosec. He denies the use of alcohol and tobacco, and his only known allergy is to penicillin. 
+
+**Objective:**
+Vital Signs:
+- Blood Pressure: 122/80 mmHg
+- Heart Rate: 82 bpm
+- Respiratory Rate: 20 breaths/min
+- Temperature: 98.6°F (37°C)
+- Oxygen Saturation: 94% on room air
+
+General Appearance:
+The patient appears well-nourished, groomed, and demonstrates no acute distress. He is interactive and fully oriented to person, place, and time.
+
+Cardiovascular:
+Examination reveals a regular heart rate and rhythm with no murmurs or additional heart sounds. Peripheral pulses are full and equal bilaterally. Mild pitting edema is observed in both lower extremities.
+
+Respiratory:
+The patient shows increased respiratory effort and audible expiratory wheezes. While no rales or crackles are detected, there is noticeable use of accessory muscles during inhalation. The pulmonology referral for detailed spirometry has been deferred.
+
+Abdomen:
+The abdomen is non-tender, with no signs of hepatomegaly or splenomegaly, and bowel sounds are normal across all quadrants.
+
+Musculoskeletal:
+The lumbar spine reveals mild paraspinal tenderness upon palpation, with reduced flexion and extension due to discomfort. Lower extremity examination shows mild swelling, no erythema, or increased warmth, and no gross deformities.
+
+Neurological:
+Neurological assessment is unremarkable, with intact motor and sensory functions and normal reflexes.
+
+Skin:
+The skin examination is notable for being warm, dry, and with no evident rashes or lesions.
+
+Laboratory Findings:
+Recent laboratory tests revealed normal levels of albumin, ALT, AST, and BUN. Complete blood count results, including hematocrit, hemoglobin, MCV, MCH, and MCHC, are within reference ranges. No abnormalities in total bilirubin or significant cell counts were noted, and the tests indicate no clinical concerns regarding leukocytosis or anemia.
+
+**Assessment:**
+1. Asthma, with increased frequency of exacerbations potentially due to environmental and physical activity triggers.
+2. Lower extremity edema and joint pain, likely related to prolonged periods of immobility and previous orthopedic conditions.
+3. Chronic back pain, most probably associated with occupational strain and previous musculoskeletal injuries.
+
+**Plan:**
+1. **Asthma Management:**
+   - Continue current use of Maxair Autohaler 0.2 mg/inh PRN.
+   - Start a daily regimen of inhaled corticosteroids, such as Flovent 220 mcg, to manage chronic symptoms and reduce exacerbation frequency.
+   - Arrange for a consultation with Pulmonology to evaluate the need for further adjustments or additional treatments.
+
+2. **Edema and Joint Pain:**
+   - Recommend the use of compression stockings as a non-pharmacological intervention for leg swelling.
+   - Instruct the patient to elevate legs periodically to alleviate edema.
+   - Suggest engaging in low-impact physical activities, such as swimming, to improve overall circulation and fitness.
+   - Prescribe NSAIDs for pain relief and consider a referral to Rheumatology if symptoms persist or worsen.
+
+3. **Chronic Back Pain:**
+   - Refer the patient to Physical Therapy for evaluation and design of a tailored exercise and pain management program.
+   - Advocate for ergonomic improvements at his workplace to reduce back strain.
+
+The patient is advised to contact the clinic if symptoms worsen or show no improvement within a week or if further evaluation is prompted by test outcomes. Scheduled follow-up visit in one month to reassess the effectiveness of the current management plan and make necessary adjustments.
+
+The patient acknowledged and understood the importance of the prescribed management plan and agreed to maintain follow-up care. Educational materials on asthma control, lifestyle modification, and adherence to treatment were provided.

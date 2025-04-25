@@ -1,0 +1,45 @@
+Visit Information:
+    - Patient Num: 1000000067
+    - Visit Date: 12/04/2007
+
+This is a 26-year-old Black female, who has been receiving care at our clinic since July 31, 2000. She speaks English and presents today for a follow-up visit primarily regarding asthma management.
+
+**Subjective:**
+The patient reports experiencing recurrent episodes of coughing and difficulty breathing over the past several months, with the symptoms becoming more frequent. She identifies triggers such as physical exertion, dust, and exposure to cold air. Despite being compliant with her medication regimen, which includes albuterol sulfate for acute symptoms and a corticosteroid spray, she continues to experience significant symptoms.
+
+Her past medical history includes asthma (unspecified type without status asthmaticus), with occasional acute exacerbations. She has a history of recurrent bronchitis, pectus excavatum, and has had abnormal Pap smears in the past. Notably, she has experienced several viral infections.
+
+Currently, she does not smoke, does not consume alcohol, and is a college student living in a dormitory setting. She finds this setting possibly contributes to exposure to various respiratory irritants. She denies having any known allergies.
+
+Today, she describes her symptoms as frequent, non-productive nocturnal and early morning coughs that last around 15 minutes and often leave her short of breath. She rates the severity of her symptoms as 6 out of 10. Exercise tends to exacerbate her symptoms while rest and the use of her rescue inhaler provide temporary relief.
+
+**Objective:**
+- Vital Signs:
+    - Blood Pressure: 118/74 mmHg
+    - Heart Rate: 80 bpm
+    - Respiratory Rate: 22 breaths per minute
+    - Temperature: 98.6°F
+    - Oxygen Saturation: 95% on room air
+
+- Physical Examination:
+    - General Appearance: The patient appears well and in no acute distress.
+    - Cardiovascular: Heart sounds are normal with no murmurs, rubs, or gallops.
+    - Respiratory: Bilateral wheezing with a prolonged expiratory phase, no crackles or rhonchi.
+    - Abdomen: Soft, non-tender, non-distended with normal bowel sounds.
+    - Musculoskeletal: Normal range of motion in all extremities, no joint swelling or tenderness.
+    - Neurological: Intact cranial nerves II-XII, motor strength of 5/5 in all extremities, reflexes 2+ and symmetrical.
+    - Skin: Unremarkable, no rashes, lesions, or cyanosis.
+
+**Assessment:**
+The patient’s primary diagnosis remains asthma, unspecified without mention of status asthmaticus, with poorly controlled symptoms. Secondary diagnoses include chronic cough and recurrent bronchitis. Environmental factors such as dormitory living conditions may contribute to the exacerbation of her symptoms.
+
+**Plan:**
+1. Continue current combination inhaler therapy (corticosteroid with long-acting beta-agonist).
+2. Increase the evening dose of the combination inhaler to address nocturnal symptoms.
+3. Introduce a leukotriene receptor antagonist to manage any potential allergic response.
+4. Schedule spirometry to evaluate lung function and document the severity of airway obstruction.
+5. Arrange for a chest X-ray to exclude any structural abnormalities related to pectus excavatum.
+6. Perform allergy testing to identify potential environmental allergens.
+7. Patient education on avoidance of known triggers, proper inhaler use, and the importance of medication adherence.
+
+The patient has been instructed to contact the clinic if symptoms worsen or do not improve within a week or if further evaluation is required based on the test results. A follow-up appointment is scheduled in four weeks to review spirometry and chest X-ray results and reassess her response to the adjusted treatment regimen. The patient has acknowledged and understands these instructions.

@@ -1,0 +1,58 @@
+Visit Information:
+- Patient Number: 1000000111
+- Visit Date: December 12, 1997
+
+Subjective:
+This is a 38-year-old Black male who presents to the clinic for a follow-up visit concerning his asthma management. He has been experiencing intermittent episodes of difficulty breathing and chest tightness, which are exacerbated by exposure to fumes and strong odors. The patient reports occasional wheezing, primarily at night, and has noticed that his symptoms are sometimes triggered by cold air and respiratory infections. He denies any recent upper respiratory infections or new environmental exposures.
+
+The patient has a past medical history of asthma and has experienced toxic effects from exposure to unspecified gas, fumes, or vapors in the past. These exposures have been managed and resolved in prior visits. He is currently taking an albuterol inhaler as needed for acute asthma symptoms and a low-dose inhaled corticosteroid daily, which he states has somewhat improved his overall breathing but has not completely alleviated nighttime exacerbations.
+
+The patient works as a construction worker, where he is often exposed to dust and other particulate matter, which he believes may contribute to his symptoms. He lives alone and denies any history of smoking or substance abuse. He has no known drug or food allergies.
+
+The patient’s symptoms began several years ago and have been fluctuating in frequency and intensity. He describes nighttime symptoms as moderate and bothersome, causing occasional sleep disturbances. He denies any recent hospitalizations or emergency room visits for asthma exacerbations.
+
+Objective:
+Vital Signs:
+- Blood Pressure: 130/85 mmHg
+- Heart Rate: 82 beats per minute
+- Respiratory Rate: 18 breaths per minute
+- Temperature: 98.6°F
+- Oxygen Saturation: 97% on room air
+
+General Appearance:
+The patient is alert and oriented, in no acute distress, and appears well-nourished and well-groomed.
+
+Cardiovascular:
+Heart sounds are regular with no murmurs, rubs, or gallops.
+
+Respiratory:
+Bilateral breath sounds are clear with the occasional end-expiratory wheeze noted on auscultation. There is no use of accessory muscles and no signs of respiratory distress. The diaphragm moves symmetrically with respiration.
+
+Abdomen:
+The abdomen is soft, non-tender, and without masses or organomegaly. Bowel sounds are present and normal.
+
+Musculoskeletal:
+No joint swelling or deformity noted. The patient has a normal range of motion in all extremities.
+
+Neurological:
+No focal deficits observed. Cranial nerves II-XII are intact. Reflexes are normal and symmetrical.
+
+Skin:
+No rashes, lesions, or cyanosis. The skin appears warm and dry.
+
+Laboratory Results from Prior Visit:
+- Amylase, Blood Urea Nitrogen (BUN), Carbon Dioxide, Chloride, Creatinine, Glucose, Hematocrit (HCT), Hemoglobin (HGB), Mean Corpuscular Hemoglobin (MCH), Mean Corpuscular Hemoglobin Concentration (MCHC), Mean Corpuscular Volume (MCV), Platelets (PLT), Potassium, Red Blood Cell Count (RBC), Sodium, White Blood Cell Count (WBC) were within normal limits.
+
+Assessment:
+The patient presents with chronic asthma, currently managed with daily inhaled corticosteroids and as-needed albuterol. His condition appears stable with mild intermittent nighttime exacerbations with possible contributing factors including occupational exposure to dust.
+
+Plan:
+1. Continue current asthma management with daily low-dose inhaled corticosteroid and albuterol as needed.
+2. Educate the patient about avoiding known triggers, particularly in his workplace, and using protective equipment.
+3. Recommend using a spacer with the inhaler to improve medication delivery.
+4. Prescribe a leukotriene receptor antagonist to take daily to help manage nighttime symptoms.
+5. Follow up in 4-6 weeks to reassess symptoms and medication effectiveness.
+6. Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if he experiences significant changes in his breathing.
+
+Follow-Up:
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. The patient was educated on the importance of adherence to the medication regimen, use of protective gear at work, and avoiding known asthma triggers. The patient verbalized understanding and agreed with the management plan, including the follow-up and emergency contact instructions.

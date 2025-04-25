@@ -1,0 +1,62 @@
+### Visit Information:
+- **Patient Num**: 1000000095
+- **Visit Date**: 04/01/2003
+
+### Subjective:
+This is a 48-year-old Indian male who has been receiving care at our clinic since September 22, 1997. He speaks German and arrived at today's visit with complaints of increased wheezing and shortness of breath over the past week, particularly during nighttime. The patient has a primary diagnosis of asthma. Despite using his albuterol inhaler as needed, he reports diminished relief recently.
+
+The medical history is significant for recurrent asthma exacerbations, pneumonia, pulmonary eosinophilia, and fractures of the radius and humerus. Additionally, he has a history of osteoarthrosis impacting the upper arm, which causes ongoing joint pain and stiffness. He denies any known drug allergies. The patient reports no new fractures since his last visit.
+
+He is currently on an as-needed albuterol inhaler for asthma and takes over-the-counter NSAIDs to alleviate osteoarthrosis symptoms. Socially, the patient lives with his spouse and two children, works as an engineer, does not smoke, and denies alcohol or drug use.
+
+### Objective:
+**Vital Signs:**
+- Blood Pressure: 130/85 mmHg
+- Heart Rate: 88 bpm
+- Respiratory Rate: 22 breaths/min
+- Temperature: 98.5°F
+- Oxygen Saturation: 95% on room air
+
+**General Appearance:**
+The patient appears well-nourished and in mild respiratory distress, but he is alert and oriented.
+
+**Cardiovascular:**
+Cardiac examination reveals normal heart sounds without murmurs, gallops, or rubs. There is no peripheral edema.
+
+**Respiratory:**
+Auscultation demonstrates bilateral wheezing, more pronounced in the upper lobes. There are mild intercostal retractions, but no rales or rhonchi are present.
+
+**Abdomen:**
+The abdomen is soft and non-tender, with normal bowel sounds and no evidence of hepatosplenomegaly.
+
+**Musculoskeletal:**
+The musculoskeletal examination of the upper extremities shows no deformities or new fractures. There is mild crepitus in the shoulders, indicative of osteoarthrosis, with slightly restricted range of motion.
+
+**Neurological:**
+The neurological exam reveals no focal deficits, and the patient is neurologically intact.
+
+**Skin:**
+The skin examination shows no rashes, bruises, or lesions.
+
+### Assessment:
+The patient is experiencing an exacerbation of his asthma, likely triggered by environmental factors or non-adherence to a regular preventive treatment. He also has a stable history of pneumonia and pulmonary eosinophilia, as well as previous fractures and osteoarthrosis.
+
+### Plan:
+1. **Asthma Management:**
+   - Increase the use of the albuterol inhaler to 2 puffs every 4-6 hours as needed.
+   - Start a low-dose inhaled corticosteroid (ICS), such as fluticasone, for daily use to manage chronic inflammation.
+   - Provide education on correct inhaler technique and the importance of adherence to the daily ICS treatment.
+   - Issue a peak flow meter with instructions for the patient to log daily peak expiratory flow measurements.
+   - Arrange a follow-up visit in 4 weeks to evaluate asthma control and lung function.
+
+2. **Osteoarthrosis Management:**
+   - Continue using NSAIDs as required for pain relief.
+   - Recommend physical therapy aimed at improving joint functionality and reducing stiffness.
+   - Explore the potential benefits of referring the patient to a rheumatologist if symptoms persist.
+
+3. **General Care:**
+   - Review recent lab work, including liver function tests (ALT, AST) and a complete blood count (CBC), given the patient’s medication profile and conditions.
+   - Provide educational resources on identifying and avoiding asthma triggers, including common allergens and irritants.
+
+### Follow-Up:
+Instruct the patient to contact the clinic if there is no improvement or if symptoms worsen within a week, or if further evaluation based on test results is required. Confirm that the patient comprehends the treatment plan and the importance of adherence to prevent future asthma exacerbations. Schedule a follow-up appointment in 4 weeks to reassess his asthma management and overall health status.

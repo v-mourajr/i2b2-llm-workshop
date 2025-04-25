@@ -1,0 +1,89 @@
+**Visit Information:**
+- Patient Num: 1000000124
+- Visit Date: 11/06/2009
+
+This is a 33-year-old Indian female who predominantly speaks Spanish. She has been receiving care at our clinic for several years and presented today for a follow-up visit related to her chronic asthma management and related conditions.
+
+**Subjective:**
+- **Chief Complaints & History of Present Illness:**
+The patient reports experiencing increased episodes of wheezing and shortness of breath over the past few days. Her symptoms, including wheezing, chest tightness, and shortness of breath, have intensified, particularly nocturnally. She notes that these symptoms appear less responsive to her current Albuterol inhaler. She also reports having a productive cough.
+
+- **Past Medical & Surgical History:**
+The patient's medical history includes chronic asthma with frequent exacerbations, chronic rhinitis, allergic rhinitis due to pollen, and a history of joint pain. She has undergone a bilateral reduction mammoplasty. Moreover, she has recurrent issues with angioneurotic edema, chronic sinusitis, and knee cartilage injuries.
+
+- **Medications & Supplements:**
+She currently uses Albuterol for acute asthma symptoms, Cefazolin Sodium when infections are suspected, Morphine Sulfate for joint pain, and Precare Conceive Prenatal Multivitamins. She has also used Droperidol for nausea management. Other medications noted include Singulair and an assortment of OTC multivitamins.
+
+- **Social History:**
+The patient is a non-smoker and does not consume alcohol. She is currently expecting her third child and experiences mobility issues related to her joint pain and prior knee cartilage injury. She lives with her partner and two children in a private residence and manages the household chores.
+
+- **Allergies:**
+No known drug allergies are reported.
+
+- **Symptom Details:**
+The patient's symptoms include a progressive wheeze and substantial shortness of breath, particularly exacerbated at night. She describes her chest tightness increasing with exertion and exposure to cold air. Her productive cough brings up clear sputum without any blood.
+
+- **Additional Narrative:**
+The patient adheres to her medication regimen but reports the Albuterol inhaler is insufficient during her acute episodes. No recent hospitalizations or emergency visits have occurred since her last follow-up. Additionally, she mentions experiencing occasional palpitations, denied accompanying chest pain.
+
+**Objective:**
+- **Vital Signs:**
+  - Blood Pressure: 118/76 mmHg
+  - Heart Rate: 100 bpm
+  - Respiratory Rate: 22 breaths per minute
+  - Temperature: 99.1°F
+  - Oxygen Saturation: 92% on room air
+
+- **General Appearance:**
+The patient appears to be in mild respiratory distress, with noticeable fatigue. She is alert, oriented, and cooperative.
+
+- **Cardiovascular:**
+Heart sounds are normal with a regular rate and rhythm. There are no murmurs, gallops, or rubs detected.
+
+- **Respiratory:**
+Prominent inspiratory and expiratory wheezing is present bilaterally, with scattered rhonchi. Mild use of accessory respiratory muscles is noted, alongside episodes of productive cough.
+
+- **Abdomen:**
+Abdomen is soft, non-tender with normal bowel sounds. No masses or organomegaly are detected.
+
+- **Musculoskeletal:**
+No peripheral edema is noted. There is mild tenderness in her knees, with a limited range of motion secondary to discomfort.
+
+- **Neurological:**
+The patient is neurologically intact, with cranial nerves II-XII functioning normally. She is alert and oriented to person, place, and time.
+
+- **Skin:**
+No evident rashes, lesions, or abnormalities are observed.
+
+**Assessment:**
+- **Primary Diagnosis:**
+Asthma, unspecified without mention of status asthmaticus, with an acute exacerbation.
+  
+- **Secondary Diagnoses:**
+  - Chronic rhinitis 
+  - Allergic rhinitis due to pollen
+  - Chronic joint pain secondary to knee injuries
+  - Angioneurotic edema
+
+**Plan:**
+- **Diagnostic Tests:**
+  - Perform Pulmonary Function Tests (PFTs) to assess the severity of asthma exacerbation.
+  - Obtain a Complete Blood Count (CBC) to rule out infection.
+  - Electrolyte panel to monitor potassium levels due to her history of hypokalemia.
+
+- **Treatment Plan:**
+  - Continue current use of Albuterol but increase dose frequency.
+  - Prescribe an inhaled corticosteroid, Budesonide, to improve control of asthma symptoms.
+  - Add Montelukast (Singulair) to assist in controlling asthma manifestations.
+  - Recommend using a humidifier during sleep and ensuring proper hydration.
+  - If oxygen saturation falls below 92%, administer humidified oxygen.
+
+- **Referrals:**
+  - Refer to an allergist for possible allergen-specific immunotherapy.
+  - Consult with a respiratory therapist for asthma education and a comprehensive asthma action plan.
+  - Referral to an orthopedic specialist for further evaluation and management of existing joint pain and mobility issues.
+
+**Follow-Up:**
+- Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week or if test results indicate the need for further evaluation.
+- Schedule a follow-up visit in two weeks to reassess asthma control and review the response to new medications.
+- Patient education stressed the importance of medication adherence, avoiding asthma triggers, and the necessity of a written action plan. The patient verbalized understanding of the plan and expressed agreement to comply.

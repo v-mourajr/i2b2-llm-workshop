@@ -1,0 +1,39 @@
+This is the visit note for a 50-year-old white female who has been receiving care at our clinic. The patient speaks English and presented on the date of August 7, 1998, for a follow-up visit.
+
+**Visit Information:**
+- Patient Num: 1000000011
+- Visit Date: August 7, 1998
+
+**Subjective:**
+The patient came in for a follow-up regarding her asthma. She reports that her symptoms include wheezing and shortness of breath, especially when engaging in physical activities. These symptoms have been consistent over the past few months. The patient mentions that she often experiences sudden tightness in the chest, which alleviates slightly with the use of her rescue inhaler. She has been feeling fatigued more than usual but denies any recent fever or chills.
+
+Past medical history includes a diagnosis of asthma, and she has had no previous surgeries. She currently takes a daily inhaled corticosteroid and a short-acting beta-agonist as needed for asthma management. She has been compliant with her medications but does express concern about the increasing frequency of her symptoms.
+
+Her social history reveals that she does not smoke and she consumes alcohol occasionally. She works in an office environment with minimal exposure to known asthma triggers. She has no known allergies.
+
+**Objective:**
+Vital signs recorded during this visit include:
+- Blood Pressure: 120/80 mmHg
+- Heart Rate: 80 bpm
+- Respiratory Rate: 18 breaths per minute
+- Temperature: 98.6°F
+- Oxygen Saturation: 95% on room air
+
+Upon physical examination, the patient appears well-nourished and in no acute distress. Cardiovascular examination revealed a regular rate and rhythm with no murmurs or gallops. The respiratory examination showed mild expiratory wheezing bilaterally, without crackles. The abdomen was soft and non-tender with no masses or organomegaly detected. Musculoskeletal and neurological examinations were unremarkable. The skin was clear without any rashes or lesions.
+
+Review of recent laboratory tests showed normal absolute basophils, eosinophils, lymphocytes, monocytes, and neutrophils. Hemoglobin and hematocrit levels were within normal limits. Mean corpuscular volume, mean corpuscular hemoglobin concentration, mean corpuscular hemoglobin, and platelet levels were also normal.
+
+**Assessment:**
+1. Asthma - The primary diagnosis is asthma, with a recent increase in symptoms indicating poor control.
+2. Fatigue - Likely secondary to chronic asthma.
+
+**Plan:**
+1. Continue with the current inhaled corticosteroid and short-acting beta-agonist. 
+2. Increase the dose of the inhaled corticosteroid and re-evaluate in 4 weeks.
+3. Prescribe a long-acting beta-agonist for better symptom control.
+4. Referral to a pulmonologist for a comprehensive asthma management plan.
+5. Schedule follow-up laboratory tests including complete blood count and arterial blood gases to monitor for any additional issues related to asthma.
+6. Educate the patient on the importance of avoiding known asthma triggers and proper inhaler techniques.
+
+**Follow-Up:**
+The patient was instructed to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. A follow-up appointment is scheduled in 2 weeks to reassess her asthma management plan. Patient education materials were provided, and the patient demonstrated an understanding of the treatment plan and the importance of medication adherence.

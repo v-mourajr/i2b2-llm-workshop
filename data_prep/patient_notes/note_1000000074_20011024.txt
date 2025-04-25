@@ -1,0 +1,57 @@
+**Visit Information:**
+
+- Patient Num: 1000000074
+- Visit Date: 10/24/2001
+
+**Subjective:**
+
+This is a 38-year-old Hispanic female who has been receiving care at our clinic for several years, returning for a follow-up visit on October 24, 2001. The patient primarily presents with worsening symptoms related to her known diagnosis of asthma. She reports increased episodes of breathlessness, wheezing, and chest tightness that have been persistent over the last few weeks despite adherence to her prescribed treatment regimen.
+
+The patient has a history of asthma, unspecified type, with status asthmaticus, which has been managed with an albuterol inhaler for acute exacerbations and daily inhaled corticosteroids (fluticasone propionate). Recently, she has noted a need to use her albuterol inhaler daily, indicating a decline in asthma control. She suspects that seasonal changes might be a contributing factor, as she denies any recent upper respiratory infections or exposure to new environmental irritants.
+
+Her medical history is also notable for cervicalgia, classical migraines, kyphosis, and several instances of neck sprains. She has undergone screening for blood and blood-forming organ disorders with no significant findings reported. She is on a stable medication regimen for these conditions, including using a muscle relaxant for neck pain and an occasional abortive therapy for migraines.
+
+In her social history, she is a non-smoker, does not drink alcohol, and works as a teacher, which sometimes exposes her to allergens in the school environment. She employs dust mite covers and air filters at home as non-pharmacologic interventions to reduce allergen exposure.
+
+**Objective:**
+
+- Vital Signs:
+  - Blood Pressure: 120/80 mmHg
+  - Heart Rate: 78 bpm
+  - Respiratory Rate: 22 breaths/min
+  - Temperature: 98.4°F
+  - Oxygen Saturation: 97% on room air
+- General Appearance: The patient appears well-nourished and in mild respiratory distress due to wheezing. She is alert and cooperative.
+- Cardiovascular: Regular heart rate and rhythm; no murmurs, rubs, or gallops.
+- Respiratory: Diffuse expiratory wheezes heard bilaterally on auscultation. No use of accessory muscles or intercostal retractions noted.
+- Abdomen: Soft, non-tender, non-distended with normal bowel sounds.
+- Musculoskeletal: Slight tenderness upon palpation of the cervical spine; no gross deformities or limitations in range of motion.
+- Neurological: Cranial nerves II-XII intact; patient is alert, oriented, and exhibits normal muscle tone and reflexes.
+- Skin: No rashes or lesions observed.
+
+**Assessment:**
+
+- Primary Diagnosis: Asthma, unspecified type, with status asthmaticus, currently poorly controlled.
+- Secondary Diagnoses: Cervicalgia, classical migraines without intractable migraine, kyphosis, and recurrent neck sprains.
+
+**Plan:**
+
+1. **Asthma Management:**
+   - Increase the dose of inhaled corticosteroids (fluticasone propionate) to improve control of persistent symptoms.
+   - Continue using the albuterol inhaler as needed for acute symptoms and ensure the patient is using the correct inhalation technique.
+   - Begin a leukotriene receptor antagonist (e.g., montelukast) if there is no significant improvement.
+   - Referral to an allergist for comprehensive allergy testing and immunotherapy consideration.
+
+2. **Other Diagnoses Management:**
+   - For cervicalgia and recurrent neck sprains, continue current pain management strategies including muscle relaxants and physical therapy.
+   - For classical migraines, continue the current abortive therapy as needed and discuss potential migraine prophylaxis options if frequency increases.
+
+3. **Follow-up and Monitoring:**
+   - Schedule a follow-up appointment in 2 weeks to reassess asthma control and adjust medications as necessary.
+   - Educate the patient on recognizing signs of severe asthma exacerbation and when to seek emergent care.
+   - Instruct the patient to maintain a symptom diary to help identify any new triggers and monitor the effectiveness of treatment adjustments.
+
+**Follow-Up:**
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate the need for further evaluation. Reassess in 2 weeks to ensure an overall improvement in respiratory status and medication efficacy. Ensure the patient has a clear understanding of the updated asthma management plan and encourage adherence to all prescribed medications and lifestyle modifications.
+
+This comprehensive follow-up plan aims to stabilize the patient's asthma symptoms and optimize long-term control to improve her quality of life.

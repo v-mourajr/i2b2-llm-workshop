@@ -1,0 +1,68 @@
+Visit Information:
+    
+    - Patient Num: 1000000027
+    - Visit Date: 11/29/2004
+
+Subjective:
+    
+This is a 33-year-old Indian male who has been receiving care at our clinic for approximately six years. He speaks Spanish and presents today for follow-up on his chronic asthma and other related conditions. His primary complaint is an increase in asthma symptoms, particularly nocturnal episodes of shortness of breath and wheezing over the past week. He reports using his rescue inhaler more frequently but has not needed emergency care. Additionally, he mentions recurring abdominal pain localized to both the left upper and lower quadrants. He describes the pain as intermittent, sometimes sharp, and increasingly bothersome.
+
+The patient has a history of allergic rhinitis, unspecified backache, and episodes of dermatophytosis, particularly in the groin and perianal areas. His current medications include an inhaled corticosteroid and a short-acting beta-agonist for asthma management, and an antihistamine for allergic rhinitis. He reports general satisfaction with his asthma control regimen but has noticed occasional palpitations after using his rescue inhaler.
+
+His social history is notable for working in an office setting with moderate physical activity. He denies any tobacco, alcohol, or illicit drug use. He has no known allergies. Non-pharmacological interventions he is using include regular exercise, dietary modifications, and maintaining a clean home environment to minimize allergens. He finds these strategies somewhat helpful but still struggles with symptom control during peak allergy seasons.
+
+Objective:
+    
+- **Vital Signs:**
+    - Blood Pressure: 122/80 mmHg
+    - Heart Rate: 78 beats per minute
+    - Respiratory Rate: 18 breaths per minute
+    - Temperature: 98.4°F
+    - Oxygen Saturation: 95% on room air
+
+- **General Appearance:**
+    The patient appears well-developed, well-nourished, and seems mildly anxious but is otherwise in no acute distress.
+
+- **Cardiovascular:**
+    Heart sounds are regular with no murmurs, rubs, or gallops. Peripheral pulses are intact and symmetrical.
+
+- **Respiratory:**
+    Breath sounds are diminished bilaterally with expiratory wheezing noted on auscultation. No rales or rhonchi are present. No use of accessory muscles is observed.
+
+- **Abdomen:**
+    Abdomen is soft, non-distended, with mild tenderness to palpation in the left upper and lower quadrants. No rebound tenderness or guarding is noted. Bowel sounds are present in all quadrants.
+
+- **Musculoskeletal:**
+    Full range of motion in the upper and lower extremities with no gross deformities. There is no obvious swelling or redness.
+
+- **Neurological:**
+    Cranial nerves II-XII are intact. The patient is alert and oriented to person, place, and time.
+
+- **Skin:**
+    Multiple erythematous, scaly plaques noted in the groin and perianal areas consistent with dermatophytosis. No signs of secondary infection present.
+
+Assessment:
+    
+This 33-year-old male presents with worsening asthma symptoms, recurrent left-sided abdominal pain, and a history of dermatophytosis.
+
+1. **Asthma, unspecified without mention of status asthmaticus:**
+    - Assessment: Asthma exacerbation, likely triggered by allergies or environmental factors.
+    - Diagnostic Tests: Pulmonary function tests (PFTs) to assess current lung function.
+    - Treatment Plan: Increase the dose of inhaled corticosteroid and consider adding a long-acting beta agonist (LABA) if symptoms persist. Advise continued use of rescue inhaler as needed and reassess in 4 weeks. Discuss potential triggers and strategies to minimize exposure.
+    - Relevant Referral: Pulmonology consult if no improvement or if symptoms worsen.
+
+2. **Abdominal Pain, left upper and lower quadrant:**
+    - Assessment: Likely gastrointestinal or musculoskeletal origin, possibly related to diet or chronic strain.
+    - Diagnostic Tests: Abdominal ultrasound and a comprehensive metabolic panel to rule out underlying causes.
+    - Treatment Plan: Continue the use of NSAIDs cautiously, monitoring for gastrointestinal side effects. Initiate a trial of a proton pump inhibitor (PPI) to manage potential gastritis.
+    - Relevant Referral: Gastroenterology consult if no improvement or if symptoms worsen.
+
+3. **Dermatophytosis of groin and perianal area:**
+    - Assessment: Recurrent fungal infection requiring treatment adjustment.
+    - Diagnostic Tests: Skin scraping for KOH test and fungal culture to confirm diagnosis and guide treatment.
+    - Treatment Plan: Begin oral antifungal therapy, such as terbinafine, and maintain proper skin hygiene. Follow up to evaluate the effectiveness and any side effects.
+    - Relevant Referral: Dermatology referral if condition does not improve with the current treatment regimen.
+
+Follow-Up:
+    
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. Reinforce the importance of adherence to prescribed medications and modifications to ongoing non-pharmacological interventions, including allergen avoidance and dietary adjustments. Educate the patient on recognizing signs of asthma exacerbation and the appropriate use of rescue medications. Confirm the understanding of the plan and schedule the next follow-up appointment.

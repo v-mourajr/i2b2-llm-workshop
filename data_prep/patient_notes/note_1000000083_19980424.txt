@@ -1,0 +1,51 @@
+Visit Information:
+- Patient Num: 1000000083
+- Visit Date: 04/24/1998
+
+This is a 55-year-old Black female who has been receiving care at our clinic for approximately one year and presents today for a routine follow-up visit. She speaks German and has a history of chronic asthma. 
+
+Subjective:
+The patient reports experiencing increased shortness of breath and wheezing over the past week, particularly worse at night. She states that her rescue inhaler has not been as effective lately. The patient denies any new cough, fever, or chest pain. 
+
+In terms of her past medical history, she has a history of asthma with recurrent exacerbations, hypertension, and elevated cholesterol levels. She has no significant surgical history.
+
+The patient takes daily medications, including an inhaled corticosteroid, a long-acting beta-agonist, and an antihypertensive medication. She uses an albuterol inhaler as needed for asthma symptoms. She reports good adherence to her medication regimen but mentions occasional side effects of mild tremors with the albuterol inhaler.
+
+She lives alone and remains physically active by engaging in walking and light exercises. She denies smoking or alcohol use.
+
+The patient has no known allergies. Her current symptoms include increased wheezing and shortness of breath predominantly at night, which has made it difficult for her to sleep. She has been managing her asthma with prescribed medications and using a rescue inhaler during exacerbations. Despite her efforts to control her symptoms, she has noticed a worsening over the past week.
+
+Objective:
+- Vital Signs: 
+  - Blood Pressure: 145/92 mmHg
+  - Heart Rate: 88 bpm
+  - Respiratory Rate: 20 breaths per minute
+  - Temperature: 98.6°F
+  - Oxygen Saturation: 95% on room air
+- General Appearance: The patient appears in mild respiratory distress but is alert and oriented.
+- Cardiovascular: Regular rate and rhythm without murmurs, rubs, or gallops.
+- Respiratory: Prolonged expiratory phase with diffuse wheezing throughout all lung fields, no use of accessory muscles.
+- Abdomen: Soft, non-tender, no hepatosplenomegaly, normal bowel sounds.
+- Musculoskeletal: No joint swelling or tenderness, full range of motion.
+- Neurological: Alert and oriented, no focal deficits.
+- Skin: No rashes, cyanosis, or clubbing.
+
+Recent laboratory findings indicate that the patient has had several regular tests monitoring parameters such as glucose levels, liver function tests, renal function tests, and lipid profiles. Notably, there are normal results for Albumin, ALT, AST, bilirubin, cholesterol, and kidney function tests. 
+
+Assessment:
+The primary diagnosis is asthma, persistent with recurrent exacerbations. Secondary conditions include hypertension and hyperlipidemia.
+
+Plan:
+- Continue current asthma management plan with inhaled corticosteroids and long-acting beta-agonists.
+- Increase the dose of inhaled corticosteroid and consider adding a leukotriene receptor antagonist for additional asthma control.
+- Educate the patient on the proper use of inhaler technique and adherence to medication schedule.
+- Continue antihypertensive medication; monitor blood pressure closely.
+- Recheck lipid profile in 3 months and consider further lipid-lowering therapy as needed.
+- Schedule formal pulmonary function tests to assess current status and adjust treatment accordingly.
+- Provide a spacer for the albuterol inhaler to improve drug delivery and reduce side effects.
+- Advise on monitoring for signs of an asthma exacerbation and when to seek immediate medical assistance.
+- Follow up in one month to reassess asthma control and blood pressure, and sooner if there are any concerns.
+
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. 
+
+Patient education was thoroughly provided, and she demonstrated an understanding of her care plan. Further follow-up appointments will ensure proper management and adjustment of her treatment as needed.

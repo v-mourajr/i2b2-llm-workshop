@@ -1,0 +1,30 @@
+Visit Information:
+- Patient Num: 1000000123
+- Visit Date: 11/19/2004
+
+This is a 22-year-old Indian male who speaks German and has been receiving care at our clinic for several years. He presented to the clinic on 11/19/2004 for routine follow-up regarding his asthma management. The patient reported increased instances of wheezing, breathlessness on exertion, and nocturnal coughing episodes over the past month. He mentioned that these symptoms had been particularly troublesome in the past two weeks despite regular medication use. Additionally, he has a history of allergic rhinitis, typically exacerbating during seasonal changes, causing nasal congestion, sneezing, and itchy eyes.
+
+The patient also has a prior diagnosis of epilepsy, although he has not experienced any seizures in the past two years. This patient has overcome developmental delays with apparent gradual improvement over time, which assisted in his normal daily functioning. His current medications include daily inhaled corticosteroids and a short-acting beta-agonist for acute asthma exacerbations. For allergic rhinitis, he uses over-the-counter antihistamines primarily during peak allergy seasons.
+
+Socially, the patient is a student engaged in typical young adult activities. He denies smoking, alcohol consumption, or recreational drug use. There are no known drug allergies reported.
+
+Objective findings from today’s visit include vital signs with Blood Pressure at 120/75 mmHg, Heart Rate of 80 beats per minute, Respiratory Rate of 22 breaths per minute, Temperature of 98.6°F, and Oxygen Saturation of 98% on room air.
+
+On examination, the patient appears well-nourished and in no acute distress. Cardiovascular examination reveals normal S1 and S2 heart sounds without any murmurs, rubs, or gallops. Respiratory examination showed bilateral mild expiratory wheezes, with normal chest expansion and clear breath sounds otherwise. The abdominal examination was benign, with a soft, non-tender abdomen and normal bowel sounds.
+
+The musculoskeletal system showed normal range of motion without any evident abnormalities in joints. The neurological examination indicated the patient is alert, oriented, and without focal deficits. Skin examination did not reveal any rashes or lesions, consistent with the controlled allergic rhinitis.
+
+Recent laboratory evaluations showed slightly elevated eosinophils, aligning with his atopic history. All other hematologic parameters were within normal limits.
+
+The primary diagnosis is asthma, unspecified without mention of status asthmaticus. Secondary diagnoses include allergic rhinitis of unspecified cause and past developmental delays. The patient’s epilepsy is currently well-controlled. Additionally, he has a history of anaphylactic reactions to peanuts and tree nuts, both under strict avoidance.
+
+For asthma, the patient should continue his current inhaled corticosteroid regimen and use the short-acting beta-agonist as needed. He was also advised on the importance of adherence to these medications, especially with the impending seasonal changes that could exacerbate symptoms. A new prescription for a spacer device was issued to optimize inhaler delivery. 
+
+For allergic rhinitis, he will continue taking over-the-counter antihistamines as needed, along with recommendations to minimize exposure to allergens and maintain a clean living environment to help mitigate symptoms.
+
+Regarding his past developmental delays, continued support and monitoring are advised. Referral to a pediatric developmental specialist remains active for ongoing evaluation. Given no recent seizure activity, epilepsy management will remain unchanged, with continued monitoring.
+
+The patient was advised to contact the clinic if symptoms worsen or do not improve within a week, or if any new symptoms emerge. A follow-up appointment was scheduled for three months to reassess asthma control and overall health. Both the patient and his guardian expressed understanding of the treatment plan and showed confidence in managing symptoms with the provided instructions at home.
+
+Instructions for emergent follow-up care or monitoring:
+Instruct patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.

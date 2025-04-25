@@ -1,0 +1,35 @@
+demographics
+patient_num: 1000000079  age: 21
+patient_num: 1000000079  sex: F
+patient_num: 1000000079  race: asian
+patient_num: 1000000079  language: spanish
+patient_num: 1000000079  vital_status: alive
+patient_num: 1000000079  earliest fact: Dec  8 1998 12:00AM
+patient_num: 1000000079  latest fact: Dec  9 1998 12:00AM
+patient_num: 1000000079  range in days: 1
+totals
+patient_num: 1000000079  distinct concepts: 30
+patient_num: 1000000079  total facts: 39
+patient_num: 1000000079  total encounters: 2
+descriptive
+patient_num: 1000000079  laboratory code: LOINC:8246-1  name: Amorph Crystals (Group:UAS-AMOR)  count: 1
+patient_num: 1000000079  laboratory code: LOINC:5769-5  name: Bacteria (Group:UAS-BACT)  count: 1
+patient_num: 1000000079  laboratory code: LOINC:5770-3  name: Bilirubin (Group:UA-BILI)  count: 1
+patient_num: 1000000079  laboratory code: LOINC:9439-1  name: Casts (Group:CASTS)  count: 1
+patient_num: 1000000079  laboratory code: LOINC:5778-6  name: Color (Group:UA-COLOR)  count: 1
+patient_num: 1000000079  laboratory code: LOINC:X4005-4  name: Crystals (Group:UAS-CRYS)  count: 1
+patient_num: 1000000079  laboratory code: LOINC:5792-7  name: Glucose - UA (Group:UA-GLUC)  count: 1
+patient_num: 1000000079  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 1
+patient_num: 1000000079  laboratory code: LOINC:5797-6  name: Ketones (Group:UA-KET)  count: 1
+patient_num: 1000000079  laboratory code: LOINC:8247-9  name: Mucous (Group:UAS-MUC)  count: 1
+patient_num: 1000000079  laboratory code: LOINC:5802-4  name: Nitrites (Group:UA-NIT)  count: 1
+patient_num: 1000000079  laboratory code: LOINC:5794-3  name: Occult Blood (Group:UA-BLD)  count: 1
+patient_num: 1000000079  laboratory code: LOINC:11279-7  name: Other/Comments (Group:UAS-COM)  count: 1
+patient_num: 1000000079  laboratory code: LOINC:5803-2  name: PH (Group:UA-PH)  count: 1
+patient_num: 1000000079  laboratory code: LOINC:5804-0  name: Protein (Group:UA-ALB)  count: 1
+patient_num: 1000000079  laboratory code: LOINC:5808-1  name: RBC - Urine Sed (Group:UAS-RBC)  count: 1
+patient_num: 1000000079  laboratory code: LOINC:5811-5  name: Specific Gravity (Group:UA-SPGR)  count: 1
+patient_num: 1000000079  laboratory code: LOINC:11277-1  name: Squamous Cells (Group:UAS-SQUA)  count: 1
+patient_num: 1000000079  laboratory code: LOINC:5818-0  name: Urobilinogen (Group:UA-UROBI)  count: 1
+patient_num: 1000000079  laboratory code: LOINC:5821-4  name: WBC - Urine Sed (Group:UAS-WBC)  count: 1
+patient_num: 1000000079  laboratory code: LOINC:5799-2  name: WBC Screen (Group:UA-WBC)  count: 1

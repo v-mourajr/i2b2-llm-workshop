@@ -1,0 +1,61 @@
+**Visit Information:**
+- Patient Num: 1000000042
+- Visit Date: 06/01/2010
+
+**Subjective:**
+This is a 32-year-old Black female who has been under our care for approximately eight years. Today, she presents for a follow-up regarding her asthma, which she describes as being problematic recently. She reports increased dyspnea, nocturnal wheezing, and frequent episodes of a dry cough over the past week. These symptoms are primarily aggravated by cold weather and physical exertion, but she finds some relief indoors and after using her rescue inhaler.
+
+The patient has a history of multiple acute exacerbations of asthma, acute bronchitis, chronic cough, and disturbances in skin sensation. Her obstetric history is significant for episodes of threatened premature labor and other antepartum conditions. She has also been involved in a motor vehicle accident in the past, which resulted in a fracture of the metatarsals. Currently, she is taking prenatal multivitamins and adheres strictly to her prescribed inhaler regimen. She mentions that her rescue inhaler provides only brief respite. The patient is proactive about quitting smoking and has a history of tobacco use disorder. 
+
+She does not have any known medication allergies. To manage her symptoms, she has been staying hydrated, avoiding cold environments, and performing breathing exercises, which have provided some relief.
+
+**Objective:**
+- **Vital Signs:**
+  - Blood Pressure: 118/76 mmHg
+  - Heart Rate: 82 bpm
+  - Respiratory Rate: 22 breaths per minute
+  - Temperature: 98.6°F
+  - Oxygen Saturation: 94%
+
+- **Physical Exam:**
+  - **General Appearance:** The patient is alert and oriented, though she appears fatigued and slightly distressed. She is well-nourished and exhibits no acute distress.
+  - **Cardiovascular:** Regular rate and rhythm, heart sounds are normal with no murmurs, gallops, or rubs.
+  - **Respiratory:** Presence of bilateral wheezing on expiration, mild tachypnea observed. Prolonged expiratory phase and occasional use of accessory muscles noted. No crackles or cyanosis.
+  - **Abdomen:** Soft, non-tender, non-distended, normal bowel sounds, no hepatosplenomegaly.
+  - **Musculoskeletal:** Full range of motion in all extremities, no joint swelling, deformity, or tenderness noted. 
+  - **Neurological:** Alert and oriented times three, cranial nerves II-XII intact, no focal neurological deficits detected.
+  - **Skin:** No rashes, lesions, or abnormalities; normal turgor, no pallor or cyanosis.
+
+- **Laboratory Results:**
+  - Hematocrit, hemoglobin, and white blood cell counts are within normal limits.
+  - Urine analysis reveals traces of glucose and ketones, no significant abnormalities.
+  - Other routine blood parameters, including liver and kidney function tests, show no significant anomalies.
+
+**Assessment:**
+The primary diagnosis for this patient continues to be asthma, unspecified without mention of status asthmaticus. The patient’s symptoms, including wheezing, dyspnea, and chronic cough, support this ongoing diagnosis. Secondary conditions include acute bronchitis, which could be contributing to the recent exacerbation of her symptoms, as well as a history of chronic cough. The tertiary issues include chronic pain in the limbs and disturbances in skin sensation, which are also being managed concurrently. Pregnancy-related conditions, including past incidents of threatened premature labor, remain relevant and need ongoing monitoring.
+
+**Plan:**
+1. **Medication Management:**
+   - Continue the current albuterol inhaler (rescue) as needed.
+   - Introduce a daily inhaled corticosteroid (Flovent) to manage airway inflammation.
+   - Ensure patient's inhaler technique is adequate, possibly using a spacer for better efficacy.
+
+2. **Lifestyle and Environmental Adjustments:**
+   - Counsel on reducing exposure to asthma triggers such as cold air and smoke.
+   - Encourage indoor activities during high pollen days.
+   - Continue support for smoking cessation efforts, possibly with additional counseling.
+
+3. **Follow-Up Care:**
+   - Schedule a follow-up appointment in one week to reassess asthma control and lung function.
+   - Provide the patient with a peak flow meter to monitor asthma at home and report significant changes.
+
+For antenatal care:
+1. **Continuation of Prenatal Supplements:**
+   - Ensure ongoing use of prenatal vitamins.
+2. **Routine Monitoring:**
+   - Conduct fetal monitoring to detect and manage premature labor risks.
+   - Educate the patient on recognizing signs of premature labor and the importance of immediate medical consultation.
+
+**Follow-Up:**
+- Instruct the patient to contact the clinic if they experience a worsening of symptoms such as increased shortness of breath or significant reductions in peak flow readings.
+- Reinforce the importance of adherence to prescribed medication and follow-up visits. The patient understands and agrees to the management plan and will return for follow-up as scheduled.

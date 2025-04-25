@@ -1,0 +1,69 @@
+Patient Num: 1000000092  
+Visit Date: 11/14/2001  
+
+This is a 32-year-old Black male, fluent in English, who has been a patient at our clinic for several years, with multiple encounters. He presented today for a follow-up appointment primarily due to exacerbation of his asthma. He reports increased frequency of wheezing and chest tightness, particularly pronounced at night and upon exertion. The patient notes that while his prescribed medications offer some relief, his symptoms have notably worsened over the past week, especially with exposure to cold air. He denies fever, chills, or weight loss.
+
+The patient's medical history is significant for chronic asthma, alongside allergic rhinitis and bronchitis. He has also been diagnosed with depressive disorder, unspecified gastrointestinal hemorrhage, slow transit constipation, hemorrhoids, and chronic sinusitis. His medication regimen includes Albuterol Sulfate, Beconase, Serevent Diskus, and occasionally Augmentin for exacerbations. He has a history of good medication adherence but admits to occasionally missing doses.
+
+The patient is a non-smoker, lives with his spouse, works in an office setting, and denies illicit drug use. He has no known allergies and has been managing his asthma symptoms with non-pharmacological interventions such as humidifier use and avoiding cold air and vigorous exercise, albeit with limited success recently.
+
+**Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 130/85 mmHg
+- Heart Rate: 82 bpm
+- Respiratory Rate: 18 breaths per minute
+- Temperature: 98.7°F
+- Oxygen Saturation: 96% on room air
+
+**General Appearance:**
+The patient appears well-nourished and in no acute distress, though he exhibits slight dyspnea.
+
+**Cardiovascular:**
+Regular rhythm, without murmurs, gallops, or rubs. Peripheral pulses are intact.
+
+**Respiratory:**
+There are inspiratory and expiratory wheezes heard bilaterally, without rales or rhonchi. The patient is using accessory muscles minimally.
+
+**Abdomen:**
+Non-tender and non-distended with active bowel sounds in all four quadrants.
+
+**Musculoskeletal:**
+No joint swelling or tenderness. Full range of motion is present in all extremities.
+
+**Neurological:**
+The patient is alert and oriented to person, place, and time. Cranial nerves II-XII are intact, and reflexes are normoactive.
+
+**Skin:**
+Skin is warm, dry, with no rashes or lesions.
+
+Recent lab results indicate normal liver function tests, including AST and ALT. Routine blood tests showed no significant abnormalities with WBC, eosinophils, and baseline metabolic panel components within normal limits.
+
+**Assessment:**
+The patient is experiencing an exacerbation of chronic asthma, potentially influenced by environmental and seasonal factors. His symptoms of wheezing and chest tightness indicate the need for an adjustment in his current management plan to prevent acute episodes.
+
+**Plan:**
+1. **Medication Adjustment:**
+   - Increase the dosage of inhaled corticosteroid.
+   - Continue the use of short-acting beta agonist (Albuterol Sulfate) as needed for acute symptom relief.
+
+2. **Diagnostic Tests:**
+   - Repeat spirometry to evaluate current lung function.
+   - Conduct an allergy panel to identify any new or potential allergens.
+
+3. **Referral:**
+   - Refer the patient to a pulmonology specialist for further evaluation and management.
+
+4. **Patient Education:**
+   - Emphasize the importance of adherence to the medication regimen and the consequences of missed doses.
+   - Discuss avoidance of known asthma triggers, including cold air, and vigorous exercise.
+   - Reinforce the use of a peak flow meter to monitor asthma symptoms and manage their control effectively.
+
+5. **Follow-Up:**
+   - Schedule a follow-up appointment in 2 weeks to reassess asthma control and symptom management.
+   - Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results call for further evaluation.
+
+6. **Emergency Instructions:**
+   - Educate the patient on recognizing signs of acute asthma exacerbations and the importance of seeking emergent care if respiratory distress should occur.
+
+The patient demonstrated understanding of the treatment plan and agreed to adhere to the prescribed modifications.

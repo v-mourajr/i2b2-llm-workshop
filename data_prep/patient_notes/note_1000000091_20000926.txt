@@ -1,0 +1,58 @@
+**Visit Information:**
+- Patient Num: 1000000091
+- Visit Date: 09/26/2000
+
+**Subjective:**
+This is a six-year-old Asian male who has been under our clinic's care for approximately seven months. The patient speaks Spanish and has come in for a follow-up visit related to his asthma. His mother reports that he has been experiencing nocturnal wheezing and shortness of breath, particularly when engaging in physical activities such as playing at the playground. She mentions that he had an episode of acute upper respiratory infection last month, which seemed to exacerbate his asthma symptoms.
+
+The patient has a history of unspecified asthma without mention of status asthmaticus and has previously been diagnosed with dyspnea and neonatal jaundice. His current medications include albuterol inhaler as a rescue medication, used as needed, and a daily inhaled corticosteroid (ICS) for long-term control. His mother states that she has been diligent about administering the medication, but she is unsure if his symptoms have fully stabilized or if they might be worsening due to the seasonal changes.
+
+No known allergies were reported. Socially, the patient lives at home with his parents and attends kindergarten. His mother works from home, ensuring close monitoring of his symptoms. The family has not noted any new environmental triggers recently, such as exposure to smoke or pet dander.
+
+**Objective:**
+- **Vital Signs:**
+  - Blood Pressure: 100/60 mmHg
+  - Heart Rate: 98 bpm
+  - Respiratory Rate: 22 breaths/min
+  - Temperature: 98.7°F
+  - Oxygen Saturation: 96% on room air
+- **General Appearance:**
+  The patient appears alert, well-nourished, and in no acute distress.
+- **Cardiovascular:**
+  Heart sounds are normal, with no murmurs or abnormal rhythms detected.
+- **Respiratory:**
+  Breath sounds are diminished at the bases with occasional wheezes noted. No crackles or rhonchi are present. The patient exhibits mild use of accessory muscles during breathing.
+- **Abdomen:**
+  Soft and non-tender. No organomegaly noted.
+- **Musculoskeletal:**
+  Normal muscle tone and development. No joint abnormalities.
+- **Neurological:**
+  Generally, age-appropriate alertness and interaction. Cranial nerves are intact.
+- **Skin:**
+  No cyanosis or clubbing of the nails. Skin is clear without rashes or lesions.
+
+Labs reviewed include a satisfactory range of complete blood count metrics such as white blood cell count, hemoglobin, and platelet count, which are within normal limits. Levels of bilirubin have been stabilized, with no significant rise suggestive of current jaundice.
+
+**Assessment:**
+- **Asthma, unspecified without mention of status asthmaticus:** The patient's asthma is likely intermittent to mild persistent, given nocturnal symptoms and exercise-induced episodes.
+- **Acute upper respiratory infection of unspecified site:** Resolving, with no current signs of secondary infection.
+- **Other dyspnea and respiratory abnormality:** Mild, controlled partially with present asthma management.
+- **Unspecified fetal and neonatal jaundice:** Previously resolved, with no current clinical indications.
+
+**Plan:**
+1. **Asthma Management:**
+   - Continue current medications (ICS and albuterol as needed).
+   - Review the use of a peak flow meter for daily tracking of asthma symptoms.
+   - Educate the mother and patient on the importance of medication adherence and recognizing signs of an asthma exacerbation.
+   - Follow-up in 1 month to reassess asthma control and adjust the treatment plan as needed.
+   
+2. **Acute Upper Respiratory Infection:**
+   - Supportive care with hydration and rest. No antibiotics necessary based on resolving presentation.
+   - Observe for any new or recurrent symptoms; return to the clinic if condition worsens.
+
+3. **Respiratory Monitoring:**
+   - Schedule a repeat pulmonary function test (PFT) to evaluate and monitor lung function improvement.
+   - Educate the mother on environmental control measures (e.g., reducing dust, avoiding smoking exposure) to further help manage asthma symptoms.
+
+**Follow-Up:**
+Instruct the patient’s mother to contact the clinic if symptoms worsen or do not improve within the next week, or if any new concerns arise. The family is educated and understands the importance of adherence to the management plan and knows the possible signs that require urgent medical attention. Follow-up will be arranged in one month, with earlier visits as needed for symptom changes.

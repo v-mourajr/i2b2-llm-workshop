@@ -1,0 +1,82 @@
+demographics
+patient_num: 1000000047  age: 34
+patient_num: 1000000047  sex: M
+patient_num: 1000000047  race: black
+patient_num: 1000000047  language: english
+patient_num: 1000000047  vital_status: alive
+patient_num: 1000000047  earliest fact: Mar  4 1999 12:00AM
+patient_num: 1000000047  latest fact: Oct 28 2004 12:00AM
+patient_num: 1000000047  range in days: 2065
+totals
+patient_num: 1000000047  distinct concepts: 74
+patient_num: 1000000047  total facts: 257
+patient_num: 1000000047  total encounters: 72
+patient_num: 1000000047  total asthma: 8
+descriptive
+patient_num: 1000000047  asthma code: ICD9:493.91  name: Asthma, unspecified type, with status asthmaticus  count: 1
+patient_num: 1000000047  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 5
+patient_num: 1000000047  asthma code: ICD9:493.00  name: Extrinsic asthma without mention of status asthmaticus  count: 2
+patient_num: 1000000047  diagnosis code: ICD9:477.8  name: Allergic rhinitis due to other allergen  count: 23
+patient_num: 1000000047  diagnosis code: ICD9:477.0  name: Allergic rhinitis due to pollen  count: 4
+patient_num: 1000000047  diagnosis code: ICD9:995.3  name: Allergy, unspecified, not elsewhere classified  count: 1
+patient_num: 1000000047  diagnosis code: ICD9:493.91  name: Asthma, unspecified type, with status asthmaticus  count: 1
+patient_num: 1000000047  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 5
+patient_num: 1000000047  diagnosis code: ICD9:490  name: Bronchitis, not specified as acute or chronic  count: 2
+patient_num: 1000000047  diagnosis code: ICD9:786.2  name: Cough  count: 2
+patient_num: 1000000047  diagnosis code: ICD9:722.6  name: Degeneration of intervertebral disc, site unspecified  count: 1
+patient_num: 1000000047  diagnosis code: ICD9:493.00  name: Extrinsic asthma without mention of status asthmaticus  count: 2
+patient_num: 1000000047  diagnosis code: ICD9:786.3  name: Hemoptysis  count: 1
+patient_num: 1000000047  diagnosis code: ICD9:99.23  name: Injection of steroid  count: 1
+patient_num: 1000000047  diagnosis code: ICD9:V72.6  name: Laboratory examination  count: 1
+patient_num: 1000000047  diagnosis code: ICD9:794.8  name: Nonspecific abnormal results of function study of liver  count: 2
+patient_num: 1000000047  diagnosis code: ICD9:727.67  name: Nontraumatic rupture of achilles tendon  count: 10
+patient_num: 1000000047  diagnosis code: ICD9:883.0  name: Open wound of fingers, without mention of complication  count: 1
+patient_num: 1000000047  diagnosis code: ICD9:882.0  name: Open wound of hand except fingers alone, without mention of complication  count: 1
+patient_num: 1000000047  diagnosis code: ICD9:879.9  name: Open wound(s) (multiple) of unspecified site(s), complicated  count: 1
+patient_num: 1000000047  diagnosis code: ICD9:879.8  name: Open wound(s) (multiple) of unspecified site(s), without mention of complication  count: 1
+patient_num: 1000000047  diagnosis code: ICD9:706.1  name: Other acne  count: 1
+patient_num: 1000000047  diagnosis code: ICD9:478.9  name: Other and unspecified diseases of upper respiratory tract  count: 1
+patient_num: 1000000047  diagnosis code: ICD9:272.4  name: Other and unspecified hyperlipidemia  count: 1
+patient_num: 1000000047  diagnosis code: ICD9:845.09  name: Other ankle sprain  count: 6
+patient_num: 1000000047  diagnosis code: ICD9:372.14  name: Other chronic allergic conjunctivitis  count: 1
+patient_num: 1000000047  diagnosis code: ICD9:83.64  name: Other suture of tendon  count: 1
+patient_num: 1000000047  diagnosis code: ICD9:V72.81  name: Preoperative cardiovascular examination  count: 1
+patient_num: 1000000047  diagnosis code: ICD9:93.94  name: Respiratory medication administered by nebulizer  count: 1
+patient_num: 1000000047  diagnosis code: ICD9:V70.0  name: Routine general medical examination at a health care facility  count: 3
+patient_num: 1000000047  diagnosis code: ICD9:V76.44  name: Screening for malignant neoplasms of prostate  count: 1
+patient_num: 1000000047  diagnosis code: ICD9:786.50  name: Unspecified chest pain  count: 1
+patient_num: 1000000047  diagnosis code: ICD9:V70.9  name: Unspecified general medical examination  count: 1
+patient_num: 1000000047  medication code: NDC:50458051010  name: Hismanal 10mg tablet Janssen Pharmaceuticals  count: 4
+patient_num: 1000000047  medication code: NDC:51079012620  name: Metronidazole 500mg tablet UDL Laboratories Inc  count: 8
+patient_num: 1000000047  medication code: NDC:00089074121  name: Qvar 80 mcg/inh aerosol with adapter 3 M Pharmaceuticals  count: 4
+patient_num: 1000000047  laboratory code: LOINC:1751-7  name: Albumin (Group:ALB)  count: 1
+patient_num: 1000000047  laboratory code: LOINC:1742-6  name: ALT (SGPT) (Group:SGPT)  count: 1
+patient_num: 1000000047  laboratory code: LOINC:1920-8  name: AST (SGOT) (Group:SGOT)  count: 1
+patient_num: 1000000047  laboratory code: LOINC:14815-5  name: Calculated LDL (Group:LDLCAL)  count: 1
+patient_num: 1000000047  laboratory code: LOINC:2093-3  name: Cholesterol (Group:CHOL)  count: 4
+patient_num: 1000000047  laboratory code: LOINC:2160-0  name: Creatinine (Group:CRE)  count: 1
+patient_num: 1000000047  laboratory code: LOINC:1968-7  name: Direct Bilirubin (Group:DBILI)  count: 2
+patient_num: 1000000047  laboratory code: LOINC:2276-4  name: Ferritin (Group:FER)  count: 1
+patient_num: 1000000047  laboratory code: LOINC:2336-6  name: Globulin (Group:GLOB)  count: 1
+patient_num: 1000000047  laboratory code: LOINC:6777-7  name: Glucose (Group:GLU)  count: 3
+patient_num: 1000000047  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 1
+patient_num: 1000000047  laboratory code: LOINC:2086-7  name: HDL (Group:HDL)  count: 3
+patient_num: 1000000047  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 1
+patient_num: 1000000047  laboratory code: LOINC:2498-4  name: Iron (Group:FE)  count: 1
+patient_num: 1000000047  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 1
+patient_num: 1000000047  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 1
+patient_num: 1000000047  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 1
+patient_num: 1000000047  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 1
+patient_num: 1000000047  laboratory code: LOINC:2823-3  name: Potassium (Group:K)  count: 1
+patient_num: 1000000047  laboratory code: LOINC:5902-2  name: PT (Group:PT)  count: 1
+patient_num: 1000000047  laboratory code: LOINC:6301-6  name: PT-INR (Group:PT-INR)  count: 1
+patient_num: 1000000047  laboratory code: LOINC:5898-2  name: PTT (Group:PTT)  count: 1
+patient_num: 1000000047  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 1
+patient_num: 1000000047  laboratory code: LOINC:788-0  name: RDW (Group:RDW)  count: 1
+patient_num: 1000000047  laboratory code: LOINC:2500-7  name: TIBC (Group:TIBC)  count: 1
+patient_num: 1000000047  laboratory code: LOINC:1975-2  name: Total Bilirubin (Group:TBILI)  count: 2
+patient_num: 1000000047  laboratory code: LOINC:2885-2  name: Total Protein (Group:TP)  count: 1
+patient_num: 1000000047  laboratory code: LOINC:2571-8  name: Triglycerides (Group:TRIG)  count: 2
+patient_num: 1000000047  laboratory code: LOINC:3084-1  name: Uric Acid (Group:URIC)  count: 1
+patient_num: 1000000047  laboratory code: LOINC:2092-5  name: VLDL (Group:VLDL)  count: 1
+patient_num: 1000000047  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 1

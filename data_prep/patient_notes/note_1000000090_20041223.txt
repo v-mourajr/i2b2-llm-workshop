@@ -1,0 +1,67 @@
+Patient Information:
+- Patient Number: 1000000090
+- Visit Date: 12/23/2004
+
+Subjective:
+This is a 37-year-old Indian male who has been under our care for approximately 1 year and 9 months. He is a German-speaking individual presenting today for a follow-up appointment concerning his asthma management. He reports experiencing intermittent asthma symptoms, including episodes of shortness of breath and wheezing, which have been particularly troublesome at night and upon exertion. He mentions that despite regular use of his prescribed inhalers, relief has been suboptimal.
+
+The patient has a notable history of allergic rhinitis, both due to pollen and other allergens, and has been experiencing sneezing, nasal congestion, and itchy eyes. He also mentions recurring abdominal discomfort and joint pain but denies any recent trauma or significant lifestyle changes. He has a history of various skin conditions, including eczematous dermatitis of the eyelid and other atopic dermatitis-related issues.
+
+The patient is currently taking albuterol for asthma, which provides symptomatic relief, and a combination nasal spray to manage his allergic rhinitis. He expresses concern about potential adverse effects as he has experienced minor, non-severe side effects such as palpitations after using his rescue inhaler.
+
+He works in a largely sedentary office job but tries to engage in moderate physical activity regularly. He does not smoke and has no known drug allergies. The patient is also compliant with routine general medical examinations but has not undergone any significant recent surgical procedures.
+
+Objectives:
+Vital Signs:
+- Blood Pressure: 118/78 mmHg
+- Heart Rate: 78 bpm
+- Respiratory Rate: 18 breaths per minute
+- Temperature: 98.6°F
+- Oxygen Saturation: 97% on room air
+
+General Appearance:
+The patient appears in no acute distress. He is well-nourished and oriented to time, place, and person.
+
+Cardiovascular:
+Heart sounds are regular without murmurs, gallops, or rubs. Peripheral pulses are 2+ and equal bilaterally.
+
+Respiratory:
+Lungs are clear to auscultation bilaterally with no wheezing or crackles noted at rest. However, mild expiratory wheezing is auscultated during forced exhalation.
+
+Abdomen:
+Soft and non-tender with normal bowel sounds. No organomegaly or masses are detected.
+
+Musculoskeletal:
+Normal range of motion observed in all extremities. There are no signs of joint swelling or deformities.
+
+Neurological:
+Neurologic examination reveals normal cranial nerve function. Reflexes are 2+ and symmetric bilaterally.
+
+Skin:
+Minimal eczematous changes on the eyelids and a few healing acne lesions. No signs of active infection or new rashes.
+
+Labs Summary:
+Recent lab work includes liver function tests (ALT, AST, Bilirubin) which are within normal limits. Complete blood count showed normal white blood cell count and differential. No significant abnormalities noted.
+
+Assessment:
+1. Asthma, unspecified without mention of status asthmaticus
+2. Extrinsic asthma, allergen-triggered
+3. Allergic rhinitis due to pollen and other allergens
+4. Eczematous dermatitis and other skin conditions
+5. Chronic abdominal discomfort, likely non-specific or functional in nature
+6. Pain in unspecified joint(s)
+
+Plan:
+1. Continue current asthma management with albuterol as a rescue inhaler. Consider adding a long-acting beta-agonist or inhaled corticosteroid if symptoms persist. Patient to use peak flow meter to monitor asthma control.
+2. Continue with current nasal spray regimen for allergic rhinitis. Intranasal corticosteroids may be introduced if symptoms do not improve. Recommend minimizing exposure to known allergens.
+3. Recommend OTC antihistamines for dermatitis and moisturizing skin regularly. 
+4. Advise the patient to maintain regular physical activity and proper hydration.
+5. Schedule routine follow-up visits for asthma control assessment and allergic management.
+6. Instruct patient to seek immediate care if acute exacerbations of asthma occur or if there are any new or worsening symptoms.
+7. Ensure patient understands and is comfortable with the treatment plan.
+
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.
+Follow-Up will be scheduled for 4 weeks, or sooner if necessary, for the reassessment of asthma and allergic symptom control.
+Patient educated about the importance of adherence to prescribed therapy and understanding of the emergency protocol for asthma exacerbations. 
+
+The patient confirms understanding and agrees with the plan.

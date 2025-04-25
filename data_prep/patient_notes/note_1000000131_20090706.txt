@@ -1,0 +1,64 @@
+**Visit Information:**
+
+- Patient Num: 1000000131
+- Visit Date: 07/06/2009
+
+**Subjective:**
+
+This is a 23-year-old Asian male who speaks English, presenting today for a follow-up appointment. He has been under our care for the past several years primarily for the management of asthma. He has a documented history of asthma, both unspecified and extrinsic, with and without mention of status asthmaticus. He reports that his asthma symptoms, including wheezing and shortness of breath, have exacerbated over the past few weeks, especially during physical exertion such as playing basketball and running. The patient denies nocturnal symptoms or significant coughing during the night.
+
+His past medical history includes frequent episodes of acute bronchitis and upper respiratory infections, as well as a history of appendicitis. He has also experienced episodes of acute and chronic otitis media and has undergone an appendectomy in the past. The patient has a history of major depressive disorder and oppositional disorder in his adolescence.
+
+Currently, he uses an albuterol sulfate inhaler as needed for acute asthma symptoms and takes Flovent 220 mcg daily as a maintenance inhaler. He has been compliant with his medication regimen and has not reported any adverse effects. He resides in a smoke-free home with his parents, who also do not have any pets. The patient does not have any known drug or food allergies. He identifies physical exertion and possibly seasonal allergens as triggers for his asthma. The albuterol inhaler has been highly effective in relieving his acute symptoms.
+
+**Objective:**
+
+- Vital Signs:
+  - Blood Pressure: 118/76 mmHg
+  - Heart Rate: 82 bpm
+  - Respiratory Rate: 18 breaths/min
+  - Temperature: 98.4°F
+  - Oxygen Saturation: 97% on room air
+
+- General Appearance: The patient appears well-nourished and in no acute distress. He is alert and oriented.
+
+- Cardiovascular: Heart sounds are regular with no murmurs, rubs, or gallops.
+
+- Respiratory: Auscultation reveals mild wheezing bilaterally at the lung bases, slightly more pronounced during expiration, with no crackles or rales detected. There is normal bilateral chest expansion and no use of accessory muscles noted.
+
+- Abdomen: The abdomen is soft, non-tender, and exhibits normal bowel sounds. No hepatosplenomegaly or palpable masses are present.
+
+- Musculoskeletal: The patient demonstrates a full range of motion in all extremities without swelling, tenderness, or deformities.
+
+- Neurological: Cranial nerves II-XII are intact. Motor strength and reflexes are within normal limits, and there is no sensory deficit.
+
+- Skin: The skin is intact, warm, and dry without rashes, lesions, or discolorations.
+
+Recent laboratory work includes a complete blood count showing a mildly elevated eosinophil count, consistent with his history of asthma. Thyroid function tests (T4, TSH) and a urinalysis revealed no abnormalities, with all values within the normal range.
+
+**Assessment:**
+
+The primary clinical impression is asthma, both unspecified and extrinsic, with reported exacerbations linked primarily to physical activity. The patient has a history of recurrent acute bronchitis and upper respiratory infections.
+
+Secondary diagnoses include chronic serous otitis media, major depressive disorder, and controlled allergic rhinitis.
+
+**Plan:**
+
+1. Asthma Management:
+   - Continue with the albuterol inhaler for acute relief and Flovent 220 mcg daily.
+   - Review and educate on asthma triggers, including physical exertion and allergens.
+   - Initiate the use of a peak flow meter for monitoring respiratory function, especially around physical activities.
+   - Arrange for pulmonary function tests to evaluate the control of his asthma and adjust treatment as needed.
+
+2. Allergic Rhinitis:
+   - Begin a trial of a non-drowsy antihistamine, such as cetirizine, to address potential seasonal allergies.
+   - Monitor the response to the medication and adjust as necessary.
+
+3. Preventive Measures:
+   - Emphasize adherence to his asthma action plan.
+   - Recommend the seasonal influenza vaccination to reduce the risk of respiratory infections.
+   - Schedule a follow-up appointment in three months to assess progress and update the management plan, or sooner if symptoms worsen or new symptoms develop.
+
+The patient and his family were instructed to contact the clinic if there is any worsening of symptoms or if symptoms do not improve within a week. They were advised of the treatment plan and have acknowledged understanding of the instructions provided. 
+
+A follow-up visit has been scheduled for three months later with instructions to return earlier if needed.

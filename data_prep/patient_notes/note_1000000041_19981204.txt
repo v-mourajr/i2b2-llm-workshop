@@ -1,0 +1,80 @@
+Visit Information:
+    - Patient Num: 1000000041
+    - Visit Date: 12/04/1998
+  
+Subjective:
+    - Chief Complaints & History of Present Illness:
+        This is a 5-year-old Hispanic male who has been under our care for the past year and is here today for a follow-up visit regarding his asthma management. His mother reports that he has experienced increased coughing and wheezing over the last two days. Additionally, he had an episode of shortness of breath last night, which responded to his rescue inhaler. His asthma symptoms seem to be triggered by recent activities at his preschool and exposure to cold air. There have been no hospitalizations or emergency visits since the last follow-up. 
+    - Past Medical & Surgical History:
+        The patient has a history of asthma and multiple respiratory infections including bronchitis and pneumonia. He has also experienced gastrointestinal issues, such as noninfectious gastroenteritis.
+    - Medications & Supplements:
+        He is currently on albuterol (as needed), montelukast daily, and a fluticasone inhaler twice daily. His mother ensures adherence to this regimen, and they have noticed a general reduction in acute asthma episodes since starting the montelukast.
+    - Social History:
+        The patient lives with his parents and two siblings in a smoke-free environment. They have no pets. He is currently attending preschool.
+    - Allergies:
+        No known drug allergies.
+    - Symptom Details:
+        Symptoms of increased coughing started two days ago, particularly noted with physical activities. Nighttime coughing is causing sleep disturbances. Wheezing and dyspnea occurred last night but improved significantly with the use of albuterol.
+    - Additional Narrative:
+        The mother has been using a cold mist humidifier in his room and making sure he stays hydrated. No recent changes in appetite or weight, and no fever has been noted. The family is coping well but is concerned about frequent respiratory symptoms despite medication adherence.
+
+Objective:
+    - Vital Signs:
+        - Blood Pressure: Not taken, typically not indicated for this age group unless medically warranted
+        - Heart Rate: 110 bpm (within normal limits for age)
+        - Respiratory Rate: 24 breaths per minute
+        - Temperature: 98.6°F
+        - Oxygen Saturation: 96% on room air
+    - General Appearance:
+        Alert, active, well-nourished, and in no apparent distress. Conversing and interacting appropriately for age.
+    - Cardiovascular:
+        Regular rate and rhythm with no murmurs, gallops, or rubs.
+    - Respiratory:
+        Mild expiratory wheezing noted bilaterally, no retractions or nasal flaring observed. Lungs clear to percussion, mild increase in anteroposterior diameter.
+    - Abdomen:
+        Soft, non-tender, non-distended with normal bowel sounds.
+    - Musculoskeletal:
+        Full range of motion in all extremities with no deformities. No tenderness noted in neck or hip; mild tenderness reported in lumbar region on deep palpation.
+    - Neurological:
+        Alert and oriented, normal development for age. Cranial nerves II-XII intact, no focal deficits.
+    - Skin:
+        Warm, dry, no rash or lesions noted.
+
+Assessment:
+    - Diagnosis or Clinical Impression:
+        1. Asthma, unspecified without mention of status asthmaticus
+        2. History of bronchitis and pneumonia with no acute exacerbation
+        3. Minor contusion of the hip, resolving
+    - Issue/Problem/Request 1:
+        Assessment:
+            - Likely diagnosis: Exacerbation of asthma
+            - Differential diagnosis: Acute viral respiratory infection
+        Diagnostic Tests:
+            - None at this moment; consider if symptoms worsen
+        Treatment Plan:
+            - Continue montelukast and fluticasone inhaler as prescribed.
+            - Increase frequency of albuterol to every 4-6 hours as needed for wheezing.
+            - Advise using a mask to avoid cold air exposure.
+            - Monitor symptom progression closely.
+    - Issue/Problem/Request 2:
+        Assessment:
+            - Likely diagnosis: Recurrent bronchitis (resolved)
+            - Differential diagnosis: Secondary infection
+        Diagnostic Tests:
+            - None required as no current symptoms suggestive of active bronchitis.
+        Treatment Plan:
+            - Encourage good hand hygiene to prevent infections.
+            - Discuss signs of possible infection and provide action plan if symptoms arise.
+    - Follow-Up for persistent, changing, or worsening symptoms:
+        Instruct patient to contact the clinic if symptoms worsen or do not improve within a week.
+        - Re-evaluation in 4 weeks or sooner if indicated by symptom severity.
+
+Plan:
+    - Continue current asthma treatment regimen and increase the use of rescue inhaler as needed.
+    - Discuss potential environmental triggers and the importance of medication adherence.
+    - Educate the mother on signs of respiratory distress and the importance of timely administration of rescue medication. 
+    - Schedule a follow-up in 4 weeks, or sooner, if improvement is not noted or if symptoms exacerbate.
+    - Reinforce the use of a cold mist humidifier and adequate hydration at home.
+
+Patient Education & Understanding of the Plan:
+    The mother verbalized understanding of the treatment changes and emergency action plan. She is aware of the necessary steps to take if the child's symptoms worsen. Given educational materials regarding asthma management and trigger avoidance strategies.

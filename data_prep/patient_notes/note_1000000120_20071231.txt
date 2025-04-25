@@ -1,0 +1,36 @@
+Visit Information:
+- Patient Num: 1000000120
+- Visit Date: 12/31/2007
+
+This is a 34-year-old Hispanic male who has been receiving care at our clinic for approximately 9 years. He speaks English and presents today for a follow-up concerning his asthma and ongoing issues related to severe hand injuries.
+
+Subjective:
+The patient reports that his asthma remains stable with his current regimen of albuterol sulfate. He has a significant medical history of repetitive traumatic amputation of multiple digits of his right hand, which has necessitated multiple surgical interventions, including arthroplasty. He continues to experience persistent pain and decreased function in his right hand, adversely affecting his ability to perform his manual labor job.
+
+The patient continues to use ibuprofen for pain management but states the pain is exacerbated by his work. He reports no side effects from his asthma medication. He lives alone, does not smoke, and expresses frustration over the limitations his hand condition imposes on his daily activities.
+
+Objective:
+Vital signs today are as follows:
+- Blood Pressure: 120/78 mmHg
+- Heart Rate: 72 bpm
+- Respiratory Rate: 20 breaths per minute
+- Temperature: 98.6°F
+- Oxygen Saturation: 96% on room air
+
+The patient appears alert and cooperative during the examination but displays mild distress due to hand pain. Cardiovascular examination reveals no abnormalities, with a regular heart rate and rhythm and no murmurs, gallops, or rubs auscultated. Pulmonary examination uncovers clear lung sounds bilaterally, with no wheezes, rales, or rhonchi detected. Air entry is good, and there is no use of accessory muscles for breathing. The abdominal examination is unremarkable, showing a soft, non-tender, non-distended abdomen with normal bowel sounds.
+
+Musculoskeletal evaluation of the right hand reveals noticeable edema and tenderness at the site of the prior amputations. There are well-healed surgical scars without evidence of infection. The patient demonstrates a notably reduced range of motion in the affected fingers, accompanied by deformities consistent with previous traumatic injuries and surgeries. Neurological assessment indicates that cranial nerves II-XII are intact, but there is decreased motor strength and sensation distal to the injury in his right hand.
+
+Assessment:
+- The primary diagnosis remains asthma, unspecified without mention of status asthmaticus, which is well-controlled with the current treatment plan.
+- Secondary diagnoses include the traumatic amputation of several fingers on the right hand and subsequent corrective surgeries, which result in persistent pain and reduced functionality.
+ 
+Plan:
+1. Continue with albuterol sulfate as needed for asthma relief.
+2. Reinforce education on avoiding asthma triggers and adhering to the medication regimen.
+3. Continue ibuprofen for managing pain in the right hand.
+4. Refer to an orthopedic specialist to evaluate the surgical outcomes, potential need for further surgical intervention, and recommended physical therapy.
+5. Suggest occupational therapy to help the patient adapt his work tasks around his hand limitations.
+6. Instruct the patient to seek immediate medical attention if asthma symptoms worsen or if there are signs of infection in the hand.
+
+The patient is advised to contact the clinic if any symptoms worsen or fail to improve within a week or if further evaluation is deemed necessary based on test results. He has demonstrated an understanding of his treatment regimen and the importance of follow-up care. A follow-up visit is scheduled in two weeks to reassess his hand functionality and the management of his asthma.

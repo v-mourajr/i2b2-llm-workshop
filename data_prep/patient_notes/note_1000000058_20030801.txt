@@ -1,0 +1,73 @@
+**Visit Information:**
+- Patient Num: 1000000058
+- Visit Date: 08/01/2003
+
+**Subjective:**
+This is a 14-year-old Hispanic male who is a regular patient at our clinic. He and his family primarily speak Spanish. His mother reports that he has been experiencing increased asthma symptoms over the past week, including persistent coughing and shortness of breath, with notable severity during the nighttime. An associated mild fever noted three days ago has resolved without further significant symptoms. The family affirms there have been no new environmental changes or known exposures to allergens. They continue all prescribed medications, including an inhaled bronchodilator and a daily corticosteroid for his asthma. The patient has an extensive history of upper respiratory infections, unspecified allergies, epilepsy, and frequent episodes of otitis media. The mother is concerned about his persistent wheezing despite adherence to his medication regimen and the recent episodes of epilepsy, which remain manageable with the current anticonvulsant therapy.
+
+**Past Medical & Surgical History:**
+The patient's history includes chronic asthma, epilepsy without intractability, past surgical interventions for an inguinal hernia and varicocele. His medical history also involves recurrent fevers, impetigo, unspecified otitis media, and a hydrocele. Regular medical examinations have noted intermittent delays in expected physiological development.
+
+**Medications & Supplements:**
+Currently prescribed medications include:
+- Inhaled Albuterol as needed for asthma symptoms.
+- Daily inhaled corticosteroid for asthma control.
+- An anticonvulsant medication for epilepsy.
+
+**Social History:**
+The patient resides with his parents and younger sister in a non-smoking household. He attends school regularly but has occasionally missed days due to his medical conditions. His family is diligent about medication adherence and follow-up appointments.
+
+**Allergies:**
+No specific drug allergies were reported during this visit.
+
+**Symptom Details:**
+Recent increased nocturnal wheezing and persistent coughing have aggravated his breathing difficulties. The previously noted fever was mild, lasting only two days, without current symptoms of rash or skin eruptions.
+
+**Additional Narrative:**
+The family has employed non-pharmacological measures like maintaining a dust-free environment and using air purifiers, which have had minimal effect on symptom relief. The patient tolerates his medications well, experiencing only minor side effects such as occasional dizziness with his anticonvulsant therapy.
+
+**Objective:**
+- Vital Signs:
+  - Blood Pressure: 100/60 mmHg
+  - Heart Rate: 90 beats per minute
+  - Respiratory Rate: 22 breaths per minute
+  - Temperature: 37.2°C
+  - Oxygen Saturation: 97% on room air
+- General Appearance:
+  The patient appears slightly anxious but is well-nourished and hydrated, in no apparent distress.
+- Cardiovascular:
+  Regular heart rate and rhythm, no murmurs, rubs, or gallops.
+- Respiratory:
+  Mild wheezing heard bilaterally, no retractions, or use of accessory muscles.
+- Abdomen:
+  Soft, non-tender, no organomegaly. Surgical scars noted without signs of infection.
+- Musculoskeletal:
+  Normal tone and strength, no swelling or deformities.
+- Neurological:
+  Alert and oriented; normal reflexes; no focal deficits. Recent epilepsy episodes remain under control.
+- Skin:
+  No current rashes or lesions observed.
+
+**Assessment:**
+The patient is under management for chronic asthma and epilepsy, with an exacerbation of asthma noted. Despite treatment adherence, increased nocturnal symptoms are of concern. His recent fever has resolved without complications. The chronic history of various health issues, including allergies, epilepsy, and recurrent infections, continues to inform his treatment approach.
+
+**Plan:**
+1. **Asthma Exacerbation:**
+   - Increase the frequency of inhaled Bronchodilator usage as needed.
+   - Continue the daily inhaled corticosteroid and assess adherence.
+   - Schedule spirometry for the subsequent visit to evaluate lung function.
+   - Educate the family on recognizing symptoms of worsening asthma and ensuring proper inhaler usage.
+
+2. **Epilepsy Management:**
+   - Maintain the current anticonvulsant therapy, monitoring for adverse effects.
+   - Stress the importance of consistent medication adherence.
+
+3. **Preventive and Supportive Care:**
+   - Encourage routine follow-up appointments.
+   - Review and reinforce environmental control measures for asthma and allergies.
+   - Promote adequate hydration and a balanced diet to aid physiological development.
+   - Educate the family on immediate steps if symptoms deteriorate or if seizures become more frequent.
+
+**Follow-Up:**
+- Instruct the family to contact the clinic if the patient's respiratory symptoms worsen or do not improve within a week, or if test results suggest the need for further evaluation.
+- Provide comprehensive patient and family education on asthma and seizure management, ensuring that they understand and can adhere to the treatment plan.

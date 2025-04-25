@@ -1,0 +1,97 @@
+Patient: 1000000075  
+Visit Date: 12/17/1998  
+
+A 41-year-old Black female has been receiving care at our clinic for approximately 8 months. She speaks English. She presents today for a follow-up visit, her primary complaints being abdominal pain and recurring issues related to previously diagnosed ureteral calculus.
+
+### Subjective:
+
+Upon arrival today, the patient reports persistent and occasionally sharp abdominal pain, which she rates as 6 out of 10 in terms of severity. She notes that the episodes of pain have increased in frequency and have been accompanied by intermittent lower back pain. The patient recalls her history of ureteral calculus and is concerned that this may be contributing to her current symptoms.
+
+**Past Medical & Surgical History:**
+- Abdominal Pain
+- Calculus of Ureter
+- Neck Sprain
+- Previous unspecified injuries to her finger and head
+- Other specified disorders of the kidney and ureter
+
+She denies any surgical history.
+
+**Medications & Supplements:**
+She is currently taking an over-the-counter analgesic for pain management with moderate relief. She denies taking any herbal supplements.
+
+**Social History:**
+The patient is a nonsmoker and consumes alcohol occasionally. She works as a secretary and leads a relatively sedentary lifestyle. 
+
+**Allergies:**
+The patient reports no known drug allergies.
+
+**Symptom Details:**
+The abdominal pain began several weeks ago, with episodes lasting between 30 minutes to an hour. The pain is primarily located in the lower quadrant of the abdomen. It is described as cramping with moments of sharpness. The pain is aggravated by physical activity and partially relieved by rest and over-the-counter pain medication. Additionally, the patient has noted discomfort when urinating but denies experiencing any urinary frequency or hematuria.
+
+**Additional Narrative:**
+She reports trying warm compresses for relief of her abdominal pain, which provides temporary alleviation. No other non-pharmacological interventions have been attempted. She has not experienced any side effects from her current medications.
+
+### Objective:
+
+**Vital Signs:**
+- Blood Pressure: 130/85 mmHg
+- Heart Rate: 78 bpm
+- Respiratory Rate: 16 breaths per minute
+- Temperature: 98.4°F
+- Oxygen Saturation: 98% on room air
+
+**General Appearance:**
+The patient appears to be in mild distress due to pain but is alert and oriented. 
+
+**Cardiovascular:**
+Heart sounds are normal, regular rate, and rhythm with no murmurs, gallops, or rubs.
+
+**Respiratory:**
+Breath sounds are clear to auscultation bilaterally with no wheezes, rales, or ronchi. 
+
+**Abdomen:**
+The abdomen is soft with mild tenderness to palpation in the lower quadrants, no rebound tenderness, or guarding. Bowel sounds are present and normal in all quadrants.
+
+**Musculoskeletal:**
+Full range of motion in all extremities, no edema, or deformities noted. Tense muscles in the neck but no acute spasms.
+
+**Neurological:**
+Cranial nerves II-XII intact. Motor and sensory functions are normal, with no focal deficits observed.
+
+**Skin:**
+No rashes or lesions were observed.
+
+### Assessment:
+
+The clinical impression includes:
+- Abdominal Pain, possibly related to ureteral calculus or other renal complexities.
+- Persistent Calculus of Ureter, indicating a need for further diagnostic evaluation given the described urinary symptoms.
+- Neck Sprain, chronic in nature with periodic symptom exacerbation. Given recent reports of muscle tension, this may require reassessment.
+
+### Plan:
+
+**Issue/Problem/Request 1: Abdominal Pain**
+- Assessment: Abdominal pain likely secondary to ureteral calculus or other renal pathology.
+- Diagnostic Tests: Plan for an abdominal ultrasound and a repeat urinalysis.
+- Treatment Plan: Prescribe stronger analgesics for symptomatic relief. Encourage the patient to maintain adequate hydration.
+- Relevant Referrals: Refer to urology for further evaluation and management of renal complications.
+
+**Issue/Problem/Request 2: Ureteral Calculus**
+- Assessment: Persistent ureteral calculus potentially causing obstructive symptoms.
+- Diagnostic Tests: Abdominal ultrasound, renal function tests.
+- Treatment Plan: Monitor diet and fluid intake, and discuss potential interventions post urologic evaluation.
+- Relevant Referrals: As indicated above, referral pending urologist evaluation results.
+
+**Issue/Problem/Request 3: Chronic Neck Sprain**
+- Assessment: Chronic neck sprain with intermittent muscle spasms
+- Diagnostic Tests: None indicated at this time.
+- Treatment Plan: Recommend a regimen of physical therapy focusing on neck exercises and posture correction.
+- Relevant Referrals: None at this stage; review based on physical therapy response.
+
+### Follow-Up:
+
+The patient is advised to contact the clinic if symptoms worsen or do not improve within a week. An urgent follow-up will be scheduled post-diagnostic tests and any new symptoms. 
+
+Comprehensive patient education was provided regarding pain management, the importance of hydration, and the need for follow-up with the urologist promptly. The patient indicates understanding and agrees with the planned interventions. 
+
+Reevaluation will occur after the outlined diagnostic procedures are completed to assess progress and potentially refine the treatment plan further.

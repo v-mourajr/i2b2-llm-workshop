@@ -1,0 +1,72 @@
+### Visit Information:
+- Patient Num: 1000000084
+- Visit Date: 11/30/2004
+
+### Subjective:
+This is a 20-year-old Black male who has been receiving care at our clinic for approximately 1 year and 3 months, presenting today for a follow-up visit. The primary reason for today's visit is asthma management. The patient reports experiencing increased shortness of breath and wheezing over the past week, with notable difficulty breathing at night, indicative of nocturnal symptoms. He has had asthma exacerbations, each requiring the use of his albuterol inhaler more frequently but denies hospital admissions or emergency department visits for these symptoms in the past month.
+
+The patient has a history of asthma, including unspecified types with acute exacerbations and status asthmaticus. He also has dental issues, including disturbances in tooth eruption, malocclusion, and required surgical extractions. His current medications include Baci-Rx 100% powder, Droperidol 2.5 mg/ml solution, Midazolam Hydrochloride 1 mg/ml solution, and Thiopental Sodium 5gm powder. He reports compliance with his medications as prescribed. He also mentions experiencing occasional dry mouth, which he attributes to his inhaler use.
+
+Socially, the patient is a non-smoker and does not consume alcohol or recreational drugs. He lives with his parents and is currently not employed but is seeking job opportunities.
+
+He has no known drug allergies. He has tried non-pharmacological interventions such as breathing exercises and maintaining a clean living environment to reduce exposure to asthma triggers, which he finds somewhat helpful.
+
+### Objective:
+**Vital Signs:**
+- Blood Pressure: 120/80 mmHg
+- Heart Rate: 78 bpm
+- Respiratory Rate: 18 breaths per minute
+- Temperature: 98.6°F (37°C)
+- Oxygen Saturation: 96% on room air
+
+**General Appearance:**
+The patient appears well-nourished and in no acute distress.
+
+**Cardiovascular:**
+Heart sounds are normal with no murmurs, rubs, or gallops.
+
+**Respiratory:**
+Decreased breath sounds are noted bilaterally with expiratory wheezing. No use of accessory muscles or stridor is observed.
+
+**Abdomen:**
+Soft, non-tender, with normal bowel sounds. No hepatosplenomegaly.
+
+**Musculoskeletal:**
+Normal range of motion in all extremities. No swelling or deformities.
+
+**Neurological:**
+The patient is alert and oriented to person, place, and time. Cranial nerves II-XII are intact.
+
+**Skin:**
+No rashes or lesions are noted. Skin appears normal in color and texture.
+
+**Laboratory Findings:**
+- Routine blood tests including WBC, RBC, and HGB are within normal limits. 
+- Eosinophil count is slightly elevated, consistent with his asthma diagnosis.
+- Other tests such as Blood Urea Nitrogen (BUN), Creatinine, and electrolytes (Sodium, Potassium) are within normal ranges.
+
+### Assessment:
+**Diagnosis:**
+1. Asthma, unspecified type, with acute exacerbation.
+2. Asthma, unspecified type, with status asthmaticus.
+3. Chronic unspecified asthma without mention of status asthmaticus.
+4. Dental issues including disturbances in tooth eruption and malocclusion.
+
+### Plan:
+1. **Asthma Management:**
+     - Continue current medication regimen: Albuterol inhaler as needed, and Baci-Rx powder daily.
+     - Add an inhaled corticosteroid (e.g., Fluticasone) for better control of symptoms.
+     - Patient instructed on proper inhaler use and to avoid known asthma triggers.
+     - Monitor peak flow readings daily to track control of asthma.
+     - Follow up in 1 month or sooner if symptoms worsen.
+
+2. **Dental Follow-up:**
+     - Referral to a dental specialist for ongoing management of dental issues.
+     - Patient advised to maintain good oral hygiene.
+
+3. **Further Diagnostic Tests:**
+     - Pulmonary function tests to assess the severity and control of the asthma.
+     - Repeat eosinophil count to monitor for any significant changes related to his asthma.
+
+### Follow-Up:
+Instruct patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. Educate the patient about the importance of adherence to the treatment plan and monitoring symptoms to prevent severe exacerbations.

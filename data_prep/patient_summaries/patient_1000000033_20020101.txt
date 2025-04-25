@@ -1,0 +1,101 @@
+demographics
+patient_num: 1000000033  age: 21
+patient_num: 1000000033  sex: M
+patient_num: 1000000033  race: asian
+patient_num: 1000000033  language: spanish
+patient_num: 1000000033  vital_status: alive
+patient_num: 1000000033  earliest fact: Jun 16 1997 12:00AM
+patient_num: 1000000033  latest fact: Jan  1 2002 12:00AM
+patient_num: 1000000033  range in days: 1660
+totals
+patient_num: 1000000033  distinct concepts: 93
+patient_num: 1000000033  total facts: 330
+patient_num: 1000000033  total encounters: 44
+patient_num: 1000000033  total asthma: 5
+descriptive
+patient_num: 1000000033  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 5
+patient_num: 1000000033  asthma code: ICD9:493.00  name: Extrinsic asthma without mention of status asthmaticus  count: 1
+patient_num: 1000000033  diagnosis code: ICD9:789.0  name: Abdominal pain  count: 1
+patient_num: 1000000033  diagnosis code: ICD9:462  name: Acute pharyngitis  count: 2
+patient_num: 1000000033  diagnosis code: ICD9:995.3  name: Allergy, unspecified, not elsewhere classified  count: 1
+patient_num: 1000000033  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 5
+patient_num: 1000000033  diagnosis code: ICD9:216.2  name: Benign neoplasm of ear and external auditory canal  count: 1
+patient_num: 1000000033  diagnosis code: ICD9:216.9  name: Benign neoplasm of skin, site unspecified  count: 1
+patient_num: 1000000033  diagnosis code: ICD9:V01.1  name: Contact with or exposure to tuberculosis  count: 1
+patient_num: 1000000033  diagnosis code: ICD9:924.10  name: Contusion of lower leg  count: 2
+patient_num: 1000000033  diagnosis code: ICD9:836.3  name: Dislocation of patella, closed  count: 4
+patient_num: 1000000033  diagnosis code: ICD9:493.00  name: Extrinsic asthma without mention of status asthmaticus  count: 1
+patient_num: 1000000033  diagnosis code: ICD9:684  name: Impetigo  count: 1
+patient_num: 1000000033  diagnosis code: ICD9:706.1  name: Other acne  count: 1
+patient_num: 1000000033  diagnosis code: ICD9:959.7  name: Other and unspecified injury to knee, leg, ankle, and foot  count: 1
+patient_num: 1000000033  diagnosis code: ICD9:959.1  name: Other and unspecified injury to trunk  count: 1
+patient_num: 1000000033  diagnosis code: ICD9:786.09  name: Other dyspnea and respiratory abnormality  count: 1
+patient_num: 1000000033  diagnosis code: ICD9:719.46  name: Pain in joint involving lower leg  count: 2
+patient_num: 1000000033  diagnosis code: ICD9:V70.0  name: Routine general medical examination at a health care facility  count: 3
+patient_num: 1000000033  diagnosis code: ICD9:V20.2  name: Routine infant or child health check  count: 6
+patient_num: 1000000033  diagnosis code: ICD9:844.9  name: Sprain of unspecified site of knee and leg  count: 3
+patient_num: 1000000033  diagnosis code: ICD9:401.9  name: Unspecified essential hypertension  count: 1
+patient_num: 1000000033  diagnosis code: ICD9:473.9  name: Unspecified sinusitis (chronic)  count: 1
+patient_num: 1000000033  diagnosis code: ICD9:079.99  name: Unspecified viral infection in conditions classified elsewhere and of unspecified site  count: 1
+patient_num: 1000000033  laboratory code: LOINC:1751-7  name: Albumin (Group:ALB)  count: 1
+patient_num: 1000000033  laboratory code: LOINC:1742-6  name: ALT (SGPT) (Group:SGPT)  count: 1
+patient_num: 1000000033  laboratory code: LOINC:1798-8  name: Amylase (Group:AMY)  count: 1
+patient_num: 1000000033  laboratory code: LOINC:1920-8  name: AST (SGOT) (Group:SGOT)  count: 1
+patient_num: 1000000033  laboratory code: LOINC:5769-5  name: Bacteria (Group:UAS-BACT)  count: 1
+patient_num: 1000000033  laboratory code: LOINC:707-0  name: Basophils - Manual (Group:BASO)  count: 2
+patient_num: 1000000033  laboratory code: LOINC:5770-3  name: Bilirubin (Group:UA-BILI)  count: 3
+patient_num: 1000000033  laboratory code: LOINC:3094-0  name: Blood Urea Nitrogen (Group:BUN)  count: 1
+patient_num: 1000000033  laboratory code: LOINC:2000-8  name: Calcium (Group:CA)  count: 1
+patient_num: 1000000033  laboratory code: LOINC:2028-9  name: Carbon Dioxide (Group:CO2)  count: 1
+patient_num: 1000000033  laboratory code: LOINC:2075-0  name: Chloride (Group:CL)  count: 1
+patient_num: 1000000033  laboratory code: LOINC:2093-3  name: Cholesterol (Group:CHOL)  count: 1
+patient_num: 1000000033  laboratory code: LOINC:6773-6  name: CK-MB QUANT (Group:CPK-MB)  count: 1
+patient_num: 1000000033  laboratory code: LOINC:5778-6  name: Color (Group:UA-COLOR)  count: 3
+patient_num: 1000000033  laboratory code: LOINC:2157-6  name: CPK (Group:CPK)  count: 2
+patient_num: 1000000033  laboratory code: LOINC:2160-0  name: Creatinine (Group:CRE)  count: 1
+patient_num: 1000000033  laboratory code: LOINC:X4005-4  name: Crystals (Group:UAS-CRYS)  count: 1
+patient_num: 1000000033  laboratory code: LOINC:714-6  name: Eosinophils - Manual (Group:EO)  count: 3
+patient_num: 1000000033  laboratory code: LOINC:4537-7  name: ESR (Group:ESR)  count: 4
+patient_num: 1000000033  laboratory code: LOINC:2336-6  name: Globulin (Group:GLOB)  count: 1
+patient_num: 1000000033  laboratory code: LOINC:6777-7  name: Glucose (Group:GLU)  count: 1
+patient_num: 1000000033  laboratory code: LOINC:5792-7  name: Glucose - UA (Group:UA-GLUC)  count: 3
+patient_num: 1000000033  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 4
+patient_num: 1000000033  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 3
+patient_num: 1000000033  laboratory code: LOINC:5797-6  name: Ketones (Group:UA-KET)  count: 3
+patient_num: 1000000033  laboratory code: LOINC:2532-0  name: LDH (Group:LDH)  count: 2
+patient_num: 1000000033  laboratory code: LOINC:736-9  name: Lymphocytes - Auto (Group:LYMPHS)  count: 2
+patient_num: 1000000033  laboratory code: LOINC:737-7  name: Lymphocytes - Manual (Group:LYMPH)  count: 2
+patient_num: 1000000033  laboratory code: LOINC:11554-3  name: Magnesium (Group:MG)  count: 1
+patient_num: 1000000033  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 4
+patient_num: 1000000033  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 3
+patient_num: 1000000033  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 3
+patient_num: 1000000033  laboratory code: LOINC:5905-5  name: Monocytes - Auto (Group:MONOS)  count: 3
+patient_num: 1000000033  laboratory code: LOINC:744-3  name: Monocytes - Manual (Group:MONO)  count: 2
+patient_num: 1000000033  laboratory code: LOINC:770-8  name: Neutrophils - Auto (Group:POLYS)  count: 3
+patient_num: 1000000033  laboratory code: LOINC:769-0  name: Neutrophils - Manual (Group:POLY)  count: 2
+patient_num: 1000000033  laboratory code: LOINC:5802-4  name: Nitrites (Group:UA-NIT)  count: 3
+patient_num: 1000000033  laboratory code: LOINC:5794-3  name: Occult Blood (Group:UA-BLD)  count: 3
+patient_num: 1000000033  laboratory code: LOINC:5803-2  name: PH (Group:UA-PH)  count: 3
+patient_num: 1000000033  laboratory code: LOINC:2777-1  name: Phosphorus (Group:PHOS)  count: 1
+patient_num: 1000000033  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 4
+patient_num: 1000000033  laboratory code: LOINC:9317-9  name: PLT Estimate (Group:PLTEST)  count: 3
+patient_num: 1000000033  laboratory code: LOINC:2823-3  name: Potassium (Group:K)  count: 1
+patient_num: 1000000033  laboratory code: LOINC:5804-0  name: Protein (Group:UA-ALB)  count: 3
+patient_num: 1000000033  laboratory code: LOINC:5902-2  name: PT (Group:PT)  count: 1
+patient_num: 1000000033  laboratory code: LOINC:5898-2  name: PTT (Group:PTT)  count: 1
+patient_num: 1000000033  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 3
+patient_num: 1000000033  laboratory code: LOINC:5808-1  name: RBC - Urine Sed (Group:UAS-RBC)  count: 1
+patient_num: 1000000033  laboratory code: LOINC:6742-1  name: RBC Morph Manual (Group:RCM-M)  count: 4
+patient_num: 1000000033  laboratory code: LOINC:2951-2  name: Sodium (Group:NA)  count: 1
+patient_num: 1000000033  laboratory code: LOINC:5811-5  name: Specific Gravity (Group:UA-SPGR)  count: 3
+patient_num: 1000000033  laboratory code: LOINC:2885-2  name: Total Protein (Group:TP)  count: 1
+patient_num: 1000000033  laboratory code: LOINC:5767-9  name: Turbidity (Group:UA-TURB)  count: 3
+patient_num: 1000000033  laboratory code: LOINC:3084-1  name: Uric Acid (Group:URIC)  count: 1
+patient_num: 1000000033  laboratory code: LOINC:2004-0  name: Urine Calcium (Group:UCA)  count: 1
+patient_num: 1000000033  laboratory code: LOINC:2161-8  name: Urine Creatinine (Group:UCRE)  count: 2
+patient_num: 1000000033  laboratory code: LOINC:2888-6  name: Urine Total Protein (Group:UTP)  count: 2
+patient_num: 1000000033  laboratory code: LOINC:5818-0  name: Urobilinogen (Group:UA-UROBI)  count: 3
+patient_num: 1000000033  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 3
+patient_num: 1000000033  laboratory code: LOINC:5821-4  name: WBC - Urine Sed (Group:UAS-WBC)  count: 1
+patient_num: 1000000033  laboratory code: LOINC:11156-7  name: WBC Comments (Group:W-COM)  count: 1
+patient_num: 1000000033  laboratory code: LOINC:5799-2  name: WBC Screen (Group:UA-WBC)  count: 3

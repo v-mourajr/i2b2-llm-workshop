@@ -1,0 +1,31 @@
+demographics
+patient_num: 1000000067  age: 23
+patient_num: 1000000067  sex: F
+patient_num: 1000000067  race: black
+patient_num: 1000000067  language: english
+patient_num: 1000000067  vital_status: alive
+patient_num: 1000000067  earliest fact: Jul 31 2000 12:00AM
+patient_num: 1000000067  latest fact: Sep 29 2004 12:00AM
+patient_num: 1000000067  range in days: 1521
+totals
+patient_num: 1000000067  distinct concepts: 24
+patient_num: 1000000067  total facts: 50
+patient_num: 1000000067  total encounters: 19
+patient_num: 1000000067  total asthma: 3
+descriptive
+patient_num: 1000000067  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 3
+patient_num: 1000000067  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 3
+patient_num: 1000000067  diagnosis code: ICD9:490  name: Bronchitis, not specified as acute or chronic  count: 2
+patient_num: 1000000067  diagnosis code: ICD9:786.2  name: Cough  count: 5
+patient_num: 1000000067  diagnosis code: ICD9:V25.9  name: Encounter for unspecified contraceptive management  count: 2
+patient_num: 1000000067  diagnosis code: ICD9:795.0  name: Nonspecific abnormal Papanicolaou smear of cervix  count: 1
+patient_num: 1000000067  diagnosis code: ICD9:706.1  name: Other acne  count: 2
+patient_num: 1000000067  diagnosis code: ICD9:V15.89  name: Other specified personal history presenting hazards to health  count: 2
+patient_num: 1000000067  diagnosis code: ICD9:786.9  name: Other symptoms involving respiratory system and chest  count: 1
+patient_num: 1000000067  diagnosis code: ICD9:754.81  name: Pectus excavatum  count: 1
+patient_num: 1000000067  diagnosis code: ICD9:V70.0  name: Routine general medical examination at a health care facility  count: 1
+patient_num: 1000000067  diagnosis code: ICD9:V20.2  name: Routine infant or child health check  count: 1
+patient_num: 1000000067  diagnosis code: ICD9:V76.2  name: Screening for malignant neoplasms of the cervix  count: 1
+patient_num: 1000000067  diagnosis code: ICD9:V72.3  name: Special investigations and examinations  count: 1
+patient_num: 1000000067  diagnosis code: ICD9:717.9  name: Unspecified internal derangement of knee  count: 7
+patient_num: 1000000067  diagnosis code: ICD9:079.99  name: Unspecified viral infection in conditions classified elsewhere and of unspecified site  count: 2

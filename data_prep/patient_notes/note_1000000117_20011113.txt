@@ -1,0 +1,59 @@
+Visit Information:
+- Patient Num: 1000000117
+- Visit Date: Nov 13, 2001
+
+This is a 5-year-old Indian male who has been under the care of our clinic for a total of 266 days, presenting today for a follow-up regarding his ongoing health issues.
+
+Subjective:
+The patient’s mother reports that he has been experiencing intermittent itching and rashes on his skin, which she attributes to contact dermatitis with an unknown cause. He also presents for his routine child health check. Currently, he is not exhibiting any acute distress and has been following dietary recommendations provided earlier. There are no new complaints about food intake or gastrointestinal symptoms.
+
+His past medical history is significant for contact dermatitis and eczema, a recent circumcision, and ongoing dietary surveillance and counseling. There have been no previous surgeries apart from the circumcision.
+
+He is currently not on any medications nor taking any supplements. His mother confirms that he received a vaccination recently, although she could not specify which one, and he has no known allergies. The patient’s lifestyle includes attending daycare regularly, playing outdoor games, and consuming home-cooked meals.
+
+Symptomatically, he experiences the skin rashes primarily on exposed areas such as his arms and lower legs, with episodes varying in intensity. The rashes do not have a consistent pattern in terms of onset or duration. The mother notes that topical application of emollients has been helpful in managing the rash severity.
+
+Objective:
+- Vital Signs:
+    - Blood Pressure: 95/60 mmHg
+    - Heart Rate: 100 bpm
+    - Respiratory Rate: 20 breaths/min
+    - Temperature: 98.4°F
+    - Oxygen Saturation: 98% on room air
+
+- General Appearance: Well-nourished, alert, and active child in no acute distress.
+- Cardiovascular: Heart sounds S1, S2 heard, no murmurs, with regular rhythm.
+- Respiratory: Clear to auscultation bilaterally, no wheezes, rales, or rhonchi.
+- Abdomen: Soft, non-tender, no organomegaly, normal bowel sounds.
+- Musculoskeletal: Full range of motion in all joints, no deformities or tenderness.
+- Neurological: Alert, oriented, cranial nerves grossly intact, age-appropriate reflexes.
+- Skin: Several erythematous, scaly patches present on the forearms and legs, no signs of secondary infection. 
+
+Assessment:
+1. Likely Diagnosis: Contact Dermatitis and Other Eczema
+   - Child’s recurrent skin rashes are consistent with a diagnosis of non-specific contact dermatitis and eczema.
+   
+2. Routine Infant or Child Health Check
+   - Standard well-child guidelines dictate monitoring growth parameters and routine vaccinations.
+   
+3. Follow-up on Dietary Surveillance and Counseling
+   - Importance of maintaining a balanced diet with adequate nutrition as per prior instructions was emphasized.
+
+Plan:
+1. Contact Dermatitis and Eczema:
+   - Continue with the application of emollients two to three times a day.
+   - Prescribe a low-potency topical steroid to be used during flare-ups.
+   - Consider referring to a pediatric dermatologist if symptoms persist without improvement.
+
+2. Routine Health Check:
+   - Confirm with mother the vaccination status and schedule any outstanding immunizations.
+   - Educational information on safe practices to avoid potential allergens and skin irritants was provided.
+
+3. Dietary Surveillance:
+   - Discuss and reinforce dietary counseling. 
+   - Recommend a follow-up appointment with a dietitian to monitor compliance and adapt dietary plans as needed.
+
+Follow-Up:
+Instruct the patient’s mother to contact the clinic if the rash worsens or fails to improve within a week, or if new symptoms arise. A follow-up appointment is scheduled in one month to reassess the skin condition and review dietary progress. The mother demonstrates an understanding of the planned care and management.
+
+This comprehensive and structured follow-up aims to address ongoing challenges and ensure the patient’s continuous well-being and development.

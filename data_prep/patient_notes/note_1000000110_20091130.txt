@@ -1,0 +1,80 @@
+**Visit Information:**
+- **Patient Num:** 1000000110
+- **Visit Date:** 11/30/2009
+
+---
+
+**Subjective:**
+
+This is a 39-year-old Hispanic male, fluent in German, who has been under our clinic's care since April 2001, presenting today for a follow-up visit related to his primary diagnosis of chronic asthma. The patient reports an increased frequency of asthma attacks, particularly nocturnal, over the last few weeks. Despite regular use of his short-acting beta-agonist inhaler, he notes a significant decrease in its effectiveness and has experienced mild palpitations, likely as a side effect. Additionally, he experienced an episode of abdominal pain localized to the left lower quadrant a few days ago, which resolved spontaneously and has not recurred.
+
+The patient remains compliant with his current asthma medication, which includes Combivent and Prednisone during acute episodes. He also regularly takes Ibuprofen for occasional back pain and Vitamin B-50 as a dietary supplement. Non-pharmacological measures such as steam inhalation have provided minimal relief. He denies any recent upper respiratory infections or hospitalizations due to asthma exacerbations in the past year.
+
+Socially, the patient is a non-smoker, abstains from alcohol, and works in an office environment with no known exposure to respiratory irritants. He has no known allergies.
+
+---
+
+**Objective:**
+
+- **Vital Signs:** 
+  - Blood Pressure: 122/78 mmHg
+  - Heart Rate: 88 bpm
+  - Respiratory Rate: 20 breaths per minute
+  - Temperature: 98.7°F
+  - Oxygen Saturation: 97% on room air
+
+- **General Appearance:** 
+  - The patient appears well-nourished and in no acute distress.
+
+- **Cardiovascular:** 
+  - Regular rate and rhythm, no murmurs, gallops, or rubs.
+
+- **Respiratory:** 
+  - Bilateral expiratory wheezes noted, particularly at the bases. No rales or crackles. No use of accessory muscles.
+
+- **Abdomen:** 
+  - Soft, non-tender, with normal bowel sounds and no organomegaly.
+
+- **Musculoskeletal:** 
+  - Full range of motion in all joints without tenderness or swelling.
+
+- **Neurological:** 
+  - Alert and oriented × 3. Cranial nerves II-XII intact. Normal motor strength and tone. Reflexes 2+ and symmetric.
+
+- **Skin:** 
+  - Multiple small non-tender hemangiomas on the upper arms and trunk.
+
+---
+
+**Assessment:**
+
+1. **Asthma:** 
+   - Uncontrolled chronic asthma characterized by increased nocturnal symptoms and diminished efficacy of the short-acting beta-agonist inhaler.
+
+2. **Abdominal Pain (Left Lower Quadrant):**
+   - Likely non-specific and resolved spontaneously; currently not a concerning issue.
+
+3. **Cardiac Symptoms:**
+   - Palpitations potentially due to overuse of short-acting beta-agonist inhaler.
+
+---
+
+**Plan:**
+
+1. **Asthma:**
+   - Initiate treatment with a combined inhaled corticosteroid and long-acting beta-agonist (ICS/LABA) therapy to improve overall and nocturnal asthma control.
+   - Educate the patient on the use of a peak flow meter for regular monitoring of asthma symptoms.
+   - Refer the patient to a pulmonologist for further evaluation and long-term asthma management.
+
+2. **Abdominal Pain (Left Lower Quadrant):**
+   - Continue to monitor symptoms. If the pain recurs or other symptoms develop, initiate further evaluation, including potential abdominal imaging or gastroenterological referral.
+
+3. **Cardiac Symptoms:**
+   - Conduct an ECG to rule out arrhythmias linked to beta-agonist inhaler use.
+   - Advise the patient on the importance of adhering to the recommended inhaler dosage to prevent overuse.
+
+---
+
+**Follow-Up:**
+
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate the need for further evaluation. Schedule a follow-up appointment in two weeks to reassess asthma control and review the ECG results. Comprehensive patient education was provided regarding adherence to the new medication regimen and correct use of the peak flow meter. Ensure the patient's understanding and agreement with the follow-up plan before discharge.

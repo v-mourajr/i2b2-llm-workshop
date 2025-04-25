@@ -1,0 +1,88 @@
+demographics
+patient_num: 1000000113  age: 7
+patient_num: 1000000113  sex: F
+patient_num: 1000000113  race: asian
+patient_num: 1000000113  language: english
+patient_num: 1000000113  vital_status: alive
+patient_num: 1000000113  earliest fact: Jun  4 2001 12:00AM
+patient_num: 1000000113  latest fact: Nov 24 2004 12:00AM
+patient_num: 1000000113  range in days: 1269
+totals
+patient_num: 1000000113  distinct concepts: 82
+patient_num: 1000000113  total facts: 251
+patient_num: 1000000113  total encounters: 33
+patient_num: 1000000113  total asthma: 5
+descriptive
+patient_num: 1000000113  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 6
+patient_num: 1000000113  diagnosis code: ICD9:789.07  name: Abdominal pain, generalized  count: 1
+patient_num: 1000000113  diagnosis code: ICD9:466.11  name: Acute bronchiolitis due to respiratory syncytial virus (RSV)  count: 1
+patient_num: 1000000113  diagnosis code: ICD9:465.9  name: Acute upper respiratory infections of unspecified site  count: 1
+patient_num: 1000000113  diagnosis code: ICD9:309.28  name: Adjustment reaction with mixed emotional features  count: 1
+patient_num: 1000000113  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 6
+patient_num: 1000000113  diagnosis code: ICD9:372.30  name: Conjunctivitis, unspecified  count: 1
+patient_num: 1000000113  diagnosis code: ICD9:786.2  name: Cough  count: 1
+patient_num: 1000000113  diagnosis code: ICD9:780.6  name: Fever  count: 2
+patient_num: 1000000113  diagnosis code: ICD9:V70.0  name: Routine general medical examination at a health care facility  count: 3
+patient_num: 1000000113  diagnosis code: ICD9:V20.2  name: Routine infant or child health check  count: 2
+patient_num: 1000000113  diagnosis code: ICD9:755.60  name: Unspecified congenital anomaly of lower limb  count: 2
+patient_num: 1000000113  diagnosis code: ICD9:269.9  name: Unspecified nutritional deficiency  count: 1
+patient_num: 1000000113  diagnosis code: ICD9:382.9  name: Unspecified otitis media  count: 5
+patient_num: 1000000113  diagnosis code: ICD9:079.99  name: Unspecified viral infection in conditions classified elsewhere and of unspecified site  count: 2
+patient_num: 1000000113  diagnosis code: ICD9:599.0  name: Urinary tract infection, site not specified  count: 1
+patient_num: 1000000113  diagnosis code: ICD9:786.07  name: Wheezing  count: 1
+patient_num: 1000000113  medication code: NDC:00597008214  name: Atrovent 18 mcg/inh aerosol Boehringer-Ingelheim  count: 4
+patient_num: 1000000113  laboratory code: LOINC:763-3  name: Abs Bands Manual (Group:ABANDS)  count: 1
+patient_num: 1000000113  laboratory code: LOINC:26444-0  name: Abs Basos (Group:ABASOP)  count: 1
+patient_num: 1000000113  laboratory code: LOINC:26449-9  name: Abs Eos (Group:AEOSN)  count: 1
+patient_num: 1000000113  laboratory code: LOINC:26474-7  name: Abs Lymphs (Group:ALYMP)  count: 1
+patient_num: 1000000113  laboratory code: LOINC:26484-6  name: Abs Monos (Group:AMONS)  count: 1
+patient_num: 1000000113  laboratory code: LOINC:26499-4  name: Abs Neuts (Group:ANEU)  count: 1
+patient_num: 1000000113  laboratory code: LOINC:1751-7  name: Albumin (Group:ALB)  count: 1
+patient_num: 1000000113  laboratory code: LOINC:1742-6  name: ALT (SGPT) (Group:SGPT)  count: 1
+patient_num: 1000000113  laboratory code: LOINC:1920-8  name: AST (SGOT) (Group:SGOT)  count: 1
+patient_num: 1000000113  laboratory code: LOINC:735-1  name: Atypical Lymphs (Group:ATYPS)  count: 1
+patient_num: 1000000113  laboratory code: LOINC:5769-5  name: Bacteria (Group:UAS-BACT)  count: 1
+patient_num: 1000000113  laboratory code: LOINC:764-1  name: Bands - Manual (Group:BAND)  count: 1
+patient_num: 1000000113  laboratory code: LOINC:5770-3  name: Bilirubin (Group:UA-BILI)  count: 2
+patient_num: 1000000113  laboratory code: LOINC:11278-9  name: Bladder Cells (Group:UAS-BLAD)  count: 1
+patient_num: 1000000113  laboratory code: LOINC:3094-0  name: Blood Urea Nitrogen (Group:BUN)  count: 1
+patient_num: 1000000113  laboratory code: LOINC:2028-9  name: Carbon Dioxide (Group:CO2)  count: 1
+patient_num: 1000000113  laboratory code: LOINC:2075-0  name: Chloride (Group:CL)  count: 1
+patient_num: 1000000113  laboratory code: LOINC:5778-6  name: Color (Group:UA-COLOR)  count: 2
+patient_num: 1000000113  laboratory code: LOINC:2160-0  name: Creatinine (Group:CRE)  count: 1
+patient_num: 1000000113  laboratory code: LOINC:X2012-1  name: Differential Request (Group:DIFFR)  count: 1
+patient_num: 1000000113  laboratory code: LOINC:1968-7  name: Direct Bilirubin (Group:DBILI)  count: 2
+patient_num: 1000000113  laboratory code: LOINC:6777-7  name: Glucose (Group:GLU)  count: 1
+patient_num: 1000000113  laboratory code: LOINC:5792-7  name: Glucose - UA (Group:UA-GLUC)  count: 2
+patient_num: 1000000113  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 2
+patient_num: 1000000113  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 2
+patient_num: 1000000113  laboratory code: LOINC:728-6  name: Hypochromia (Group:HYPO)  count: 1
+patient_num: 1000000113  laboratory code: LOINC:5797-6  name: Ketones (Group:UA-KET)  count: 2
+patient_num: 1000000113  laboratory code: LOINC:26478-8  name: Lymphocytes (Group:LYMP)  count: 1
+patient_num: 1000000113  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 2
+patient_num: 1000000113  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 2
+patient_num: 1000000113  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 2
+patient_num: 1000000113  laboratory code: LOINC:740-1  name: Metamyelocytes - Manual (Group:META)  count: 1
+patient_num: 1000000113  laboratory code: LOINC:4545-0  name: MHCT (Group:MHCT)  count: 5
+patient_num: 1000000113  laboratory code: LOINC:741-9  name: Microcytes (Group:MICROC)  count: 1
+patient_num: 1000000113  laboratory code: LOINC:26485-3  name: Monocytes (Group:MON)  count: 1
+patient_num: 1000000113  laboratory code: LOINC:26511-6  name: Neutrophils (Group:NEUT)  count: 1
+patient_num: 1000000113  laboratory code: LOINC:5802-4  name: Nitrites (Group:UA-NIT)  count: 2
+patient_num: 1000000113  laboratory code: LOINC:5794-3  name: Occult Blood (Group:UA-BLD)  count: 2
+patient_num: 1000000113  laboratory code: LOINC:5803-2  name: PH (Group:UA-PH)  count: 2
+patient_num: 1000000113  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 2
+patient_num: 1000000113  laboratory code: LOINC:2823-3  name: Potassium (Group:K)  count: 1
+patient_num: 1000000113  laboratory code: LOINC:5804-0  name: Protein (Group:UA-ALB)  count: 2
+patient_num: 1000000113  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 2
+patient_num: 1000000113  laboratory code: LOINC:5808-1  name: RBC - Urine Sed (Group:UAS-RBC)  count: 1
+patient_num: 1000000113  laboratory code: LOINC:6742-1  name: RBC Morph Manual (Group:RCM-M)  count: 1
+patient_num: 1000000113  laboratory code: LOINC:788-0  name: RDW (Group:RDW)  count: 2
+patient_num: 1000000113  laboratory code: LOINC:2951-2  name: Sodium (Group:NA)  count: 1
+patient_num: 1000000113  laboratory code: LOINC:5811-5  name: Specific Gravity (Group:UA-SPGR)  count: 2
+patient_num: 1000000113  laboratory code: LOINC:1975-2  name: Total Bilirubin (Group:TBILI)  count: 2
+patient_num: 1000000113  laboratory code: LOINC:2885-2  name: Total Protein (Group:TP)  count: 1
+patient_num: 1000000113  laboratory code: LOINC:5767-9  name: Turbidity (Group:UA-TURB)  count: 2
+patient_num: 1000000113  laboratory code: LOINC:5818-0  name: Urobilinogen (Group:UA-UROBI)  count: 2
+patient_num: 1000000113  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 2
+patient_num: 1000000113  laboratory code: LOINC:5821-4  name: WBC - Urine Sed (Group:UAS-WBC)  count: 1
+patient_num: 1000000113  laboratory code: LOINC:5799-2  name: WBC Screen (Group:UA-WBC)  count: 2

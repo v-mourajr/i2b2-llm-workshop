@@ -1,0 +1,65 @@
+**Visit Information:**
+- Patient Number: 1000000068
+- Visit Date: March 4, 2009
+
+**Subjective:**
+This is a 31-year-old Black female who has been receiving care at our clinic for approximately eight years. She presents today for a follow-up appointment due to persistent knee issues, as well as other health concerns. Her primary complaint remains the chronic pain and recurrent dislocations of her left knee. Despite undergoing a patellar stabilization procedure and consistently attending physical therapy sessions, she experiences significant discomfort and instability in the knee. The patient describes the pain as sharp and localized around the patella, which intensifies with prolonged walking or when wearing high-heeled shoes. She manages to partially alleviate the symptoms with NSAIDs and rest.
+
+Her medical history is significant for several musculoskeletal issues, including the removal of a fixation device from her tibia, recurrent dislocation of the lower leg joint, osteochondritis dissecans, and congenital lower limb anomalies. Additionally, she has a history of abnormal weight gain and allergic rhinitis.
+
+The patient’s social history reveals that she does not smoke or use illicit drugs. She drinks alcohol socially and works a sedentary job, which limits her physical activity during work hours. Outside of work, she engages in light physical activities to help manage her knee symptoms. She has a known allergy to penicillin, which causes a rash and hives.
+
+Currently, she is on the following medications: Accutane for acne, which has caused mild skin dryness; Claritin for allergic rhinitis, which is effectively controlled; Cefazolin Sodium for post-surgical infection management; Clindamycin as an additional antibiotic; Desquam-X gel for acne treatment, which has been effective; and Tretinoin cream, which has improved her skin condition considerably.
+
+**Objective:**
+- **Vital Signs:**
+  - Blood Pressure: 118/76 mmHg
+  - Heart Rate: 72 bpm
+  - Respiratory Rate: 16 breaths/min
+  - Temperature: 98.6°F
+  - Oxygen Saturation: 98% on room air
+
+- **General Appearance:**
+The patient appeared alert, oriented, and in no acute distress. There was a noticeable mild limp on the left side during ambulation.
+
+- **Cardiovascular:**
+Cardiac examination was unremarkable with a regular rate and rhythm. There were no murmurs, gallops, or rubs detected. Peripheral pulses were strong and symmetric.
+
+- **Respiratory:**
+Lung auscultation revealed clear breath sounds bilaterally, with no wheezes, rales, or rhonchi.
+
+- **Abdomen:**
+The abdomen was non-distended and soft, with normal bowel sounds. There was no tenderness, masses, or hepatosplenomegaly.
+
+- **Musculoskeletal:**
+The left knee examination revealed mild swelling and tenderness around the patella and the joint line. Positive varus and valgus stress tests indicated instability. Range of motion was decreased, and pain was elicited on both active and passive movements. No joint laxity was observed in the other extremities.
+
+- **Neurological:**
+Cranial nerves II through XII were intact. Strength was 5/5 in both upper and lower extremities bilaterally. Sensation to light touch and proprioception were normal, and deep tendon reflexes were 2+ and symmetric.
+
+- **Skin:**
+The skin examination noted a well-healed surgical scar on the left knee with no signs of infection. The patient’s skin was otherwise clear, with no rashes, lesions, or new neoplasms.
+
+Recent laboratory findings showed amorphous crystals and bacteria in the urine, raising concerns about possible renal or urinary issues. Hematologic parameters, including hemoglobin, hematocrit, and platelet counts, were within normal limits.
+
+**Assessment:**
+1. **Recurrent Dislocation of the Left Knee:** The chronic instability appears to be a result of congenital limb anomalies and previous injuries, requiring ongoing management.
+2. **Chronic Joint Pain:** Likely stemming from osteochondritis dissecans and post-surgical changes.
+3. **Post-Operative Follow-Up:** Continued monitoring of the patient's status following the patellar stabilization procedure.
+
+**Plan:**
+1. **Recurrent Dislocation:**
+   - Continue the intensive physical therapy regimen, focusing on knee stabilization.
+   - Refer the patient to an orthopedic specialist for a comprehensive evaluation, including advanced imaging if necessary, and consideration of further surgical options.
+
+2. **Chronic Joint Pain:**
+   - Continue NSAIDs for pain management, supplementing with acetaminophen as needed.
+   - Adjust physical therapy exercises to optimize pain relief while maintaining mobility.
+   - Schedule a follow-up appointment in 6 weeks to monitor the patient’s progress and adjust the treatment plan as necessary.
+
+3. **Post-Surgical Care:**
+   - Continue the course of Cefazolin and observe for signs of infection at the surgical site.
+   - Advise the patient to monitor for increased redness, swelling, or pain, and to contact the clinic if these symptoms develop.
+
+**Follow-Up:**
+Instruct the patient to contact the clinic if her symptoms worsen or do not improve within a week, or if test results indicate the need for further investigation. The patient has been educated on the treatment plan, understood, and agreed to follow the instructions provided. A follow-up appointment is scheduled for 6 weeks to reassess her condition and manage any ongoing issues.

@@ -1,0 +1,56 @@
+Visit Information:
+   - Patient Num: 1000000035
+   - Visit Date: 03/30/2009
+
+This is a 23-year-old Black male who has been receiving care at our clinic for approximately 12 years. He speaks Spanish and presents today, March 30, 2009, for a follow-up visit regarding his ongoing asthma management and associated respiratory issues.
+
+**Subjective:**
+The patient reports increased episodes of wheezing and shortness of breath, particularly during physical activities and at night, which have caused disturbances in his sleep. He continues to use his prescribed bronchodilator (albuterol) approximately three times a week for acute symptom relief. The patient has a history of congenital anomalies of the diaphragm, causing moderate respiratory distress, and has needed occasional use of a respirator during severe episodes. He also mentions chronic tonsillitis but without recent flare-ups. Besides, he has a benign neoplasm on his upper limb, currently stable and not causing issues.
+
+His asthma has been managed with daily inhaled corticosteroids (Qvar), which have reduced the frequency of acute exacerbations. He has not experienced recent acute episodes of upper respiratory infections or otitis media since his last visit. He adheres to his medications without recent changes or additions to his regimen.
+
+**Objective:**
+- **Vital Signs:**
+   - Blood Pressure: 115/75 mmHg
+   - Heart Rate: 82 bpm
+   - Respiratory Rate: 21 bpm
+   - Temperature: 98.4°F
+   - Oxygen Saturation: 96% on room air
+
+- **Physical Examination:**
+   - General Appearance: Well-developed, well-nourished, comfortable, and in no acute distress.
+   - Cardiovascular: Regular rhythm and rate, no murmurs, rubs, or gallops heard.
+   - Respiratory: Mild expiratory wheezes bilaterally with a slightly prolonged expiratory phase. No use of accessory muscles, retractions, or nasal flaring.
+   - Abdomen: Soft, non-tender, with no hepatosplenomegaly.
+   - Musculoskeletal: No signs of joint tenderness, swelling, or deformities; full range of motion.
+   - Neurological: Alert and oriented; cranial nerves II-XII are grossly intact; no focal neurological deficits.
+   - Skin: No new lesions or rashes observed; the benign neoplasm on the right upper arm remains unchanged without signs of infection.
+
+- **Laboratory Findings:**
+   - Recent bloodwork shows stable hematologic parameters, including a mildly elevated eosinophil count, consistent with his known history of asthma.
+   - Routine liver function tests, including Aspartate Aminotransferase (AST) and Alanine Aminotransferase (ALT), are within normal limits.
+
+**Assessment:**
+1. **Asthma, unspecified without mention of status asthmaticus:** The patient continues to experience asthma symptoms, suggesting environmental triggers and suboptimal control of nocturnal symptoms.
+2. **Congenital diaphragm anomaly:** This condition persists, leading to intermittent respiratory distress.
+3. **Chronic tonsillitis and benign neoplasm of the skin:** These issues remain stable but necessitate continued observation.
+
+**Plan:**
+1. **Asthma:**
+   - Continue the current inhaled corticosteroid (Qvar) therapy.
+   - Begin montelukast (Singulair) to help manage nocturnal asthma symptoms.
+   - Conduct an environment review to identify and mitigate potential asthma triggers.
+   - Refer to pulmonology to reassess and potentially adjust his asthma management plan.
+
+2. **Congenital Diaphragm Anomaly:**
+   - Ensure regular follow-up care with specialists in pediatric surgery and pulmonology.
+   - Increase the readiness for the use of respiratory aids during exacerbation of symptoms.
+
+3. **Chronic Tonsillitis:**
+   - Continue monitoring with a low threshold for starting antibiotic therapy if symptoms of infection arise.
+   - Consider referral to an ENT specialist for further evaluation if chronic symptoms persist.
+
+4. **Benign Neoplasm of the Skin:**
+   - Maintain routine dermatologic evaluations to monitor any changes in the neoplasm.
+
+Instruct the patient to contact the clinic if symptoms do not improve within a week or if there is any worsening in his condition. The patient was educated on early signs of potential asthma exacerbations and the importance of adhering to his treatment regimen. He and his mother confirmed understanding and agreement with the care plan. A follow-up appointment is scheduled in one month to assess the effectiveness of the new interventions and monitor for symptom changes.

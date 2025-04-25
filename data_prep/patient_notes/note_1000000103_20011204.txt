@@ -1,0 +1,56 @@
+Visit Information:
+- Patient Num: 1000000103
+- Visit Date: Dec 04, 2001
+
+This is a 25-year-old Black female who speaks English and has been receiving care at our clinic. She presents today for a follow-up visit. The patient has a history of anxiety, burns, frequent upper respiratory infections, excessive menstruation, and various dentofacial anomalies.
+
+Subjective:
+The patient reports ongoing anxiety symptoms, including episodes of palpitations and restlessness over the past couple of weeks. She also expresses concerns about recent episodes of excessive menstrual bleeding, which have been heavier and more prolonged than usual over the last two cycles. While she has been managing her dental issues with the prescribed treatments, she recently experienced severe toothache and discomfort in her maxillary region, making it difficult to chew.
+
+She denies recent history of upper respiratory infections or changes in her baseline health. However, she mentions a history of a second-degree burn on her elbow from a previous accident involving hot liquids. She notes that while most of the burn has healed, there are still some areas with residual skin sensitivity.
+
+Medications currently being taken include Kato 20 mEq powder for potassium supplementation, Penicillin V Potassium for a recent bacterial infection, and Trimox 500mg capsule for bacterial management. She has been compliant with her medication regimen and has not experienced any significant side effects.
+
+Regarding her social history, she lives alone, is employed as a retail assistant, and denies use of tobacco, alcohol, or recreational drugs. Known allergies include penicillin and latex. Symptoms are characterized by their location (anxiety, excessive menstrual bleeding, toothache), duration (several episodes), and severity (moderate to severe for menstrual bleeding and dental pain, mild for residual burn sensitivity).
+
+Objective:
+Vital Signs:
+- Blood Pressure: 120/80 mmHg
+- Heart Rate: 76 bpm
+- Respiratory Rate: 18 breaths per minute
+- Temperature: 98.6°F
+- Oxygen Saturation: 98% on room air
+
+General Appearance: The patient appears well-groomed and in no acute distress. She is alert and oriented, with a calm demeanor observed during the exam.
+
+Cardiovascular: Heart sounds are normal with no murmurs, gallops, or rubs. Peripheral pulses are 2+ and equal bilaterally.
+
+Respiratory: Clear to auscultation bilaterally with normal breath sounds. No wheezing, rales, or rhonchi noted.
+
+Abdomen: Soft, non-tender, non-distended with normal bowel sounds.
+
+Musculoskeletal: Exam reveals mild tenderness over the maxillary region without visible swelling. Normal range of motion observed in all extremities. The site of the previous elbow burn demonstrates some residual erythema with intact skin.
+
+Neurological: Cranial nerves II-XII intact. Motor strength 5/5 in all extremities. Sensory function is intact. No tremors or involuntary movements observed.
+
+Skin: Healed burn on the left elbow with minimal residual erythema. No lesions, rashes, or ulcerations observed.
+
+Relevant laboratory findings indicate persistent qualitative platelet defects, increased bleeding time, and iron deficiency, which may contribute to her excessive menstrual bleeding.
+
+Assessment:
+1. Anxiety state, unspecified - Likely exacerbated by recent stressors and anxiety-inducing situations.
+2. Excessive menstruation - Possibly related to underlying qualitative platelet defects and iron deficiency.
+3. Dentofacial anomalies including maxillary hypoplasia and malocclusion - Ongoing dental health issues contributing to recent discomfort and pain.
+
+Plan:
+1. Anxiety state:
+   - Continue monitoring her response to potential stressors and provide a referral to mental health services for further evaluation and management. Assessment for potential need for anxiolytic medication if symptoms persist.
+   
+2. Excessive menstruation:
+   - Obtain a complete blood count and iron studies to assess for underlying anemia and iron deficiency. Consider starting oral iron supplementation and referral to a gynecologist for further evaluation of menstrual abnormalities. Education on menstrual tracking and lifestyle modifications to manage symptoms.
+   
+3. Dental issues:
+   - Refer to an oral surgeon for further assessment and management of maxillary hypoplasia and malocclusion. Suggest a dental x-ray to evaluate the extent of the dental issues and provide a prescription for a pain management plan to alleviate her discomfort while awaiting specialist consultation.
+
+Follow-Up:
+- Instruct patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. Review lab results and follow-up care in 2 weeks for reassessment of anxiety, menstrual health, and dental pain management progress.

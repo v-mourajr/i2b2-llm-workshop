@@ -1,0 +1,81 @@
+**Visit Information:**
+
+- Patient Num: 1000000087
+- Visit Date: 08/16/2004
+
+**Subjective:**
+
+This is a 50-year-old Asian male who has been receiving care at our clinic for approximately seven years. He communicates primarily in Spanish and is here for a follow-up visit. The patient reports persistent fatigue and generalized body weakness over the past several months, with no significant change since his last visit three years ago. He experiences headaches occurring intermittently, around three to four times a week, presenting as a dull ache predominantly localized around his temples. The headaches do not have associated nausea, vomiting, or visual disturbances and are somewhat relieved by acetaminophen.
+
+His past medical history is significant for hypertension, currently managed with Accupril (Quinapril) 20 mg daily, and hyperlipidemia, for which he is taking Lipitor (Atorvastatin) 40 mg daily. The patient has also been diagnosed with type II diabetes mellitus, which is controlled with lifestyle adaptations and oral medications. He has a history of bronchitis and chronic sinusitis, both of which are stable at this time. Surgically, he underwent an appendectomy over a decade ago without complications.
+
+Socially, he admits to occasional alcohol use, primarily on weekends, but denies smoking or use of recreational drugs. He works in an office environment, which entails long sedentary periods, although he tries to maintain some physical activity through regular weekend walks with his family.
+
+He denies any known drug or food allergies. In addition to fatigue, he notes that his backache, which is primarily centered in his lower back, has worsened slightly and is aggravated by prolonged sitting. The patient has not tried any non-pharmacological interventions for his symptoms apart from rest, which offers partial relief but is not entirely effective.
+
+**Objective:**
+
+- **Vital Signs:**
+  - Blood Pressure: 140/85 mmHg
+  - Heart Rate: 78 beats per minute
+  - Respiratory Rate: 18 breaths per minute
+  - Temperature: 98.4°F
+  - Oxygen Saturation: 98% on room air
+
+- **General Appearance:**
+The patient appears mildly fatigued but is in no acute distress. He is well-nourished and adequately groomed.
+
+- **Cardiovascular:**
+Regular rate and rhythm without murmurs, rubs, or gallops. Peripheral pulses are strong and symmetric bilaterally.
+
+- **Respiratory:**
+Clear to auscultation bilaterally with no wheezes, rales, or rhonchi.
+
+- **Abdomen:**
+Non-distended, soft, and non-tender. Bowel sounds are present and normal. There is no hepatosplenomegaly.
+
+- **Musculoskeletal:**
+Full range of motion observed in all extremities. There is minimal tenderness in the lumbar region without any signs of deformity or swelling.
+
+- **Neurological:**
+Patient is alert and oriented to person, place, and time. Cranial nerves II-XII are intact. Motor strength and sensation are intact throughout. Deep tendon reflexes are normal and symmetric.
+
+- **Skin:**
+Skin is warm and dry without any rashes, lesions, or abnormal pigmentation.
+
+Laboratory findings reveal elevated cholesterol and LDL levels, which are consistent with his hyperlipidemia diagnosis and are currently managed with Atorvastatin. Renal function tests including creatinine and blood urea nitrogen remain within normal limits, and electrolytes (sodium, potassium, chloride, and carbon dioxide) are balanced. Hematologic tests show normal ranges for red blood cell count, hemoglobin, and hematocrit, though there are minor fluctuations in lymphocytes and neutrophils that necessitate continued observation.
+
+**Assessment:**
+
+1. **Hypertension:**
+   - Managed with Accupril. Blood pressure readings show relative control; continue current management.
+
+2. **Hyperlipidemia:**
+   - On Atorvastatin therapy. Cholesterol levels need ongoing monitoring.
+
+3. **Type II Diabetes Mellitus:**
+   - Currently controlled with medications and diet modifications; require routine monitoring.
+
+4. **Chronic Fatigue and Generalized Weakness:**
+   - Multifactorial, possibly influenced by lifestyle, medication side effects, or metabolic issues.
+
+5. **Back Pain:**
+   - Likely mechanical in nature, exacerbated by prolonged sitting.
+
+**Plan:**
+
+1. Maintain the current medication regimen, including Quinapril for hypertension and Atorvastatin for hyperlipidemia. Advise the patient on a low-sodium and low-cholesterol diet to aid in managing his conditions.
+
+2. Order a comprehensive metabolic panel, including thyroid function tests, to further investigate the causes of chronic fatigue. Reassess the lipid profile and complete blood count in six months.
+
+3. Recommend lifestyle modifications, such as increased physical activity, ergonomic adjustments for his office setting to reduce back strain, and moderation of alcohol intake, to potentially alleviate fatigue and back pain.
+
+4. Schedule a follow-up appointment in three months to reassess his symptoms, review adherence to lifestyle changes, and evaluate diagnostic test results.
+
+**Follow-Up:**
+
+- Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.
+
+**Patient Education & Understanding of the Plan:**
+
+- The patient and his wife were counseled on the importance of medication adherence, dietary adjustments, and lifestyle modifications. They were also informed about the schedule for follow-up appointments and diagnostic tests. Both expressed understanding and are committed to following the outlined plan.

@@ -1,0 +1,50 @@
+---
+
+**Patient Information:**
+
+- Patient Num: 1000000024
+- Visit Date: 07/09/2001
+
+This is a 23-year-old Black male who has been receiving care at our clinic for approximately 3 months. He speaks English and presents today, 07/09/2001, for a routine check-up and follow-up on his asthma management.
+
+**Subjective:**
+
+The patient reports he has been doing well since his last visit but continues to experience intermittent wheezing and shortness of breath, particularly during physical activity and at night. Despite using his albuterol rescue inhaler, he notes that his symptoms have slightly increased in frequency over the past week. He also mentions occasional dry cough and chest tightness that seem to worsen with physical exertion. 
+
+His asthma was diagnosed in childhood, and he has had no significant surgical procedures. He has not been hospitalized for asthma exacerbations. The patient currently uses albuterol as needed and takes a daily dose of fluticasone, which he reports using consistently without any side effects.
+
+Socially, he is a college student who engages regularly in basketball. He does not smoke, denies use of recreational drugs, and consumes alcohol socially. He resides in a shared dormitory and has no known environmental allergies. The patient reports no drug allergies.
+
+He has been managing his symptoms predominantly with his prescribed medications and has not noted any new triggers or environmental changes. He is concerned about the increased frequency of his symptoms but remains aware of the importance of using his medications regularly.
+
+**Objective:**
+
+Vital Signs:
+
+- Blood Pressure: 122/78 mmHg
+- Heart Rate: 72 bpm
+- Respiratory Rate: 18 breaths/min
+- Temperature: 98.6°F (37°C)
+- Oxygen Saturation: 97% on room air
+
+Physical Examination:
+
+The patient appears well-nourished, well-developed, and in no acute distress. The cardiovascular exam revealed a normal S1 and S2 with no murmurs, gallops, or rubs, and peripheral pulses were palpable and symmetric. Respiratory examination showed lungs clear to auscultation bilaterally with mild expiratory wheezing, and no use of accessory muscles or signs of respiratory distress. The abdomen was soft, non-tender, with no organomegaly or masses, and normal bowel sounds were heard. The musculoskeletal exam was unremarkable, with a full range of motion in all extremities. Neurological evaluation noted the patient to be alert and oriented to person, place, and time with no focal deficits. The skin examination revealed skin that was warm, dry, and intact with no rashes or lesions.
+
+Relevant Lab Findings:
+
+A review of the patient's prior lab results did not indicate any significant abnormalities, and the tests including Abs Basos Auto, Abs EOS Auto, Abs Lymphs Auto, Abs Monos Auto, and others pertinent to inflammatory and immune function falls within normal ranges.
+
+**Assessment:**
+
+The patient presents with symptoms consistent with mild to moderate asthma exacerbations. His clinical examination supports a diagnosis of well-controlled asthma with recent intermittent exacerbations, likely related to physical activity and nocturnal triggers. Differential diagnoses, such as respiratory infections or allergic rhinitis, are considered less likely at this time given the patient's history and clinical presentation.
+
+**Plan:**
+
+The primary focus is on optimizing asthma control. The patient will continue with the albuterol inhaler for rescue use. We will increase the dosage of his maintenance inhaler (fluticasone) and reassess his symptoms in one month. Spirometry will be conducted today to assess lung function, and allergen testing may be considered if symptoms persist or other triggers are identified.
+
+Patient education will be reinforced on asthma triggers, the importance of medication adherence, and proper inhaler technique. He has been instructed to contact the clinic if symptoms worsen, do not improve within a week, or if spirometry results indicate further evaluation is necessary. A follow-up appointment is scheduled for one month to monitor asthma control and adjust the treatment plan as necessary.
+
+---
+
+This completes the detailed and structured SOAP note for the patient's latest visit, incorporating his presenting complaints, physical examination findings, and a comprehensive management plan.

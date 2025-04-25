@@ -1,0 +1,74 @@
+**Visit Information:**
+- Patient Num: 1000000113
+- Visit Date: 11/24/2004
+
+**Subjective:**
+This is a 7-year-old Asian female who speaks English and has been receiving care at our clinic for several years. She presents today with her mother for a follow-up visit regarding her asthma and recent cough. Her mother notes that she had been experiencing difficulty breathing and wheezing, particularly at night and during physical activity over the past week. She used her prescribed Atrovent inhaler, which provided some relief but symptoms persist. There is no reported fever or recent exposure to illness.
+
+The patient’s past medical history is significant for asthma of unspecified status, recurrent otitis media, and an acute bronchiolitis due to RSV. She has a documented episode of generalized abdominal pain and a history of various upper respiratory infections. There is no history of surgical procedures.
+
+Medications include Atrovent (18 mcg/inh aerosol, used regularly as needed). The mother reports adherence to the medication regimen.
+
+Socially, the patient lives with her parents and attends elementary school. She enjoys playing outdoors but has limited her activity recently due to her asthma symptoms. The family history is unremarkable for chronic pulmonary conditions or allergies.
+
+The patient's symptoms include nighttime wheezing, breathlessness during play, and sporadic coughing. These symptoms began approximately one week ago, are moderate in intensity, and are alleviated temporarily by the inhaler. Additional supportive non-pharmacological interventions such as the use of a humidifier at night have been tried with marginal improvement. 
+
+**Objective:**
+- Vital Signs:
+  - Blood Pressure: Not applicable for age
+  - Heart Rate: 112 bpm
+  - Respiratory Rate: 24 breaths per minute
+  - Temperature: 98.9°F
+  - Oxygen Saturation: 97% on room air
+
+- General Appearance:
+  The patient appears alert but slightly anxious and is in no acute distress.
+
+- Cardiovascular:
+  Heart sounds are regular with no murmurs, rubs, or gallops.
+
+- Respiratory:
+  Mild wheezing noted bilaterally on auscultation; no rales or rhonchi. Prolonged expiratory phase is observed.
+
+- Abdomen:
+  Soft and non-tender with no organomegaly or abnormal masses; bowel sounds are normal.
+
+- Musculoskeletal:
+  Full range of motion is evident without any deformities or joint tenderness.
+
+- Neurological:
+  The patient is alert, oriented to age-appropriate level; cranial nerves II-XII are intact.
+
+- Skin:
+  Skin is warm, dry, and without lesions or rashes; normal turgor.
+
+**Assessment:**
+The clinical impression is that the patient’s asthma is currently not well controlled, evident by her coughing, wheezing, and difficulty breathing particularly during the night and physical activity. The recurring nature of her symptoms points towards a chronic issue that necessitates reevaluation of her current management plan.
+
+**Plan:**
+1. **Asthma Management:**
+   - Likely Diagnosis: Unspecified asthma without status asthmaticus.
+   - Differential Diagnosis: Allergic rhinitis, viral-induced asthma exacerbation.
+   - Diagnostic Tests: Consider obtaining peak flow measurements and pulmonary function tests to assess severity.
+   - Treatment Plan: Adjust the current asthma regimen to include a daily low-dose inhaled corticosteroid (e.g., Fluticasone). Instruct the continued use of Atrovent for acute relief. 
+   - Relevant Referrals: Refer to a pediatric pulmonologist for a comprehensive asthma management plan if symptoms persist or worsen.
+
+2. **Recurrent Otitis Media:**
+   - Assessment: Otitis media management appears stable; continue to monitor.
+   - Differential Diagnosis: Possible otitis/URI exacerbating asthma.
+   - Diagnostic Tests: None currently required unless new symptoms arise.
+   - Treatment Plan: Continue monitoring and manage symptoms as needed.
+
+3. **Assessment of Overall Health Status:**
+   - Likely Diagnosis: Routine monitoring of growth and developmental health.
+   - Differential Diagnosis: Watch for signs of other complicating conditions.
+   - Diagnostic Tests: Conduct a routine physical examination, including growth metrics, at the next visit.
+   - Treatment Plan: Ensure routine well-child visits and vaccinations are up-to-date.
+
+**Follow-Up:**
+- Instructions for Emergent Follow-Up Care or Monitoring:
+  Instruct the patient’s mother to contact the clinic if symptoms do not improve within a week, worsen, or if there are any new concerning symptoms such as fever or increased respiratory distress.
+- Follow-Up for Persistent, Changing, or Worsening Symptoms:
+  Schedule a follow-up appointment in two weeks to reassess asthma control and reevaluate the need for additional interventions.
+- Patient Education & Understanding of the Plan:
+  Educated the mother on the importance of adherence to the adjusted asthma management plan, recognizing warning signs, and the proper use of the inhaler. They demonstrated good understanding and agreed with the plan.

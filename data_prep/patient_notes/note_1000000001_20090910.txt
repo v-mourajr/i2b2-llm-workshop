@@ -1,0 +1,62 @@
+Visit Information:
+- Patient Num: 1000000001
+- Visit Date: 09/10/2009
+
+Subjective:
+This is a 26-year-old Black female who has been receiving care at our clinic for approximately six years. She presents today for a follow-up regarding her asthma management and to address recent exacerbations. The patient reports an increase in episodes of dyspnea and coughing over the past month, particularly during physical exertion and exposure to allergens such as pollen and dust mites. These episodes have become more frequent and troubling, despite using her current medication regimen, which includes Albuterol Sulfate 4mg as needed, Flovent 110 mcg, and Singulair 5mg daily.
+
+Additionally, she has experienced recurrent episodes of dizziness, especially upon standing, which she attributes to her previously documented hypotension. She denies experiencing any chest pain, syncope, or palpitations. 
+
+Her social history reveals no significant changes; she continues to live with her parents and abstains from smoking, alcohol, and illicit drugs. She has a known sensitivity to pollen and dust mites, which typically aggravates her asthma. Currently, she is on Albuterol Sulfate, Flovent, and Singulair for asthma, while also taking Prilosec and Protonix for gastroesophageal reflux disease (GERD), and occasionally ibuprofen for pain as needed. She has no recent hospitalizations or surgical procedures.
+
+Objective:
+Vital Signs:
+- Blood Pressure: 105/60 mmHg
+- Heart Rate: 72 bpm
+- Respiratory Rate: 20 breaths/minute
+- Temperature: 98.6°F
+- Oxygen Saturation: 97% on room air
+
+General Appearance: The patient appears alert and oriented, well-nourished, and in no acute distress.
+
+Cardiovascular: Regular heart rate and rhythm with no murmurs, gallops, or rubs. Capillary refill within normal limits, no peripheral edema noted.
+
+Respiratory: Bilateral lung fields are generally clear to auscultation with single expiratory wheeze heard in the lower lobes. No use of accessory muscles observed.
+
+Abdomen: Soft, non-tender, non-distended, normoactive bowel sounds present. No hepatosplenomegaly or palpable masses.
+
+Musculoskeletal: Normal range of motion in all extremities, no joint swelling or tenderness noted. Muscle strength is 5/5 throughout.
+
+Neurological: Cranial nerves II-XII intact, deep tendon reflexes 2+ and symmetrical. No sensory or motor deficits observed.
+
+Skin: Warm, dry, intact, no rashes, lesions, or signs of infection noted.
+
+Relevant Lab Results:
+- Complete blood count and differential: Within normal limits.
+- Comprehensive metabolic panel: Normal liver function tests (AST, ALT), and renal function tests (BUN, creatinine), electrolytes are stable.
+
+Assessment:
+Primary Diagnosis: Asthma, unspecified type with recurrent acute exacerbations.
+Secondary Diagnoses:
+- Cough variant asthma
+- Hypotension, unspecified, presenting with positional dizziness
+- GERD, managed with Prilosec and Protonix
+
+Plan:
+1. Asthma Management:
+   - Continue current medications (Albuterol as needed, Flovent, Singulair).
+   - Introduce a long-acting beta-agonist to manage exercise-induced symptoms.
+   - Advise daily peak flow monitoring.
+   - Discuss allergen avoidance strategies and reinforce environmental control measures.
+   - Schedule a follow-up appointment in 3 months to evaluate asthma control.
+
+2. Hypotension Management:
+   - Encourage increased oral hydration and dietary salt intake.
+   - Counsel on slow positional changes to prevent orthostatic symptoms.
+   - Suggest compression stockings for additional support.
+   - Re-evaluate symptoms and blood pressure in 1 month.
+
+Patient Education & Follow-Up:
+The patient was educated on the importance of adhering to her asthma management plan, including proper inhaler techniques and daily symptom and peak flow monitoring. She was also instructed on strategies to manage her dizziness associated with hypotension, such as proper hydration and careful positional changes. The patient demonstrated understanding and agrees with the proposed management plan. She is advised to return for follow-up visits in 1 and 3 months, respectively, or sooner if symptoms worsen. In case of any new or worsening symptoms, she is to contact the clinic immediately. 
+
+By implementing this comprehensive management plan, it is anticipated that her chronic conditions will be well-controlled, minimizing exacerbations and improving her overall quality of life.

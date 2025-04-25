@@ -1,0 +1,49 @@
+**Visit Information:**
+
+- Patient Num: 1000000050
+- Visit Date: 12/08/2004
+
+**Subjective:**
+This is a 16-year-old Black female who has been under our care for several years, primarily for the management of her asthma. The patient is a German speaker and presents today for her routine follow-up. Recently, she has reported an increase in episodes of dyspnea and wheezing, particularly when engaging in physical activities. These episodes have been partially controlled at home using a prescribed rescue inhaler.
+
+Her past medical history is significant for unspecified asthma without mention of status asthmaticus, recurrent episodes of pneumonia of unspecified origin, pulmonary collapse, pleural effusion, and respiratory distress syndrome. There is no significant surgical history or known drug allergies.
+
+The patient’s current medication regimen includes a combination inhaler that contains both a corticosteroid and a long-acting beta-agonist. In addition to pharmacological treatments, her family has been actively managing her environment to minimize exposure to dust and other triggers such as cold air and allergens.
+
+**Objective:**
+Vital signs taken during the visit are as follows:
+- Blood Pressure: 110/75 mmHg
+- Heart Rate: 88 beats per minute
+- Respiratory Rate: 20 breaths per minute
+- Temperature: 98.6°F
+- Oxygen Saturation: 98% on room air
+
+On physical examination, the patient appears alert and in no acute distress. She is well-nourished and appropriately dressed for the weather.
+
+Cardiovascular examination reveals clear and regular heart sounds without murmurs, gallops, or rubs. Respiratory examination shows bilateral mild expiratory wheezes, with no acute respiratory distress or use of accessory muscles. Breath sounds are clear in the upper lobes but diminished in the lower lobes. The abdominal examination is unremarkable, with a soft, non-tender abdomen, and no hepatosplenomegaly. Musculoskeletal examination shows full range of motion in all extremities without pain. Neurologically, the patient is alert and oriented to person, place, and time, with intact cranial nerves II-XII and no focal neurological deficits. Skin examination reveals no rashes, lesions, cyanosis, or clubbing.
+
+**Assessment:**
+The primary diagnosis remains asthma, unspecified without mention of status asthmaticus. Given her history, secondary diagnoses include her dyspnea and other respiratory issues such as pulmonary insufficiency, recurrent pneumonia, and episodes of pulmonary collapse.
+
+**Plan:**
+
+1. **Asthma Management:**
+   - Continue current use of the combination inhaler as prescribed.
+   - Stress the importance of adherence to the medication regimen and proper use of the rescue inhaler during exacerbations. 
+   - If asthma control is inadequate, consider a short course of oral corticosteroids.
+   - Referral to a pulmonologist for further evaluation and management recommendations, based on her recurrent respiratory issues.
+
+2. **Diagnostic Tests:**
+   - Order a chest X-ray to check for any infections or structural abnormalities contributing to her recurrent pulmonary problems. 
+   - Conduct repeat pulmonary function tests to assess current asthma control and lung function.
+   - Perform routine blood work, focusing on a complete blood count and liver function tests to monitor for systemic issues and possible medication side effects.
+
+3. **Follow-Up:**
+   - Instruct the patient and her family to monitor symptoms closely and report any increase in the frequency or severity of asthma exacerbations, or the emergence of new symptoms.
+   - Schedule regular follow-up visits every three months or sooner if symptom control is not achieved.
+   - Advise immediate clinic contact should symptoms worsen or not improve within a week, or if test results indicate further evaluation is necessary.
+
+**Patient Education & Understanding of the Plan:**
+The patient and her family were educated on the importance of adhering to the medication regimen, recognizing early symptoms of asthma exacerbations, and following the provided action plan. The family demonstrated understanding and agreement with the care plan.
+
+The visit is concluded, and the patient is scheduled to return for follow-up as planned. Immediate contact with the clinic is advised should any concerning changes in her condition occur.

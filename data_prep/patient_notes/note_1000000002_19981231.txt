@@ -1,0 +1,68 @@
+### Visit Information
+- Patient Num: 1000000002
+- Visit Date: 12/31/1998
+
+### Subjective
+This is a 33-year-old Hispanic female who has been receiving care at our clinic for approximately 15 months. She speaks Spanish fluently and presented today, 12/31/1998, for follow-up care. The primary concern today includes a recurrent episode of pelvic pain and urinary discomfort, which she describes as having a gradual onset over the past week. The pain is localized to the lower abdomen and is associated with dysuria. The patient also reports an increase in urinary frequency and some visible blood in her urine.
+
+She has a significant past medical history that includes treatment for bacterial pneumonia and a previous closed fracture of the ankle. She has also received care for unspecified symptoms associated with female genital organs, the descriptions of which were similar to her current complaints but less severe. Her surgical history includes a previous ankle surgery due to the fracture.
+
+The patient's current medications include Syn-Rx 600mg/60mg extended-release tablets for pain management, which she has been taking thrice daily. Additionally, she has been on Trimox 500mg capsules, taken four times daily for presumed bacterial infections. She has tolerated these medications well without significant side effects. 
+
+Socially, the patient is a non-smoker and occasionally consumes alcohol. She lives alone, works as a customer service representative, and has no significant family support nearby. She does not use any herbal supplements or non-prescription medications. 
+
+She has no known allergies.
+
+### Objective
+#### Vital Signs
+- Blood Pressure: 120/80 mmHg
+- Heart Rate: 76 bpm
+- Respiratory Rate: 16 breaths per minute
+- Temperature: 98.6°F
+- Oxygen Saturation: 98%
+
+#### General Appearance
+The patient appears well-nourished, alert, and cooperative, in no apparent distress. 
+
+#### Cardiovascular
+Heart sounds are regular with no murmurs, rubs, or gallops.
+
+#### Respiratory
+Lung fields are clear to auscultation bilaterally with no wheezing or crackles.
+
+#### Abdomen
+The abdomen is soft but mildly tender in the suprapubic region. There is no rebound tenderness or guarding. Bowel sounds are present and normal.
+
+#### Musculoskeletal
+The range of motion in all extremities is normal with no swelling or deformities noted.
+
+#### Neurological
+The patient is oriented to person, place, and time. Cranial nerves II-XII are intact. No focal neurological deficits are noted.
+
+#### Skin
+The skin appears normal with no rashes or lesions.
+
+### Assessment
+The clinical impression suggests urinary tract infection (UTI) as the primarily suspected diagnosis given the patient's symptoms of dysuria, increased urinary frequency, and presence of visible blood in the urine. Differential diagnoses include interstitial cystitis and possible nephrolithiasis.
+
+Additionally, her history of pelvic pain may indicate a consistent underlying issue related to her female genital organs, which requires further gynecological evaluation.
+
+### Plan
+1. **Urinary Tract Infection**:
+    - **Assessment**: Likely diagnosis of UTI.
+    - **Diagnostic Tests**: Urinalysis and urine culture to confirm the presence of infection and identify the causative organism.
+    - **Treatment Plan**: Initiate Ciprofloxacin 500mg twice daily for 7 days. Continue Trimox until the urine culture results are available.
+    - **Referrals**: None at this time, pending culture results.
+
+2. **Pelvic Pain**:
+    - **Assessment**: Potential for chronic pelvic pain syndrome or related gynecological issue.
+    - **Diagnostic Tests**: Referral for pelvic ultrasound and consultation with a gynecologist.
+    - **Treatment Plan**: Continue current pain management regimen with Syn-Rx 600mg/60mg tablets and monitor the patient's response.
+
+3. **Preventive Measures**:
+    - **Assessment**: Encounter for contraceptive management.
+    - **Diagnostic Tests**: None required.
+    - **Treatment Plan**: Discuss contraceptive options and provide educational materials in Spanish about birth control methods.
+
+### Follow-Up
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. Schedule a follow-up visit in 2 weeks for a pelvic ultrasound review and further management based on culture results. Ensure the patient understands the plan and confirm comprehension given her primary language is Spanish. An interpreter was provided for accurate communication.

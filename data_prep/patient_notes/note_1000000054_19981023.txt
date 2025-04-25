@@ -1,0 +1,77 @@
+
+Visit Information:
+
+- Patient Num: 1000000054
+- Visit Date: 10/23/1998
+
+Subjective:
+
+The patient is a 55-year-old Asian female who speaks English and has been receiving care at our clinic for approximately 3 months. She presents today for a follow-up regarding her asthma management, previously diagnosed as asthma unspecified without mention of status asthmaticus. She reports shortness of breath and occasional wheezing, which have been exacerbated by exposure to environmental allergens. She also complains of persistent fatigue.
+
+In her medical history, she has a record of bronchitis, other emphysema, osteoarthrosis, and unspecified abdominal pain, as well as malaise and fatigue. She denies any recent surgeries.
+
+The patient is currently using an albuterol inhaler as needed for her asthma, with moderate relief of symptoms. She does not report any side effects from this medication. Additionally, she takes over-the-counter pain medications for joint pain, which is moderately effective.
+
+The patient lives alone, is a non-smoker, and denies alcohol and illicit drug use. She maintains a relatively sedentary lifestyle due to joint discomfort. There are no known allergies to medications or environmental factors.
+
+She describes her symptoms as intermittent, with shortness of breath and wheezing emerging primarily during physical activity or exposure to dust. These symptoms have been present on and off for several months but have worsened recently, prompting today's visit.
+
+Objective:
+
+Vital Signs:
+- Blood Pressure: 130/85 mmHg
+- Heart Rate: 88 beats per minute
+- Respiratory Rate: 20 breaths per minute
+- Temperature: 98.5°F (36.9°C)
+- Oxygen Saturation: 95% on room air
+
+General Appearance:
+The patient appears to be in mild respiratory distress, with audible wheezing.
+
+Cardiovascular:
+Regular rate and rhythm; no murmurs, rubs, or gallops were appreciated.
+
+Respiratory:
+Expiratory wheezing noted bilaterally, prolonged expiratory phase, and mild retractions, but no use of accessory muscles was observed.
+
+Abdomen:
+The abdomen is soft with mild tenderness to palpation in the lower regions; no organomegaly or masses were detected.
+
+Musculoskeletal:
+No joint swelling or erythema noted, but there is reported joint pain consistent with osteoarthrosis.
+
+Neurological:
+Alert and oriented to person, place, and time. Cranial nerves II-XII are grossly intact.
+
+Skin:
+No rashes or lesions noted.
+
+Assessment:
+
+Diagnosis or Clinical Impression:
+- Primary Diagnosis: Asthma, unspecified, without mention of status asthmaticus.
+- Secondary Diagnoses: Bronchitis, emphysema, malaise and fatigue, osteoarthrosis, and abdominal pain of unspecified origin.
+
+Plan:
+
+1. Asthma:
+Assessment: Likely diagnosis of asthma exacerbation.
+Diagnostic Tests: Consider spirometry and peak flow measurement to assess current pulmonary function.
+Treatment Plan: Continue albuterol inhaler as needed. Begin inhaled corticosteroid (fluticasone) for maintenance therapy. Educate the patient on proper inhaler technique and the importance of adherence to medication.
+Relevant Referrals: Referral to pulmonology for further evaluation and management.
+
+2. Bronchitis and Emphysema:
+Assessment: Likely exacerbation of chronic bronchial and emphysematous conditions.
+Diagnostic Tests: Chest X-ray to rule out pneumonia or other acute processes. Consider repeating blood tests including Total Bilirubin, Albumin, and other recent labs.
+Treatment Plan: Manage symptoms with supportive care, including hydration and humidified air. Monitor for any signs of infection or worsening respiratory status.
+Relevant Referrals: Pulmonology referral as above.
+
+3. Joint Pain and Osteoarthrosis:
+Assessment: Chronic osteoarthrosis contributing to joint pain.
+Diagnostic Tests: Consider X-rays of affected joints to assess the extent of osteoarthritis.
+Treatment Plan: Recommend physical therapy to improve joint function and decrease pain. Continue using over-the-counter pain medications and discuss options for stronger pain relief if needed.
+Relevant Referrals: Referral to rheumatology or orthopedics for further management.
+
+Follow-Up:
+
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. Schedule a follow-up appointment in 4 weeks to monitor asthma control and response to inhaled corticosteroids, as well as to review any new symptoms or concerns. Educate the patient on lifestyle modifications, such as avoiding known allergens and smoking cessation support. Ensure she understands the treatment plan and the importance of compliance in managing her chronic conditions.

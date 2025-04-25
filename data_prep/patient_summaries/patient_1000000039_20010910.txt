@@ -1,0 +1,24 @@
+demographics
+patient_num: 1000000039  age: 19
+patient_num: 1000000039  sex: F
+patient_num: 1000000039  race: white
+patient_num: 1000000039  language: german
+patient_num: 1000000039  vital_status: alive
+patient_num: 1000000039  earliest fact: Nov 15 1999 12:00AM
+patient_num: 1000000039  latest fact: Sep 10 2001 12:00AM
+patient_num: 1000000039  range in days: 665
+totals
+patient_num: 1000000039  distinct concepts: 8
+patient_num: 1000000039  total facts: 11
+patient_num: 1000000039  total encounters: 5
+patient_num: 1000000039  total asthma: 1
+descriptive
+patient_num: 1000000039  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 1
+patient_num: 1000000039  diagnosis code: ICD9:913.0  name: Abrasion or friction burn of elbow, forearm, and wrist, without mention of infection  count: 2
+patient_num: 1000000039  diagnosis code: ICD9:477.8  name: Allergic rhinitis due to other allergen  count: 1
+patient_num: 1000000039  diagnosis code: ICD9:477.0  name: Allergic rhinitis due to pollen  count: 1
+patient_num: 1000000039  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 1
+patient_num: 1000000039  diagnosis code: ICD9:723.1  name: Cervicalgia  count: 2
+patient_num: 1000000039  diagnosis code: ICD9:959.0  name: Other and unspecified injury to head, face, and neck  count: 1
+patient_num: 1000000039  diagnosis code: ICD9:959.2  name: Other and unspecified injury to shoulder and upper arm  count: 1
+patient_num: 1000000039  diagnosis code: ICD9:719.41  name: Pain in joint involving shoulder region  count: 2

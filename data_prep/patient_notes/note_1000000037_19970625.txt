@@ -1,0 +1,56 @@
+Visit Information:
+    - Patient Num: 1000000037
+    - Visit Date: 06/25/1997
+
+Subjective:
+    This is an 8-year-old Indian male who has been receiving care at our clinic. He speaks English and presents today for follow-up on his asthma management. The patient has a history of chronic asthma which has been increasingly difficult to manage over the past several months. His guardian reports an increase in symptoms including more frequent use of his rescue inhaler, nocturnal cough, and shortness of breath upon exertion. There has also been a recent episode of wheezing that prompted the use of his albuterol inhaler with partial relief. 
+
+    The patient’s asthma was initially diagnosed two years ago and has been managed with albuterol inhalers and, more recently, the addition of an inhaled corticosteroid. The guardian notes some improvement in daytime symptoms but persisting nocturnal symptoms.
+
+    The guardian denies any known allergies. The patient’s social history reveals he lives in an urban environment with exposure to secondhand smoke at home, although efforts have been made to reduce this exposure. He is active in school and enjoys outdoor play but has had to limit physical activity recently due to his symptoms.
+
+Objective:
+    Vital Signs:
+        - Blood Pressure: 110/70 mmHg
+        - Heart Rate: 90 bpm
+        - Respiratory Rate: 22 breaths per minute
+        - Temperature: 98.6°F
+        - Oxygen Saturation: 95% on room air
+
+    General Appearance:
+        The patient is a well-nourished, well-developed male in no acute distress but appears slightly fatigued.
+
+    Cardiovascular:
+        Regular rate and rhythm. No murmurs, gallops, or rubs.
+
+    Respiratory:
+        Mild intercostal retractions observed. Breath sounds decreased bilaterally with prolonged expiratory phase and expiratory wheezes noted throughout lung fields.
+
+    Abdomen:
+        Soft, non-tender, non-distended. Normoactive bowel sounds present.
+
+    Musculoskeletal:
+        No deformities, full range of motion with no apparent discomfort.
+
+    Neurological:
+        Alert and oriented, normal gait.
+
+    Skin:
+        Warm, dry, and intact without rashes or lesions.
+
+Results from recent laboratory tests including blood urea nitrogen, creatinine, glucose, hemoglobin, and white blood cell count were within normal limits. Urinalysis showed normal color, specific gravity, and pH levels.
+
+Assessment:
+    The clinical impression is that the patient continues to experience exacerbations of his asthma which are likely triggering his nocturnal symptoms and increased need for albuterol. The possible contributory factor includes exposure to secondhand smoke.
+
+Plan:
+    The treatment plan includes the continuation of the current inhaled corticosteroid regimen with particular emphasis on adherence. The patient will also start a short course of an oral corticosteroid to manage the current exacerbation. Additionally, the guardian is advised to further minimize the patient’s exposure to secondhand smoke and monitor for any changes or worsening of symptoms.
+
+    Education about asthma action plans and proper inhaler technique was reinforced. The patient is instructed to use the peak flow meter daily to monitor lung function. A follow-up visit is scheduled in two weeks to reassess asthma control. 
+
+    Instruct patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.
+
+Follow-Up:
+    The patient's guardian was advised on emergency care measures and signs that would require immediate medical attention, such as severe chest tightness, significant dyspnea, or cyanosis. 
+
+    The patient was reminded about avoiding known triggers, especially environmental smoke, and encouraged to maintain a clean and dust-free living environment.

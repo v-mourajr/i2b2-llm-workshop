@@ -1,0 +1,56 @@
+**Visit Information:**
+- **Patient Number:** 1000000045
+- **Visit Date:** 06/04/2007
+
+**Subjective:**
+This is a 90-year-old Asian female who speaks German and has been under our care for numerous chronic health conditions for several years. Today, she presents for a follow-up visit primarily due to a recent exacerbation of her asthma symptoms and ongoing management of her cardiovascular conditions.
+
+She reports persistent shortness of breath, wheezing, and occasional chest tightness that has worsened over the past two weeks. These respiratory symptoms become more pronounced with physical activity and exposure to cold air. She indicates that her regular use of inhalers provides only limited relief. Additionally, she has experienced general fatigue and increased difficulty performing daily activities because of her breathing difficulties.
+
+Her medical history includes chronic obstructive asthma, several episodes of acute myocardial infarction, coronary artery disease with stent placement, essential hypertension, type II diabetes mellitus, osteoporosis, schizophrenia, and chronic back pain due to osteoarthritis. Previous surgical interventions include a hip joint replacement and percutaneous transluminal coronary angioplasty (PTCA).
+
+Current medications consist of Atenolol 100mg, Desipramine Hydrochloride 25mg, Digoxin 0.25 mg/ml, Fosamax 10mg, Hydrochlorothiazide-Triamterene 50mg-75mg, Klonopin 2mg, Nitroglycerin 2% ointment, Premarin 25mg IV, and Provera 5mg. She occasionally forgets her evening doses but generally follows her medication regimen well. 
+
+Socially, she lives with her daughter, does not smoke or consume alcohol, and remains moderately active, within her mobility constraints, using a cane for ambulation. She has no known drug allergies.
+
+Her symptoms began gradually two weeks ago with continuous wheezing and shortness of breath, worsening with cold weather and physical exertion. She manages these symptoms with steam inhalation and hot beverages with minimal relief and denies any recent hospitalizations or significant changes apart from the current complaints.
+
+**Objective:**
+- **Vital Signs:**
+  - Blood Pressure: 148/88 mmHg
+  - Heart Rate: 78 bpm
+  - Respiratory Rate: 24 breaths per minute
+  - Temperature: 98.4°F
+  - Oxygen Saturation: 93% on room air
+- **General Appearance:** The patient appears mildly dyspneic but is alert and oriented.
+- **Cardiovascular:** Irregular heart rhythm was noted, without murmurs, gallops, or rubs. Peripheral pulses are 2+ bilaterally.
+- **Respiratory:** Bilateral inspiratory and expiratory wheezing, noted with no rales or rhonchi detected.
+- **Abdomen:** Non-tender with normal bowel sounds and no organomegaly.
+- **Musculoskeletal:** Mild kyphosis and discomfort on lumbar palpation, with restricted range of motion in the pelvic region and thigh due to osteoarthritis.
+- **Neurological:** Cranial nerves II-XII are intact; no focal neurological deficits.
+- **Skin:** The skin is dry but intact with no rashes.
+
+**Assessment:**
+The patient presents with exacerbations of chronic obstructive asthma and coronary artery disease symptoms, along with chronic back pain secondary to osteoarthritis and stable type II diabetes mellitus.
+
+1. **Asthma Exacerbation:**
+   - **Assessment:** Likely exacerbation of chronic obstructive asthma. Differential diagnosis includes respiratory infections or cardiac-related dyspnea.
+   - **Diagnostic Tests:** Pulmonary function tests, chest X-ray, and arterial blood gases if indicated.
+   - **Treatment Plan:** Continue current inhalers, consider adding a corticosteroid inhaler. Prescribe a short course of oral corticosteroids. Refer to a pulmonologist for specialized asthma management.
+
+2. **Coronary Artery Disease:**
+   - **Assessment:** Symptoms suggest worsening angina or coronary artery disease.
+   - **Diagnostic Tests:** Electrocardiogram (ECG) and cardiac enzymes.
+   - **Treatment Plan:** Continue current cardiac medications, increase the use of nitroglycerin during symptomatic periods. Schedule a follow-up with cardiology for re-evaluation.
+
+3. **Chronic Back Pain Secondary to Osteoarthritis:**
+   - **Assessment:** Chronic back pain likely secondary to osteoarthritis. Differential includes spondylosis and other musculoskeletal disorders.
+   - **Diagnostic Tests:** Lumbar spine X-ray.
+   - **Treatment Plan:** Continue analgesics and anti-inflammatory medications. Referral to physical therapy is advised for mobility improvement and pain management. Consider orthopedic follow-up if symptoms worsen.
+
+**Plan:**
+- **Emergent Follow-Up Care or Monitoring:** Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week or if test results indicate further evaluation is needed.
+- **Follow-Up for Persistent, Changing, or Worsening Symptoms:** Schedule a follow-up visit in two weeks to reassess asthma control and cardiovascular status.
+- **Patient Education & Understanding of the Plan:** The patient understands the treatment plan and acknowledges the importance of medication adherence, avoiding asthma triggers, and recognizing symptoms that require immediate medical attention.
+
+The patient is encouraged to maintain her current lifestyle modifications and to report any worsening of her symptoms promptly.

@@ -1,0 +1,60 @@
+**Visit Information:**
+- Patient Num: 1000000100
+- Visit Date: 06/20/2001
+
+**Subjective:**
+This is a 10-year-old Hispanic male who speaks English and has been receiving care at our clinic for approximately four years. He presents today for a follow-up concerning his asthma and other respiratory issues. His mother reports that he has experienced increased shortness of breath and wheezing episodes over the past two weeks, especially at night. She also notices that he has been coughing frequently and his asthma inhalers seem to provide only temporary relief. Additionally, the patient recently had a fever that resolved without intervention but has had an overall feeling of malaise since then.
+
+The patient's medical history is significant for asthma, congenital hydrocephalus, and infantile cerebral palsy. Past interventions have included continuous mechanical ventilation and enteral infusion of nutritional substances. His history of pneumonia, respiratory abnormalities, and nonpyogenic meningitis further complicates his condition. 
+
+Currently, he uses Atrovent, Dilantin for epilepsy management, Propulsid for gastrointestinal symptoms, and Qvar for asthma. The patient’s adherence to medication is good but his response to the treatment has been inconsistent lately.
+
+His social history reveals that he lives at home with his parents in a supportive environment and attends elementary school with special education services. There are no new environmental factors at home or school that may be influencing the exacerbation of his symptoms.
+
+He has no known drug or food allergies. The onset of his recent symptoms has been gradual, with the primary characteristics being increased wheezing, coughing, and shortness of breath, worsened primarily at night. There are no specific alleviating factors apart from temporary relief with his inhalers and no new exacerbating factors identified.
+
+**Objective:**
+- **Vital Signs:**
+  - Blood Pressure: 100/65 mmHg
+  - Heart Rate: 95 bpm
+  - Respiratory Rate: 24 breaths per minute
+  - Temperature: 99.1°F (37.3°C)
+  - Oxygen Saturation: 96% on room air
+- **General Appearance:**
+  The patient appears well-nourished but is slightly fatigued. He is cooperative and alert during the examination.
+- **Cardiovascular:**
+  Regular rhythm and heart rate with no murmurs, gallops, or rubs detected.
+- **Respiratory:**
+  There are mild intercostal retractions noted. Lung sounds are decreased bilaterally with diffuse expiratory wheezes, but no crackles or rhonchi.
+- **Abdomen:**
+  The abdomen is soft and non-tender with no organomegaly. Bowel sounds are normal.
+- **Musculoskeletal:**
+  No musculoskeletal abnormalities are detected. The patient has a normal range of motion and muscle strength appropriate for his developmental stage.
+- **Neurological:**
+  The patient is alert and oriented to person, place, and time. Cranial nerves II-XII are intact. Reflexes are brisk but symmetric.
+- **Skin:**
+  No rashes or lesions are observed. Skin is warm and dry.
+
+**Assessment:**
+The primary diagnosis remains asthma, which has not been well-controlled recently. Secondary diagnoses include congenital hydrocephalus and infantile cerebral palsy, contributing to his complex medical picture. Additionally, he presented with signs of a recurrent respiratory infection, as evidenced by a recent fever and ongoing malaise.
+
+**Plan:**
+1. **Asthma Management:**
+   - Reinforce the use of Qvar and Atrovent as prescribed. Additionally, consider a short course of systemic corticosteroids to manage the exacerbation.
+   - Schedule pulmonary function tests to assess current asthma control and adjust medication if necessary.
+
+2. **Neurological and Developmental Concerns:**
+   - Continue Dilantin to manage seizures under neurological supervision.
+   - Maintain regular therapy sessions (physical, occupational, and speech) tailored to his cerebral palsy needs.
+
+3. **Respiratory Infection:**
+   - Monitor respiratory status closely and consider antibiotics if any bacterial infection is suspected considering his recurrent respiratory issues.
+   - Regular nebulization with bronchodilators as needed for symptomatic relief.
+
+4. **Investigations:**
+   - Repeat key laboratory tests including blood gases, CBC, and inflammatory markers to monitor his current status and guide further management.
+
+Follow-Up:
+- Instruct patient to contact the clinic immediately if symptoms worsen or do not improve within a week, or if test results indicate any further evaluation is required.
+- Plan a follow-up visit in two weeks to reassess his respiratory status and overall progress.
+- Educate the mother on recognizing signs of asthma exacerbation and reinforcing the asthma action plan while ensuring complete understanding of the medication and treatment protocols.

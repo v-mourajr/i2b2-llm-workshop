@@ -1,0 +1,62 @@
+Visit Information:
+- Patient Num: 1000000038
+- Visit Date: 08/04/2009
+
+This is a 32-year-old Asian male who has been receiving care at our clinic since September 15, 1997. Proficient in English, he presents today for follow-up regarding his asthma management.
+
+Subjective:
+The patient reports ongoing challenges with asthma, noting increased frequency and severity of symptoms over the past month. He describes nocturnal shortness of breath, dyspnea on exertion, and reliance on his Albuterol inhaler, which now provides only brief relief. Additionally, he experiences intermittent wheezing and a persistent cough.
+
+His history includes unspecified asthma without status asthmaticus and intrinsic asthma. He has experienced acute bronchitis, various upper respiratory infections, pharyngitis, and conditions that include nasal symptoms and persistent cough. Previous injuries include an ankle effusion, closed dislocation of a finger, as well as fractures and sprains in the lower extremities.
+
+He is currently on Albuterol Sulfate 4mg tablets for asthma, which he uses up to four times daily recently, and Desquam-X 10% gel for acne without any adverse effects. Living in a dormitory as a non-smoker, he denies any use of alcohol or recreational drugs and has no known allergies.
+
+His symptoms began intensifying about four weeks ago, with exacerbations largely nocturnal and induced by physical activity. He has attempted to limit outdoor activity to reduce allergen exposure, though this has provided minimal relief.
+
+Objective:
+Vital Signs:
+- Blood Pressure: 120/80 mmHg
+- Heart Rate: 82 bpm
+- Respiratory Rate: 20 breaths per minute
+- Temperature: 98.6°F
+- Oxygen Saturation: 95% on room air
+
+General Appearance: The patient appears well-nourished and in no acute distress but exhibits mild anxiety likely due to his breathing difficulties.
+
+Cardiovascular: Heart sounds are normal with no murmurs, rubs, or gallops. Peripheral pulses are strong and equal bilaterally.
+
+Respiratory: Mild use of accessory muscles observed. Diminished breath sounds bilaterally with diffuse expiratory wheezing noted. No rales or crackles are present.
+
+Abdomen: Soft, non-tender, non-distended with normoactive bowel sounds.
+
+Musculoskeletal: No swelling, deformities, or tenderness noted on joints. Full range of motion in all extremities.
+
+Neurological: Alert and oriented to person, place, and time. Cranial nerves II-XII intact. No abnormalities in motor and sensory examinations.
+
+Skin: Presence of facial acne without signs of infection or significant inflammation.
+
+Assessment:
+The patient's primary issue is an exacerbation of asthma. Contributing factors could include environmental triggers or insufficient control with current medication.
+
+Secondary assessment considers historical lower extremity injuries without current symptoms.
+
+Plan:
+1. Asthma Management:
+   - Increase Albuterol inhaler use to 2 puffs every 4 hours as needed.
+   - Start a low-dose inhaled corticosteroid such as Fluticasone for daily management.
+   - Educate the patient on proper inhaler technique and stress adherence to the regimen.
+   - Schedule a follow-up in 4 weeks to review asthma control and adjust treatment as necessary.
+   - Consider allergen testing and a possible referral to an allergist.
+
+2. Management of Lower Extremity Injuries:
+   - Continue with rest, elevation, and supportive footwear.
+   - Advise the patient to seek evaluation if new symptoms or worsening pain/swelling occur.
+
+3. General Health:
+   - Reinforce a healthy lifestyle and avoidance of asthma triggers.
+   - Educate the patient on recognizing signs of asthma exacerbation and seeking urgent care when needed.
+
+Follow-Up:
+Instruct the patient to monitor symptoms and contact the clinic if there is no improvement or if symptoms worsen. A follow-up appointment is scheduled for 4 weeks to reassess asthma management and overall health.
+
+The patient understands and agrees with the care plan. Educational materials on asthma management and proper inhaler use have been provided. The patient left the clinic in stable condition, without immediate distress.

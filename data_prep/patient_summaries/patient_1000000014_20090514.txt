@@ -1,0 +1,94 @@
+demographics
+patient_num: 1000000014  age: 55
+patient_num: 1000000014  sex: M
+patient_num: 1000000014  race: white
+patient_num: 1000000014  language: german
+patient_num: 1000000014  vital_status: alive
+patient_num: 1000000014  earliest fact: Apr 25 1997 12:00AM
+patient_num: 1000000014  latest fact: May 14 2009 12:00AM
+patient_num: 1000000014  range in days: 4402
+totals
+patient_num: 1000000014  distinct concepts: 88
+patient_num: 1000000014  total facts: 356
+patient_num: 1000000014  total encounters: 49
+patient_num: 1000000014  total asthma: 16
+descriptive
+patient_num: 1000000014  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 16
+patient_num: 1000000014  diagnosis code: ICD9:477.8  name: Allergic rhinitis due to other allergen  count: 1
+patient_num: 1000000014  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 16
+patient_num: 1000000014  diagnosis code: ICD9:427.31  name: Atrial fibrillation  count: 1
+patient_num: 1000000014  diagnosis code: ICD9:350.2  name: Atypical face pain  count: 1
+patient_num: 1000000014  diagnosis code: ICD9:216.4  name: Benign neoplasm of scalp and skin of neck  count: 2
+patient_num: 1000000014  diagnosis code: ICD9:216.9  name: Benign neoplasm of skin, site unspecified  count: 2
+patient_num: 1000000014  diagnosis code: ICD9:427.9  name: Cardiac dysrhythmia, unspecified  count: 1
+patient_num: 1000000014  diagnosis code: ICD9:37.34  name: Catheter ablation of lesion or tissues of heart  count: 1
+patient_num: 1000000014  diagnosis code: ICD9:472.0  name: Chronic rhinitis  count: 1
+patient_num: 1000000014  diagnosis code: ICD9:786.2  name: Cough  count: 1
+patient_num: 1000000014  diagnosis code: ICD9:110.1  name: Dermatophytosis of nail  count: 2
+patient_num: 1000000014  diagnosis code: ICD9:703.0  name: Ingrowing nail  count: 9
+patient_num: 1000000014  diagnosis code: ICD9:564.1  name: Irritable bowel syndrome  count: 1
+patient_num: 1000000014  diagnosis code: ICD9:780.7  name: Malaise and fatigue  count: 1
+patient_num: 1000000014  diagnosis code: ICD9:V04.8  name: Need for prophylactic vaccination and inoculation against influenza  count: 1
+patient_num: 1000000014  diagnosis code: ICD9:300.4  name: Neurotic depression  count: 1
+patient_num: 1000000014  diagnosis code: ICD9:786.09  name: Other dyspnea and respiratory abnormality  count: 2
+patient_num: 1000000014  diagnosis code: ICD9:780.52  name: Other insomnia  count: 1
+patient_num: 1000000014  diagnosis code: ICD9:V50.1  name: Other plastic surgery for unacceptable cosmetic appearance  count: 1
+patient_num: 1000000014  diagnosis code: ICD9:427.89  name: Other specified cardiac dysrhythmias  count: 2
+patient_num: 1000000014  diagnosis code: ICD9:427.0  name: Paroxysmal supraventricular tachycardia  count: 1
+patient_num: 1000000014  diagnosis code: ICD9:427.1  name: Paroxysmal ventricular tachycardia  count: 1
+patient_num: 1000000014  diagnosis code: ICD9:V12.72  name: Personal history of colonic polyps  count: 1
+patient_num: 1000000014  diagnosis code: ICD9:86.23  name: Removal of nail, nail bed, or nail fold  count: 1
+patient_num: 1000000014  diagnosis code: ICD9:706.2  name: Sebaceous cyst  count: 4
+patient_num: 1000000014  diagnosis code: ICD9:401.9  name: Unspecified essential hypertension  count: 1
+patient_num: 1000000014  diagnosis code: ICD9:701.9  name: Unspecified hypertrophic and atrophic conditions of skin  count: 3
+patient_num: 1000000014  diagnosis code: ICD9:473.9  name: Unspecified sinusitis (chronic)  count: 1
+patient_num: 1000000014  medication code: NDC:00456016410  name: Almora 500mg tablet Forest Pharmaceuticals  count: 4
+patient_num: 1000000014  medication code: NDC:00536329736  name: Aspirin 81mg tablet chewable Watson/Rugby Laboratories Inc  count: 8
+patient_num: 1000000014  medication code: NDC:10019002805  name: Midazolam Hydrochloride 1 mg/ml solution Baxter Pharmaceutical Products Inc  count: 3
+patient_num: 1000000014  medication code: NDC:10019001301  name: Propofol 10 mg/ml suspension Baxter Pharmaceutical Products Inc  count: 3
+patient_num: 1000000014  laboratory code: LOINC:704-7  name: Abs Basos Auto (Group:ABASOS)  count: 2
+patient_num: 1000000014  laboratory code: LOINC:711-2  name: Abs EOS Auto (Group:AEOS)  count: 3
+patient_num: 1000000014  laboratory code: LOINC:731-0  name: Abs Lymphs Auto (Group:ALYMPHS)  count: 3
+patient_num: 1000000014  laboratory code: LOINC:742-7  name: Abs Monos Auto (Group:AMONOS)  count: 3
+patient_num: 1000000014  laboratory code: LOINC:752-6  name: Abs Neuts Auto (Group:ANEUTS)  count: 3
+patient_num: 1000000014  laboratory code: LOINC:1751-7  name: Albumin (Group:ALB)  count: 2
+patient_num: 1000000014  laboratory code: LOINC:1742-6  name: ALT (SGPT) (Group:SGPT)  count: 2
+patient_num: 1000000014  laboratory code: LOINC:10466-1  name: Anion Gap (Group:ANION)  count: 2
+patient_num: 1000000014  laboratory code: LOINC:1920-8  name: AST (SGOT) (Group:SGOT)  count: 2
+patient_num: 1000000014  laboratory code: LOINC:706-2  name: Basophils - Auto (Group:BASOS)  count: 2
+patient_num: 1000000014  laboratory code: LOINC:3094-0  name: Blood Urea Nitrogen (Group:BUN)  count: 2
+patient_num: 1000000014  laboratory code: LOINC:2000-8  name: Calcium (Group:CA)  count: 2
+patient_num: 1000000014  laboratory code: LOINC:2028-9  name: Carbon Dioxide (Group:CO2)  count: 2
+patient_num: 1000000014  laboratory code: LOINC:2075-0  name: Chloride (Group:CL)  count: 2
+patient_num: 1000000014  laboratory code: LOINC:2093-3  name: Cholesterol (Group:CHOL)  count: 1
+patient_num: 1000000014  laboratory code: LOINC:2160-0  name: Creatinine (Group:CRE)  count: 2
+patient_num: 1000000014  laboratory code: LOINC:1968-7  name: Direct Bilirubin (Group:DBILI)  count: 4
+patient_num: 1000000014  laboratory code: LOINC:713-8  name: Eosinophils - Auto (Group:EOS)  count: 2
+patient_num: 1000000014  laboratory code: LOINC:4537-7  name: ESR (Group:ESR)  count: 2
+patient_num: 1000000014  laboratory code: LOINC:2336-6  name: Globulin (Group:GLOB)  count: 2
+patient_num: 1000000014  laboratory code: LOINC:6777-7  name: Glucose (Group:GLU)  count: 2
+patient_num: 1000000014  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 6
+patient_num: 1000000014  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 6
+patient_num: 1000000014  laboratory code: LOINC:2462-0  name: IgE (Group:IGE)  count: 3
+patient_num: 1000000014  laboratory code: LOINC:2532-0  name: LDH (Group:LDH)  count: 2
+patient_num: 1000000014  laboratory code: LOINC:736-9  name: Lymphocytes - Auto (Group:LYMPHS)  count: 3
+patient_num: 1000000014  laboratory code: LOINC:11554-3  name: Magnesium (Group:MG)  count: 1
+patient_num: 1000000014  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 6
+patient_num: 1000000014  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 6
+patient_num: 1000000014  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 6
+patient_num: 1000000014  laboratory code: LOINC:5905-5  name: Monocytes - Auto (Group:MONOS)  count: 3
+patient_num: 1000000014  laboratory code: LOINC:770-8  name: Neutrophils - Auto (Group:POLYS)  count: 3
+patient_num: 1000000014  laboratory code: LOINC:2777-1  name: Phosphorus (Group:PHOS)  count: 1
+patient_num: 1000000014  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 6
+patient_num: 1000000014  laboratory code: LOINC:2823-3  name: Potassium (Group:K)  count: 2
+patient_num: 1000000014  laboratory code: LOINC:5902-2  name: PT (Group:PT)  count: 1
+patient_num: 1000000014  laboratory code: LOINC:6301-6  name: PT-INR (Group:PT-INR)  count: 1
+patient_num: 1000000014  laboratory code: LOINC:5898-2  name: PTT (Group:PTT)  count: 1
+patient_num: 1000000014  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 6
+patient_num: 1000000014  laboratory code: LOINC:788-0  name: RDW (Group:RDW)  count: 5
+patient_num: 1000000014  laboratory code: LOINC:2951-2  name: Sodium (Group:NA)  count: 2
+patient_num: 1000000014  laboratory code: LOINC:1975-2  name: Total Bilirubin (Group:TBILI)  count: 4
+patient_num: 1000000014  laboratory code: LOINC:2885-2  name: Total Protein (Group:TP)  count: 2
+patient_num: 1000000014  laboratory code: LOINC:2571-8  name: Triglycerides (Group:TRIG)  count: 1
+patient_num: 1000000014  laboratory code: LOINC:3084-1  name: Uric Acid (Group:URIC)  count: 1
+patient_num: 1000000014  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 6

@@ -1,0 +1,49 @@
+**Visit Information:**
+- Patient Num: 1000000126
+- Visit Date: 12/30/1998
+
+This is a 7-year-old Indian male who presents today for follow-up after experiencing worsening asthma symptoms. He has been receiving care at our clinic for approximately 15 months and is currently accompanied by his parents. The patient speaks German fluently, facilitated by his parents during communication.
+
+**Subjective:**
+The patient reports increased episodes of wheezing and shortness of breath over the last week, especially noted during physical activity. His mother mentioned that he had a slight cough and nasal congestion that possibly triggered his asthma exacerbation. He also experienced a minor toe injury while playing last week but has no current complaints related to that. There is a history of asthmatic episodes which have been manageable with his current medication regimen but recent symptoms warranted this visit.
+
+Past medical history includes a previous diagnosis of asthma unspecified without mention of status asthmaticus and an adjustment reaction with mixed emotional features. The patient was also seen a few months ago for enterobiasis and an episode of otitis media. He is up to date with his routine medical exams.
+
+Currently, the patient is on a bronchodilator inhaler used as needed, which has shown moderate effectiveness. Other medications include over-the-counter saline nasal spray. He has no known drug allergies.
+
+**Objective:**
+- Vital Signs:
+  - Blood Pressure: 100/60 mmHg
+  - Heart Rate: 98 beats per minute
+  - Respiratory Rate: 24 breaths per minute
+  - Temperature: 37.2°C
+  - Oxygen Saturation: 96% on room air
+
+- General Appearance: The child appears well-nourished and in no acute distress but seems slightly fatigued.
+- Cardiovascular: Regular rate and rhythm, no murmurs, gallops, or rubs.
+- Respiratory: Mild intercostal retractions noted. Expiratory wheezing present in all lung fields. Diminished air entry bilaterally without crackles or rhonchi.
+- Abdomen: Soft, non-tender, no organomegaly.
+- Musculoskeletal: Full range of motion in all extremities, slight bruising noted on the right great toe, otherwise no deformities or signs of acute injury.
+- Neurological: Alert and oriented, no focal deficits.
+- Skin: No rashes or abnormal lesions.
+
+**Assessment:**
+- Primary diagnosis is asthma, unspecified without status asthmaticus, currently symptomatic with increased frequency of exacerbations.
+- Adjustment reaction with mixed emotional features, stable and not presently affecting appetite or sleep significantly.
+- Recent contusion of the toe, currently healing without complications.
+- Historically treated enterobiasis, with no ongoing symptoms or infectious concerns.
+- Stable status following recent routine general medical examinations.
+- Episode of unspecified otitis media, resolved without recurrence.
+
+**Plan:**
+- Continue current bronchodilator inhaler regimen. Add an inhaled corticosteroid for daily preventive management, instruct parents on the correct use of the inhaler.
+- Encourage the use of a peak flow meter to monitor lung function at home.
+- Follow up in one month to assess the response to the new inhaler regimen. Consider referral to a pediatric pulmonologist if symptoms do not improve.
+- Educate the family on identifying asthma triggers and implementing environmental modifications to reduce exposure.
+- Maintain support for adjustment disorder, encourage ongoing engagement in structured activities and family bonding time to improve emotional well-being.
+- No further intervention needed for toe contusion at this time, continue monitoring for any changes.
+- Instruct the parents to monitor for any signs of ear infections and to seek care promptly if the patient displays symptoms.
+- Reinforce importance of adherence to routine check-ups and vaccinations.
+
+**Follow-Up:**
+Instruct the patient and parents to contact the clinic if symptoms worsen or do not improve within a week, or if the new inhaler regimen causes any adverse reactions. The patient’s parents were educated about the signs of an asthma attack and the importance of adherence to the treatment plan and they verbalize an understanding. Follow-up in one month or sooner if needed.

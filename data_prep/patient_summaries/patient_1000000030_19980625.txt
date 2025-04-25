@@ -1,0 +1,106 @@
+demographics
+patient_num: 1000000030  age: 6
+patient_num: 1000000030  sex: F
+patient_num: 1000000030  race: black
+patient_num: 1000000030  language: spanish
+patient_num: 1000000030  vital_status: alive
+patient_num: 1000000030  earliest fact: Feb 24 1998 12:00AM
+patient_num: 1000000030  latest fact: Jun 25 1998 12:00AM
+patient_num: 1000000030  range in days: 121
+totals
+patient_num: 1000000030  distinct concepts: 45
+patient_num: 1000000030  total facts: 90
+patient_num: 1000000030  total encounters: 8
+patient_num: 1000000030  total asthma: 3
+descriptive
+patient_num: 1000000030  asthma code: ICD9:493.91  name: Asthma, unspecified type, with status asthmaticus  count: 1
+patient_num: 1000000030  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 2
+patient_num: 1000000030  diagnosis code: ICD9:466.1  name: Acute bronchiolitis  count: 1
+patient_num: 1000000030  diagnosis code: ICD9:465.9  name: Acute upper respiratory infections of unspecified site  count: 1
+patient_num: 1000000030  diagnosis code: ICD9:493.91  name: Asthma, unspecified type, with status asthmaticus  count: 1
+patient_num: 1000000030  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 2
+patient_num: 1000000030  diagnosis code: ICD9:276.8  name: Hypopotassemia  count: 1
+patient_num: 1000000030  diagnosis code: ICD9:079.89  name: Other specified viral infection in conditions classified elsewhere and of unspecified site  count: 1
+patient_num: 1000000030  laboratory code: LOINC:764-1  name: Bands - Manual (Group:BAND)  count: 1
+patient_num: 1000000030  laboratory code: LOINC:707-0  name: Basophils - Manual (Group:BASO)  count: 1
+patient_num: 1000000030  laboratory code: LOINC:3094-0  name: Blood Urea Nitrogen (Group:BUN)  count: 2
+patient_num: 1000000030  laboratory code: LOINC:2020-6  name: Capillary PCO2 (Group:CPCO2)  count: 1
+patient_num: 1000000030  laboratory code: LOINC:2745-8  name: Capillary pH (Group:CPH)  count: 1
+patient_num: 1000000030  laboratory code: LOINC:2704-5  name: Capillary PO2 (Group:CPO2)  count: 1
+patient_num: 1000000030  laboratory code: LOINC:2075-0  name: Chloride (Group:CL)  count: 2
+patient_num: 1000000030  laboratory code: LOINC:2160-0  name: Creatinine (Group:CRE)  count: 2
+patient_num: 1000000030  laboratory code: LOINC:714-6  name: Eosinophils - Manual (Group:EO)  count: 1
+patient_num: 1000000030  laboratory code: LOINC:3151-8  name: FIO2 (Group:FIO2)  count: 2
+patient_num: 1000000030  laboratory code: LOINC:6777-7  name: Glucose (Group:GLU)  count: 2
+patient_num: 1000000030  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 1
+patient_num: 1000000030  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 1
+patient_num: 1000000030  laboratory code: LOINC:737-7  name: Lymphocytes - Manual (Group:LYMPH)  count: 1
+patient_num: 1000000030  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 1
+patient_num: 1000000030  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 1
+patient_num: 1000000030  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 1
+patient_num: 1000000030  laboratory code: LOINC:744-3  name: Monocytes - Manual (Group:MONO)  count: 1
+patient_num: 1000000030  laboratory code: LOINC:769-0  name: Neutrophils - Manual (Group:POLY)  count: 1
+patient_num: 1000000030  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 1
+patient_num: 1000000030  laboratory code: LOINC:9317-9  name: PLT Estimate (Group:PLTEST)  count: 1
+patient_num: 1000000030  laboratory code: LOINC:2823-3  name: Potassium (Group:K)  count: 2
+patient_num: 1000000030  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 1
+patient_num: 1000000030  laboratory code: LOINC:6742-1  name: RBC Morph Manual (Group:RCM-M)  count: 1
+patient_num: 1000000030  laboratory code: LOINC:2951-2  name: Sodium (Group:NA)  count: 2
+patient_num: 1000000030  laboratory code: LOINC:1959-6  name: Unspecified HCO3 (Group:HC03)  count: 2
+patient_num: 1000000030  laboratory code: LOINC:2021-4  name: Venous PCO2 (Group:VPCO2)  count: 1
+patient_num: 1000000030  laboratory code: LOINC:2746-6  name: Venous pH (Group:VPH)  count: 1
+patient_num: 1000000030  laboratory code: LOINC:2705-2  name: Venous PO2 (Group:VPO2)  count: 1
+patient_num: 1000000030  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 1
+demographics
+patient_num: 1000000030  age: 9
+patient_num: 1000000030  sex: F
+patient_num: 1000000030  race: black
+patient_num: 1000000030  language: spanish
+patient_num: 1000000030  vital_status: alive
+patient_num: 1000000030  earliest fact: Feb 24 1998 12:00AM
+patient_num: 1000000030  latest fact: Jun 25 1998 12:00AM
+patient_num: 1000000030  range in days: 121
+totals
+patient_num: 1000000030  distinct concepts: 45
+patient_num: 1000000030  total facts: 90
+patient_num: 1000000030  total encounters: 8
+patient_num: 1000000030  total asthma: 3
+descriptive
+patient_num: 1000000030  asthma code: ICD9:493.91  name: Asthma, unspecified type, with status asthmaticus  count: 1
+patient_num: 1000000030  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 2
+patient_num: 1000000030  diagnosis code: ICD9:466.1  name: Acute bronchiolitis  count: 1
+patient_num: 1000000030  diagnosis code: ICD9:465.9  name: Acute upper respiratory infections of unspecified site  count: 1
+patient_num: 1000000030  diagnosis code: ICD9:493.91  name: Asthma, unspecified type, with status asthmaticus  count: 1
+patient_num: 1000000030  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 2
+patient_num: 1000000030  diagnosis code: ICD9:276.8  name: Hypopotassemia  count: 1
+patient_num: 1000000030  diagnosis code: ICD9:079.89  name: Other specified viral infection in conditions classified elsewhere and of unspecified site  count: 1
+patient_num: 1000000030  laboratory code: LOINC:764-1  name: Bands - Manual (Group:BAND)  count: 1
+patient_num: 1000000030  laboratory code: LOINC:707-0  name: Basophils - Manual (Group:BASO)  count: 1
+patient_num: 1000000030  laboratory code: LOINC:3094-0  name: Blood Urea Nitrogen (Group:BUN)  count: 2
+patient_num: 1000000030  laboratory code: LOINC:2020-6  name: Capillary PCO2 (Group:CPCO2)  count: 1
+patient_num: 1000000030  laboratory code: LOINC:2745-8  name: Capillary pH (Group:CPH)  count: 1
+patient_num: 1000000030  laboratory code: LOINC:2704-5  name: Capillary PO2 (Group:CPO2)  count: 1
+patient_num: 1000000030  laboratory code: LOINC:2075-0  name: Chloride (Group:CL)  count: 2
+patient_num: 1000000030  laboratory code: LOINC:2160-0  name: Creatinine (Group:CRE)  count: 2
+patient_num: 1000000030  laboratory code: LOINC:714-6  name: Eosinophils - Manual (Group:EO)  count: 1
+patient_num: 1000000030  laboratory code: LOINC:3151-8  name: FIO2 (Group:FIO2)  count: 2
+patient_num: 1000000030  laboratory code: LOINC:6777-7  name: Glucose (Group:GLU)  count: 2
+patient_num: 1000000030  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 1
+patient_num: 1000000030  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 1
+patient_num: 1000000030  laboratory code: LOINC:737-7  name: Lymphocytes - Manual (Group:LYMPH)  count: 1
+patient_num: 1000000030  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 1
+patient_num: 1000000030  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 1
+patient_num: 1000000030  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 1
+patient_num: 1000000030  laboratory code: LOINC:744-3  name: Monocytes - Manual (Group:MONO)  count: 1
+patient_num: 1000000030  laboratory code: LOINC:769-0  name: Neutrophils - Manual (Group:POLY)  count: 1
+patient_num: 1000000030  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 1
+patient_num: 1000000030  laboratory code: LOINC:9317-9  name: PLT Estimate (Group:PLTEST)  count: 1
+patient_num: 1000000030  laboratory code: LOINC:2823-3  name: Potassium (Group:K)  count: 2
+patient_num: 1000000030  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 1
+patient_num: 1000000030  laboratory code: LOINC:6742-1  name: RBC Morph Manual (Group:RCM-M)  count: 1
+patient_num: 1000000030  laboratory code: LOINC:2951-2  name: Sodium (Group:NA)  count: 2
+patient_num: 1000000030  laboratory code: LOINC:1959-6  name: Unspecified HCO3 (Group:HC03)  count: 2
+patient_num: 1000000030  laboratory code: LOINC:2021-4  name: Venous PCO2 (Group:VPCO2)  count: 1
+patient_num: 1000000030  laboratory code: LOINC:2746-6  name: Venous pH (Group:VPH)  count: 1
+patient_num: 1000000030  laboratory code: LOINC:2705-2  name: Venous PO2 (Group:VPO2)  count: 1
+patient_num: 1000000030  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 1

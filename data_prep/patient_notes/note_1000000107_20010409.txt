@@ -1,0 +1,65 @@
+# Physician’s Note 
+Visit Information:
+- Patient Num: 1000000107
+- Visit Date: 04/09/2001
+
+## Subjective:
+This is a 22-year-old Hispanic male who has been receiving care at our clinic over the last four years, primarily speaking German. He presents for a routine general medical examination with complaints of recurring abdominal discomfort and loose stools for the past week. Additionally, he has noticed the recurrence of a generalized erythematous rash. The patient denies any recent fevers, chills, night sweats, or respiratory symptoms.
+
+He has a notable medical history of recurrent noninfectious gastroenteritis, unspecified upper respiratory infections, developmental learning difficulties, scarlet fever, and a history of a wrist sprain. He is not taking any herbal supplements, and his current medications include over-the-counter antacids for gastrointestinal relief and topical antihistamines for his skin rash, though these provide only partial relief. 
+
+He is a college student living in a dormitory, non-smoker, and does not use alcohol or recreational drugs. He stays active by participating in his college's soccer team. He reports an allergy to penicillin, which results in hives.
+
+The onset of his abdominal pain was a week ago, described as dull and crampy primarily in the lower abdomen, exacerbated by food intake, and somewhat alleviated by antacids. His intermittent rash is itchy and erythematous, previously exacerbated by episodes of scarlet fever.
+
+## Objective:
+### Vital Signs:
+- Blood Pressure: 118/76 mmHg
+- Heart Rate: 72 beats/min
+- Respiratory Rate: 16 breaths/min
+- Temperature: 37.0°C (98.6°F)
+- Oxygen Saturation: 98% on room air
+
+### General Appearance:
+The patient appears well-nourished, alert, and in no acute distress.
+
+### Cardiovascular:
+Regular rate and rhythm without murmurs, gallops, or rubs.
+
+### Respiratory:
+Clear to auscultation bilaterally with no wheezes, rales, or rhonchi.
+
+### Abdomen:
+Soft with mild tenderness to palpation in the lower quadrants; no rebound tenderness or guarding was noted. Bowel sounds were active, and there was no organomegaly or palpable masses.
+
+### Musculoskeletal:
+Full range of motion in all extremities. The previously sprained wrist shows no deformities, swelling, or instability.
+
+### Neurological:
+Patient is alert and oriented to person, place, and time. Cranial nerves II-XII are intact, and no focal neurological deficits were identified.
+
+### Skin:
+An erythematous maculopapular rash is noted on the chest and back. The lesions are non-draining. The remainder of the skin examination was unremarkable.
+
+## Assessment:
+Patient's clinical presentation is consistent with recurrent noninfectious gastroenteritis, characterized by chronic gastrointestinal symptoms, and an erythematous rash potentially linked to systemic infections or medication allergies. Additionally, ongoing developmental learning difficulties are identified as a persistent yet non-acute issue.
+
+## Plan:
+### 1. Recurrent Noninfectious Gastroenteritis:
+- Continue current use of antacids.
+- Initiate a trial of a proton pump inhibitor.
+- Advise consumption of a bland diet and ensure adequate hydration.
+- Consider referral to a gastroenterologist if symptoms persist beyond two weeks.
+
+### 2. Erythematous Skin Rash:
+- Maintain use of topical antihistamines.
+- Introduce a short course of low-potency corticosteroid cream.
+- Instruct the patient to avoid known allergens and triggers.
+- Arrange a follow-up with dermatology if rash persists or worsens.
+
+### 3. Developmental Learning Difficulties:
+- Continue support with educational resources available through the patient's college.
+- Refer to a learning specialist for further evaluation and tailored management strategies.
+
+## Follow-Up:
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate the need for further evaluation. Laboratory findings will be reviewed during the next visit, and the effectiveness of new treatments will be reassessed. Patient education included understanding the new medication regimen and recognizing alarm symptoms that warrant immediate medical attention.

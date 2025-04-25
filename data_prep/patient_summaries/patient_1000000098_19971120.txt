@@ -1,0 +1,30 @@
+demographics
+patient_num: 1000000098  age: 13
+patient_num: 1000000098  sex: F
+patient_num: 1000000098  race: asian
+patient_num: 1000000098  language: english
+patient_num: 1000000098  vital_status: alive
+patient_num: 1000000098  earliest fact: Nov  7 1997 12:00AM
+patient_num: 1000000098  latest fact: Nov 20 1997 12:00AM
+patient_num: 1000000098  range in days: 13
+totals
+patient_num: 1000000098  distinct concepts: 26
+patient_num: 1000000098  total facts: 35
+patient_num: 1000000098  total encounters: 3
+descriptive
+patient_num: 1000000098  diagnosis code: ICD9:965.4  name: Poisoning by aromatic analgesics, not elsewhere classified  count: 1
+patient_num: 1000000098  laboratory code: LOINC:1751-7  name: Albumin (Group:ALB)  count: 1
+patient_num: 1000000098  laboratory code: LOINC:1920-8  name: AST (SGOT) (Group:SGOT)  count: 1
+patient_num: 1000000098  laboratory code: LOINC:1968-7  name: Direct Bilirubin (Group:DBILI)  count: 2
+patient_num: 1000000098  laboratory code: LOINC:4537-7  name: ESR (Group:ESR)  count: 1
+patient_num: 1000000098  laboratory code: LOINC:2336-6  name: Globulin (Group:GLOB)  count: 1
+patient_num: 1000000098  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 1
+patient_num: 1000000098  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 1
+patient_num: 1000000098  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 1
+patient_num: 1000000098  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 1
+patient_num: 1000000098  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 1
+patient_num: 1000000098  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 1
+patient_num: 1000000098  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 1
+patient_num: 1000000098  laboratory code: LOINC:1975-2  name: Total Bilirubin (Group:TBILI)  count: 2
+patient_num: 1000000098  laboratory code: LOINC:2885-2  name: Total Protein (Group:TP)  count: 1
+patient_num: 1000000098  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 1

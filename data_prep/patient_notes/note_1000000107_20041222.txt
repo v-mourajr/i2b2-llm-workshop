@@ -1,0 +1,64 @@
+Visit Information:
+- Patient Num: 1000000107
+- Visit Date: 12/22/2004
+
+Subjective:
+This is a 25-year-old Hispanic male who has been under our care for the last several years. He primarily speaks German and presents today for a routine follow-up visit. The patient reports ongoing abdominal discomfort with loose stools for the past week, which has been a recurrent issue. Additionally, he has observed the return of a generalized erythematous rash. He denies recent fevers, chills, night sweats, or respiratory complaints. 
+
+His past medical history includes recurrent noninfectious gastroenteritis, unspecified upper respiratory tract infections, developmental learning difficulties, scarlet fever, wrist sprain, and an aneurysm of the heart. He currently manages his symptoms with over-the-counter antacids and topical antihistamines, although he finds only partial relief from these treatments. 
+
+The patient is a full-time college student residing in a dormitory. He has an active lifestyle, playing soccer as part of his college's team. He does not smoke, use alcohol, or recreational drugs. The patient has a known allergy to penicillin, which causes hives.
+
+Regarding his current symptoms, the abdominal pain started a week ago as a dull, crampy sensation in the lower abdomen, worsened by eating and somewhat alleviated by antacids. The intermittent rash is itchy and erythematous, previously exacerbated during episodes of scarlet fever. 
+
+Objective:
+### Vital Signs:
+- Blood Pressure: 122/78 mmHg
+- Heart Rate: 75 beats/min
+- Respiratory Rate: 18 breaths/min
+- Temperature: 36.9°C (98.4°F)
+- Oxygen Saturation: 99% on room air
+
+### General Appearance:
+The patient appears well-developed, well-nourished, and in no acute distress. He is alert and cooperative during the examination.
+
+### Cardiovascular:
+Normal S1 and S2 heart sounds with no murmurs, rubs, or gallops. The regular rhythm and equal peripheral pulses.
+
+### Respiratory:
+Clear lung fields bilaterally. No wheezing, rhonchi, or crackles detected during auscultation.
+
+### Abdomen:
+Soft, non-distended with mild tenderness upon palpation of the lower quadrants. No rebound tenderness, guarding, hepatomegaly or splenomegaly. Active bowel sounds present in all four quadrants.
+
+### Musculoskeletal:
+Normal range of motion in all extremities. The previously sprained wrist appears without swelling, deformities, or instability.
+
+### Neurological:
+The patient is alert, oriented to person, place, and time. Cranial nerves II-XII are intact. Motor and sensory functions are within normal limits. Deep tendon reflexes are 2+ and symmetrical.
+
+### Skin:
+Presence of an erythematous maculopapular rash on the chest and back; the lesions are non-draining. No other skin abnormalities noted.
+
+Assessment:
+The patient’s presentation suggests chronic recurrent noninfectious gastroenteritis, characterized by ongoing gastrointestinal distress and loose stools. There is also an erythematous rash which may be related to previous infections or an allergic response. Additionally, developmental learning difficulties are a chronic but non-acute issue.
+
+Plan:
+### 1. Recurrent Noninfectious Gastroenteritis:
+- Continue current use of antacids.
+- Start a trial with a proton pump inhibitor for better symptom control.
+- Recommend a bland diet and ensure adequate hydration.
+- If symptoms persist, consider referral to a gastroenterologist.
+
+### 2. Erythematous Skin Rash:
+- Continue topical antihistamines.
+- Prescribe a short course of low-potency corticosteroid cream.
+- Advise avoidance of known allergens and skin irritants.
+- Schedule follow-up with dermatology if the rash does not improve or gets worse.
+
+### 3. Developmental Learning Difficulties:
+- Maintain use of educational resources provided by the college.
+- Refer to a learning specialist for detailed evaluation and management.
+
+Follow-Up:
+The patient is instructed to contact the clinic if symptoms worsen or do not improve within a week or if further evaluation is indicated based on test results. Next visit includes reviewing laboratory findings and assessing the effectiveness of new interventions. Educated the patient on the new medication regimen and advised on recognizing warning signs requiring immediate medical attention.

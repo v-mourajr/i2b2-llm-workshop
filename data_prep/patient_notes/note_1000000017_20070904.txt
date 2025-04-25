@@ -1,0 +1,60 @@
+Visit Information:  
+- Patient Num: 1000000017  
+- Visit Date: 09/04/2007
+
+This is a 47-year-old Black male who has been receiving care at our clinic for the past ten years. He speaks English and presents today, September 4, 2007, for a follow-up visit primarily concerning his asthma and related chronic conditions.
+
+**Subjective:**
+The patient presents with complaints of persistent shortness of breath and wheezing that have worsened over the past month, particularly upon exposure to cold air and during increased physical activity. These symptoms have severely restricted his ability to perform his construction job. He reports that he has been using his albuterol inhaler five to six times daily, with partial relief. He denies experiencing any chest pain, fever, or a productive cough. Additionally, the patient reports joint pain and stiffness in his knees due to osteoarthrosis, which has been manageable but is exacerbated by prolonged standing and cold weather. The patient's history includes anemia, episodic bronchitis, and pneumonia. He acknowledges occasional feelings of malaise and fatigue, associated primarily with his pulmonary condition.
+
+The current medication regimen includes an albuterol inhaler, medium-dose inhaled corticosteroid, and acetaminophen for joint pain. He states that he has been compliant with his medication plan and reports no significant side effects. He is socially active, working in a construction environment that exposes him to respiratory irritants such as dust. He does not smoke and drinks alcohol socially. There are no known allergies.
+
+**Objective:**
+Vital Signs:
+- Blood Pressure: 130/85 mmHg
+- Heart Rate: 74 beats per minute
+- Respiratory Rate: 20 breaths per minute
+- Temperature: 98.4°F (36.9°C)
+- Oxygen Saturation: 92% on room air
+
+General Appearance: The patient is alert, oriented, and appears to be in mild respiratory distress.
+Cardiovascular: Regular heart rate and rhythm, no murmurs, gallops, or rubs detected.
+Respiratory: Bilateral expiratory wheezes heard on auscultation, moderate in intensity, with no use of accessory muscles. Lungs are clear to percussion.
+Abdomen: Soft, non-tender, non-distended, with no hepatosplenomegaly.
+Musculoskeletal: Mild tenderness over bilateral knees, no visible swelling or erythema. Full range of motion in all extremities, albeit with discomfort noted during the examination.
+Neurological: Cranial nerves intact, muscle strength 5/5 in all extremities, and no focal neurological deficits.
+Skin: Normal turgor, no rashes or lesions observed.
+
+Recent laboratory results show mild anemia with consistently slightly below normal levels of hemoglobin and hematocrit. Liver function tests (AST and bilirubin) within normal limits.
+
+**Assessment:**
+1. Asthma, unspecified without mention of status asthmaticus: The patient is experiencing an exacerbation, likely triggered by environmental factors.
+2. Anemia, unspecified: Persistent mild anemia, justifying regular monitoring.
+3. Osteoarthrosis, unspecified: Chronic joint pain, primarily affecting the knees, managed with analgesics.
+4. History of recurrent respiratory conditions: Includes bronchitis and pneumonia, necessitating ongoing vigilance.
+
+**Plan:**
+1. For asthma exacerbation:
+   - Increase the inhaled corticosteroid dose and continue with albuterol as needed.
+   - Add a daily leukotriene inhibitor (montelukast).
+   - Educate the patient on peak flow meter usage for monitoring lung function.
+   - Refer to pulmonology for potential addition of a long-acting bronchodilator and further management.
+   - Reiterate the importance of avoiding asthma triggers and adhering to medications.
+
+2. For anemia:
+   - Continue with routine CBC monitoring to track hemoglobin and hematocrit levels.
+   - Provide dietary advice to include iron-rich foods and discuss starting an oral iron supplement.
+
+3. For osteoarthrosis:
+   - Maintain acetaminophen for pain management, reassess if needed.
+   - Advocate for low-impact activities, possible referral to physical therapy for strength and joint protection exercises.
+
+4. For lung disease history:
+   - Schedule regular follow-up appointments to monitor respiratory status.
+   - Verify vaccination status, particularly influenza and pneumococcal vaccines.
+
+**Follow-Up:**
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week or if test results suggest further evaluation is necessary. Arrange a follow-up appointment in two weeks to reevaluate asthma management and repeat CBC in one month for reassessment of anemia.
+
+**Patient Education & Understanding of the Plan:**
+The patient received education on adhering to asthma medications and using a peak flow meter. He was advised to avoid known triggers and to recognize early signs of exacerbation. The patient demonstrated understanding and agreement with the treatment plan.

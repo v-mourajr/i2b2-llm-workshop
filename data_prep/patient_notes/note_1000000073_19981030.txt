@@ -1,0 +1,61 @@
+Visit Information:
+    - Patient Num: 1000000073
+    - Visit Date: 10/30/1998
+
+Subjective:
+This is a 31-year-old Hispanic male who has been receiving care at our clinic for general health maintenance. He is fluent in German and has a history of essential hypertension and a persistent cough. He presents today for a follow-up visit to address his hypertension and to review recent laboratory findings.
+
+The patient reports that his cough has been ongoing for the past three weeks, with no significant improvement. He has tried over-the-counter cough medications, which have provided minimal relief. He denies any recent fevers, chills, or night sweats. His hypertension has been managed with Lisinopril, 20 mg once daily, and he reports good adherence to this medication regimen without experiencing side effects.
+
+He lives alone in an apartment and works as a translator. He does not smoke, consumes alcohol socially, and denies any recreational drug use. He follows a relatively balanced diet but admits to occasional lapses in maintaining a low-sodium intake. There are no known allergies.
+
+Objective:
+Vital Signs:
+    - Blood Pressure: 145/92 mmHg
+    - Heart Rate: 82 beats per minute
+    - Respiratory Rate: 18 breaths per minute
+    - Temperature: 98.6°F (37°C)
+    - Oxygen Saturation: 98% on room air
+
+General Appearance:
+The patient appears well-nourished and in no acute distress.
+
+Cardiovascular:
+Regular rate and rhythm with no murmurs, rubs, or gallops. Peripheral pulses are 2+ bilaterally.
+
+Respiratory:
+Clear to auscultation bilaterally. No wheezes, crackles, or rhonchi noted. His cough is non-productive.
+
+Abdomen:
+Soft, non-tender, with no organomegaly. Bowel sounds are present and normal in all four quadrants.
+
+Musculoskeletal:
+No edema, cyanosis, or clubbing. Full range of motion in all extremities without pain.
+
+Neurological:
+Alert and oriented to person, place, and time. Cranial nerves II-XII intact. Muscle strength is 5/5 in all extremities. DTRs are 2+ and symmetrical.
+
+Skin:
+No rashes, lesions, or pallor. 
+
+Laboratory Findings:
+Recent laboratory tests indicate that his bilirubin, blood urea nitrogen (BUN), cholesterol, creatinine, glucose, HDL, LDL, and triglycerides levels are within normal limits. Urinalysis (UA) revealed normal color, pH, specific gravity, and no significant findings for ketones, nitrites, protein, urobilinogen, or WBC. Complete blood count also shows normal results for RBC, HGB, HCT, MCV, MCH, MCHC, PLT, and WBC.
+
+Assessment:
+The patient presents with essential hypertension and a persistent cough of undetermined etiology. Current management of hypertension with Lisinopril appears adequate, although blood pressure remains slightly elevated, possibly due to dietary factors.
+
+Plan:
+1. Hypertension:
+    - Continue current Lisinopril 20 mg daily.
+    - Reinforce dietary counseling focusing on low sodium intake.
+    - Schedule a follow-up appointment in 1 month to recheck blood pressure and reassess compliance with lifestyle changes.
+    - No additional referrals indicated at this time.
+  
+2. Cough:
+    - Recommend a trial of an antitussive, such as dextromethorphan, 20 mg every 4 hours as needed for cough.
+    - Advise increased fluid intake and usage of humidifier at night.
+    - If no improvement or if symptoms worsen, consider a chest X-ray and consultation with pulmonology.
+    - Monitor for new or concerning symptoms and provide follow-up instructions for emergent care if needed.
+
+Follow-Up:
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. Patient education was provided regarding the importance of medication adherence, dietary management of hypertension, and cough management strategies. The patient demonstrates understanding and agreement with the plan.

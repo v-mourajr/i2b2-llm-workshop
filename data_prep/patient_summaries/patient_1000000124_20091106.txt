@@ -1,0 +1,171 @@
+demographics
+patient_num: 1000000124  age: 33
+patient_num: 1000000124  sex: F
+patient_num: 1000000124  race: indian
+patient_num: 1000000124  language: spanish
+patient_num: 1000000124  vital_status: alive
+patient_num: 1000000124  earliest fact: Jun 25 2003 12:00AM
+patient_num: 1000000124  latest fact: Nov  6 2009 12:00AM
+patient_num: 1000000124  range in days: 2326
+totals
+patient_num: 1000000124  distinct concepts: 160
+patient_num: 1000000124  total facts: 623
+patient_num: 1000000124  total encounters: 117
+patient_num: 1000000124  total asthma: 34
+descriptive
+patient_num: 1000000124  asthma code: ICD9:493.92  name: Asthma, unspecified type, with acute exacerbation  count: 6
+patient_num: 1000000124  asthma code: ICD9:493.91  name: Asthma, unspecified type, with status asthmaticus  count: 1
+patient_num: 1000000124  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 17
+patient_num: 1000000124  asthma code: ICD9:493.02  name: Extrinsic asthma with acute exacerbation  count: 10
+patient_num: 1000000124  asthma code: ICD9:493.00  name: Extrinsic asthma without mention of status asthmaticus  count: 7
+patient_num: 1000000124  diagnosis code: ICD9:786.7  name: Abnormal chest sounds  count: 1
+patient_num: 1000000124  diagnosis code: ICD9:465.9  name: Acute upper respiratory infections of unspecified site  count: 1
+patient_num: 1000000124  diagnosis code: ICD9:477.0  name: Allergic rhinitis due to pollen  count: 7
+patient_num: 1000000124  diagnosis code: ICD9:995.3  name: Allergy, unspecified, not elsewhere classified  count: 1
+patient_num: 1000000124  diagnosis code: ICD9:995.1  name: Angioneurotic edema, not elsewhere classified  count: 3
+patient_num: 1000000124  diagnosis code: ICD9:755.67  name: Anomalies of foot, congenital, NEC  count: 2
+patient_num: 1000000124  diagnosis code: ICD9:80.26  name: Arthroscopy of knee  count: 1
+patient_num: 1000000124  diagnosis code: ICD9:493.92  name: Asthma, unspecified type, with acute exacerbation  count: 6
+patient_num: 1000000124  diagnosis code: ICD9:493.91  name: Asthma, unspecified type, with status asthmaticus  count: 1
+patient_num: 1000000124  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 17
+patient_num: 1000000124  diagnosis code: ICD9:85.32  name: Bilateral reduction mammoplasty  count: 1
+patient_num: 1000000124  diagnosis code: ICD9:490  name: Bronchitis, not specified as acute or chronic  count: 2
+patient_num: 1000000124  diagnosis code: ICD9:717.7  name: Chondromalacia of patella  count: 1
+patient_num: 1000000124  diagnosis code: ICD9:473.0  name: Chronic maxillary sinusitis  count: 2
+patient_num: 1000000124  diagnosis code: ICD9:472.0  name: Chronic rhinitis  count: 5
+patient_num: 1000000124  diagnosis code: ICD9:692.4  name: Contact dermatitis and other eczema due to other chemical products  count: 1
+patient_num: 1000000124  diagnosis code: ICD9:692.9  name: Contact dermatitis and other eczema, unspecified cause  count: 2
+patient_num: 1000000124  diagnosis code: ICD9:733.20  name: Cyst of bone (localized), unspecified  count: 1
+patient_num: 1000000124  diagnosis code: ICD9:717.2  name: Derangement of posterior horn of medial meniscus  count: 2
+patient_num: 1000000124  diagnosis code: ICD9:470  name: Deviated nasal septum  count: 1
+patient_num: 1000000124  diagnosis code: ICD9:782.3  name: Edema  count: 1
+patient_num: 1000000124  diagnosis code: ICD9:719.06  name: Effusion of lower leg joint  count: 2
+patient_num: 1000000124  diagnosis code: ICD9:V25.01  name: Encounter for general counseling on prescription of oral contraceptives  count: 1
+patient_num: 1000000124  diagnosis code: ICD9:V25.41  name: Encounter for surveillance of contraceptive pill  count: 2
+patient_num: 1000000124  diagnosis code: ICD9:V25.9  name: Encounter for unspecified contraceptive management  count: 1
+patient_num: 1000000124  diagnosis code: ICD9:784.7  name: Epistaxis  count: 3
+patient_num: 1000000124  diagnosis code: ICD9:493.02  name: Extrinsic asthma with acute exacerbation  count: 10
+patient_num: 1000000124  diagnosis code: ICD9:493.00  name: Extrinsic asthma without mention of status asthmaticus  count: 7
+patient_num: 1000000124  diagnosis code: ICD9:780.6  name: Fever  count: 1
+patient_num: 1000000124  diagnosis code: ICD9:784.0  name: Headache  count: 1
+patient_num: 1000000124  diagnosis code: ICD9:611.1  name: Hypertrophy of breast  count: 4
+patient_num: 1000000124  diagnosis code: ICD9:276.8  name: Hypopotassemia  count: 1
+patient_num: 1000000124  diagnosis code: ICD9:626.4  name: Irregular menstrual cycle  count: 1
+patient_num: 1000000124  diagnosis code: ICD9:V43.65  name: Knee joint replaced by other means  count: 1
+patient_num: 1000000124  diagnosis code: ICD9:626.6  name: Metrorrhagia  count: 2
+patient_num: 1000000124  diagnosis code: ICD9:729.1  name: Mylagia and myositis, unspecified  count: 2
+patient_num: 1000000124  diagnosis code: ICD9:300.4  name: Neurotic depression  count: 1
+patient_num: 1000000124  diagnosis code: ICD9:715.89  name: Osteoarthrosis involving or with mention of multiple sites, but not specified as generalized  count: 1
+patient_num: 1000000124  diagnosis code: ICD9:715.96  name: Osteoarthrosis, unspecified whether generalized or localized, involving lower leg  count: 1
+patient_num: 1000000124  diagnosis code: ICD9:616.4  name: Other abscess of vulva  count: 1
+patient_num: 1000000124  diagnosis code: ICD9:E928.8  name: Other accidents  count: 1
+patient_num: 1000000124  diagnosis code: ICD9:706.1  name: Other acne  count: 4
+patient_num: 1000000124  diagnosis code: ICD9:717.3  name: Other and unspecified derangement of medial meniscus  count: 1
+patient_num: 1000000124  diagnosis code: ICD9:648.93  name: Other current conditions classifiable elsewhere of mother, antepartum  count: 1
+patient_num: 1000000124  diagnosis code: ICD9:478.1  name: Other diseases of nasal cavity and sinuses  count: 1
+patient_num: 1000000124  diagnosis code: ICD9:709.09  name: Other dyschromia  count: 1
+patient_num: 1000000124  diagnosis code: ICD9:80.86  name: Other local excision or destruction of lesion of knee joint  count: 1
+patient_num: 1000000124  diagnosis code: ICD9:89.38  name: Other nonoperative respiratory measurements  count: 1
+patient_num: 1000000124  diagnosis code: ICD9:279.03  name: Other selective immunoglobulin deficiencies  count: 3
+patient_num: 1000000124  diagnosis code: ICD9:V70.8  name: Other specified general medical examinations  count: 2
+patient_num: 1000000124  diagnosis code: ICD9:V15.89  name: Other specified personal history presenting hazards to health  count: 1
+patient_num: 1000000124  diagnosis code: ICD9:836.2  name: Other tear of cartilage or meniscus of knee, current  count: 1
+patient_num: 1000000124  diagnosis code: ICD9:727.05  name: Other tenosynovitis or hand and wrist  count: 2
+patient_num: 1000000124  diagnosis code: ICD9:719.43  name: Pain in joint involving forearm  count: 1
+patient_num: 1000000124  diagnosis code: ICD9:719.46  name: Pain in joint involving lower leg  count: 4
+patient_num: 1000000124  diagnosis code: ICD9:729.5  name: Pain in limb  count: 5
+patient_num: 1000000124  diagnosis code: ICD9:727.83  name: Plica syndrome  count: 3
+patient_num: 1000000124  diagnosis code: ICD9:V22.2  name: Pregnant state, incidental  count: 3
+patient_num: 1000000124  diagnosis code: ICD9:93.94  name: Respiratory medication administered by nebulizer  count: 3
+patient_num: 1000000124  diagnosis code: ICD9:729.0  name: Rheumatism, unspecified and fibrositis  count: 1
+patient_num: 1000000124  diagnosis code: ICD9:V70.0  name: Routine general medical examination at a health care facility  count: 1
+patient_num: 1000000124  diagnosis code: ICD9:V72.31  name: Routine gynelogical exam  count: 2
+patient_num: 1000000124  diagnosis code: ICD9:709.2  name: Scar conditions and fibrosis of skin  count: 1
+patient_num: 1000000124  diagnosis code: ICD9:V76.2  name: Screening for malignant neoplasms of the cervix  count: 2
+patient_num: 1000000124  diagnosis code: ICD9:279.01  name: Selective IgA immunodeficiency  count: 1
+patient_num: 1000000124  diagnosis code: ICD9:786.05  name: Shortness of breath  count: 6
+patient_num: 1000000124  diagnosis code: ICD9:V72.3  name: Special investigations and examinations  count: 1
+patient_num: 1000000124  diagnosis code: ICD9:836.0  name: Tear of medial cartilage or meniscus of knee, current  count: 2
+patient_num: 1000000124  diagnosis code: ICD9:736.30  name: Unspecified acquired deformity of hip  count: 1
+patient_num: 1000000124  diagnosis code: ICD9:279.9  name: Unspecified disorder of immune mechanism  count: 1
+patient_num: 1000000124  diagnosis code: ICD9:V70.9  name: Unspecified general medical examination  count: 1
+patient_num: 1000000124  diagnosis code: ICD9:698.9  name: Unspecified pruritic disorder  count: 1
+patient_num: 1000000124  diagnosis code: ICD9:473.9  name: Unspecified sinusitis (chronic)  count: 3
+patient_num: 1000000124  diagnosis code: ICD9:845.10  name: Unspecified site of foot sprain  count: 1
+patient_num: 1000000124  diagnosis code: ICD9:599.0  name: Urinary tract infection, site not specified  count: 1
+patient_num: 1000000124  diagnosis code: ICD9:616.10  name: Vaginitis and vulvovaginitis, unspecified  count: 1
+patient_num: 1000000124  diagnosis code: ICD9:89.37  name: Vital capacity determination  count: 1
+patient_num: 1000000124  medication code: NDC:51079042020  name: Acetaminophen-Hydrocodone Bitartrate 500mg-5mg tablet UDL Laboratories Inc  count: 3
+patient_num: 1000000124  medication code: NDC:00005306343  name: Albuterol Sulfate 4mg tablet ESI Lederle Generics  count: 4
+patient_num: 1000000124  medication code: NDC:00536131019  name: Aminophylline 500mg suppository Watson/Rugby Laboratories Inc  count: 4
+patient_num: 1000000124  medication code: NDC:00037024110  name: Astelin 137 mcg/inh spray Wallace Laboratories  count: 4
+patient_num: 1000000124  medication code: NDC:39822020005  name: Baci-Rx 100% powder Pharma-Tek  count: 3
+patient_num: 1000000124  medication code: NDC:00364246533  name: Cefazolin Sodium 1gm powder for injection Schein Pharmaceuticals Inc  count: 4
+patient_num: 1000000124  medication code: NDC:00182602866  name: Clindamycin Topical 1% solution Zenith Goldline Pharmaceuticals  count: 8
+patient_num: 1000000124  medication code: NDC:00121042204  name: Codeine Phosphate-Guaifenesin 10mg-100 mg/5ml syrup Pharmaceutical Assoc Inc Div Beach Products  count: 3
+patient_num: 1000000124  medication code: NDC:00517970210  name: Droperidol 2.5 mg/ml solution American Regent Laboratories Inc  count: 3
+patient_num: 1000000124  medication code: NDC:00087607111  name: Glucophage 1000mg tablet Bristol-Myers Squibb  count: 4
+patient_num: 1000000124  medication code: NDC:62269025024  name: Hydroxychloroquine Sulfate 200mg tablet Apothecon Inc  count: 8
+patient_num: 1000000124  medication code: NDC:55390048110  name: Ketorolac Tromethamine 30 mg/ml solution Bedford Laboratories  count: 3
+patient_num: 1000000124  medication code: NDC:00009348404  name: Lunelle 5mg-25 mg/0.5ml suspension Pharmacia and Upjohn  count: 3
+patient_num: 1000000124  medication code: NDC:00006380106  name: Maxalt-MLT 10mg tablet disintegrating Merck & Co. Inc  count: 4
+patient_num: 1000000124  medication code: NDC:10019002805  name: Midazolam Hydrochloride 1 mg/ml solution Baxter Pharmaceutical Products Inc  count: 3
+patient_num: 1000000124  medication code: NDC:00052028106  name: Mircette biphasic tablet Organon  count: 3
+patient_num: 1000000124  medication code: NDC:00574711612  name: Morphine Sulfate 30mg suppository Paddock Laboratories Inc  count: 4
+patient_num: 1000000124  medication code: NDC:00062190315  name: Ortho Tri-Cyclen triphasic tablet Janssen Pharmaceuticals  count: 3
+patient_num: 1000000124  medication code: NDC:64011001411  name: Precare Conceive Prenatal Multivitamins tablet Ther-Rx Corporation  count: 6
+patient_num: 1000000124  medication code: NDC:63955001001  name: Preven EC 0.05mg-0.25mg tablet Gynetics Inc  count: 9
+patient_num: 1000000124  medication code: NDC:10019001301  name: Propofol 10 mg/ml suspension Baxter Pharmaceutical Products Inc  count: 3
+patient_num: 1000000124  medication code: NDC:00071018124  name: Pyridium 200mg tablet Parke-Davis  count: 4
+patient_num: 1000000124  medication code: NDC:00006027531  name: Singulair 5mg tablet chewable Merck & Co. Inc  count: 6
+patient_num: 1000000124  medication code: NDC:00641276641  name: Sulfamethoxazole-Trimethoprim 80mg-16 mg/ml solution ESI Lederle Generics  count: 4
+patient_num: 1000000124  medication code: NDC:00045064765  name: Topamax Sprinkle 15mg capsule Janssen Pharmaceuticals  count: 4
+patient_num: 1000000124  medication code: NDC:74312000580  name: Vitamin B-50 Vitamin B Complex tablet Nature's Bounty  count: 3
+patient_num: 1000000124  medication code: NDC:00173044702  name: Zofran 8mg tablet Glaxo Wellcome  count: 4
+patient_num: 1000000124  laboratory code: LOINC:704-7  name: Abs Basos Auto (Group:ABASOS)  count: 4
+patient_num: 1000000124  laboratory code: LOINC:711-2  name: Abs EOS Auto (Group:AEOS)  count: 4
+patient_num: 1000000124  laboratory code: LOINC:731-0  name: Abs Lymphs Auto (Group:ALYMPHS)  count: 4
+patient_num: 1000000124  laboratory code: LOINC:742-7  name: Abs Monos Auto (Group:AMONOS)  count: 4
+patient_num: 1000000124  laboratory code: LOINC:752-6  name: Abs Neuts Auto (Group:ANEUTS)  count: 4
+patient_num: 1000000124  laboratory code: LOINC:10466-1  name: Anion Gap (Group:ANION)  count: 2
+patient_num: 1000000124  laboratory code: LOINC:735-1  name: Atypical Lymphs (Group:ATYPS)  count: 2
+patient_num: 1000000124  laboratory code: LOINC:764-1  name: Bands - Manual (Group:BAND)  count: 2
+patient_num: 1000000124  laboratory code: LOINC:706-2  name: Basophils - Auto (Group:BASOS)  count: 4
+patient_num: 1000000124  laboratory code: LOINC:707-0  name: Basophils - Manual (Group:BASO)  count: 2
+patient_num: 1000000124  laboratory code: LOINC:3094-0  name: Blood Urea Nitrogen (Group:BUN)  count: 3
+patient_num: 1000000124  laboratory code: LOINC:2000-8  name: Calcium (Group:CA)  count: 1
+patient_num: 1000000124  laboratory code: LOINC:2028-9  name: Carbon Dioxide (Group:CO2)  count: 3
+patient_num: 1000000124  laboratory code: LOINC:2075-0  name: Chloride (Group:CL)  count: 3
+patient_num: 1000000124  laboratory code: LOINC:2093-3  name: Cholesterol (Group:CHOL)  count: 1
+patient_num: 1000000124  laboratory code: LOINC:2160-0  name: Creatinine (Group:CRE)  count: 3
+patient_num: 1000000124  laboratory code: LOINC:713-8  name: Eosinophils - Auto (Group:EOS)  count: 4
+patient_num: 1000000124  laboratory code: LOINC:714-6  name: Eosinophils - Manual (Group:EO)  count: 2
+patient_num: 1000000124  laboratory code: LOINC:2991-8  name: Free Testosterone (Group:FTES)  count: 1
+patient_num: 1000000124  laboratory code: LOINC:2286-3  name: FSH (Group:FSH,CH)  count: 1
+patient_num: 1000000124  laboratory code: LOINC:6777-7  name: Glucose (Group:GLU)  count: 3
+patient_num: 1000000124  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 6
+patient_num: 1000000124  laboratory code: LOINC:2086-7  name: HDL (Group:HDL)  count: 1
+patient_num: 1000000124  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 6
+patient_num: 1000000124  laboratory code: LOINC:728-6  name: Hypochromia (Group:HYPO)  count: 2
+patient_num: 1000000124  laboratory code: LOINC:736-9  name: Lymphocytes - Auto (Group:LYMPHS)  count: 4
+patient_num: 1000000124  laboratory code: LOINC:737-7  name: Lymphocytes - Manual (Group:LYMPH)  count: 2
+patient_num: 1000000124  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 6
+patient_num: 1000000124  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 6
+patient_num: 1000000124  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 6
+patient_num: 1000000124  laboratory code: LOINC:5905-5  name: Monocytes - Auto (Group:MONOS)  count: 4
+patient_num: 1000000124  laboratory code: LOINC:744-3  name: Monocytes - Manual (Group:MONO)  count: 2
+patient_num: 1000000124  laboratory code: LOINC:770-8  name: Neutrophils - Auto (Group:POLYS)  count: 4
+patient_num: 1000000124  laboratory code: LOINC:769-0  name: Neutrophils - Manual (Group:POLY)  count: 2
+patient_num: 1000000124  laboratory code: LOINC:774-0  name: Ovalocytes (Group:OVALS)  count: 1
+patient_num: 1000000124  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 6
+patient_num: 1000000124  laboratory code: LOINC:9317-9  name: PLT Estimate (Group:PLTEST)  count: 2
+patient_num: 1000000124  laboratory code: LOINC:779-9  name: Poikilocytosis (Group:POIK)  count: 1
+patient_num: 1000000124  laboratory code: LOINC:10378-8  name: Polychromasia (Group:POLYCH)  count: 1
+patient_num: 1000000124  laboratory code: LOINC:2823-3  name: Potassium (Group:K)  count: 3
+patient_num: 1000000124  laboratory code: LOINC:2842-3  name: Prolactin (Group:PRL)  count: 1
+patient_num: 1000000124  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 6
+patient_num: 1000000124  laboratory code: LOINC:788-0  name: RDW (Group:RDW)  count: 6
+patient_num: 1000000124  laboratory code: LOINC:2951-2  name: Sodium (Group:NA)  count: 3
+patient_num: 1000000124  laboratory code: LOINC:802-9  name: Spherocytes (Group:SPHERO)  count: 1
+patient_num: 1000000124  laboratory code: LOINC:3016-3  name: TSH (Group:TSH)  count: 1
+patient_num: 1000000124  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 6

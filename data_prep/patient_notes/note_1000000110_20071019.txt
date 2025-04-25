@@ -1,0 +1,47 @@
+**Visit Information:**
+- Patient Num: 1000000110
+- Visit Date: 10/19/2007
+
+**Subjective:**
+
+This is a 36-year-old Hispanic male fluent in German, who has been receiving care at our clinic since April 2001, presents today for follow-up. He reports having an increased frequency of asthma attacks, primarily nocturnal, over the past few weeks. Despite using his short-acting beta-agonist inhaler regularly, he also notes a decrease in its effectiveness and has experienced mild palpitations as a side effect. Furthermore, he reports a recent episode of abdominal pain localized to the left lower quadrant, which resolved spontaneously.
+
+The patient denies any recent upper respiratory infections or hospital admissions for asthma exacerbations within the past year. He currently remains compliant with his asthma medication regimen, which includes Combivent and Prednisone during severe episodes. He also takes Ibuprofen for occasional back pain and Vitamin B-50 supplementation. The patient has tried non-pharmacological interventions such as steam inhalation, with minimal relief.
+
+The patient's social history is significant for a non-smoker who abstains from alcohol, employed in an office environment with no known exposure to respiratory irritants. He has no known allergies. 
+
+**Objective:**
+- **Vital Signs:** Blood Pressure: 122/78 mmHg, Heart Rate: 88 bpm, Respiratory Rate: 20 breaths per minute, Temperature: 98.7°F, Oxygen Saturation: 97% on room air.
+- **General Appearance:** The patient appears well-nourished and in no acute distress.
+- **Cardiovascular:** Regular rate and rhythm. No murmurs, gallops, or rubs.
+- **Respiratory:** Bilateral expiratory wheezes noted, particularly at the bases. No rales or crackles present. No use of accessory muscles observed.
+- **Abdomen:** Abdomen soft, non-tender, with normal bowel sounds and no organomegaly.
+- **Musculoskeletal:** Full range of motion in all joints without tenderness or swelling.
+- **Neurological:** Alert and oriented × 3. Cranial nerves II-XII intact. Motor strength and tone are normal. Reflexes are 2+ and symmetric.
+- **Skin:** Multiple small hemangiomas noted on the upper arms and trunk, non-tender with no signs of inflammation.
+
+Laboratory evaluations from prior encounters include normal complete blood count and metabolic profile results. Electrolytes, renal function, and glucose levels were also within normal limits.
+
+**Assessment:**
+
+1. **Asthma**: Uncontrolled chronic asthma, with nocturnal exacerbations and decreased effectiveness of the short-acting beta-agonist inhaler.
+2. **Abdominal pain (LLQ)**: Likely to be non-specific and not currently problematic.
+3. **Cardiac symptoms**: Palpitations possibly due to overuse of short-acting beta-agonist inhaler.
+
+**Plan:**
+
+1. **Asthma**:
+    - Initiate a combined inhaled corticosteroid and long-acting beta-agonist (ICS/LABA) therapy to improve control, particularly nocturnally.
+    - Educate the patient on the proper use of the peak flow meter to monitor his asthma.
+    - Referral to pulmonology for further evaluation and potential long-term management.
+
+2. **Abdominal pain (LLQ)**:
+    - Monitor for recurrence or other symptoms. If persistent, consider abdominal imaging or further gastroenterological evaluation.
+
+3. **Cardiac symptoms**:
+    - Order an ECG to rule out arrhythmias caused by beta-agonist inhaler use.
+    - Educate the patient on the importance of not exceeding the recommended dosage of his inhaler.
+
+**Follow-Up:**
+
+Instruct the patient to contact the clinic if his symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. Schedule a follow-up appointment in two weeks for reassessment of asthma control and review of the ECG results. Patient education was provided regarding adherence to his new medication regimen and the correct use of the peak flow meter. Ensure understanding and agreement with the follow-up plan before discharge.

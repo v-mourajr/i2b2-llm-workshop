@@ -1,0 +1,53 @@
+### Visit Information:
+- **Patient Number**: 1000000011
+- **Visit Date**: December 17, 2004
+
+### Subjective:
+This is a 56-year-old White female who has been receiving care at our clinic for approximately six years. She speaks English and presents today for a routine follow-up due to her asthma and recent episodes of abdominal discomfort. The patient reports an increase in the frequency and severity of her asthma symptoms, including wheezing, shortness of breath, and chest tightness, particularly during physical exertion. Her rescue inhaler provides temporary relief; however, she has been experiencing notable fatigue over the past few weeks.
+
+The patient's medical history is significant for asthma, acute bronchitis, acute sinusitis, aspergillosis, and various gynecological conditions including carcinoma in situ of the cervix uteri, dysplasia of the cervix, a malignant neoplasm of the ovary, and intramural leiomyoma of the uterus. Of note, she has also been diagnosed with osteoarthrosis and recurrent dislocation of her shoulder region, and she has chronic back issues, including displacement of lumbar intervertebral discs and lumbosacral spondylosis. She previously underwent a total abdominal hysterectomy.
+
+Currently, the patient is prescribed a daily inhaled corticosteroid and uses a short-acting beta-agonist as needed for asthma. She has had occasional steroid injections for her back pain. She is compliant with her medications but is concerned about her ongoing symptoms.
+
+Socially, the patient occasionally consumes alcohol, does not smoke, and works in an office environment with minimal exposure to asthma triggers. She has no known allergies.
+
+### Objective:
+Vital signs today are recorded as follows:
+- Blood Pressure: 120/78 mmHg
+- Heart Rate: 74 bpm
+- Respiratory Rate: 18 breaths per minute
+- Temperature: 98.6°F
+- Oxygen Saturation: 95% on room air
+
+The patient appears well-nourished and in no acute distress during the general examination. Cardiovascular examination findings include a regular heart rate and rhythm with no murmurs, gallops, or rubs. On respiratory examination, bilateral expiratory wheezes were noted, with no cyanosis or use of accessory muscles. Abdominal examination revealed mild tenderness in the lower quadrants, without any palpable masses or organomegaly. Musculoskeletal examination showed no new abnormalities of the lumbar spine, and her chronic back complaints remain consistent. Neurological examination findings are unremarkable. Skin examination shows no notable lesions or rashes.
+
+Laboratory results from recent visits indicate normal values for absolute basophils, eosinophils, lymphocytes, monocytes, and neutrophils. Hemoglobin, hematocrit, MCV, MCHC, MCH, and platelet counts have also consistently been within normal ranges.
+
+### Assessment:
+1. **Asthma**: The patient's asthma appears suboptimally controlled, given the increased frequency and severity of symptoms, and greater reliance on the rescue inhaler.
+2. **Abdominal Discomfort**: The mild tenderness in the lower abdomen may be related to her prior gynecological surgeries, and differential diagnosis includes potential gastrointestinal causes requiring further evaluation.
+3. **Chronic Lumbar Pain**: The persistent back pain is consistent with her known lumbar spine conditions.
+
+### Plan:
+1. **Asthma Management**:
+    - Continue current inhaled corticosteroid regimen.
+    - Increase the dosage of the inhaled corticosteroid to enhance symptom control.
+    - Add a long-acting beta-agonist to reduce the frequency of asthma symptoms.
+    - Provide additional education on avoiding asthma triggers and ensuring proper inhaler technique.
+    - Schedule a follow-up appointment with a pulmonologist in 4 weeks for further assessment and management.
+
+2. **Abdominal Discomfort**:
+    - Order an abdominal ultrasound initially to investigate the lower abdominal tenderness.
+    - Consider a CT scan of the abdomen and pelvis if the ultrasound results warrant further investigation.
+    - Review medical records related to prior gynecological surgeries to rule out complications.
+
+3. **Chronic Lumbar Pain**:
+    - Continue using NSAIDs on an as-needed basis for pain management.
+    - Refer the patient to physical therapy for a tailored exercise program to strengthen the back musculature and ease pain.
+    - Schedule a consultation with a pain management specialist to evaluate the possibility of additional steroid injections for symptom relief.
+
+4. **Laboratory Monitoring**:
+    - Order a repeat complete blood count and arterial blood gases to monitor for any changes in the patient's condition related to asthma and overall health status.
+
+### Follow-Up:
+The patient has been instructed to contact the clinic if her asthma symptoms do not improve with the adjusted medication regimen or if they worsen within the next week. A follow-up appointment has been arranged in 2 weeks to reassess her asthma management and review results from the abdominal imaging. Educational materials regarding asthma management were provided, and the patient demonstrated an understanding of the treatment plan, including the specific medication changes and the importance of adherence.

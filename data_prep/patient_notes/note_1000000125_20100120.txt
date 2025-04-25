@@ -1,0 +1,57 @@
+Visit Information:
+  - Patient Num: 1000000125
+  - Visit Date: 01/20/2010
+
+Subjective:
+This is a 34-year-old Indian female who speaks German and is presenting today for follow-up to manage her asthma and related conditions. She has been experiencing intermittent episodes of shortness of breath, nocturnal wheezing, and has noted a slight worsening of these symptoms over the past week. The symptoms are often triggered by physical exertion and exposure to dust. She has been using a short-acting beta-agonist inhaler (albuterol) with temporary symptomatic relief.
+
+Her past medical history includes asthma, recurrent gallbladder issues such as cholecystitis, and a laparoscopic cholecystectomy. She has also been treated for contact dermatitis and an unspecified neurotic disorder. Medications include an albuterol inhaler as needed, Actiq for pain management, cefazolin sodium administered for infections, Flonase spray, and Flovent inhaler.
+
+Socially, she is a non-smoker who lives in an urban area with high levels of air pollution. She works in an office setting with limited physical activity. She has no known drug or environmental allergies. Her asthma symptoms are aggravated by physical activity and notably worse in the evenings, lasting for hours. Symptoms are somewhat alleviated with the use of her inhaler and resting in cooler surroundings. She has been using a humidifier at night and avoids known asthma triggers. She has not been hospitalized or visited the emergency room recently but has noticed a slight deterioration in her condition over the past week.
+
+Objective:
+- Vital Signs:
+  - Blood Pressure: 120/80 mmHg
+  - Heart Rate: 78 bpm
+  - Respiratory Rate: 18 breaths per minute
+  - Temperature: 98.6°F (37°C)
+  - Oxygen Saturation: 95% on room air
+
+- General Appearance:
+  The patient appears well and in no acute distress, though she seems slightly anxious about her symptoms.
+
+- Cardiovascular:
+  Normal S1 and S2 heart sounds with no murmurs, gallops, or rubs detected.
+
+- Respiratory:
+  Examination revealed bilateral wheezing, more pronounced during expiration. No use of accessory muscles was observed, and there were no signs of cyanosis.
+
+- Abdomen:
+  Soft on palpation, non-tender, no organomegaly, or masses detected.
+
+- Musculoskeletal:
+  Full range of motion without joint swelling or tenderness.
+
+- Neurological:
+  Alert and oriented to person, place, time, and situation. Cranial nerves II-XII intact. Motor and sensory exams were normal.
+
+- Skin:
+  No rashes, lesions, or abnormalities noted.
+
+Assessment:
+The patient's asthma remains sub-optimally controlled with recent exacerbations likely triggered by environmental factors and physical exertion. Her history of recurring gallbladder issues, including cholecystitis and gallstone removal, is also noted. Additionally, she has a history of contact dermatitis and an unspecified neurotic disorder.
+
+Plan:
+- Increase the use of her short-acting beta-agonist (albuterol) inhaler to every 4-6 hours as needed for symptom control.
+- Start a low-dose inhaled corticosteroid (ICS) for daily use to reduce inflammation and prevent frequent exacerbations.
+- Perform a peak flow meter test to monitor expiratory flow rates.
+- Consider referring the patient to a pulmonologist for further evaluation.
+- Educate the patient on avoiding known asthma triggers, the effective use of inhalers, and the importance of adherence to her medication regimen.
+- Advise the patient to maintain a symptom diary detailing each episode of asthma, noting severity, triggers, and response to treatment.
+- Conduct comprehensive liver function tests—including AST, ALT, direct bilirubin, and total bilirubin—given her history of liver-related issues, such as unspecified hepatitis and previously elevated liver function tests.
+- Emphasize the importance of adhering to the follow-up appointments as scheduled.
+
+Follow-Up:
+- Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate the need for further evaluation.
+- Schedule a follow-up appointment in 3-4 weeks to assess her response to the new treatment regimen and make necessary adjustments.
+- Ensure understanding and agreement with the treatment plan. The patient has expressed understanding and agrees to monitor her symptoms closely and return for the follow-up visit as planned.

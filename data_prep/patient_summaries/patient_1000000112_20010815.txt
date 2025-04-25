@@ -1,0 +1,50 @@
+demographics
+patient_num: 1000000112  age: 9
+patient_num: 1000000112  sex: M
+patient_num: 1000000112  race: black
+patient_num: 1000000112  language: spanish
+patient_num: 1000000112  vital_status: alive
+patient_num: 1000000112  earliest fact: May 13 1998 12:00AM
+patient_num: 1000000112  latest fact: Aug 15 2001 12:00AM
+patient_num: 1000000112  range in days: 1190
+totals
+patient_num: 1000000112  distinct concepts: 43
+patient_num: 1000000112  total facts: 108
+patient_num: 1000000112  total encounters: 17
+patient_num: 1000000112  total asthma: 6
+descriptive
+patient_num: 1000000112  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 6
+patient_num: 1000000112  diagnosis code: ICD9:466.1  name: Acute bronchiolitis  count: 1
+patient_num: 1000000112  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 6
+patient_num: 1000000112  diagnosis code: ICD9:474.12  name: Hypertrophy of adenoids alone  count: 2
+patient_num: 1000000112  diagnosis code: ICD9:486  name: Pneumonia, organism unspecified  count: 4
+patient_num: 1000000112  diagnosis code: ICD9:518.0  name: Pulmonary collapse  count: 3
+patient_num: 1000000112  diagnosis code: ICD9:385.83  name: Retained foreign body of middle ear  count: 1
+patient_num: 1000000112  diagnosis code: ICD9:V70.0  name: Routine general medical examination at a health care facility  count: 1
+patient_num: 1000000112  diagnosis code: ICD9:382.9  name: Unspecified otitis media  count: 1
+patient_num: 1000000112  diagnosis code: ICD9:511.9  name: Unspecified pleural effusion  count: 1
+patient_num: 1000000112  medication code: NDC:00597008214  name: Atrovent 18 mcg/inh aerosol Boehringer-Ingelheim  count: 4
+patient_num: 1000000112  laboratory code: LOINC:5770-3  name: Bilirubin (Group:UA-BILI)  count: 1
+patient_num: 1000000112  laboratory code: LOINC:3094-0  name: Blood Urea Nitrogen (Group:BUN)  count: 1
+patient_num: 1000000112  laboratory code: LOINC:2028-9  name: Carbon Dioxide (Group:CO2)  count: 1
+patient_num: 1000000112  laboratory code: LOINC:2075-0  name: Chloride (Group:CL)  count: 3
+patient_num: 1000000112  laboratory code: LOINC:5778-6  name: Color (Group:UA-COLOR)  count: 1
+patient_num: 1000000112  laboratory code: LOINC:2160-0  name: Creatinine (Group:CRE)  count: 1
+patient_num: 1000000112  laboratory code: LOINC:3151-8  name: FIO2 (Group:FIO2)  count: 1
+patient_num: 1000000112  laboratory code: LOINC:6777-7  name: Glucose (Group:GLU)  count: 2
+patient_num: 1000000112  laboratory code: LOINC:5792-7  name: Glucose - UA (Group:UA-GLUC)  count: 1
+patient_num: 1000000112  laboratory code: LOINC:5797-6  name: Ketones (Group:UA-KET)  count: 1
+patient_num: 1000000112  laboratory code: LOINC:5802-4  name: Nitrites (Group:UA-NIT)  count: 1
+patient_num: 1000000112  laboratory code: LOINC:5794-3  name: Occult Blood (Group:UA-BLD)  count: 1
+patient_num: 1000000112  laboratory code: LOINC:5803-2  name: PH (Group:UA-PH)  count: 1
+patient_num: 1000000112  laboratory code: LOINC:2823-3  name: Potassium (Group:K)  count: 3
+patient_num: 1000000112  laboratory code: LOINC:5804-0  name: Protein (Group:UA-ALB)  count: 1
+patient_num: 1000000112  laboratory code: LOINC:2951-2  name: Sodium (Group:NA)  count: 2
+patient_num: 1000000112  laboratory code: LOINC:5811-5  name: Specific Gravity (Group:UA-SPGR)  count: 1
+patient_num: 1000000112  laboratory code: LOINC:5767-9  name: Turbidity (Group:UA-TURB)  count: 1
+patient_num: 1000000112  laboratory code: LOINC:1959-6  name: Unspecified HCO3 (Group:HC03)  count: 1
+patient_num: 1000000112  laboratory code: LOINC:5818-0  name: Urobilinogen (Group:UA-UROBI)  count: 1
+patient_num: 1000000112  laboratory code: LOINC:2021-4  name: Venous PCO2 (Group:VPCO2)  count: 1
+patient_num: 1000000112  laboratory code: LOINC:2746-6  name: Venous pH (Group:VPH)  count: 1
+patient_num: 1000000112  laboratory code: LOINC:2705-2  name: Venous PO2 (Group:VPO2)  count: 1
+patient_num: 1000000112  laboratory code: LOINC:5799-2  name: WBC Screen (Group:UA-WBC)  count: 1

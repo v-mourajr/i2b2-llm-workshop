@@ -1,0 +1,64 @@
+**Visit Information:**
+- Patient Number: 1000000103
+- Visit Date: May 26, 2009
+
+**Subjective:**
+This is a 34-year-old Black female known to our clinic for the past ten years. She presents today with complaints of severe dental pain, persistent symptoms of anxiety, and exacerbation of menstrual irregularities. 
+
+The patient describes the dental pain as severe and localized primarily to the maxillary region, which is causing significant difficulty in chewing and speaking. She has a history of maxillary hypoplasia and recurring dental issues managed in the past. Current pain severity did not improve with standard analgesics and has markedly increased in the last week.
+
+Additionally, the patient reports ongoing anxiety characterized by palpitations, restlessness, and occasional panic attacks, which have surged in frequency and intensity recently due to recent life stressors, including her work in retail.
+
+She also mentions heavier and prolonged menstrual bleeding over the last two menstrual cycles. This has caused considerable inconvenience and ongoing discomfort and warrants further evaluation for potential anemia.
+
+The patient is compliant with her current medications, which include Penicillin V Potassium for a resolved bacterial infection, Trimox 500 mg capsules for managing an ongoing bacterial issue, and Kato 20 mEq powder for potassium supplementation. She denies any adverse reactions to these medications.
+
+In her social history, the patient lives alone and works as a retail assistant. She denies tobacco, alcohol, and recreational drug use. She is known to have allergies to penicillin and latex.
+
+**Objective:**
+- **Vital Signs:**
+  - Blood Pressure: 122/80 mmHg
+  - Heart Rate: 72 bpm
+  - Respiratory Rate: 18 breaths per minute
+  - Temperature: 98.6°F
+  - Oxygen Saturation: 99% on room air
+
+- **General Appearance:** The patient appears well-groomed, alert, oriented, and in no acute distress.
+  
+- **Cardiovascular:** Normal S1 and S2 with no murmurs, rubs, or gallops. Peripheral pulses are strong and equal bilaterally.
+  
+- **Respiratory:** The patient has clear lung fields bilaterally with no adventitious breath sounds detected.
+  
+- **Abdomen:** Soft, non-tender, non-distended with normal bowel sounds present in all four quadrants.
+  
+- **Musculoskeletal:** Examination reveals tenderness over the maxillary region without visible swelling, normal extremity motor function, and range of motion. The previous second-degree burn on the left elbow shows minimal residual erythema.
+  
+- **Neurological:** Cranial nerves II-XII are intact, motor and sensory examination are normal, and there are no signs of tremors or involuntary movements.
+  
+- **Skin:** The site of the previous burn on the left elbow shows minimal erythema; there are no other significant rashes, lesions, or ulcerations visible.
+
+**Assessment:**
+1. **Persistent Anxiety:** The patient's increased episodes of palpitations and restlessness are indicative of exacerbated anxiety, likely triggered by recent stressors.
+2. **Excessive Menstrual Bleeding:** Heavier and prolonged menstrual cycles suggest possible anemia and iron deficiency, potentially related to underlying platelet abnormalities.
+3. **Dental Pain related to Maxillary Hypoplasia and Malocclusion:** Severe dental pain affecting chewing ability, requiring urgent intervention.
+
+**Plan:**
+1. **Anxiety:**
+   - Continue monitoring the patient's response to current stressors.
+   - Refer to mental health services for comprehensive evaluation and psychotherapy.
+   - Evaluate the necessity for anxiolytic medication depending on the stability and response to initial interventions.
+
+2. **Excessive Menstrual Bleeding:**
+   - Perform a complete blood count and iron studies to assess for anemia.
+   - Initiate oral iron supplementation if anemia is diagnosed.
+   - Refer to a gynecologist for further evaluation of menstrual irregularities and potential interventions.
+   - Educate the patient about tracking menstrual cycles and recommend lifestyle modifications to manage symptoms.
+
+3. **Dental Pain:**
+   - Refer the patient to an oral surgeon for evaluation and management of maxillary hypoplasia and malocclusion.
+   - Recommend obtaining dental X-rays to identify the source and extent of dental issues.
+   - Provide guidance on pain management strategies until definitive treatment is implemented.
+
+**Follow-Up:**
+- Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if new test results indicate the need for further evaluation.
+- Schedule a follow-up appointment in two weeks to review laboratory results and reassess the management plan for her anxiety, menstrual health, and dental pain.

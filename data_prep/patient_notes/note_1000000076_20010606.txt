@@ -1,0 +1,46 @@
+Visit Information:
+- Patient Num: 1000000076
+- Visit Date: 06/06/2001
+
+Subjective:
+This is a 54-year-old Black male who has been under our care for approximately eight months. The patient speaks German and presented today for a follow-up appointment primarily addressing his asthma management. He reports that his last asthma exacerbation occurred approximately two weeks ago, leading to increased use of his rescue inhaler. He also describes ongoing symptoms of a persistent cough and episodes of dyspnea, which are exacerbated by physical exertion and exposure to allergens. These symptoms have remained relatively consistent over the past several months despite adherence to his prescribed medication regimen.
+
+His past medical history is significant for asthma and allergic rhinitis. He also reports recurrent pain in his limbs. No past surgical history is noted. The patient is currently taking an inhaled corticosteroid and a short-acting beta-agonist for his asthma, both of which he finds effective in controlling acute symptoms. Additionally, he reports using antihistamines as needed for allergic symptoms. He does not currently use any herbal supplements.
+
+Lifestyle factors include a non-smoking status and limited alcohol consumption. He mentions occasional exposure to secondhand smoke in his living environment, which he tries to avoid. There are no known drug allergies.
+
+Symptoms began with the onset of colder weather last autumn and have been persistent with fluctuating severity. Aggravating factors include exposure to dust and cold air, while the use of respiratory medications provides partial relief. His symptoms are primarily respiratory, with episodes of coughing and shortness of breath that he rates as moderate in severity.
+
+Objective:
+Vital signs recorded today are as follows: Blood Pressure 130/85 mmHg, Heart Rate 88 beats per minute, Respiratory Rate 20 breaths per minute, Temperature 98.6°F, and Oxygen Saturation 95% on room air.
+- General Appearance: The patient appears in no acute distress, well-nourished, and alert.
+- Cardiovascular: Regular rate and rhythm, no murmurs, gallops, or rubs detected.
+- Respiratory: Auscultation reveals occasional wheezing bilaterally, with prolonged expiratory phase. No crackles or rhonchi. Oxygen saturation is slightly reduced.
+- Abdomen: Soft, non-tender, and non-distended, with normal bowel sounds.
+- Musculoskeletal: No joint swelling or deformities. Full range of motion in all extremities. Reports tenderness in the lower limbs but no visible abnormalities.
+- Neurological: Alert and oriented to person, place, and time. Cranial nerves II-XII intact. Motor and sensory exams are grossly normal.
+- Skin: No rashes, lesions, or cyanosis observed.
+
+Assessment:
+This patient’s primary diagnosis remains asthma, unspecified without mention of status asthmaticus. He also has a diagnosis of allergic rhinitis and chronic cough, likely linked to his asthma and allergies. Secondary considerations include other dyspneas and a respiratory abnormality. His complaint of limb pain is ongoing but less clinically significant at this time.
+
+Plan:
+1. Asthma and Respiratory Management:
+- Continue with the current inhaled corticosteroid and rescue inhaler usage.
+- Increase dosing frequency of the inhaled corticosteroid during acute episodes if needed.
+- Introduce a long-acting beta-agonist if symptoms persist.
+- Educate the patient on the proper use of a peak flow meter to monitor asthma control.
+- Scheduled spirometry for a detailed lung function test.
+- Referral to a respiratory specialist for further management.
+
+2. Allergic Rhinitis:
+- Continue with antihistamines as needed.
+- Recommend an allergy assessment to identify and avoid triggers.
+- Consider a trial of nasal corticosteroids if symptoms persist.
+
+3. General Symptom Management:
+- Advise routine use of a humidifier to alleviate cough symptoms.
+- Suggest physical therapy for limb pain if symptoms worsen.
+
+Follow-Up:
+Instruct the patient to contact the clinic if asthma symptoms worsen or do not improve within a week. Follow-up in three months to reassess asthma control and response to any changes in medication. Ensure patient understands the management plan and has received education on signs of exacerbation and proper medication use.

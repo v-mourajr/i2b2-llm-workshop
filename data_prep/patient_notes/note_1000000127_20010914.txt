@@ -1,0 +1,44 @@
+**Visit Information:**
+- Patient Number: 1000000127
+- Visit Date: 09/14/2001
+
+**Subjective:**
+This is a 13-year-old Indian male who has been receiving care at our clinic since April 14, 1997. He speaks German and presents today for a follow-up visit concerning asthma management and recent respiratory symptoms. The patient and his parents report increased frequency of coughing and wheezing, especially noticeable at night. There is a history of asthma, which has required multiple visits in the past. The patient has not required hospitalization or emergency medication use since the last visit; however, symptoms persist despite treatment.
+
+The patient's asthma management regimen includes the use of an albuterol inhaler as needed for quick relief, as well as a daily leukotriene receptor antagonist for maintenance. The parents expressed concerns about the effectiveness of his current treatment plan, noting that he often seems fatigued and has decreased exercise tolerance. There was no significant change in his environment or activities.
+
+**Objective:**
+During the physical examination, the patient's vital signs were recorded as follows: blood pressure 116/72 mmHg, heart rate 88 bpm, respiratory rate 20 breaths per minute, temperature 98.8°F, and oxygen saturation at 97% on room air. 
+
+In general appearance, the patient was alert and in moderate respiratory distress, with audible wheezing noted. The cardiovascular examination revealed a regular rate and rhythm with no murmurs. Respiratory examination showed decreased breath sounds bilaterally with wheezing on expiration. There was no use of accessory muscles or cyanosis. The abdominal examination was unremarkable with a soft, non-tender abdomen and normal bowel sounds. Musculoskeletal examination showed normal range of motion and no deformities. Neurological assessment indicated that cranial nerves were intact, reflexes were normal, and no focal deficits were identified. The skin examination was clear without evidence of rash or lesions.
+
+**Assessment:**
+The clinical impression for this patient involves several conditions:
+
+- **Primary Diagnosis:**
+  - Asthma, unspecified without mention of status asthmaticus: The increased frequency of nocturnal symptoms and persistent wheezing suggests a need to reassess the current asthma management plan.
+
+- **Secondary Diagnoses:**
+  - Acute conjunctivitis: The patient’s eyes appear erythematous and he reports mild discomfort, consistent with previous history. 
+  - Allergic rhinitis: The recurrent nasal symptoms may contribute to asthma exacerbations.
+  - Unspecified gingival and periodontal disease: Not of current concern today but noted as a chronic issue.
+
+**Plan:**
+- Asthma Management:
+    - Review and possibly adjust the asthma action plan to better control nocturnal symptoms.
+    - Add a low-dose inhaled corticosteroid to the current regimen.
+    - Reinforce the use of a peak flow meter to monitor asthma control at home.
+    - Ensure follow-up in 4 to 6 weeks to evaluate response to the updated treatment plan.
+
+- Allergic Rhinitis:
+    - Start on a daily non-sedating antihistamine to decrease allergic triggers that could worsen asthma symptoms.
+
+- Conjunctivitis:
+    - Initiate treatment with appropriate ophthalmic drops and advise on hygiene to prevent spreading.
+    - Referred to ophthalmology if symptoms persist after seven days of treatment.
+
+Follow-Up Instructions:
+- The patient and his family are advised to contact the clinic if there is no improvement within a week, if symptoms worsen, or if there are any concerns about the new medication. Regular follow-up appointments are crucial, with the next visit scheduled in a month to reassess asthma control and overall medication efficacy. Both the patient and the family expressed understanding and agreement with the proposed management plan.
+
+This comprehensive management approach aims to control symptoms more effectively and improve the patient's quality of life.
+

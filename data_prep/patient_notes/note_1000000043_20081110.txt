@@ -1,0 +1,40 @@
+Visit Information:
+- Patient Num: 1000000043
+- Visit Date: 11/10/2008
+
+**Subjective:**
+This is a 62-year-old Hispanic male who has been consistently gaining care at our clinic for over a decade. He primarily speaks Spanish and relies on our services to manage his chronic asthma and other health conditions. The patient presented today for a routine follow-up appointment focusing on his chronic asthma and secondary issues including allergic rhinitis, and cardiovascular health concerns. He has noted increased shortness of breath, which is more pronounced during nighttime, associated with persistent nocturnal wheezing and a daily, productive cough. His symptoms have been exacerbated over the past week, but there has been no progression to status asthmaticus. 
+
+Additionally, the patient reported persistent nasal congestion, sneezing, and itchy eyes due to allergic rhinitis, which is notably worse during pollen season. He is compliant with his current medications, including the use of an albuterol inhaler as needed and loratadine for allergy symptoms. Despite this, his nasal congestion remains a significant problem affecting his nightly rest.
+
+The patient’s medical history includes a past myocardial infarction, atrial fibrillation, benign essential hypertension, and a history of coronary atherosclerosis. He also has a history of prostate cancer managed with a radical prostatectomy. He maintains a relatively active daily life but has been experiencing increased dyspnea impacting his usual activities. His medications include Flovent (fluticasone) for asthma management, and Celebrex for chronic musculoskeletal discomfort. He also uses Ambien occasionally for sleep disturbances.
+
+**Objective:**
+Vital signs recorded today are: Blood Pressure 125/82 mmHg, Heart Rate 81 bpm, Respiratory Rate 22 breaths per minute, Temperature 98.6°F, and Oxygen Saturation 96% on room air. On physical examination, the patient appeared mildly dyspneic but in no acute distress. Cardiovascular examination revealed a regular rhythm with no murmurs, gallops, or rubs. The respiratory examination was positive for diffuse bilateral wheezing, but there were no signs of respiratory distress such as retractions or use of accessory muscles. The abdominal examination was unrevealing with no tenderness, masses, or organomegaly noted. Musculoskeletal and neurological examinations were within normal limits, and the skin examination showed no lesions or rashes.
+
+Recent lab results indicated normal cardiac function and liver enzyme levels. Complete Blood Count (CBC) revealed no notable abnormalities, with balanced white blood cell differential counts suggesting stable hematologic status. The patient's last pulmonary function test showed moderate persistent asthma with a mildly decreased FEV1/FVC ratio.
+
+**Assessment:**
+This patient primarily deals with:
+- Chronic Asthma with a current exacerbation likely influenced by seasonal allergens.
+- Persistent Allergic Rhinitis, particularly prevalent during pollen seasons.
+- Secondary cardiovascular conditions, including a history of myocardial infarction and atrial fibrillation.
+- Post-treatment status for prostate cancer and benign essential hypertension.
+
+**Plan:**
+1. **Asthma Management:**
+   - Continue with albuterol (short-acting β-agonist) as needed for acute symptoms.
+   - Begin a strict regimen of inhaled corticosteroids (Fluticasone) to control chronic inflammation.
+   - Pulmonary function tests to be scheduled to assess the airflow obstruction severity and guide modifications in treatment if needed.
+
+2. **Allergic Rhinitis Control:**
+   - Maintain daily loratadine use and add Fluticasone nasal spray for better control of nasal symptoms.
+   - Reinforce environmental control measures to minimize allergen exposure, including using air purifiers and maintaining low-humidity environments.
+
+3. **Cardiovascular Follow-Up:**
+   - Continue antihypertensive therapy and scheduled monitoring of cardiac health.
+   - ECG and echocardiography to review atrial fibrillation status and myocardial health as necessary.
+
+The patient was educated regarding proper inhaler techniques and the importance of adhering to the prescribed medication regimen. He was advised to monitor symptoms closely and report any worsening respiratory issues promptly. He was also reminded of the signs of acute exacerbations and was instructed on when to seek immediate medical care.
+
+Follow-up appointments are scheduled in two weeks to evaluate the effectiveness of the asthma and rhinitis management plan. The patient understands and agrees with the treatment strategy and follow-up instructions. He was also advised to contact the clinic if symptoms do not improve or worsen within a week, or if the pulmonary function test results necessitate further assessment.

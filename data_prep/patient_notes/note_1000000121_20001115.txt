@@ -1,0 +1,81 @@
+Visit Information:
+    - Patient Num: 1000000121
+    - Visit Date: 11/15/2000
+
+This is a 40-year-old Black male who primarily speaks German and has been receiving care at our clinic for over three years. He presents today for a follow-up visit concerning his ongoing issues related to asthma.
+
+Subjective:
+The patient states that he has been experiencing an increase in asthma symptoms, including shortness of breath, wheezing, and coughing, which have been particularly bothersome at night over the past week. He describes these symptoms as moderately severe and notes that his current medication regimen provides only partial relief. He also reports feeling more fatigued than usual but denies any recent upper respiratory infections or exposure to known allergens.
+
+Regarding his history of present illness, the patient has a long-standing diagnosis of asthma, which has required multiple medication adjustments. He is currently using inhaled corticosteroids and short-acting beta agonists, which he takes as needed. Despite adhering to this regimen, he experiences frequent nocturnal awakenings due to difficulty breathing.
+
+The patient's past medical history includes chronic asthma. There is no history of surgical interventions.
+
+In terms of medications, the patient is currently prescribed inhaled corticosteroids, a short-acting beta agonist inhaler, and a leukotriene receptor antagonist. He denies using any over-the-counter medications or herbal supplements.
+
+Socially, the patient is a non-smoker and denies the use of alcohol or illicit drugs. He works as a software engineer and often faces work-related stress, which he believes may exacerbate his symptoms. He lives alone and leads a sedentary lifestyle with minimal physical activity.
+
+The patient has no known drug allergies.
+
+His symptoms include shortness of breath, chest tightness, and wheezing, predominantly at night. These symptoms have persisted for a week, are constant, and range from moderate to severe. The use of his rescue inhaler provides temporary relief.
+
+The patient has been attempting non-pharmacological interventions such as using a humidifier and keeping windows closed during allergy season. He reports no significant side effects from his medications and notes a slight worsening of symptoms since his last visit.
+
+Objective:
+Vital Signs:
+- Blood Pressure: 128/84 mmHg
+- Heart Rate: 80 bpm
+- Respiratory Rate: 18 breaths per minute
+- Temperature: 98.6°F
+- Oxygen Saturation: 95% on room air
+
+General Appearance:
+The patient appears well-groomed and in no acute distress.
+
+Cardiovascular:
+The heart rate is regular, with normal S1 and S2 sounds. There are no murmurs, rubs, or gallops. No jugular venous distension or peripheral edema is observed.
+
+Respiratory:
+Bilateral wheezes are noted on auscultation, with a prolonged expiratory phase. There are no crackles or rhonchi. Mild intercostal retractions are present.
+
+Abdomen:
+The abdomen is soft and non-tender, with normal bowel sounds and no evidence of hepatosplenomegaly.
+
+Musculoskeletal:
+There is a normal range of motion and strength in all extremities, with no joint swelling or tenderness.
+
+Neurological:
+The patient is alert and oriented to person, place, and time. Cranial nerves II-XII are intact, and motor and sensory examinations are normal.
+
+Skin:
+There are no rashes, lesions, or cyanosis. The skin is normal in texture and color.
+
+Laboratory Data:
+Recent blood work indicates normal eosinophil counts and other hematological parameters. However, there is an elevated ESR, suggesting some level of systemic inflammation. 
+
+Assessment:
+The primary diagnosis is persistent asthma. There may also be an underlying allergic component given the elevated eosinophil levels.
+
+Plan:
+1. Asthma management:
+   - Continue with the current inhaled corticosteroid and short-acting beta agonist regimen.
+   - Increase the dose of inhaled corticosteroids.
+   - Start a trial of a long-acting beta agonist inhaler.
+   - Schedule pulmonary function testing to evaluate the severity of airway obstruction.
+
+2. Symptom monitoring and management:
+   - Advise the patient to maintain a diary of symptoms to identify potential triggers.
+   - Encourage the use of non-pharmacological interventions, such as air filtration systems.
+
+3. Referrals:
+   - Refer the patient to a pulmonologist for further evaluation and management.
+   - Consider allergy testing to identify potential allergens that may be contributing to his symptoms.
+
+4. Education:
+   - Educate the patient on the proper use of inhalers and emphasize the importance of medication adherence.
+   - Instruct the patient to seek urgent care if he experiences severe respiratory distress or if symptoms do not improve with the current treatment.
+
+Follow-Up:
+- The patient is instructed to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate the need for further evaluation.
+- Schedule a follow-up visit in 2 weeks to reassess asthma control and make necessary treatment adjustments.
+- Ensure that the patient understands and agrees with the plan.

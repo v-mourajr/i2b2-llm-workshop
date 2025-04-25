@@ -1,0 +1,64 @@
+**Visit Information:**
+    - Patient Num: 1000000128
+    - Visit Date: 12/13/2001
+
+**Subjective:**
+This is a 35-year-old Black female who speaks English and has been attending our clinic regularly. She has a well-documented history of asthma, both extrinsic and unspecified, and today presents for a follow-up visit. The patient reports experiencing an increase in shortness of breath and wheezing over the past week. This has been particularly noticeable at night and during mild physical activities, such as walking up stairs. She notes using her rescue inhaler almost daily, often multiple times in a day, indicating a possible exacerbation of her condition. 
+
+Her past medical history is notable for multiple asthma exacerbations, including some severe enough to warrant hospitalization. Additionally, she has experienced bacterial pneumonia and several allergic conditions, including allergic rhinitis. She also has a documented history of abnormal weight loss, obesity, hypothyroidism, benign neoplasms of the skin, and past episodes of vaginitis.
+
+She currently takes Albuterol Sulfate for acute asthma symptoms, Pulmicort Turbuhaler as a maintenance therapy, Zyrtec for allergy relief, and Demulen for contraceptive purposes. She also uses Sulfamethoxazole-Trimethoprim for occasional urinary tract infections. The patient has adhered to her medication regimen with occasional missed doses of her preventative inhalers.
+
+Socially, she lives alone and works in a customer service role at a call center. She denies smoking, alcohol consumption, or drug use and leads a relatively sedentary lifestyle. There are no known drug allergies.
+
+**Objective:**
+- Vital Signs:
+  - Blood Pressure: 118/76 mmHg
+  - Heart Rate: 84 beats per minute
+  - Respiratory Rate: 20 breaths per minute
+  - Temperature: 98.2°F
+  - Oxygen Saturation: 95% on room air
+
+- General Appearance:
+  The patient is alert, oriented, and appears mildly anxious with audible respiratory distress.
+
+- Cardiovascular:
+  Heart sounds are normal with a regular rhythm and no murmurs, gallops, or rubs.
+
+- Respiratory:
+  Bilateral wheezing is present in all lung fields, especially pronounced during expiration. There are no crackles or rales. Accessory muscle use is observed with breathing.
+
+- Abdomen:
+  Soft, non-tender with no evidence of hepatosplenomegaly. Bowel sounds active and normal.
+
+- Musculoskeletal:
+  No joint abnormalities; full range of motion is noted without tenderness or deformities.
+
+- Neurological:
+  Fully oriented to person, place, and time. Cranial nerves II-XII are intact, with no focal deficits noted.
+
+- Skin:
+  Areas of hyperpigmentation from previous burn injuries are observed, with no signs of active lesions or infection.
+
+**Assessment:**
+The patient presents with an exacerbation of her chronic asthma, likely driven by interruptions in her maintenance therapy and possibly environmental factors. Her history of multiple asthma subtypes, including episodes with and without status asthmaticus, indicates a complex and reactive airway disease profile. 
+
+- **Primary Diagnosis:** Asthma exacerbation with underlying chronic asthma.
+- **Secondary Diagnoses:** Bacterial pneumonia (resolved), allergic rhinitis, and obesity.
+
+**Plan:**
+For the exacerbation of asthma:
+- Increase the frequency and dosage of inhaled corticosteroids, specifically the Pulmicort Turbuhaler.
+- Introduce a long-acting beta-agonist (LABA) if not currently part of the treatment plan.
+- Educate the patient on proper inhaler technique and the necessity of strict medication adherence.
+- Provide a spacer device to enhance inhaler effectiveness.
+- Develop and review an asthma action plan with the patient, emphasizing the recognition and management of early exacerbation signs.
+
+For the patient's general health:
+- Referral to a pulmonologist for further evaluation and long-term management if there is no improvement.
+- Schedule pulmonary function tests (PFTs) to evaluate the current state of her lung function and guide further treatment.
+- Continually monitor weight and consider nutritional and weight management counseling due to obesity.
+- Continue monitoring for allergic conditions and provide management strategies to minimize exacerbation triggers.
+
+**Follow-Up:**
+The patient is instructed to contact the clinic if her symptoms do not improve or worsen within a week or if pulmonary function test results indicate the need for further evaluation. A follow-up appointment is scheduled in one month to reassess asthma control and review PFT results. Emphasize education on medication adherence, recognizing symptoms of exacerbation, and lifestyle modifications to improve overall health.

@@ -1,0 +1,42 @@
+Visit Information:
+    - Patient Num: 1000000060
+    - Visit Date: 03/20/2000
+
+This is a 30-year-old Indian male, Mr. Roland Sharma, who has been under our care for the past few months. He presents today primarily for the management of his asthma. His medical records show a history of asthma, with several exacerbations despite adhering to his prescribed bronchodilator therapy. He reports increased production of phlegm and occasional wheezing, especially during the night, though he denies any accompanying fevers or chills.
+
+Mr. Sharma also has a history of acute pharyngitis, which has recurred a couple of times recently, seemingly in connection with his respiratory symptoms. His medical history includes prior facial fractures involving the malar and maxillary bones, which necessitated open reduction surgery. These injuries were sustained during an accidental sports-related injury.
+
+For his asthma, he is currently using an inhaled short-acting beta-agonist and an inhaled corticosteroid. While these medications have provided some relief, he feels that his asthma symptoms are not yet fully controlled. He denies the use of any herbal supplements and lists no known drug allergies.
+
+Mr. Sharma leads an active lifestyle and frequently participates in sports, which led to his facial injury. He is a non-smoker and denies any use of alcohol or illicit drugs.
+
+On physical examination today, his vital signs are as follows: Blood Pressure: 120/80 mmHg, Heart Rate: 78 beats per minute, Respiratory Rate: 18 breaths per minute, Temperature: 36.8°C, and Oxygen Saturation: 98% on room air.
+
+Mr. Sharma appears alert, oriented, and in no acute distress. He is well-nourished and well-hydrated. The cardiovascular examination reveals regular heart sounds without any murmurs, gallops, or rubs, and peripheral pulses are intact and symmetric.
+
+On respiratory examination, breath sounds are diminished bilaterally with noted expiratory wheezes, though there is no use of accessory muscles or retractions, and no rales or rhonchi are appreciated. The abdominal exam is unremarkable; the abdomen is soft, non-tender, and non-distended, with normal bowel sounds in all quadrants.
+
+Musculoskeletal examination shows no swelling or deformities in the extremities, with normal range of motion in all joints. Neurologically, cranial nerves II-XII are intact, and motor and sensory functions are normal. Reflexes are intact and symmetric. Skin examination shows no rashes or lesions; the skin is warm and dry.
+
+Assessment:
+Mr. Sharma’s primary diagnosis continues to be uncontrolled asthma. His history of acute pharyngitis and previous facial fractures are also noted, though the fractures have healed. 
+
+Issue/Problem/Request 1:
+Assessment - Asthma, unspecified without mention of status asthmaticus. Differential diagnoses include chronic obstructive pulmonary disease (COPD), allergic bronchopulmonary aspergillosis, and upper airway cough syndrome.
+Diagnostic Tests - Consider peak flow measurements, spirometry to assess current lung function, and potentially an allergy test to determine any triggers.
+Treatment Plan - Continue current asthma management with inhaled corticosteroids and short-acting beta-agonists. Introduce a long-acting muscarinic antagonist if his symptoms persist. Consider referral to a pulmonologist for advanced management.
+
+Issue/Problem/Request 2:
+Assessment - History of acute pharyngitis potentially contributing to mild respiratory symptoms. Differential diagnosis includes viral pharyngitis, bacterial pharyngitis (streptococcal), and postnasal drip.
+Diagnostic Tests - Perform throat swab if symptoms of pharyngitis re-emerge.
+Treatment Plan - Supportive care with hydration, rest, and over-the-counter anti-inflammatory medications.
+
+Issue/Problem/Request 3:
+Assessment - Previous trauma involving maxillary and malar bone fractures from sports activity, now resolved post-surgery. Differential diagnosis is not applicable as fractures have healed.
+Diagnostic Tests - None required at this time.
+Treatment Plan - Continue routine dental and facial care follow-up if symptoms arise.
+
+Follow-Up:
+Instruct Mr. Sharma to contact the clinic if symptoms worsen, do not improve within a week, or if there are any significant changes to his condition. If the prescribed medications do not control his asthma effectively, an earlier follow-up may be warranted to adjust the treatment plan.
+
+Ensure that Mr. Sharma understands and adheres to the asthma action plan given during today's visit. Educate him on recognizing early signs of exacerbation and proper inhaler techniques. Encourage continued compliance with his treatment regimen and avoidance of known triggers, particularly during physical activity.

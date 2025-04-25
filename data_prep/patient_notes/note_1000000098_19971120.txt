@@ -1,0 +1,65 @@
+**Visit Information:**
+- Patient Num: 1000000098
+- Visit Date: 11/20/1997
+
+**Subjective:**
+This is a 13-year-old Asian female who has been under our care for three documented visits. She presents today for a follow-up after recent lab evaluations related to an episode of poisoning by aromatic analgesics, which occurred approximately two weeks ago. She speaks English fluently and was last seen on 11/07/1997. On today's visit, she reports feeling generally well but occasionally experiences mild abdominal discomfort and fatigue.
+
+She denies any other current symptoms such as jaundice, nausea, or vomiting. Her primary concern remains ensuring no lasting adverse effects from the poisoning incident. Her past medical history is otherwise unremarkable, with no previous surgeries or significant illnesses.
+
+The patient is not currently taking any herbal supplements or other medications besides an over-the-counter multivitamin which her parents provide. She has adhered to the prescribed dietary recommendations, focusing on adequate hydration and balanced nutrition to support her recovery.
+
+In terms of her social history, she lives with her parents and attends school regularly, is physically active, and has a healthy lifestyle. She has no known drug allergies.
+
+**Objective:**
+- **Vital Signs:**
+  - Blood Pressure: 112/70 mmHg
+  - Heart Rate: 78 bpm
+  - Respiratory Rate: 16 breaths per minute
+  - Temperature: 98.6°F (37°C)
+  - Oxygen Saturation: 98% on room air
+
+- **General Appearance:**
+  The patient appears well-nourished, alert, and in no acute distress. She is cooperative and oriented to person, place, and time.
+
+- **Cardiovascular:**
+  Heart sounds are normal with no murmurs, rubs, or gallops. Peripheral pulses are strong and symmetric.
+
+- **Respiratory:**
+  Lungs are clear to auscultation bilaterally with no wheezes, crackles, or rhonchi. No intercostal retractions or use of accessory muscles noted.
+
+- **Abdomen:**
+  Abdomen is soft, non-tender with no palpable masses. Bowel sounds are present and normal in frequency and character.
+
+- **Musculoskeletal:**
+  Normal range of motion in all limbs, no swelling or tenderness in joints.
+
+- **Neurological:**
+  Neurological examination shows a patient with normal gait, normal reflexes, and no focal deficits.
+
+- **Skin:**
+  Skin is warm and dry with normal color and turgor. No rashes or lesions are present.
+
+**Assessment:**
+1. **Poisoning by Aromatic Analgesics:**
+   - The recent episode appears to be resolving without significant complications. Liver function tests and other key laboratory values are currently within acceptable ranges.
+   
+2. **Mild Fatigue and Abdominal Discomfort:**
+   - Likely secondary to the recovery from poisoning and subsequent dietary adjustments.
+
+**Plan:**
+1. **Poisoning Follow-Up:**
+   - Continue monitoring liver function through periodic testing, including AST, Direct Bilirubin, and Total Bilirubin levels to ensure they remain stable.
+   - Encourage adherence to dietary recommendations and proper hydration.
+
+2. **Fatigue and Abdominal Discomfort:**
+   - Suggest small, frequent meals that are easy to digest, such as whole grains, fruits, and lean proteins.
+   - Educate the patient and her parents on identifying and avoiding any potential dietary triggers that might worsen symptoms.
+   - Recommend light physical activity as tolerated.
+
+3. **General Health Maintenance:**
+   - Ensure continued abstinence from over-the-counter analgesics without medical supervision.
+   - Plan regular follow-up appointments to monitor overall progress and address any emerging concerns.
+   - Instruct patient and parents to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.
+
+The patient and her parents express understanding of the plan and are instructed to follow the outlined guidelines. The next follow-up appointment is scheduled in two weeks, or earlier if needed based on symptom progression or lab findings.

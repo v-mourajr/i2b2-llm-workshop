@@ -1,0 +1,61 @@
+**Visit Information:**
+
+- Patient Num: 1000000024
+- Visit Date: 07/21/2004
+
+This is a 26-year-old Black male who speaks English, presenting today, 07/21/2004, for a follow-up on asthma management. He has a history of unspecified asthma without mention of status asthmaticus, and his primary concern remains managing his respiratory symptoms effectively.
+
+**Subjective:**
+
+The patient reports experiencing increased wheezing, shortness of breath, and chest tightness, particularly during physical activities and at night. Despite using his albuterol inhaler with an increased frequency over the past month, his symptoms persist. He notes a dry cough aggravated by physical exertion and occasional nocturnal awakenings due to breathlessness. The patient admits that his asthma, diagnosed in childhood, has had periods of exacerbation, though he has never been hospitalized for such. No recent infections or new environmental changes have been identified as triggers.
+
+He is diligent with his daily use of fluticasone without experiencing any notable side effects. Socially, he leads an active lifestyle as a college student and regularly engages in basketball. He reports no smoking, denies recreational drug use, and drinks alcohol socially. The patient lives in a dormitory. He has no known environmental or drug allergies.
+
+**Objective:**
+
+Vital Signs:
+
+- Blood Pressure: 124/82 mmHg
+- Heart Rate: 76 bpm
+- Respiratory Rate: 20 breaths/min
+- Temperature: 98.7°F (37.1°C)
+- Oxygen Saturation: 95% on room air
+
+Physical Examination:
+
+The patient appears alert, well-nourished, and in no acute distress. On cardiovascular examination, heart sounds were normal with no murmurs, gallops, or rubs, and symmetrical peripheral pulses were noted. Respiratory examination revealed mild expiratory wheezing bilaterally, clear lung fields, and no signs of acute respiratory distress or accessory muscle use. The abdomen was soft and non-tender, with no organomegaly or masses. The musculoskeletal examination demonstrated a full range of motion without pain. Neurologically, he was oriented to person, place, and time with no focal deficits. The skin was observed to be warm, dry, and intact with no abnormalities.
+
+Relevant Lab Findings:
+
+The patient's recent laboratory evaluations, including multiple complete blood counts assessing cell differentiation (such as white blood cells), results were within normal limits. Tests for liver function (Aspartate Aminotransferase) and electrolytes (sodium, potassium) were also normal, ruling out significant concurrent systemic issues.
+
+**Assessment:**
+
+1. **Primary Concern: Asthma**
+   - Clinical Impression: Mild to moderate asthma exacerbations 
+   - Likely Diagnosis: Mild intermittent asthma exacerbations triggered by physical activity and nocturnal factors.
+   - Differential Diagnosis: Respiratory infections, allergic rhinitis.
+   
+2. **Secondary Issue: Respiratory Symptoms**
+   - Likely related to primary asthma exacerbations.
+   
+**Plan:**
+
+1. **Asthma Management**
+   - Continue albuterol inhaler for acute relief.
+   - Increase the dosage of the maintenance inhaler (fluticasone) to manage ongoing symptoms more effectively.
+   - Conduct spirometry during this visit to evaluate current lung function.
+   - Provide education on asthma triggers, medication adherence, and proper inhaler use.
+
+2. **Follow-Up Investigations**
+   - Schedule allergen testing if symptoms persist or if new triggers are suspected.
+
+3. **Patient Education and Instructions**
+   - Reinforce education on managing asthma, recognizing exacerbation signs, and the significance of consistent medication usage.
+   - Instruct the patient to contact the clinic if symptoms worsen, persist beyond a week, or if spirometry results suggest the need for further evaluation.
+
+Follow-up is scheduled in one month to reassess asthma control and make any necessary adjustments to the treatment regimen. Instruct the patient to seek immediate care if he experiences severe breathlessness, unresponsive exacerbations, or any new concerning symptoms.
+
+---
+
+This comprehensive narrative provides a structured and professional summary of the patient's current visit, aligning with the SOAP format and focusing on the management of his asthma and associated symptoms.

@@ -1,0 +1,61 @@
+Visit Information:
+- Patient Num: 1000000133
+- Visit Date: 01/04/2010
+
+Subjective:
+This is an 18-year-old Asian female, who primarily speaks Spanish, presenting for a follow-up visit. She has been managing asthma since early childhood and has had repeated exacerbations, including status asthmaticus. The patient reports a recent worsening of her asthma symptoms over the past three weeks, marked by frequent wheezing and shortness of breath, particularly noticeable during night-time and physical activities. She has been using her albuterol inhaler with some relief but finds it insufficient to control her symptoms fully. 
+
+The patient’s mother reports that she has also experienced several episodes of acute upper respiratory infections over the past year, manifesting as sore throats and general malaise. Additionally, the patient has had ongoing adjustment disorder symptoms, likely influenced by her chronic health issues. She has no history of surgeries and, apart from the inhaled medications, relies on adequate hydration and resting for symptomatic relief. 
+
+The patient is currently using Combivent, Prednisolone Acetate, Pulmicort, and Zyrtec as her main medications. She also takes Prilosec for esophageal reflux and has previously been on oral corticosteroids during severe asthma exacerbations. Socially, she participates in light physical activities and follows family-influenced dietary changes in an effort to manage her obesity.
+
+Objective:
+- **Vital Signs:**
+  - Blood Pressure: 108/68 mmHg
+  - Heart Rate: 88 bpm
+  - Respiratory Rate: 24 breaths per minute
+  - Temperature: 37.4°C (99.3°F)
+  - Oxygen Saturation: 95% on room air
+
+- **General Appearance:**
+  The patient appears moderately distressed and anxious but remains alert and cooperative.
+
+- **Cardiovascular:**
+  Regular heart rate and rhythm with no murmurs, rubs, or gallops. Peripheral pulses are intact and bilaterally symmetrical.
+
+- **Respiratory:**
+  Examination reveals diffuse wheezing across all lung fields, most pronounced on expiration. There is mild intercostal retraction with respiration. No rales or rhonchi are heard.
+
+- **Abdomen:**
+  The abdomen is soft, non-tender, and non-distended with normoactive bowel sounds. No hepatosplenomegaly noted.
+
+- **Musculoskeletal:**
+  No joint deformities or significant muscle tenderness observed. Mobility appears normal within the scope of this examination.
+
+- **Neurological:**
+  Cranial nerves are intact, and there are no focal neurological deficits. The patient’s motor and sensory functions are normal, and her reflexes are well within normal limits.
+
+- **Skin:**
+  The skin is clear, warm, and dry, with no rashes or lesions present.
+
+Assessment:
+The patient has persistent asthma with recent exacerbations requiring intensification of her current management plan. Her condition continues to be complicated by frequent upper respiratory infections and adjustment disorders secondary to her chronic health issues. Management of obesity and esophagal reflux remains integral to her overall treatment strategy.
+
+Plan:
+
+**For Asthma:**
+- Continue albuterol inhaler for acute relief.
+- Initiate Fluticasone, an inhaled corticosteroid, to be used twice daily to achieve better long-term control.
+- Monitor symptoms closely, and if no improvement is seen in 48 hours, consider a short course of oral Prednisolone.
+- Schedule a follow-up visit in two weeks to evaluate asthma control and adjust treatment as necessary.
+
+**For Upper Respiratory Infections:**
+- Symptomatic treatment involving increased fluid intake, use of throat lozenges, and ample rest.
+- Should symptoms not ameliorate within a week or if they worsen, proceed with further evaluation, including possible throat culture.
+
+**For Obesity Management:**
+- Continue dietary and lifestyle interventions as discussed with the nutritionist.
+- Encourage regular, suitable physical activity to help with weight management and overall health.
+
+Follow-Up:
+The patient was instructed to contact the clinic if there is any exacerbation of her symptoms or if they do not improve with the current management plan. Emphasis was placed on the importance of adhering to the treatment regimen and asthma action plan. The follow-up visit is scheduled in two weeks to reassess the patient’s asthma symptoms and make any necessary adjustments. Both the patient and her mother were educated on the management strategies, and they demonstrated an understanding of the plan.

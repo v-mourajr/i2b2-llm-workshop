@@ -1,0 +1,78 @@
+**Visit Information:**
+- Patient Num: 1000000083
+- Visit Date: 03/30/2009
+
+**Subjective:**
+This narrative concerns a 67-year-old Black female who is fluent in German, presenting for follow-up on her chronic asthma and other ongoing medical issues. She reports an increase in shortness of breath and nocturnal wheezing over the past few days, which has disturbed her sleep. Despite using her albuterol inhaler, symptom relief remains insufficient. She denies experiencing any new cough, fever, or chest pain. 
+
+Her medical history includes chronic asthma with frequent exacerbations, well-controlled hypertension, hyperlipidemia, and osteoporosis. There is also a significant history of carcinoma in situ of the breast. She has undergone both a biopsy of lymphatic structures and local excision of a breast lesion, and she undergoes regular surveillance for breast cancer due to a family history.
+
+Currently, her medication regimen includes daily inhaled corticosteroids, a long-acting beta-agonist, antihypertensive drugs, cholesterol-lowering medications, and Fosamax for osteoporosis. She mentions experiencing mild tremors linked to albuterol use.
+
+Socially, she lives alone and stays active with regular walking and light exercises. She neither smokes nor consumes alcohol. There are no known allergies. The patient reports significant challenges in managing the exacerbation of her wheezing and breathlessness despite adherence to prescribed treatment.
+
+**Objective:**
+- **Vital Signs:**
+  - Blood Pressure: 147/94 mmHg
+  - Heart Rate: 90 bpm
+  - Respiratory Rate: 22 breaths per minute
+  - Temperature: 98.6°F
+  - Oxygen Saturation: 94% on room air
+
+- **General Appearance:**
+  The patient appears mildly distressed due to respiratory difficulty but remains alert and oriented.
+
+- **Cardiovascular:**
+  Normal heart sounds with regular rate and rhythm; no murmurs, rubs, or gallops detected.
+
+- **Respiratory:**
+  Lung auscultation reveals a prolonged expiratory phase with diffuse wheezes present in all lung fields. No significant use of accessory muscles observed during breathing.
+
+- **Abdomen:**
+  The abdomen is soft, non-tender, and non-distended with normal bowel sounds.
+
+- **Musculoskeletal:**
+  Full range of motion with no joint swelling or tenderness.
+
+- **Neurological:**
+  The patient is alert and oriented with no focal neurological deficits noted.
+
+- **Skin:**
+  Skin examination shows no rashes, cyanosis, or clubbing.
+
+Recent laboratory results indicated normal levels of albumin, ALT (SGPT), AST (SGOT), total bilirubin, cholesterol, creatinine, and sodium, demonstrating stable liver and renal functions.
+
+**Assessment:**
+
+1. **Asthma:**
+   The patient’s asthma control appears suboptimal despite current treatment, as indicated by frequent exacerbations.
+
+2. **Hypertension:**
+   The patient’s blood pressure is mildly elevated and will need ongoing monitoring and possible treatment adjustments.
+
+3. **Hyperlipidemia:**
+   Still under control but requires continuous follow-up to ensure it remains managed.
+
+**Plan:**
+
+1. **Asthma Management:**
+   - Continue inhaled corticosteroid and long-acting beta-agonist regimen.
+   - Increase the dose of inhaled corticosteroid.
+   - Introduce a leukotriene receptor antagonist to improve control.
+   - Re-educate on inhaler technique and the use of a spacer.
+   - Schedule pulmonary function tests to assess asthma severity and adjust treatment plans as needed.
+   - Instruct on early signs of exacerbations and emphasize the importance of seeking immediate medical assistance if symptoms worsen.
+
+2. **Hypertension Control:**
+   - Continue the current antihypertensive regimen.
+   - Monitor blood pressure regularly to ensure it remains within target ranges.
+
+3. **Hyperlipidemia Management:**
+   - Repeat lipid profile testing in three months and reassess treatment as needed.
+
+4. **Follow-Up:**
+   - Re-evaluate asthma control and blood pressure in one month.
+   - Instruct the patient to return earlier if symptoms worsen.
+   - Review asthma action plan and reinforce the importance of medication compliance and timely intervention.
+
+The patient has acknowledged understanding of the management plan and the necessity of adhering to her prescribed treatments for optimal health outcomes.

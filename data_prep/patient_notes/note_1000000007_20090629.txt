@@ -1,0 +1,66 @@
+"Visit Information:
+    - Patient Num: 1000000007
+    - Visit Date: 06/29/2009
+
+Subjective:
+    This is a 30-year-old Asian male who has been receiving care at our clinic for approximately 11 years. He primarily speaks Spanish and presents today for a follow-up visit to manage his chronic asthma and associated respiratory conditions. He reports that he continues to experience occasional episodes of shortness of breath, wheezing, and coughing, which are generally well-controlled with his albuterol inhaler that he uses as needed. Despite his adherence to the inhalant, he notes that his symptoms tend to exacerbate during physical activities and with seasonal changes, likely correlated with his known allergies. He mentions an increase in allergy symptoms more pronounced recently, which could be contributing to his respiratory challenges.
+
+    The patient has a history of asthma, both unspecified and extrinsic types, and has experienced acute exacerbations in the past. He has also been diagnosed with allergic rhinitis and recurrent episodes of upper respiratory infections. Notably, he has a history of cardiac dysrhythmias, particularly paroxysmal supraventricular tachycardia, for which he underwent catheter ablation three years ago. He remains asymptomatic for cardiac issues since the procedure.
+
+    He is currently using an albuterol inhaler for asthma and is undergoing allergy immunotherapy for allergic rhinitis. He does not use any herbal supplements and has not had any recent surgeries aside from his previous cardiac procedures. He is a college student, living with roommates, and engages regularly in recreational sports. He denies smoking, alcohol consumption, and recreational drug use. He has no known drug allergies.
+
+Objective:
+    - Vital Signs:
+        - Blood Pressure: 120/78 mmHg
+        - Heart Rate: 74 bpm
+        - Respiratory Rate: 20 breaths per minute
+        - Temperature: 98.4°F
+        - Oxygen Saturation: 97% on room air
+
+    - General Appearance:
+        The patient appears well-nourished and in no apparent distress. He is alert, oriented, and responds appropriately to questions.
+
+    - Cardiovascular:
+        Regular heart rate and rhythm without murmurs, gallops, or rubs. There is no evidence of jugular venous distension or peripheral edema.
+
+    - Respiratory:
+        Breath sounds are clear bilaterally. Mild wheezing was noted primarily at the end of expiration, especially following physical exertion to test for exercise-induced bronchospasm. There was no use of accessory muscles or nasal flaring observed.
+
+    - Abdomen:
+        The abdomen is soft, non-tender, with no distention. Normal bowel sounds are present in all quadrants.
+
+    - Musculoskeletal:
+        Full range of motion in all extremities. No joint deformities, tenderness, or swelling. No evidence of recurrent shoulder dislocation.
+
+    - Neurological:
+        Cranial nerves II through XII are intact. Deep tendon reflexes are normal. The patient is alert and oriented with no focal deficits.
+
+    - Skin:
+        The skin is intact, with no rashes or lesions observed.
+
+Assessment:
+    - Asthma: The patient’s asthma is generally well-controlled with his albuterol inhaler, although he does report occasional exacerbations likely linked to increased seasonal allergies.
+    - Cardiac Dysrhythmia: The patient remains asymptomatic for paroxysmal supraventricular tachycardia post-catheter ablation.
+    - Allergic Rhinitis: Seasonal allergies are contributing to his recent exacerbations of asthma symptoms.
+
+Plan:
+1. Asthma:
+   - Continue the use of the albuterol inhaler as needed.
+   - Consider initiating an inhaled corticosteroid if the patient experiences persistent or worsening symptoms.
+   - Review and reinforce the patient’s asthma action plan and proper inhaler technique.
+   - No additional diagnostic tests are required at this time.
+
+2. Allergic Rhinitis:
+   - Continue allergy immunotherapy.
+   - Recommend the use of over-the-counter antihistamines as needed.
+   - Advise on environmental controls to reduce allergen exposure.
+   - Schedule a follow-up in one month to reassess his condition.
+
+3. Cardiac Management:
+   - Continue to monitor for any recurrence of symptoms related to dysrhythmias.
+   - No new interventions or diagnostic tests are necessary since the patient remains asymptomatic.
+
+Follow-Up:
+    The patient is instructed to contact the clinic if symptoms worsen, do not improve within a week, or if any breathing difficulties arise.
+    Schedule a follow-up appointment in one month to reassess asthma and allergic rhinitis management.
+    The patient was educated on the importance of medication adherence, environmental control measures for allergies, and recognizing early signs of asthma exacerbation. The patient demonstrated understanding and agreed to the management plan."

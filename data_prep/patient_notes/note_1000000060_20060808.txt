@@ -1,0 +1,52 @@
+Visit Information:
+    - Patient Num: 1000000060
+    - Visit Date: 08/08/2006
+
+Mr. Roland Sharma, a 36-year-old Indian male who primarily communicates in German, has been a patient at our clinic since 1997. He presented on 08/08/2006 for a follow-up regarding his chronic asthma management. Historically, he has experienced numerous episodes of asthma exacerbations, evident from his medical records. Today, he reports an increase in nighttime wheezing and phlegm production that has been disrupting his sleep and daily activities.
+
+Despite his continued use of inhaled corticosteroids and a short-acting beta-agonist, his symptoms persist. Significant for his medical history is recurring acute pharyngitis, acute sinusitis, a diaphragmatic hernia, gastroesophageal reflux, and a history of facial fractures due to a sports injury. He has had a kidney transplant and has been treated for conditions like cellulitis, hypercholesterolemia, and past malignant neoplasms.
+
+Mr. Sharma leads an active lifestyle and frequently participates in sports. He denies smoking, alcohol use, or illicit drug use. He reported no known allergies and is not currently taking any herbal or supplementary medications.
+
+During his visit:
+Vital signs were as follows:
+- Blood Pressure: 120/80 mmHg
+- Heart Rate: 78 bpm
+- Respiratory Rate: 18 breaths per minute
+- Temperature: 36.8°C
+- Oxygen Saturation: 98% on room air.
+
+General Appearance: Mr. Sharma appeared well-nourished, alert, and in no acute distress.
+
+Cardiovascular: Regular heart rhythm without murmurs, gallops, or rubs. Peripheral pulses were noted as symmetric and palpable.
+
+Respiratory: Respiratory assessment showed diminished breath sounds with expiratory wheezes in both lungs. There was no observed accessory muscle use, intercostal retraction, rales, or rhonchi.
+
+Abdomen: The abdomen was soft and non-tender, with active bowel sounds.
+
+Musculoskeletal: Full range of motion in all extremities, with no swelling or deformities noted.
+
+Neurological: Cranial nerves II-XII appeared normal, with intact sensory and motor functions and symmetrical reflexes.
+
+Skin: Warm and dry with no rashes or lesions.
+
+Assessment:
+Mr. Sharma’s asthma appears to be uncontrolled, considering the recent symptomatology he reported. Secondary diagnoses include the resolved acute pharyngitis and completely healed facial fractures.
+
+Issue/Problem/Request 1:
+Assessment: Uncontrolled asthma, with differential diagnoses including COPD, allergic bronchopulmonary Aspergillosis, and upper airway cough syndrome.
+Diagnostic Tests: Peak flow measurements, spirometry for lung function assessment, and possible allergy testing.
+Treatment Plan: Proper use of inhaled corticosteroids and short-acting beta-agonists was demonstrated. Consider adding a long-acting muscarinic antagonist and referring him to pulmonology for specialized care if necessary.
+
+Issue/Problem/Request 2:
+Assessment: History of acute pharyngitis, possibly aggravating respiratory symptoms, with differentials including viral or bacterial pharyngitis.
+Diagnostic Tests: Throat swab if symptoms recur.
+Treatment Plan: Supportive care with hydration, rest, and OTC anti-inflammatories.
+
+Issue/Problem/Request 3:
+Assessment: Resolved facial fractures from a sports injury, now stable.
+Diagnostic Tests: None required.
+Treatment Plan: Routine follow-up if new symptoms arise and focus on injury prevention.
+
+Follow-Up:
+Mr. Sharma was advised to contact the clinic if symptoms do not improve within a week or if they worsen. He was educated on the proper use of inhalers and advised to avoid known triggers, especially during sports activities. Compliance with his asthma action plan and vigilance for early exacerbation signs were emphasized.

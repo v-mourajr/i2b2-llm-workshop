@@ -1,0 +1,80 @@
+\nPlease note: In all sections below, include details only if they can be inferred from the ICD9, NDC, or LOINC codes provided in the patient_summary; otherwise, leave blank.
+
+Visit Information:
+    - Patient Num: 1000000055
+    - Visit Date: Nov 18, 1998
+
+Subjective:
+    - Chief Complaints & History of Present Illness:
+        This is an 8-year-old Hispanic female who presents today for follow-up regarding asthma management. She has been receiving care at our clinic for the past two months. Her mother reports an increase in her coughing, particularly at night. Additionally, the patient has experienced shortness of breath during physical activities at school.
+    - Past Medical & Surgical History:
+        This patient has a documented history of asthma and has previously been diagnosed with other respiratory abnormalities. There is no significant surgical history.
+    - Medications & Supplements:
+        The patient is currently taking inhaled albuterol as needed for asthma and a daily low-dose inhaled corticosteroid. There have been no changes in her medication regimen since the last visit.
+    - Social History:
+        The patient lives with her mother and attends elementary school. She participates in moderate physical activities and is a non-smoker. The family maintains a pet-free and smoke-free home environment to help manage her asthma.
+    - Allergies:
+        No known drug allergies.
+    - Symptom Details:
+        The cough began approximately three weeks ago and has been persistent, with nocturnal exacerbation. The shortness of breath occurs during physical exertion, moderate in severity, and alleviated by rest and the use of her rescue inhaler.
+    - Additional Narrative:
+        The patient's asthma symptoms have been managed with the prescribed inhalers, but recent seasonal changes seem to have exacerbated her condition. The mother notes no significant side effects from the medications but is increasingly concerned about her daughter's nighttime cough.
+
+Objective:
+    - Vital Signs:
+        - Blood Pressure: 100/60 mmHg
+        - Heart Rate: 90 bpm
+        - Respiratory Rate: 22 breaths per minute
+        - Temperature: 98.6°F
+        - Oxygen Saturation: 97% on room air
+    - General Appearance:
+        The patient appears well-nourished and in no acute distress but has an intermittent non-productive cough.
+    - Cardiovascular:
+        Normal heart sounds with no murmurs, gallops, or rubs.
+    - Respiratory:
+        Mildly increased respiratory effort. Expiratory wheezes auscultated bilaterally, more prominent in the lower lung fields. No use of accessory muscles.
+    - Abdomen:
+        Soft and non-tender. Normal bowel sounds present.
+    - Musculoskeletal:
+        Normal range of motion, no joint swelling or tenderness.
+    - Neurological:
+        Alert and oriented. No focal neurologic deficits.
+    - Skin:
+        Warm and dry with no rashes or lesions.
+
+Assessment:
+    - Diagnosis or Clinical Impression:
+        The patient has a history of asthma, currently symptomatic with increased coughing and episodes of dyspnea related to physical exertion. Associated conditions include unspecified respiratory abnormalities and a history of infectious diseases.
+    - Issue/Problem/Request 1:
+        Assessment:
+            - Likely diagnosis: Asthma exacerbation
+            - Differential diagnosis: Respiratory infection, other obstructive lung diseases
+        Diagnostic Tests:
+            - Spirometry to assess lung function and peak flow measurements. Consider allergy testing if symptoms persist.
+        Treatment Plan:
+            - Increase the dosage of inhaled corticosteroids. Continue with albuterol as needed. Educate the mother on an asthma action plan.
+            - Referral to a pediatric pulmonologist if there is no improvement in symptoms.
+    - Issue/Problem/Request 2:
+        Assessment:
+            - Likely diagnosis: Nocturnal cough likely due to asthma
+            - Differential diagnosis: Gastroesophageal reflux, postnasal drip
+        Diagnostic Tests:
+            - No immediate additional tests unless symptoms suggest another etiology.
+        Treatment Plan:
+            - Trial of nighttime antihistamine to reduce symptoms if necessary. Reinforce asthma control measures.
+    - Issue/Problem/Request 3:
+        Assessment:
+            - Likely diagnosis: Shortness of breath with activity
+            - Differential diagnosis: Exercise-induced bronchospasm
+        Diagnostic Tests:
+            - Monitor oxygen saturation during physical activities.
+        Treatment Plan:
+            - Pre-exercise use of albuterol. Adjust activities to ensure they are asthma-friendly and avoid triggers.
+
+Follow-Up:
+    - Instructions for emergent follow-up care or monitoring:
+        Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.
+    - Follow-Up for persistent, changing, or worsening symptoms:
+        Schedule a follow-up appointment in one month or sooner if symptoms exacerbate.
+    - Patient Education & Understanding of the Plan:
+        Educated the mother and patient about asthma triggers and management. Confirmed understanding and the importance of adherence to the medication regimen and follow-up care.

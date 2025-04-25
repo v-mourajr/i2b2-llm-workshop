@@ -1,0 +1,62 @@
+Visit Information:
+    - Patient Num: 1000000079
+    - Visit Date: 10/05/2001
+
+Subjective:
+This is a 27-year-old Asian female who predominantly speaks Spanish and has a documented history of asthma, unspecified without mention of status asthmaticus. She returns for a follow-up visit, reporting an exacerbation of her asthma symptoms including wheezing and shortness of breath. These symptoms have been triggered by recent exposure to dust and cold weather. She has been using her albuterol inhaler more frequently despite adherence to her daily corticosteroid inhaler. Besides, the patient reports experiencing intermittent dysuria with a burning sensation during urination and darker urine, without accompanying abdominal pain or fever. She denies any history of surgical procedures and mentions recurrent urinary tract infections.
+
+Objective:
+- **Vital Signs**
+  - Blood Pressure: 118/76 mmHg
+  - Heart Rate: 82 bpm
+  - Respiratory Rate: 20 breaths per minute
+  - Temperature: 98.6°F (37°C)
+  - Oxygen Saturation: 97% on room air
+
+- **General Appearance:**
+  The patient is well-developed and well-nourished, alert, oriented, and in no acute distress.
+
+- **Respiratory:**
+  The examination reveals clear breath sounds bilaterally with no rales or rhonchi. End-expiratory wheezes are evident diffusely, though there are no signs of acute respiratory distress.
+
+- **Cardiovascular:**
+  Normal heart sounds with a regular rate and rhythm. There are no murmurs, gallops, or rubs.
+
+- **Abdomen:**
+  The abdomen is soft, non-tender, without organomegaly, and bowel sounds are normal.
+
+- **Musculoskeletal:**
+  The patient demonstrates full range of motion in all extremities, with no joint deformities or tenderness.
+
+- **Neurological:**
+  The patient is alert and oriented x4, with cranial nerves II-XII intact and no focal neurological deficits.
+
+- **Skin:**
+  The skin is warm and dry, with no lesions, rashes, or abnormalities.
+
+The urinalysis results showed the presence of amorphous crystals, bacteria, bilirubin, ketones, mucous, nitrites, glucose, and occult blood cells. The levels of pH, specific gravity, and protein were within normal ranges, with observed RBCs and squamous cells under microscopic examination.
+
+Assessment:
+1. **Asthma:** The patient is experiencing a moderate exacerbation of chronic asthma, likely triggered by environmental allergens such as cold weather and dust.
+2. **Possible Urinary Tract Infection (UTI):** The dysuria and abnormal urinalysis findings suggest a probable UTI.
+
+Plan:
+1. **Asthma Management:**
+   - Continue current maintenance therapy with corticosteroid inhaler.
+   - Increase the use of albuterol as needed, with close monitoring of frequency.
+   - Consider initiating a short course of oral corticosteroids if symptoms do not improve within a week.
+   - Educate the patient on avoiding asthma triggers and proper inhaler techniques.
+
+2. **Urinary Tract Infection Management:**
+   - Begin a course of appropriate antibiotics, given her history and clinical presentation.
+   - Advise increased fluid intake.
+   - Schedule follow-up urinalysis post-treatment to ensure resolution.
+
+3. **Follow-Up:**
+   - Instruct the patient to return if asthma symptoms worsen despite increased medication use or if new symptoms develop.
+   - Schedule a follow-up appointment in one week to reassess asthma control and response to UTI treatment.
+
+Patient Education & Understanding:
+The patient was thoroughly educated about her condition, management plan, and the importance of adherence to the prescribed treatments. She understands and agrees with the outlined plan. 
+
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. A follow-up appointment was scheduled for next week.

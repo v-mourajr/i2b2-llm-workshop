@@ -1,0 +1,82 @@
+Note Date: 10/30/2008
+Patient Number: 1000000072
+
+This is a 14-year-old Asian male who speaks Spanish, presenting today for a follow-up appointment for his chronic asthma, asthma exacerbations, and related respiratory issues. He has been under our care for several years.
+
+Subjective:
+The patient’s mother reports the patient has had increased difficulty with breathing over the past several days, characterized by nocturnal wheezing and persistent cough. There have been several episodes of shortness of breath, particularly at night. His chronic asthma has necessitated the regular use of an albuterol inhaler, which he uses approximately three times per week, and a daily fluticasone inhaler. While the albuterol provides temporary relief, the fluticasone appears to be less effective in preventing these recurrent episodes. The patient has a history of multiple episodes of status asthmaticus, as well as frequent instances of acute bronchitis and nasopharyngitis. There was an episode of fever five days ago that has resolved.
+
+Past Medical & Surgical History:
+His past medical history is significant for recurrent status asthmaticus, acute bronchiolitis, frequent nasopharyngitis, acute pharyngitis, allergic rhinitis, anemia, candidiasis, cerebral cysts, and other respiratory issues such as wheezing. A known history of neonatal hypoglycemia and teething syndrome is also noted. Previous circumcision is the only significant surgical history.
+
+Medications:
+The patient currently uses an albuterol inhaler as needed and a daily fluticasone inhaler. He has shown a positive response to the albuterol inhaler, albeit temporarily.
+
+Social History:
+The patient resides in a smoke-free household and attends school regularly. Physical activities are restricted during periods of respiratory exacerbation. There are no known environmental or dietary triggers that have recently changed.
+
+Allergies:
+The patient has no known drug or food allergies.
+
+Symptom Details:
+Symptoms include nocturnal wheezing and shortness of breath, more severe at night. The mother describes these symptoms as moderate in severity and they appear to lessen with the use of albuterol. There have been no recent changes or new side effects reported with the current medication regimen.
+
+Additional Narrative:
+The patient has been managed at home with a combination of pharmacological and non-pharmacological measures, including a clean living environment and avoidance of known asthma triggers. The patient's mother is diligent about medication adherence and inhaler technique. Education on early signs of exacerbation and a structured asthma action plan has been previously provided.
+
+Objective:
+Vital Signs:
+- Blood Pressure: 95/60 mmHg
+- Heart Rate: 110 bpm
+- Respiratory Rate: 28 bpm
+- Temperature: 98.6°F
+- Oxygen Saturation: 95% on room air
+
+General Appearance:
+The patient appears well-nourished and is in no acute distress.
+
+Cardiovascular:
+Heart sounds are S1 and S2 with no murmurs, gallops, or rubs.
+
+Respiratory:
+Increased work of breathing observed with mild intercostal retractions. On auscultation, there is bilateral expiratory wheezing. No crackles or rhonchi noted.
+
+Abdomen:
+The abdomen is soft, non-tender, and non-distended. There is no hepatosplenomegaly.
+
+Musculoskeletal:
+Normal muscle tone and strength for age; no deformities or swelling observed.
+
+Neurological:
+The patient is alert and oriented, with appropriate developmental milestones for age. Cranial nerves II-XII are intact.
+
+Skin:
+No rashes, lesions, or pallor present.
+
+Assessment:
+1. Asthma exacerbation
+   - Acute asthma exacerbation, likely triggered by recent viral respiratory infection.
+2. Chronic asthma management
+   - History of recurrent status asthmaticus and ongoing management requirements.
+3. Observation
+   - Ongoing monitoring for potential secondary bacterial infection post-viral upper respiratory infection.
+
+Plan:
+1. Asthma management:
+   - Continue albuterol inhaler as needed.
+   - Increase fluticasone inhaler to twice daily.
+   - Provide a structured asthma action plan and reinforce inhaler technique with the patient and his mother.
+
+2. Diagnostic Tests:
+   - Order a complete blood count (CBC) to monitor for potential bacterial infection and anemia.
+   - Consider spirometry at the next visit to assess lung function and asthma control.
+
+3. Education:
+   - Reinforce the importance of medication adherence and early intervention during exacerbations.
+   - Educate the patient and his mother about recognizing early signs of asthma exacerbation and proper use of inhalers.
+
+4. Follow-up:
+   - Schedule a follow-up appointment in two weeks to reassess symptoms and adjust treatment as necessary.
+   - Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.
+
+The patient’s mother understands and agrees with the treatment plan and instructions provided. Further monitoring and possible adjustments will be made based on the patient’s response to the current plan.

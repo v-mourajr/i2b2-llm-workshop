@@ -1,0 +1,91 @@
+This is a comprehensive physician's narrative SOAP note for a 33-year-old Black male who primarily speaks Spanish and has been receiving care at our clinic.
+
+---
+
+**Visit Information:**
+- **Patient Num:** 1000000049
+- **Visit Date:** May 28, 1997
+
+---
+
+**Subjective:**
+
+The patient presents with a history of asthma diagnosed several years ago. He reports experiencing increased episodes of wheezing and shortness of breath over the past month, most pronounced during physical activity and at night. He acknowledges occasional non-compliance with his asthma medication regimen due to misunderstanding the dosage instructions. No recent emergency room visits or hospitalizations for asthma have been reported.
+
+The patient has a notable past medical history of allergic rhinitis and episodic dermatitis, though these conditions are currently well-managed. He denies any past surgical history.
+
+Current medications include an albuterol inhaler, used as needed, and a daily low-dose inhaled corticosteroid. He does not take any herbal supplements. He notes that when used correctly, his medication helps alleviate his symptoms, but he sometimes forgets the specific instructions.
+
+Social history reveals that he lives with his family in a single-story home and works as a construction laborer. He acknowledges occasional exposure to dust and allergens at work. He is a non-smoker and does not consume alcohol. He maintains a healthy diet but admits to being physically inactive due to his recent asthma flare-ups.
+
+The patient has no known drug allergies but reports seasonal allergy symptoms, typically treated with over-the-counter antihistamines.
+
+His symptoms include daily coughing, intermittent wheezing, and chest tightness, with symptoms worsening in dusty environments and at night. He finds that using his inhaler provides temporary relief.
+
+Recently, he has employed non-pharmacological interventions, such as using a humidifier at night and practicing breathing exercises, both of which have provided moderate relief.
+
+---
+
+**Objective:**
+
+- **Vital Signs:**
+    - **Blood Pressure:** 125/80 mmHg
+    - **Heart Rate:** 85 bpm
+    - **Respiratory Rate:** 20 breaths per minute
+    - **Temperature:** 98.6°F
+    - **Oxygen Saturation:** 97% on room air
+
+- **General Appearance:**
+    The patient appears alert and in no acute distress. His body habitus is normal, and he is well-nourished.
+
+- **Cardiovascular:**
+    Heart sounds are clear with a regular rhythm. No murmurs, rubs, or gallops are noted.
+
+- **Respiratory:**
+    Respiratory examination reveals bilateral wheezing, particularly in the lower lung fields. No cyanosis or retractions are observed. Breath sounds are otherwise clear.
+
+- **Abdomen:**
+    The abdomen is soft, non-tender, and without masses. Bowel sounds are normoactive.
+
+- **Musculoskeletal:**
+    No significant abnormalities are noted in the musculoskeletal examination. The patient demonstrates full range of motion in all extremities.
+
+- **Neurological:**
+    The patient is oriented to person, place, and time. Cranial nerves are intact, and motor and sensory examinations are normal.
+
+- **Skin:**
+    No rashes or lesions are noted at this time. The skin is warm and dry.
+
+Recent laboratory findings have indicated normal levels of Hematocrit, Hemoglobin, Mean Corpuscular Volume, and White Blood Cell count. These tests were repeated twice, confirming results within normal ranges.
+
+---
+
+**Assessment:**
+
+The patient has a well-documented history of asthma, which appears to be sub-optimally controlled given his current non-compliance and exacerbating factors at work. He also has a history of allergic rhinitis, which was not acutely problematic today.
+
+---
+
+**Plan:**
+
+1. **Asthma:**
+    - Reinforce medication adherence by reviewing the correct inhaler technique and dosage instructions with the patient.
+    - Prescribe a spacer for more effective delivery of inhaled medication.
+    - Consider a daily leukotriene receptor antagonist if symptoms persist.
+    - Provide an asthma action plan tailored to this patient's symptoms and triggers.
+    - Encourage regular follow-ups to monitor asthma control and adjust medication as needed.
+
+2. **Allergy Management:**
+    - Recommend continued use of over-the-counter antihistamines for his seasonal allergies.
+    - Advise the patient to reduce exposure to work-related dust using protective equipment.
+
+Follow-up instruction: The patient is advised to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.
+
+**Patient Education:**
+Discussed the importance of medication adherence, avoiding known allergens, particularly at work, and using non-pharmacological measures at home such as a humidifier and breathing exercises.
+
+The patient confirms understanding of the care plan and agrees to a follow-up appointment in four weeks or sooner if symptom control does not improve.
+
+---
+
+This comprehensive narrative builds upon the patient’s history and current symptoms, providing clarity and continuity of care in alignment with the SOAP format.

@@ -1,0 +1,64 @@
+**Visit Information:**
+    - Patient Num: 1000000129
+    - Visit Date: 12/28/2001
+
+**Subjective:**
+This is a 31-year-old Hispanic male who speaks German and has been under our care for approximately three years, presenting today for a routine follow-up visit. He has a documented history of asthma, including an episode of status asthmaticus, along with recurrent acute sinusitis, acute pharyngitis, allergic rhinitis, cough, fever, unspecified chest pain, obesity, and convulsions. He has not experienced recent hospitalizations or surgeries.
+
+Currently, he complains of a persistent cough for the past week, which has been productive with yellowish sputum, intermittent nasal congestion, and episodes of epistaxis. He reports a mild fever but denies shortness of breath or chest pain. He has been under treatment for asthma and obesity and uses a nasal saline spray for his sinus symptoms. He adheres to dietary restrictions to manage his weight and incorporates daily physical activity.
+
+Socially, he lives alone, works as a software engineer, is a non-smoker, rarely consumes alcohol, and has no history of illicit drug use.
+
+**Objective:**
+- **Vital Signs:**
+    - Blood Pressure: 128/82 mmHg
+    - Heart Rate: 82 bpm
+    - Respiratory Rate: 20 breaths per minute
+    - Temperature: 99.6 °F
+    - Oxygen Saturation: 97% on room air
+
+- **General Appearance:** The patient appears well-nourished and in no respiratory distress.
+- **Cardiovascular:** Regular rate and rhythm; without murmurs, gallops, or rubs.
+- **Respiratory:** Lungs are clear to auscultation bilaterally; no wheezes, rales, or rhonchi. Sinus tenderness noted, particularly over the maxillary sinuses.
+- **Abdomen:** Soft, non-tender, non-distended with normal bowel sounds.
+- **Musculoskeletal:** Full range of motion in all joints; mild diffuse myalgia reported.
+- **Neurological:** Alert and oriented; no focal deficits.
+- **Skin:** Erythematous dermatitis present on the extensor surfaces of the arms, no new lesions.
+
+Recent laboratory results indicate normal kidney function tests (Creatinine, Blood Urea Nitrogen), and urinalysis reveals no infection (negative glucose, ketones, nitrites, and WBC).
+
+**Assessment:**
+The patient's symptoms are consistent with his past medical history of asthma and current exacerbation of acute sinusitis possibly complicated by an upper respiratory infection. He continues to manage obesity effectively with lifestyle modifications, and his erythematous dermatosis appears stable. Convulsions have not recurred recently under current management.
+
+**Plan:**
+- **Acute Sinusitis/Upper Respiratory Infection:**
+    - Prescribe amoxicillin-clavulanate for 10 days.
+    - Continue the use of nasal saline spray and initiate a corticosteroid nasal spray.
+    - Advise adequate hydration and rest.
+
+- **Asthma:**
+    - Ensure continuation of current asthma management plan.
+    - Discuss the importance of adherence to rescue inhaler and maintenance inhaler.
+    - Review asthma action plan during each visit.
+
+- **Obesity:**
+    - Reinforce dietary modifications and regular physical exercise.
+    - Schedule an appointment with a nutritionist for updated dietary planning.
+
+- **Convulsions:**
+    - Continue the current anticonvulsant medication.
+    - Schedule a follow-up with neurology to review recent medication levels and seizure control.
+
+- **Erythematous Dermatitis:**
+    - Maintain current topical treatment regimen.
+    - Use emollients and topical corticosteroids as necessary.
+
+- **General Recommendations:**
+    - Monitor symptoms and seek medical attention if there's no improvement or if symptoms escalate within one week.
+    - Provide patient education on lifestyle adjustments, especially concerning asthma, obesity, and maintaining sinus health.
+
+**Follow-Up:**
+- The patient has been instructed to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.
+- Schedule a routine follow-up in three months to assess overall progress and health condition. 
+
+Educational materials were provided, emphasizing the importance of adherence to medication, symptom management, and lifestyle modifications. The patient demonstrated understanding and agreed to the follow-up plan.

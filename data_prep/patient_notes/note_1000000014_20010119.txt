@@ -1,0 +1,74 @@
+Please note: This summary was created based on the given data, focusing on a recent fictional visit dated 01/19/2001 to provide the narrative-style SOAP note. 
+
+**Visit Information:**
+
+- Patient Num: 1000000014
+- Visit Date: 01/19/2001
+
+**Subjective:**
+This is a 46-year-old White male who speaks German and has been under our clinic's care for the past 3.75 years. He presents to the clinic for a follow-up concerning his asthma, previously diagnosed and managed over several years, yet with recent exacerbation in symptoms. The patient reports persistent shortness of breath and wheezing despite adhering to his prescribed Albuterol inhaler (used as needed). No recent exposure to new allergens, alterations in his routine, fever, chills, or unanticipated weight loss have been noted.
+
+Aside from asthma, the patient also has a diagnosis of chronic rhinitis, historically managed with Loratadine and nasal sprays. He has had episodes of sinusitis and allergic rhinitis, all contributing to his respiratory concerns. He also experiences atypical facial pain intermittently.
+
+Medications: 
+- Albuterol inhaler, as needed for asthma exacerbations
+- Loratadine for chronic rhinitis
+
+The patient denies any known drug allergies and follows a non-smoking lifestyle. He works in an office environment, lives alone, adheres to a balanced diet, but has a sedentary lifestyle with limited physical activity. He records no recent hospitalizations or surgical interventions.
+
+**Objective:**
+
+- Vital Signs:
+  - Blood Pressure: 130/86 mmHg
+  - Heart Rate: 80 bpm
+  - Respiratory Rate: 18 breaths per minute
+  - Temperature: 36.7°C
+  - Oxygen Saturation: 95% on room air
+
+- General Appearance: The patient is awake, alert, and oriented, presenting without apparent distress.
+
+- Cardiovascular: Heart sounds were normal with a regular rate and rhythm; no abnormal sounds such as murmurs, rubs, or gallops.
+
+- Respiratory: Bilateral wheezes were noted with a prolonged expiratory phase, suggesting bronchoconstriction. Breath sounds were diminished; however, no crackles or rhonchi were heard.
+
+- Abdomen: Examination revealed a soft, non-tender, non-distended abdomen with active bowel sounds in all quadrants.
+
+- Musculoskeletal: No evidence of joint or muscle deformities. The patient maintains a full range of motion in all extremities.
+
+- Neurological: Examination showed no abnormalities. The patient was oriented to person, place, and time, with all cranial nerves functioning normally.
+
+- Skin: The skin was intact, warm, and dry, with no noted rashes or lesions.
+
+Previous laboratory tests including complete blood count (CBC) and liver function tests (including ALT and AST) were within normal limits. Regular monitoring has shown stable kidney function, a normal anion gap, electrolyte balances (sodium, potassium), and no anomalies in immune response markers such as ESR and IgE levels.
+
+**Assessment:**
+
+Primary: Asthma, unspecified without mention of status asthmaticus.
+Secondary: Chronic rhinitis.
+
+The patient’s asthma is moderately controlled on the current as-needed regime. The recent exacerbation of symptoms indicates the need for modifications to improve daily control and reduce future episodes.
+
+**Plan:**
+
+1. **Asthma Management:**
+   - Continue with Albuterol inhaler as needed for symptoms.
+   - Introduction of a daily inhaled corticosteroid (Fluticasone, 2 puffs twice daily).
+   - Review inhaler technique during the next visit and monitor for side effects.
+   - Schedule for spirometry to assess lung function and monitor asthma control.
+
+2. **Chronic Rhinitis:**
+   - Maintain the current regimen with Loratadine.
+   - Reinforce allergen avoidance strategies and consider nasal corticosteroid if symptoms persist.
+
+3. **Lifestyle Modifications:**
+   - Conduct a discussion on incorporating a more active lifestyle with gradual increases in physical activity.
+   - Evaluate home and workplace environment to mitigate potential allergen exposure.
+
+4. **Additional Testing:**
+   - Continual review of laboratory tests ensuring that other systemic contributions are identified and managed.
+
+**Follow-Up:**
+
+The patient was advised to contact the clinic if symptoms worsen or do not improve within a week or if significant findings arise from planned lab tests. A follow-up appointment is scheduled for 4 weeks to reassess asthma management efficacy and adherence. The patient was thoroughly educated on the new treatment plan, symptom monitoring, and importance of lifestyle adjustments, with confirmation of comprehension and agreement noted.
+
+By following these updates, we aim to provide more stable management of his asthma and chronic rhinitis, enhancing overall quality of life and reducing acute exacerbations.

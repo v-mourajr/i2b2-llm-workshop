@@ -1,0 +1,41 @@
+**Visit Information:**
+- Patient Num: 1000000043
+- Visit Date: 03/09/2001
+
+**Subjective:**
+This is a 53-year-old Hispanic male who has been receiving care at our clinic primarily for asthma management. He primarily speaks Spanish and presented today for a follow-up visit concerning his asthma and allergic rhinitis. The patient reports experiencing increased shortness of breath and wheezing, especially at night, over the past week. He denies any recent episodes of status asthmaticus or significant exacerbations requiring emergency care.
+
+The patient has a notable history of allergic rhinitis, which he states is often worse during the pollen season. He is currently experiencing symptoms of nasal congestion, sneezing, and itchy eyes, indicating his allergic rhinitis has also been problematic recently. He is on an albuterol inhaler to manage acute asthma symptoms and takes a daily loratadine tablet for allergy control. Despite adherence to his medication regimen, he finds his nasal congestion unrelenting and disruptive, interfering with his sleep quality.
+
+**Objective:**
+The patient's vital signs are:
+- Blood Pressure: 120/80 mmHg
+- Heart Rate: 78 bpm
+- Respiratory Rate: 20 breaths per minute
+- Temperature: 98.7°F
+- Oxygen Saturation: 98% on room air
+
+Upon general examination, the patient appears moderately uncomfortable but not in acute distress. The cardiovascular examination reveals normal heart sounds without any murmurs. The respiratory examination indicates diffuse wheezing on auscultation bilaterally; however, there are no retractions or use of accessory muscles observed. The abdominal examination is normal with soft, non-tender findings and intact bowel sounds. Musculoskeletal and neurological exams are within normal limits. The examination of the skin did not reveal any rashes or lesions.
+
+**Assessment:**
+The patient is assessed to have chronic asthma, currently experiencing an exacerbation. Additionally, his ongoing symptoms of allergic rhinitis are causing significant discomfort. 
+
+- **Issue 1: Asthma**
+    - Assessment: The likely diagnosis is asthma exacerbation.
+    - Diagnostic Tests: Pulmonary function tests are planned to evaluate the severity of airway obstruction.
+    - Treatment Plan: The patient should increase the frequency of albuterol inhaler use as needed, and an inhaled corticosteroid (Fluticasone) will be introduced to his regimen. Symptoms will be monitored closely.
+    - Relevant Referrals: Referral to a pulmonologist for further evaluation and long-term management.
+
+- **Issue 2: Allergic Rhinitis**
+    - Assessment: Allergic rhinitis evidently exacerbated by current pollen exposure.
+    - Diagnostic Tests: If symptoms persist, specific allergen sensitivity testing will be considered.
+    - Treatment Plan: The patient should continue with daily loratadine and add an intranasal corticosteroid spray (Fluticasone propionate). Additional environmental control measures to avoid allergens will be discussed.
+    - Relevant Referrals: Referral to an allergist if there is no improvement with current management.
+
+**Plan:**
+The patient is instructed to continue using his medications as directed and to monitor his symptoms closely. If his symptoms worsen, do not improve within a week, or if the pulmonary function tests indicate further evaluation is necessary, he should contact the clinic. The importance of proper inhaler techniques and compliance with the new treatment regimen was emphasized during the visit. 
+
+A follow-up appointment is scheduled in two weeks to reassess asthma control and review the effectiveness of the added medications. The patient was educated on recognizing warning signs of acute exacerbations and when to seek emergency care. The patient verbalized understanding and agreed to adhere to the recommended follow-up and treatment plans.
+
+**Follow-Up:**
+The patient is to contact the clinic if symptoms worsen or do not improve within a week. A follow-up appointment has been arranged in two weeks to evaluate progress in managing asthma and allergic rhinitis symptoms. The patient understands the plan and agrees to follow through with the instructions.

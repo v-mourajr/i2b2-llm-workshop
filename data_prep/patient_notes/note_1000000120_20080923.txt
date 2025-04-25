@@ -1,0 +1,39 @@
+Visit Information:
+- Patient Num: 1000000120
+- Visit Date: 09/23/2008
+
+This is a 37-year-old Hispanic male who has been receiving care at our clinic for approximately 10 years. He speaks English and presents today for a follow-up concerning his asthma management and evaluation of persistent hand pain and functional deficits secondary to previous traumatic finger amputations.
+
+Subjective:
+The patient reports that his asthma continues to be well-managed with his albuterol sulfate inhaler, which he uses as needed. He denies any recent exacerbations or hospital admissions related to his asthma. Nonetheless, he expresses ongoing concern over the pain and limited functionality in his right hand, which significantly interferes with his manual labor job. The hand pain, particularly at the amputation and arthroplasty sites, is exacerbated by the repetitive and strenuous nature of his work.
+
+He mentions that ibuprofen provides some relief, but inadequate control of pain continues to hamper his daily activities. He reports no adverse effects from the albuterol sulfate. The patient lives alone, abstains from tobacco use, and maintains a physically active lifestyle despite his limitations. There are no known drug allergies.
+
+Objective:
+Vital signs recorded today are:
+- Blood Pressure: 122/80 mmHg
+- Heart Rate: 74 bpm
+- Respiratory Rate: 18 breaths per minute
+- Temperature: 98.4°F
+- Oxygen Saturation: 97% on room air
+
+The patient is alert, oriented, and cooperative but appears in mild discomfort due to his right hand pain. Cardiovascular examination reveals normal heart rate and rhythm, with no murmurs or abnormal heart sounds. Respiratory assessment shows clear breath sounds bilaterally, with no wheezes, rales, or rhonchi; there is good air entry throughout, and no use of accessory muscles for respiration is noted.
+
+The abdominal examination is unremarkable; the abdomen is soft, non-tender, and non-distended, with normal bowel sounds auscultated. Musculoskeletal examination of the right hand discloses edema and tenderness at the sites of previous amputations and arthroplasties. There are well-healed surgical scars with no signs of infection. The range of motion in the remaining digits is significantly reduced, with evident deformities and decreased grip strength attributed to the earlier traumatic injuries.
+
+Neurological examination indicates intact cranial nerves II-XII, but diminished motor strength and sensation distal to the site of injury in the right hand. The skin is without new lesions, rashes, or signs of infection.
+
+Assessment:
+- The primary diagnosis remains asthma, unspecified without mention of status asthmaticus, which is currently well-managed with the ongoing treatment regimen.
+- Secondary issues involve chronic pain and functional impairment in the right hand following multiple traumatic amputations and subsequent surgical interventions.
+- Tertiary concerns include the patient’s ability to perform his occupational duties, which are being impacted by his hand condition.
+
+Plan:
+1. Continue the use of albuterol sulfate for asthma management and as a rescue inhaler. 
+2. Reinforce asthma education, emphasizing the importance of trigger avoidance and medication adherence.
+3. Maintain ibuprofen for pain control in the right hand while assessing for potential gastroprotective medications to prevent gastrointestinal side effects.
+4. Provide a referral to an orthopedic specialist for comprehensive evaluation of the surgical outcomes of previous procedures and to consider further surgical or minimally invasive interventions for pain relief and improved function.
+5. Recommend occupational therapy to develop strategies and modifications to assist with job-related tasks and to improve hand functionality.
+6. Educate the patient regarding signs of infection in the hand and advise immediate medical attention if symptoms of infection appear or if asthma symptoms worsen.
+
+Follow-up instructions include contacting the clinic if symptoms worsen or show no improvement within a week or if test results necessitate further evaluation. The patient has been scheduled for a follow-up appointment in two weeks to reassess his hand condition and continue monitoring asthma management. He has demonstrated understanding and agreement with the treatment plan.

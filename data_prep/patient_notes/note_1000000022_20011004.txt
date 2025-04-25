@@ -1,0 +1,58 @@
+Visit Information:
+    - Patient Num: 1000000022
+    - Visit Date: 10/04/2001
+    
+Subjective:
+This is a 36-year-old White male who speaks Spanish and has been receiving care at our clinic for over three years. He presents today for follow-up evaluation, primarily concerned about his asthma. He reports an increase in the frequency and severity of asthma attacks over the past month, with episodes being triggered by cold air and physical exertion. Despite these exacerbations, he denies any recent hospitalizations or emergency room visits for asthma.
+
+His medical history is significant for asthma, which is managed with a short-acting beta-agonist inhaler as needed. The patient has a past medical history of an abscess of the salivary gland, acute pharyngitis, and multiple acute upper respiratory infections. He also has diagnoses of alopecia, chronic bronchitis, organic impotence, lumbago, and persistent acne. He also noted a nonspecific swelling in the head and neck area in the past.
+
+The patient currently uses a salbutamol inhaler as needed and adheres to this regimen. For his back pain (secondary to lumbago), he uses over-the-counter ibuprofen, and over-the-counter acne medication for skin issues. He denies the use of herbal supplements.
+
+Socially, he does not smoke or consume alcohol. He works in construction, which he suspects might contribute to his recent asthma exacerbations. He is married and provides substantial support for his family.
+
+The patient has no known allergies. He describes his asthma symptoms as wheezing, shortness of breath, and chest tightness that are relieved with rest and inhaler use. He reports chronic issues of organic impotence, managed with hormone therapy. He notes compliance with recent prolactin and testosterone monitoring and adjustments as needed.
+
+Objective:
+Vital Signs:
+- Blood Pressure: 124/82 mmHg
+- Heart Rate: 76 beats per minute
+- Respiratory Rate: 18 breaths per minute
+- Temperature: 98.6°F
+- Oxygen Saturation: 96% on room air
+
+General Appearance:
+The patient appears well-developed, well-nourished, and in no acute distress.
+
+Cardiovascular:
+Heart regular in rate and rhythm; no murmurs, gallops, or rubs detected.
+
+Respiratory:
+Mild expiratory wheezing noted bilaterally, more pronounced on forced expiration. No crackles or rhonchi. Symmetrical chest expansion.
+
+Abdomen:
+Soft and non-tender with normal bowel sounds. No hepatomegaly or masses detected.
+
+Musculoskeletal:
+Mild tenderness to palpation in the lumbar area. Full range of motion in all extremities.
+
+Neurological:
+Alert and oriented to person, place, and time. Cranial nerves II-XII intact without focal deficits.
+
+Skin:
+Patches of hair loss noted on the scalp consistent with alopecia. Skin clear of acute lesions or infection.
+
+Assessment:
+The patient presents with a history of asthma that appears to be exacerbated by environmental triggers and physical exertion over recent weeks. He also has a history of organic impotence, managed with hormone therapy which is monitored regularly. Other comorbid conditions include alopecia, chronic bronchitis, lumbago, and acne, all currently stable or managed with symptomatic treatment.
+
+Plan:
+1. Enhance asthma management by transitioning the patient to a long-term inhaled corticosteroid while continuing the use of the short-acting beta-agonist for acute relief.
+2. Educate the patient on proper inhaler technique and avoidance of known asthma triggers, particularly in his occupational environment.
+3. Continuation of hormone level monitoring for impotence, with adjustments as necessary.
+4. Maintain current management practices for alopecia and acne, advising follow-up if symptoms persist or worsen.
+5. Recommend physical therapy for lumbago and continue NSAID use as needed.
+6. Advise the patient to return to the clinic if signs of respiratory infection return.
+7. Schedule a follow-up visit in four weeks to reassess asthma control and adjust treatment plans accordingly.
+
+Follow-Up:
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. Ensure patient education and understanding of the current plan and the importance of follow-up.

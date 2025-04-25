@@ -1,0 +1,53 @@
+Visit Information:
+- Patient Num: 1000000034
+- Visit Date: 10/01/2007
+
+This is a 38-year-old Indian male who speaks English and has been receiving care at our clinic since March 14, 2001, with a recent check-up on 12/13/2004. He presents today for a follow-up visit regarding his known history of asthma and related symptomatic conditions.
+
+Subjective:
+The patient reports ongoing intermittent exacerbations of his asthma, specifically noting dyspnea, wheezing, and chest tightness, which have been exacerbated by exposure to allergens such as pollen and cold weather. He states that these exacerbations have generally been controlled with his current medications, which include an inhaled corticosteroid (fluticasone) and a short-acting beta-agonist (albuterol) used as needed. He continues to experience nasal congestion and postnasal drip attributed to chronic sinusitis and allergic rhinitis. Throughout the treatment period, he has not experienced any adverse side effects from his medications. He denies any known drug allergies. The patient maintains a healthy lifestyle, works as a software engineer, lives with his partner, and regularly engages in physical activities such as running and yoga.
+
+Objective:
+Vital Signs:
+- Blood Pressure: 120/80 mmHg
+- Heart Rate: 82 bpm
+- Respiratory Rate: 18 rpm
+- Temperature: 98.2°F
+- Oxygen Saturation: 97% on room air
+
+Physical Examination:
+The patient appears well-nourished, well-developed, and in no acute distress. Cardiovascular examination reveals a regular heart rate and rhythm with no murmurs, gallops, or abnormalities detected. Respiratory examination demonstrates normal breath sounds, with occasional end-expiratory wheezing heard bilaterally. There are no signs of retractions or use of accessory muscles. Abdominal examination is unremarkable, with a soft, non-tender, and non-distended abdomen. Musculoskeletal examination shows no joint pain or swelling. Neurological examination shows the patient to be alert and oriented, without any focal neurological deficits. Skin examination reveals no rashes or notable lesions.
+
+Laboratory Results:
+The patient's liver function tests, kidney function tests, and complete blood count are within normal limits. Urinalysis is also normal, indicating no abnormalities.
+
+Assessment:
+Primary Diagnosis: Asthma, unspecified without mention of status asthmaticus.
+Secondary Diagnoses: Chronic sinusitis, Allergic rhinitis.
+Other Diagnoses: Acute pharyngitis (resolved), obesity, pain in limb, joint pain involving ankle and foot.
+
+The patient continues to experience a chronic course of asthma, typically under control with current treatment. Contributing factors to his respiratory symptoms include chronic sinusitis and allergic rhinitis. Additionally, he has a resolved history of acute pharyngitis, which does not require further treatment. His obesity and joint pain are noted and could benefit from ongoing monitoring and management.
+
+Plan:
+1. Asthma:
+   - Continue using the fluticasone inhaler as prescribed and the albuterol inhaler on an as-needed basis.
+   - Reinforce the need for the regular use of the inhaled corticosteroid.
+   - Encourage the patient to receive the seasonal flu vaccine.
+   - Plan a follow-up visit in three months to reassess asthma control, or sooner if symptoms worsen or increase in frequency.
+
+2. Chronic Sinusitis:
+   - Initiate treatment with a nasal corticosteroid spray, such as fluticasone nasal spray.
+   - Recommend saline nasal irrigation twice daily to help alleviate symptoms.
+   - If symptoms persist despite initial treatment, consider referring to an ENT specialist for further evaluation.
+
+3. Allergic Rhinitis:
+   - Advise the patient to avoid known allergens as much as possible.
+   - Continue taking over-the-counter antihistamines as needed during peak allergy seasons.
+
+4. Other:
+   - Monitor and support weight management to address obesity.
+   - Continue with regular exercise programs, including activities like running and yoga that do not exacerbate respiratory symptoms.
+   - Manage and monitor joint pain with appropriate non-steroidal anti-inflammatory drugs (NSAIDs) as needed.
+
+Follow-Up:
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if laboratory results indicate the need for further evaluation. Patient education was provided concerning the importance of medication adherence, recognizing signs of asthma exacerbation, and management of chronic sinusitis and allergic rhinitis. The patient verbalized understanding the plan and instructions for emergent follow-up care, and compliance with the management strategies was emphasized.

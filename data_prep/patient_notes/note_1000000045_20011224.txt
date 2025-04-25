@@ -1,0 +1,88 @@
+Visit Information:
+    - Patient Num: 1000000045
+    - Visit Date: 12/24/2001
+
+This is an 81-year-old Asian female who primarily speaks German and has been under regular care at our clinic for various health conditions. She presents today, 12/24/2001, for a follow-up regarding her asthma and cardiovascular issues.
+
+Subjective:
+    - Chief Complaints & History of Present Illness:
+        The patient reports experiencing increased shortness of breath and wheezing over the past two weeks, particularly during exertion. She has also been feeling more fatigued and occasionally experiences a tight sensation in her chest, which she attributes to her known coronary artery disease. Despite using her asthma inhalers regularly, she notes minimal relief and finds that symptoms worsen at night and with exposure to cold air.
+    - Past Medical & Surgical History:
+        The patient has a significant history of chronic obstructive asthma, coronary artery disease (including multiple myocardial infarctions and stent placement), hypertension, type II diabetes mellitus, osteoporosis, and schizophrenia. She has previously undergone a hip joint replacement and PTCA.
+    - Medications & Supplements:
+        The patient is currently on Atenolol 100mg, Desipramine Hydrochloride 25mg, Digoxin 0.25 mg/ml, Fosamax 10mg, Hydrochlorothiazide-Triamterene 50mg-75mg, Klonopin 2mg, Nitroglycerin 2% ointment, Premarin 25mg IV, Provera 5mg. She reports generally good compliance with her medication regimen but admits occasional forgetfulness, particularly with her evening doses.
+    - Social History:
+        She lives with her daughter and doesn’t smoke or consume alcohol. She remains active at home but has limited mobility due to her age and ongoing joint pain. She uses a cane for support.
+    - Allergies:
+        No known drug allergies.
+    - Symptom Details:
+        The patient describes the onset of her symptoms as gradual over two weeks. The wheezing and shortness of breath are continuous, exacerbated by cold weather and physical activity. Chest tightness occurs sporadically and is somewhat relieved by rest.
+    - Additional Narrative:
+        The patient has tried using steam inhalation and hot beverages to manage her symptoms with little success. She denies any recent hospital admissions or significant changes in her health other than the presenting complaints.
+
+Objective:
+    - Vital Signs:
+        - Blood Pressure: 150/85 mmHg
+        - Heart Rate: 76 bpm
+        - Respiratory Rate: 22 breaths per minute
+        - Temperature: 98.6°F
+        - Oxygen Saturation: 94% on room air
+    - General Appearance:
+        The patient appears elderly and mildly dyspneic, but alert and oriented.
+    - Cardiovascular:
+        Irregular heart rhythm with no murmurs, gallops, or rubs. Peripheral pulses are 2+ bilaterally.
+    - Respiratory:
+        Inspiratory and expiratory wheezing noted bilaterally. There are no rales or rhonchi.
+    - Abdomen:
+        Non-tender, no organomegaly. Bowel sounds are normal.
+    - Musculoskeletal:
+        Mild kyphosis noted, with discomfort on palpation of the lumbar region. The range of motion is restricted in the pelvic region and thigh due to osteoarthritis.
+    - Neurological:
+        Cranial nerves II-XII intact; no focal neurological deficits.
+    - Skin:
+        No rashes. Skin is generally dry but intact.
+
+Assessment:
+    - Diagnosis or Clinical Impression:
+        The patient’s primary diagnosis continues to be chronic obstructive asthma, exacerbated. She also demonstrates ongoing issues with coronary artery disease, back pain secondary to osteoarthritis, and stable type II diabetes mellitus. 
+
+    - Issue/Problem/Request 1:
+        Assessment: 
+            - Likely diagnosis: Exacerbation of chronic obstructive asthma.
+            - Differential diagnosis includes respiratory infections or cardiac-related dyspnea.
+        Diagnostic Tests:
+            - Pulmonary function tests, chest X-ray, and possible arterial blood gases to evaluate the severity of the asthma exacerbation.
+        Treatment Plan:
+            - Continue current inhalers; consider adding a corticosteroid inhaler.
+            - Short course of oral corticosteroids to manage inflammation.
+            - Referral to a pulmonologist for specialized asthma management.
+
+    - Issue/Problem/Request 2:
+        Assessment:
+            - Coronary artery disease with recent increase in chest symptoms,
+            - Differential diagnosis includes angina pectoris or worsening coronary artery disease.
+        Diagnostic Tests:
+            - Electrocardiogram (ECG), Cardiac enzymes,
+        Treatment Plan:
+            - Continue current cardiac medications, including nitrates for angina.
+            - Advise increasing frequency of nitroglycerin application during symptomatic periods.
+            - Schedule a follow-up with cardiology for re-evaluation.
+
+    - Issue/Problem/Request 3:
+        Assessment:
+            - Osteoarthritis with chronic back pain.
+            - Differential diagnosis includes spondylosis or other musculoskeletal disorders.
+        Diagnostic Tests:
+            - Lumbar spine X-ray.
+        Treatment Plan:
+            - Continue current analgesic and anti-inflammatory medications.
+            - Physical therapy referral to improve mobility and pain management.
+            - Consideration of orthopedic follow-up for advanced management.
+
+Follow-Up:
+    - Instructions for emergent follow-up care or monitoring:
+        Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.
+    - Follow-Up for persistent, changing, or worsening symptoms:
+        Schedule a follow-up visit in two weeks to reassess asthma control and cardiovascular status. Educate the patient on symptom monitoring and adherence to treatment plans.
+    - Patient Education & Understanding of the Plan:
+        The patient verbalizes understanding of the discussed plan and is instructed on the importance of medication adherence, avoiding asthma triggers, and recognizing symptoms that warrant immediate medical attention.

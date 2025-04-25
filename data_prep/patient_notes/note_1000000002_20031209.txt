@@ -1,0 +1,64 @@
+Visit Information:
+Patient Num: 1000000002
+Visit Date: 12/09/2003
+
+Subjective:
+This is a 39-year-old Hispanic female who has been under our care for several years. She is fluent in Spanish and presents today for a follow-up visit. Her main concerns include persistent generalized anxiety, exacerbated by recent stressors at work, alongside chronic headaches, hand pain, and irregular menstrual cycles.
+
+The patient has a history significant for generalized anxiety disorder, major depressive disorder, bacterial pneumonia, and diagnosed cervicitis. She underwent ankle surgery years ago due to a closed fracture.
+
+She is currently on Desipramine Hydrochloride 25mg daily for anxiety and depression and Lo/Ovral for contraceptive management. She takes Naproxen 500mg for joint pain as needed. She reports that these medications have been effective without any adverse side effects.
+
+Her social history reveals that she lives alone and works as a full-time customer service representative. She mentions limited family support and occasional alcohol use. She is currently in remission from a mild tobacco use disorder, with no herbal or over-the-counter medications reported. There are no known allergies.
+
+The patient notes that her headaches are now more frequent, occurring almost daily, and describes pain that radiates primarily to the temporal region. Her joint pain, primarily in the hands, has been present for several months, with stiffness noted particularly in the morning.
+
+Objective:
+Vital Signs:
+- Blood Pressure: 118/82 mmHg
+- Heart Rate: 78 bpm
+- Respiratory Rate: 16 breaths per minute
+- Temperature: 98.5°F
+- Oxygen Saturation: 98%
+
+General Appearance:
+The patient appears well-nourished and in no acute distress. She exhibits signs of mild anxiety but remains cooperative.
+
+Cardiovascular:
+Heart rate and rhythm are regular with no murmurs or abnormal heart sounds.
+
+Respiratory:
+Breath sounds are clear to auscultation bilaterally with no wheezes or crackles.
+
+Abdomen:
+Non-tender with no palpable masses or organomegaly. Bowel sounds are normoactive in all quadrants.  
+
+Musculoskeletal:
+Exhibits full range of motion in all extremities, although mild tenderness is noted in the interphalangeal joints of the hands. No swelling or deformities observed.
+
+Neurological:
+The patient is alert and oriented to person, place, and time. Cranial nerves II-XII are intact. Muscle strength and coordination are normal, with no focal neurological deficits. Reflexes are symmetrical and fine motor skills are intact.
+
+Skin:
+The skin is clear without rashes, lesions, or signs of infection.
+
+Assessment:
+1. Generalized Anxiety Disorder and Major Depressive Disorder:
+   - The patient’s symptoms of anxiety and depression appear stable with her current treatment regimen. Continual monitoring is required.
+
+2. Irregular Menstrual Cycle:
+   - The persistence of menstrual irregularity suggests the need for further investigation to rule out endocrine or gynecological etiologies.
+
+3. Chronic Headaches and Joint Pain:
+   - The daily headaches and hand joint pain warrant further diagnostic workup to identify potential underlying causes.
+
+Plan:
+- Continue Desipramine Hydrochloride 25mg daily.
+- Maintain the current contraceptive (Lo/Ovral) regimen.
+- Continue Naproxen 500mg for joint pain on an as-needed basis.
+- Schedule a pelvic ultrasound to investigate menstrual irregularities and an endocrinology consultation if necessary.
+- Obtain routine blood tests, including complete blood count, metabolic panel, and inflammatory markers such as ESR to assess the etiology of headaches and joint pain.
+- Educate the patient on strategies to manage joint pain, including ergonomic improvements at the workplace.
+- Consider referral to a rheumatologist if hand pain continues to persist.
+- Provide educational materials in Spanish addressing anxiety, depression, and joint pain management with the aid of a medical interpreter for full comprehension.
+- Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if any new symptoms arise. Follow-up in four weeks to review the results of the pelvic ultrasound, blood tests, and reassessment of the treatment plan based on these findings.

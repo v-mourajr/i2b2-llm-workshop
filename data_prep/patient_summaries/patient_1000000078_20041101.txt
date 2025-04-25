@@ -1,0 +1,53 @@
+demographics
+patient_num: 1000000078  age: 25
+patient_num: 1000000078  sex: F
+patient_num: 1000000078  race: white
+patient_num: 1000000078  language: english
+patient_num: 1000000078  vital_status: alive
+patient_num: 1000000078  earliest fact: May 21 2003 12:00AM
+patient_num: 1000000078  latest fact: Nov  1 2004 12:00AM
+patient_num: 1000000078  range in days: 530
+totals
+patient_num: 1000000078  distinct concepts: 47
+patient_num: 1000000078  total facts: 112
+patient_num: 1000000078  total encounters: 16
+patient_num: 1000000078  total asthma: 2
+descriptive
+patient_num: 1000000078  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 2
+patient_num: 1000000078  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 2
+patient_num: 1000000078  diagnosis code: ICD9:245.2  name: Chronic lymphocytic thyroiditis  count: 3
+patient_num: 1000000078  diagnosis code: ICD9:704.1  name: Hirsutism  count: 1
+patient_num: 1000000078  diagnosis code: ICD9:340  name: Multiple sclerosis  count: 2
+patient_num: 1000000078  diagnosis code: ICD9:486  name: Pneumonia, organism unspecified  count: 2
+patient_num: 1000000078  diagnosis code: ICD9:518.0  name: Pulmonary collapse  count: 2
+patient_num: 1000000078  diagnosis code: ICD9:599.0  name: Urinary tract infection, site not specified  count: 3
+patient_num: 1000000078  medication code: NDC:50962045360  name: Acyclovir 200 mg/5ml suspension Alpharma USPD Makers of Barre and NMC  count: 3
+patient_num: 1000000078  medication code: NDC:00005306343  name: Albuterol Sulfate 4mg tablet ESI Lederle Generics  count: 4
+patient_num: 1000000078  medication code: NDC:00597008214  name: Atrovent 18 mcg/inh aerosol Boehringer-Ingelheim  count: 4
+patient_num: 1000000078  medication code: NDC:00029609229  name: Augmentin 400mg-57 mg/5ml powder for reconstitution SmithKline Beecham  count: 2
+patient_num: 1000000078  medication code: NDC:00173045301  name: Flonase 0.05 mg/inh spray Glaxo Wellcome  count: 4
+patient_num: 1000000078  medication code: NDC:00186091542  name: Pulmicort Turbuhaler 200 mcg/inh aerosol with adapter Astra-Zeneca Pharmaceuticals  count: 4
+patient_num: 1000000078  laboratory code: LOINC:8246-1  name: Amorph Crystals (Group:UAS-AMOR)  count: 1
+patient_num: 1000000078  laboratory code: LOINC:5769-5  name: Bacteria (Group:UAS-BACT)  count: 2
+patient_num: 1000000078  laboratory code: LOINC:5770-3  name: Bilirubin (Group:UA-BILI)  count: 2
+patient_num: 1000000078  laboratory code: LOINC:9439-1  name: Casts (Group:CASTS)  count: 1
+patient_num: 1000000078  laboratory code: LOINC:5778-6  name: Color (Group:UA-COLOR)  count: 2
+patient_num: 1000000078  laboratory code: LOINC:X4005-4  name: Crystals (Group:UAS-CRYS)  count: 1
+patient_num: 1000000078  laboratory code: LOINC:5792-7  name: Glucose - UA (Group:UA-GLUC)  count: 2
+patient_num: 1000000078  laboratory code: LOINC:5797-6  name: Ketones (Group:UA-KET)  count: 2
+patient_num: 1000000078  laboratory code: LOINC:8247-9  name: Mucous (Group:UAS-MUC)  count: 1
+patient_num: 1000000078  laboratory code: LOINC:5802-4  name: Nitrites (Group:UA-NIT)  count: 2
+patient_num: 1000000078  laboratory code: LOINC:5794-3  name: Occult Blood (Group:UA-BLD)  count: 2
+patient_num: 1000000078  laboratory code: LOINC:11279-7  name: Other/Comments (Group:UAS-COM)  count: 1
+patient_num: 1000000078  laboratory code: LOINC:5803-2  name: PH (Group:UA-PH)  count: 2
+patient_num: 1000000078  laboratory code: LOINC:2842-3  name: Prolactin (Group:PRL)  count: 1
+patient_num: 1000000078  laboratory code: LOINC:5804-0  name: Protein (Group:UA-ALB)  count: 2
+patient_num: 1000000078  laboratory code: LOINC:5808-1  name: RBC - Urine Sed (Group:UAS-RBC)  count: 2
+patient_num: 1000000078  laboratory code: LOINC:5811-5  name: Specific Gravity (Group:UA-SPGR)  count: 2
+patient_num: 1000000078  laboratory code: LOINC:11277-1  name: Squamous Cells (Group:UAS-SQUA)  count: 2
+patient_num: 1000000078  laboratory code: LOINC:2993-4  name: Testosterone (Group:TES)  count: 1
+patient_num: 1000000078  laboratory code: LOINC:3016-3  name: TSH (Group:TSH)  count: 1
+patient_num: 1000000078  laboratory code: LOINC:5767-9  name: Turbidity (Group:UA-TURB)  count: 1
+patient_num: 1000000078  laboratory code: LOINC:5818-0  name: Urobilinogen (Group:UA-UROBI)  count: 2
+patient_num: 1000000078  laboratory code: LOINC:5821-4  name: WBC - Urine Sed (Group:UAS-WBC)  count: 2
+patient_num: 1000000078  laboratory code: LOINC:5799-2  name: WBC Screen (Group:UA-WBC)  count: 2

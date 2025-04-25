@@ -1,0 +1,52 @@
+### Visit Information:
+- **Patient Number**: 1000000011
+- **Visit Date**: May 14, 2001
+
+### Subjective:
+This is a 53-year-old White female who has been receiving care at our clinic for approximately 3 years. She speaks English and presents today for a routine follow-up concerning her asthma and recent episodes of abdominal discomfort. The patient reports increased frequency and severity of asthma symptoms, including wheezing, shortness of breath, and chest tightness, predominantly when engaging in physical activities. She notes that her rescue inhaler provides temporary relief, and has been experiencing significant fatigue over the past few weeks.
+
+In the past, she has been diagnosed with asthma, acute bronchitis, acute sinusitis, and various gynecological conditions including carcinoma in situ of the cervix uteri, dysplasia of the cervix, and malignant neoplasm of the ovary. She also has a history of back problems including displacement of lumbar intervertebral discs and lumbosacral spondylosis. The patient has undergone a total abdominal hysterectomy in the past.
+
+She is currently prescribed a daily inhaled corticosteroid, a short-acting beta-agonist as needed for asthma, and has had occasional steroid injections for her back pain. The patient is compliant with her current medications but expresses concern about her recurrent symptoms.
+
+Her social history is notable for occasional alcohol consumption; she does not smoke and works in an office with minimal exposure to asthma triggers. She has no known allergies.
+
+### Objective:
+Vital signs are as follows:
+- Blood Pressure: 118/76 mmHg
+- Heart Rate: 82 bpm
+- Respiratory Rate: 18 breaths per minute
+- Temperature: 98.4°F
+- Oxygen Saturation: 94% on room air
+
+On general examination, the patient appears well-nourished and in no acute distress. The cardiovascular examination revealed a regular heart rate and rhythm with no murmurs detected. Respiratory exam findings included bilateral expiratory wheezes without cyanosis or accessory muscle use. Abdominal examination showed mild tenderness in the lower quadrants with no palpable masses or organomegaly. The musculoskeletal examination revealed no new abnormalities of the lumbar spine, with no significant changes from her chronic backache complaints. Neurological examination was within normal limits. Skin examination was unremarkable.
+
+Laboratory results from previous visits include normal ranges for absolute basophils, eosinophils, lymphocytes, monocytes, and neutrophils. Hemoglobin, hematocrit, MCV, MCHC, MCH, and platelet counts are also within normal limits.
+
+### Assessment:
+1. **Asthma**: The patient's asthma appears poorly controlled given the increased frequency of symptoms and reliance on the rescue inhaler.
+2. **Abdominal Pain**: The mild tenderness noted on palpation may be related to her history of gynecological surgeries, but differential diagnoses include gastrointestinal causes and a further detailed investigation is warranted.
+3. **Chronic Lumbar Pain**: The patient continues to experience back pain related to her existing lumbar spine conditions.
+
+### Plan:
+1. **Asthma Management**:
+    - Continue with the current inhaled corticosteroid regimen.
+    - Increase the inhaled corticosteroid dose to improve symptom control.
+    - Add a long-acting beta-agonist for better management of asthma and reduction of symptom frequency.
+    - Educate the patient on avoiding triggers and proper inhaler use techniques.
+    - Schedule a follow-up pulmonology appointment within 4 weeks.
+
+2. **Abdominal Pain**:
+    - Order an abdominal ultrasound and possibly a CT scan if indicated.
+    - Review previous gynecological surgery records for any complications.
+
+3. **Chronic Lumbar Pain**:
+    - Continue with nonsteroidal anti-inflammatory drugs (NSAIDs) as needed.
+    - Arrange physical therapy consultation for back pain management.
+    - Refer to pain management specialist for evaluation of potential steroid injection for symptom relief.
+
+4. **Laboratory Monitoring**:
+    - Schedule repeat complete blood count and arterial blood gases test to monitor asthma impact and overall health status.
+
+### Follow-Up:
+Instruct the patient to contact the clinic if her asthma symptoms worsen or do not improve with the new medication regimen within a week, or if any new severe symptoms develop. A follow-up appointment is scheduled in 2 weeks to evaluate her asthma management and review the results of the abdominal imaging. Patient education materials were provided, and she demonstrated an understanding of the treatment plan and the importance of adhering to her prescribed medications.

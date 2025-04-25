@@ -1,0 +1,46 @@
+**Visit Information**
+- Patient Num: 1000000065
+- Visit Date: 12/02/2004
+
+**Subjective:**
+This is a 7-year-old Asian male who has been followed in our clinic for various health concerns since November 28, 2003. He speaks English and presented today for a routine health check. The patient's mother reports that he has been experiencing mild nasal congestion and a sore throat over the past 3 days, indicative of a common cold. He has a history of acute conjunctivitis and failure to thrive. He was also born prematurely and had issues such as neonatal jaundice and respiratory distress syndrome. 
+
+His current medications include Aveeno cream and the patient has been continuously on parenterally infused nutritional substances due to his previous diagnosis of failure to thrive. His mother is highly compliant with the dietary surveillance recommendations provided during earlier visits.
+
+**Objective:**
+- Vital Signs:
+  - Blood Pressure: 100/60 mmHg
+  - Heart Rate: 92 beats per minute
+  - Respiratory Rate: 20 breaths per minute
+  - Temperature: 99.1°F
+  - Oxygen Saturation: 98% on room air
+
+- General Appearance: The patient appears well-nourished and in no acute distress.
+- Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops.
+- Respiratory: Breath sounds are clear bilaterally with no wheezes, rales, or rhonchi.
+- Abdomen: Soft, non-tender, no hepatosplenomegaly.
+- Musculoskeletal: Full range of motion in all extremities, no deformities noted.
+- Neurological: Alert and oriented to age, normal reflexes, no focal deficits.
+- Skin: No rashes or lesions noted.
+
+Laboratory results from previous visits included normal levels of electrolytes, arterial blood gases, and a CBC indicating no acute anemia or infection. Bilirubin levels have normalized over the past few follow-ups.
+
+**Assessment:**
+- Primary Diagnosis: Acute nasopharyngitis (common cold)
+- Chronic issues include a history of preterm birth with resolved respiratory distress syndrome, neonatal jaundice, candidiasis of the mouth, anemia, and failure to thrive, though currently well managed with ongoing nutritional support and regular monitoring.
+- Development appears within normal limits for chronological age, with no current indications of lack of physiological development.
+
+**Plan:**
+1. Continue current medications of Aveeno cream as needed for skin issues.
+2. Educate the mother on supportive care for common cold, including hydration, rest, and over-the-counter medications for symptomatic relief.
+3. Recommend continuation of parenteral nutrition with Hepatamine Amino Acids and regular dietary surveillance.
+4. Schedule follow-up in one month for routine health check and reassess nutritional status, ensuring proactive management of any future episodes of anemia.
+5. Educate the patient’s mother on recognizing warning signs that necessitate immediate return, such as difficulty breathing, high fever, or worsening symptoms.
+6. Instruct the mother to contact the clinic if symptoms do not improve within a week or if new concerns arise.
+
+**Follow-Up:**
+- “Instruct mother to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.”
+- Provide reassurance and affirm understanding of the plan for both mother and patient.
+- Ensure the family is aware of the importance of adherence to nutritional guidelines and regular health monitoring to preempt any related complications.
+
+The patient will be scheduled for a follow-up visit in four weeks to reassess his overall health and development.

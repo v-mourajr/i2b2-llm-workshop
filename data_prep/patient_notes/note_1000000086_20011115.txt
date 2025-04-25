@@ -1,0 +1,81 @@
+Visit Information:
+- Patient Num: 1000000086
+- Visit Date: 11/15/2001
+
+This is a 34-year-old Hispanic female who has been receiving care at our clinic for over a year, requiring regular monitoring and management of multiple medical conditions. The patient presented today for a follow-up visit, reporting symptoms and multiple ongoing health concerns.
+
+Subjective:
+Chief Complaints & History of Present Illness:
+The patient reports experiencing an increase in headaches and has been suffering from dysmenorrhea with more severe menstrual cramps than usual. Additionally, she continues to have symptoms related to congenital aortic valve insufficiency, including occasional episodes of dizziness and palpitations. There is also a noted history of allergic rhinitis, which seems to have exacerbated recently, causing nasal congestion and sneezing.
+
+Past Medical & Surgical History:
+Her past medical history is significant for congenital aortic valve insufficiency, chronic skin ulcers, and a previous diagnosis of leiomyoma of the uterus. She has no history of surgeries.
+
+Medications & Supplements:
+She is currently taking Acyclovir suspension for a past viral infection, Demulen 1/35 as an oral contraceptive, and Terfenadine for allergic rhinitis. The medications have been generally well tolerated, although the patient has noted increased dizziness on certain days, which may be related to her cardiac condition.
+
+Social History:
+The patient lives alone and works full-time as a translator. She primarily speaks German and has recently taken up yoga to manage stress. There is no history of tobacco, alcohol, or illicit drug use.
+
+Allergies:
+No known drug allergies.
+
+Symptom Details:
+Her headaches are described as throbbing, localized to the frontal area, and occurring almost daily. The dysmenorrhea presents as severe cramping, starting a day before her menstrual period and lasting for the first two days of bleeding. For the aortic valve insufficiency, the dizziness occurs both at rest and with exertion, and the palpitations do not follow a specific pattern. The allergic rhinitis symptoms are perennial but worsen with exposure to dust and pollen.
+
+Additional Narrative:
+The patient has tried various non-pharmacological interventions, including using a humidifier for her rhinitis and applying hot compresses to alleviate menstrual cramps, but with limited relief. She is keen to explore other potential treatments and is interested in discussing alternative contraceptive methods due to her concern about the daily dizziness possibly being linked to her current oral contraceptive.
+
+Objective:
+Vital Signs:
+- Blood Pressure: 128/80 mmHg
+- Heart Rate: 74 bpm
+- Respiratory Rate: 16 breaths per minute
+- Temperature: 36.8°C
+- Oxygen Saturation: 98% on room air
+
+General Appearance:
+The patient appears well-kempt, is in no acute distress, and maintains good eye contact.
+
+Cardiovascular:
+On cardiovascular examination, a III/VI diastolic murmur at the right sternal border is noted, consistent with aortic regurgitation. Peripheral pulses are intact, and there is no evidence of peripheral edema.
+
+Respiratory:
+Lungs are clear to auscultation bilaterally with no wheezes, rales, or rhonchi.
+
+Abdomen:
+The abdomen is soft, non-tender, with no organomegaly. Bowel sounds are present and normal.
+
+Musculoskeletal:
+No joint swelling or deformities. Full range of motion in all limbs.
+
+Neurological:
+Cranial nerves II-XII are intact. Motor and sensory functions are normal. Reflexes are 2+ and symmetric. Romberg’s test is negative.
+
+Skin:
+Chronic ulcer noted on the left lower extremity, approximately 1 cm in diameter, with a clean base and no signs of infection. There are a few areas of hyperpigmentation on the lower legs.
+
+Assessment:
+Diagnosis or Clinical Impression:
+This patient presents with multiple chronic issues including:
+1. Congenital aortic valve insufficiency: Ongoing monitoring required due to occasional dizziness and palpitations.
+2. Leiomyoma of the uterus: Presenting with dysmenorrhea.
+3. Chronic ulcer of the skin: Recurrent and requires management.
+4. Allergic rhinitis and related symptoms: Periodically escalating.
+5. Headaches: Possibly tension-type, requires further evaluation.
+
+Plan:
+Treatment Plan:
+1. Congenital aortic valve insufficiency: Continue monitoring symptoms. ECG and echocardiography are recommended to assess current cardiac function. Consider a cardiology referral.
+2. Leiomyoma of the uterus: Discuss further with the gynecologist regarding the severity of symptoms and potential management options, including hormonal therapy or other interventions.
+3. Chronic ulcer: Continue with current wound care regimen; consider referral to a specialist in wound management if no improvement.
+4. Allergic rhinitis: Continue with Terfenadine; suggest adding nasal corticosteroid spray and considering allergen avoidance strategies.
+5. Headaches: Recommend headache diary and trial of NSAIDs; refer to neurology if symptoms persist.
+
+Patient Education & Understanding of the Plan:
+Instruct the patient to monitor symptoms carefully, adhere to medication regimens, and attend all follow-up appointments. Discuss red flags for which she should seek immediate medical attention, such as worsening chest pain or significant changes in dizziness.
+
+Follow-Up:
+Instruct patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. Follow up in one month to reassess all conditions and review findings from diagnostic tests.
+
+This structured follow-up will ensure comprehensive management of the patient's complex medical conditions and improve her overall health outcomes.

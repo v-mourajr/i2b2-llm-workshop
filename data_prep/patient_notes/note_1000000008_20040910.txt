@@ -1,0 +1,52 @@
+### Visit Information:
+- **Patient Num**: 1000000008
+- **Visit Date**: 09/10/2004
+
+### Subjective:
+This is a 19-year-old Hispanic male who has been receiving care at our clinic for several years. He is a German speaker and presents today, September 10, 2004, for a follow-up on his asthma management. The patient has a history of asthma both with and without status asthmaticus, having experienced multiple exacerbations in recent years. Currently, he is experiencing another exacerbation, which has been worsening over the past week. 
+
+Additionally, the patient has other chronic conditions, including attention deficit disorder with hyperactivity (ADHD), developmental dyslexia, and speech disturbances. His past medical history includes instances of contact dermatitis, acute pharyngitis, and otitis media. His surgical history includes a circumcision due to redundant prepuce and phimosis. 
+
+The patient is currently on inhaled corticosteroids and a short-acting beta agonist to manage his asthma. For ADHD, he takes methylphenidate. His family reports good compliance with his medication regimen. Socially, he lives at home with supportive parents and is a high school student, where he finds academic performance challenging due to his ADHD and dyslexia. He has no known drug allergies.
+
+For the past week, the patient has experienced increased asthma symptoms such as wheezing, shortness of breath, and nighttime coughing. He feels chest tightness but has not had a fever or chills. These symptoms worsen with physical activity and are partially relieved by his rescue inhaler. His parents have noticed increased hyperactivity and difficulty concentrating, which may be related to stress from his asthma symptoms.
+
+### Objective:
+- **Vital Signs**:
+  - **Blood Pressure**: 110/70 mmHg
+  - **Heart Rate**: 88 beats per minute
+  - **Respiratory Rate**: 24 breaths per minute
+  - **Temperature**: 98.6°F
+  - **Oxygen Saturation**: 95% on room air
+
+- **General Appearance**: The patient is well-developed and in no acute distress but appears somewhat restless and anxious.
+- **Cardiovascular**: Normal heart sounds with no murmurs, rubs, or gallops.
+- **Respiratory**: Observed use of accessory muscles for breathing; scattered wheezes on auscultation, more pronounced during expiration.
+- **Abdomen**: Soft, non-tender, and without hepatosplenomegaly.
+- **Musculoskeletal**: Normal muscle tone and strength appropriate for age, with increased movement and fidgeting consistent with ADHD.
+- **Neurological**: Alert and oriented to person, place, and time with normal cranial nerve function.
+- **Skin**: Unremarkable with no rashes or lesions.
+
+### Assessment:
+The primary diagnosis is an exacerbation of asthma, alongside the chronic condition of attention deficit disorder with hyperactivity contributing to the current issue. The increase in asthma symptoms and related stress appears to be aggravating the patient's hyperactive behavior.
+
+### Plan:
+1. **Asthma Exacerbation**:
+    - Confirm peak flow readings and consider repeating spirometry.
+    - Temporarily increase the dosage of inhaled corticosteroids, emphasizing the use of the rescue inhaler.
+    - Prescribe a short course of oral corticosteroids if symptoms do not improve within a few days.
+    - Referral to a pulmonologist if there is no improvement after intervention.
+
+2. **Attention Deficit Disorder with Hyperactivity**:
+    - Continue the current dosage of methylphenidate.
+    - Provide additional behavioral therapy support as needed.
+    - Complete the Vanderbilt ADHD Diagnostic Parent Rating Scale.
+    - Consider referral to a pediatric psychiatrist if symptoms worsen.
+
+3. **Speech Disturbances and Developmental Dyslexia**:
+    - Continue speech therapy sessions.
+    - Reassess language and learning abilities.
+    - Provide educational support and consider referral to an educational specialist or tutor.
+
+### Follow-Up:
+Instruct the patient and his family to contact the clinic if symptoms worsen or do not improve within the week or if test results indicate further evaluation is necessary. Schedule a follow-up visit in two weeks to reassess asthma control and behavioral symptoms. Educate the patient and his family on the importance of medication adherence, early signs of asthma exacerbation, and the necessity of consistent follow-up care. Ensure the family understands and agrees with the updated treatment plan and the importance of closely monitoring his respiratory status.

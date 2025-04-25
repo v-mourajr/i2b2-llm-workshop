@@ -1,0 +1,134 @@
+demographics
+patient_num: 1000000064  age: 21
+patient_num: 1000000064  sex: M
+patient_num: 1000000064  race: asian
+patient_num: 1000000064  language: spanish
+patient_num: 1000000064  vital_status: alive
+patient_num: 1000000064  earliest fact: Oct  8 1998 12:00AM
+patient_num: 1000000064  latest fact: Oct 15 2004 12:00AM
+patient_num: 1000000064  range in days: 2199
+totals
+patient_num: 1000000064  distinct concepts: 127
+patient_num: 1000000064  total facts: 379
+patient_num: 1000000064  total encounters: 63
+patient_num: 1000000064  total asthma: 3
+descriptive
+patient_num: 1000000064  asthma code: ICD9:493.91  name: Asthma, unspecified type, with status asthmaticus  count: 1
+patient_num: 1000000064  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 2
+patient_num: 1000000064  diagnosis code: ICD9:E849.4  name: Accidents occurring in place for recreation and sport  count: 1
+patient_num: 1000000064  diagnosis code: ICD9:303.01  name: Acute alcoholic intoxication in alcoholism, continuous drinking behavior  count: 1
+patient_num: 1000000064  diagnosis code: ICD9:464.0  name: Acute laryngitis  count: 2
+patient_num: 1000000064  diagnosis code: ICD9:462  name: Acute pharyngitis  count: 3
+patient_num: 1000000064  diagnosis code: ICD9:704.00  name: Alopecia, unspecified  count: 1
+patient_num: 1000000064  diagnosis code: ICD9:786.03  name: Apnea  count: 1
+patient_num: 1000000064  diagnosis code: ICD9:E966  name: Assault by cutting and piercing instrument  count: 1
+patient_num: 1000000064  diagnosis code: ICD9:493.91  name: Asthma, unspecified type, with status asthmaticus  count: 1
+patient_num: 1000000064  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 2
+patient_num: 1000000064  diagnosis code: ICD9:724.5  name: Backache, unspecified  count: 1
+patient_num: 1000000064  diagnosis code: ICD9:427.9  name: Cardiac dysrhythmia, unspecified  count: 2
+patient_num: 1000000064  diagnosis code: ICD9:723.1  name: Cervicalgia  count: 1
+patient_num: 1000000064  diagnosis code: ICD9:814.00  name: Closed fracture of carpal bone, unspecified  count: 1
+patient_num: 1000000064  diagnosis code: ICD9:815.00  name: Closed fracture of metacarpal bone(s), site unspecified  count: 5
+patient_num: 1000000064  diagnosis code: ICD9:816.00  name: Closed fracture of phalanx or phalanges of hand, unspecified  count: 2
+patient_num: 1000000064  diagnosis code: ICD9:815.03  name: Closed fracture of shaft of metacarpal bone(s)  count: 1
+patient_num: 1000000064  diagnosis code: ICD9:79.13  name: Closed reduction of fracture of carpals and metacarpals with internal fixation  count: 1
+patient_num: 1000000064  diagnosis code: ICD9:924.01  name: Contusion of hip  count: 2
+patient_num: 1000000064  diagnosis code: ICD9:845.01  name: Deltoid (ligament), ankle sprain  count: 2
+patient_num: 1000000064  diagnosis code: ICD9:89.34  name: Digital examination of rectum  count: 1
+patient_num: 1000000064  diagnosis code: ICD9:E886.0  name: Fall on same level from collision, pushing, or shoving, by or with other person in sports  count: 1
+patient_num: 1000000064  diagnosis code: ICD9:813.81  name: Fracture of unspecified part of radius (alone), closed  count: 2
+patient_num: 1000000064  diagnosis code: ICD9:784.0  name: Headache  count: 1
+patient_num: 1000000064  diagnosis code: ICD9:99.29  name: Injection or infusion of other therapeutic or prophylactic substance  count: 1
+patient_num: 1000000064  diagnosis code: ICD9:959.09  name: Injury of face and neck  count: 2
+patient_num: 1000000064  diagnosis code: ICD9:271.3  name: Intestinal disaccharidase deficiencies and disaccharide malabsorption  count: 1
+patient_num: 1000000064  diagnosis code: ICD9:854.00  name: Intracranial injury of other and unspecified nature, without mention of open intracranial wound, with state of consciousness unspecified  count: 1
+patient_num: 1000000064  diagnosis code: ICD9:V64.4  name: Laparoscopic surgical procedure converted to open procedure  count: 1
+patient_num: 1000000064  diagnosis code: ICD9:54.21  name: Laparoscopy  count: 1
+patient_num: 1000000064  diagnosis code: ICD9:817.0  name: Multiple closed fractures of hand bones  count: 1
+patient_num: 1000000064  diagnosis code: ICD9:787.01  name: Nausea with vomiting  count: 1
+patient_num: 1000000064  diagnosis code: ICD9:879.2  name: Open wound of abdominal wall, anterior, without mention of complication  count: 2
+patient_num: 1000000064  diagnosis code: ICD9:873.43  name: Open wound of lip, uncomplicated  count: 1
+patient_num: 1000000064  diagnosis code: ICD9:879.8  name: Open wound(s) (multiple) of unspecified site(s), without mention of complication  count: 1
+patient_num: 1000000064  diagnosis code: ICD9:706.1  name: Other acne  count: 1
+patient_num: 1000000064  diagnosis code: ICD9:780.09  name: Other alteration of consciousness  count: 1
+patient_num: 1000000064  diagnosis code: ICD9:995.0  name: Other anaphylactic shock  count: 1
+patient_num: 1000000064  diagnosis code: ICD9:959.5  name: Other and unspecified injury to finger  count: 2
+patient_num: 1000000064  diagnosis code: ICD9:959.7  name: Other and unspecified injury to knee, leg, ankle, and foot  count: 3
+patient_num: 1000000064  diagnosis code: ICD9:558.9  name: Other and unspecified noninfectious gastroenteritis and colitis  count: 1
+patient_num: 1000000064  diagnosis code: ICD9:87.49  name: Other chest x-ray  count: 1
+patient_num: 1000000064  diagnosis code: ICD9:813.42  name: Other closed fractures of distal end of radius (alone)  count: 3
+patient_num: 1000000064  diagnosis code: ICD9:786.09  name: Other dyspnea and respiratory abnormality  count: 1
+patient_num: 1000000064  diagnosis code: ICD9:88.26  name: Other skeletal x-ray of pelvis and hip  count: 1
+patient_num: 1000000064  diagnosis code: ICD9:315.2  name: Other specific developmental learning difficulties  count: 1
+patient_num: 1000000064  diagnosis code: ICD9:54.63  name: Other suture of abdominal wall  count: 1
+patient_num: 1000000064  diagnosis code: ICD9:87.22  name: Other x-ray of cervical spine  count: 1
+patient_num: 1000000064  diagnosis code: ICD9:786.52  name: Painful respiration  count: 1
+patient_num: 1000000064  diagnosis code: ICD9:785.1  name: Palpitations  count: 1
+patient_num: 1000000064  diagnosis code: ICD9:427.1  name: Paroxysmal ventricular tachycardia  count: 1
+patient_num: 1000000064  diagnosis code: ICD9:E826.1  name: Pedal cycle accident injuring pedal cyclist  count: 1
+patient_num: 1000000064  diagnosis code: ICD9:V70.0  name: Routine general medical examination at a health care facility  count: 5
+patient_num: 1000000064  diagnosis code: ICD9:847.9  name: Sprain of unspecified site of back  count: 2
+patient_num: 1000000064  diagnosis code: ICD9:842.10  name: Sprain of unspecified site of hand  count: 1
+patient_num: 1000000064  diagnosis code: ICD9:729.81  name: Swelling of limb  count: 2
+patient_num: 1000000064  diagnosis code: ICD9:307.81  name: Tension headache  count: 1
+patient_num: 1000000064  diagnosis code: ICD9:780.02  name: Transient alteration of awareness  count: 1
+patient_num: 1000000064  diagnosis code: ICD9:727.03  name: Trigger finger (acquired)  count: 1
+patient_num: 1000000064  diagnosis code: ICD9:786.50  name: Unspecified chest pain  count: 4
+patient_num: 1000000064  diagnosis code: ICD9:423.9  name: Unspecified disease of pericardium  count: 1
+patient_num: 1000000064  diagnosis code: ICD9:845.00  name: Unspecified site of ankle sprain  count: 3
+patient_num: 1000000064  diagnosis code: ICD9:845.10  name: Unspecified site of foot sprain  count: 1
+patient_num: 1000000064  diagnosis code: ICD9:079.99  name: Unspecified viral infection in conditions classified elsewhere and of unspecified site  count: 3
+patient_num: 1000000064  medication code: NDC:10019001571  name: Brevibloc 10 mg/ml solution Baxter Pharmaceutical Products Inc  count: 3
+patient_num: 1000000064  medication code: NDC:00364677157  name: Mepivacaine Hydrochloride 2% solution Schein Pharmaceuticals Inc  count: 4
+patient_num: 1000000064  medication code: NDC:00574711612  name: Morphine Sulfate 30mg suppository Paddock Laboratories Inc  count: 4
+patient_num: 1000000064  medication code: NDC:10019001301  name: Propofol 10 mg/ml suspension Baxter Pharmaceutical Products Inc  count: 3
+patient_num: 1000000064  medication code: NDC:00703255001  name: Thiopental Sodium 5gm powder for injection Gensia Inc  count: 8
+patient_num: 1000000064  laboratory code: LOINC:704-7  name: Abs Basos Auto (Group:ABASOS)  count: 2
+patient_num: 1000000064  laboratory code: LOINC:711-2  name: Abs EOS Auto (Group:AEOS)  count: 2
+patient_num: 1000000064  laboratory code: LOINC:731-0  name: Abs Lymphs Auto (Group:ALYMPHS)  count: 2
+patient_num: 1000000064  laboratory code: LOINC:742-7  name: Abs Monos Auto (Group:AMONOS)  count: 2
+patient_num: 1000000064  laboratory code: LOINC:752-6  name: Abs Neuts Auto (Group:ANEUTS)  count: 2
+patient_num: 1000000064  laboratory code: LOINC:1751-7  name: Albumin (Group:ALB)  count: 2
+patient_num: 1000000064  laboratory code: LOINC:1742-6  name: ALT (SGPT) (Group:SGPT)  count: 2
+patient_num: 1000000064  laboratory code: LOINC:1798-8  name: Amylase (Group:AMY)  count: 2
+patient_num: 1000000064  laboratory code: LOINC:10466-1  name: Anion Gap (Group:ANION)  count: 3
+patient_num: 1000000064  laboratory code: LOINC:1920-8  name: AST (SGOT) (Group:SGOT)  count: 2
+patient_num: 1000000064  laboratory code: LOINC:706-2  name: Basophils - Auto (Group:BASOS)  count: 2
+patient_num: 1000000064  laboratory code: LOINC:3094-0  name: Blood Urea Nitrogen (Group:BUN)  count: 3
+patient_num: 1000000064  laboratory code: LOINC:2000-8  name: Calcium (Group:CA)  count: 2
+patient_num: 1000000064  laboratory code: LOINC:2028-9  name: Carbon Dioxide (Group:CO2)  count: 3
+patient_num: 1000000064  laboratory code: LOINC:2075-0  name: Chloride (Group:CL)  count: 3
+patient_num: 1000000064  laboratory code: LOINC:2093-3  name: Cholesterol (Group:CHOL)  count: 1
+patient_num: 1000000064  laboratory code: LOINC:6773-6  name: CK-MB QUANT (Group:CPK-MB)  count: 2
+patient_num: 1000000064  laboratory code: LOINC:2157-6  name: CPK (Group:CPK)  count: 2
+patient_num: 1000000064  laboratory code: LOINC:2160-0  name: Creatinine (Group:CRE)  count: 3
+patient_num: 1000000064  laboratory code: LOINC:1968-7  name: Direct Bilirubin (Group:DBILI)  count: 4
+patient_num: 1000000064  laboratory code: LOINC:713-8  name: Eosinophils - Auto (Group:EOS)  count: 2
+patient_num: 1000000064  laboratory code: LOINC:2336-6  name: Globulin (Group:GLOB)  count: 1
+patient_num: 1000000064  laboratory code: LOINC:6777-7  name: Glucose (Group:GLU)  count: 3
+patient_num: 1000000064  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 3
+patient_num: 1000000064  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 3
+patient_num: 1000000064  laboratory code: LOINC:2532-0  name: LDH (Group:LDH)  count: 2
+patient_num: 1000000064  laboratory code: LOINC:3040-3  name: Lipase (Group:LIPS)  count: 2
+patient_num: 1000000064  laboratory code: LOINC:736-9  name: Lymphocytes - Auto (Group:LYMPHS)  count: 2
+patient_num: 1000000064  laboratory code: LOINC:11554-3  name: Magnesium (Group:MG)  count: 1
+patient_num: 1000000064  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 3
+patient_num: 1000000064  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 3
+patient_num: 1000000064  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 3
+patient_num: 1000000064  laboratory code: LOINC:5905-5  name: Monocytes - Auto (Group:MONOS)  count: 2
+patient_num: 1000000064  laboratory code: LOINC:770-8  name: Neutrophils - Auto (Group:POLYS)  count: 2
+patient_num: 1000000064  laboratory code: LOINC:2777-1  name: Phosphorus (Group:PHOS)  count: 1
+patient_num: 1000000064  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 3
+patient_num: 1000000064  laboratory code: LOINC:2823-3  name: Potassium (Group:K)  count: 3
+patient_num: 1000000064  laboratory code: LOINC:5902-2  name: PT (Group:PT)  count: 2
+patient_num: 1000000064  laboratory code: LOINC:6301-6  name: PT-INR (Group:PT-INR)  count: 2
+patient_num: 1000000064  laboratory code: LOINC:5898-2  name: PTT (Group:PTT)  count: 2
+patient_num: 1000000064  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 3
+patient_num: 1000000064  laboratory code: LOINC:788-0  name: RDW (Group:RDW)  count: 3
+patient_num: 1000000064  laboratory code: LOINC:2951-2  name: Sodium (Group:NA)  count: 3
+patient_num: 1000000064  laboratory code: LOINC:1975-2  name: Total Bilirubin (Group:TBILI)  count: 4
+patient_num: 1000000064  laboratory code: LOINC:2885-2  name: Total Protein (Group:TP)  count: 1
+patient_num: 1000000064  laboratory code: LOINC:2571-8  name: Triglycerides (Group:TRIG)  count: 1
+patient_num: 1000000064  laboratory code: LOINC:10839-9  name: Troponin-I (Group:TROP-I)  count: 1
+patient_num: 1000000064  laboratory code: LOINC:3084-1  name: Uric Acid (Group:URIC)  count: 1
+patient_num: 1000000064  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 3

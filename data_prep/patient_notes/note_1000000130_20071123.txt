@@ -1,0 +1,65 @@
+Visit Information:
+- Patient Num: 1000000130
+- Visit Date: 11/23/2007
+
+This is a 28-year-old Black female who has been receiving care in our clinic for nearly eight years. She speaks English and presents today for a follow-up appointment concerning her asthma management and other ongoing health concerns. The patient reports continued episodes of shortness of breath and wheezing, which have worsened over the last few weeks, especially during the night and early mornings. She mentions frequent use of her Albuterol inhaler with minimal relief. Additionally, the patient is experiencing increased nasal congestion and sneezing, likely due to her allergic rhinitis.
+
+The patient's medical history includes chronic asthma, acute bronchitis, allergic rhinitis, benign skin neoplasms, acute laryngitis, neck sprain, and periodic limb pain. She has also been diagnosed with depressive disorder and has a history of alcohol abuse which she has been managing over time. Her current medications include Albuterol Sulfate tablets and inhaler, Beconase nasal spray, Flovent inhaler, Kenalog-40 injections, and Promethazine Hydrochloride tablets. She responds relatively well to these treatments but notes a need for frequent use recently.
+
+The patient lives in an urban area and works as a retail associate. She identifies high levels of air pollution in her living area as a potential trigger for increased asthma symptoms. She is a non-smoker and has no known allergies. She uses non-pharmacological interventions such as staying indoors during high-pollution periods and using air purifiers at home.
+
+Subjective:
+- Chief Complaints & History of Present Illness:
+  The patient is experiencing nightly wheezing and shortness of breath, exacerbated by physical activity and outdoor exposure despite regular use of her Albuterol inhaler. These symptoms have become more severe and persistent. She reports using her inhaler more frequently, particularly over the last few weeks.
+- Medications & Supplements:
+  The patient is currently taking Albuterol Sulfate tablets and inhaler, Beconase nasal spray, Flovent inhaler, Kenalog-40 injections, and Promethazine Hydrochloride tablets. She reports initial good responses to these treatments but notes that their efficacy has diminished recently.
+- Social History:
+  The patient works in a retail environment and lives in an urban area with high air pollution. She is committed to non-smoking and has no known allergies.
+- Additional Narrative:
+  Non-pharmacological strategies include staying indoors during high pollution days and using air purifiers. The patient continues to manage her conditions using both medication and lifestyle adjustments.
+
+Objective:
+- Vital Signs:
+  - Blood Pressure: 120/78 mmHg
+  - Heart Rate: 80 bpm
+  - Respiratory Rate: 20 breaths per minute
+  - Temperature: 98.6°F
+  - Oxygen Saturation: 95% on room air
+
+- General Appearance:
+  The patient is alert and oriented, with mild distress noted by use of accessory muscles for breathing.
+- Cardiovascular:
+  Regular heart rate and rhythm, no murmurs or abnormal sounds.
+- Respiratory:
+  Bilateral inspiratory and expiratory wheezes, mild intercostal retractions, and prolonged expiratory phase. No cyanosis or clubbing observed.
+- Abdomen:
+  Soft, non-tender with no hepatosplenomegaly or masses.
+- Musculoskeletal:
+  Full range of motion in all extremities, no tenderness or swelling.
+- Neurological:
+  The patient is neurologically intact, no focal deficits noted.
+- Skin:
+  Warm, dry, with no rashes or new lesions; benign neoplasms appear stable.
+
+Assessment:
+The clinical assessment suggests a chronic asthma exacerbation potentially triggered by environmental factors, particularly air pollution.
+
+- Issue/Problem/Request 1:
+  - Assessment: Persistent asthma exacerbation.
+  - Diagnostic Tests: Perform lung function tests and repeat a complete blood count.
+  - Treatment Plan: Continue Albuterol inhaler with increased frequency to every 4 hours PRN. Initiate low-dose inhaled corticosteroid such as Fluticasone for long-term management. Refer to pulmonology for further management and consideration of advanced therapies like long-term bronchodilators or leukotriene inhibitors. Advise minimizing outdoor activities during high pollution times.
+
+- Issue/Problem/Request 2:
+  - Assessment: Allergic rhinitis.
+  - Diagnostic Tests: None indicated unless symptoms persist.
+  - Treatment Plan: Continue Beconase nasal spray. Reinforce environmental control measures.
+
+- Issue/Problem/Request 3:
+  - Assessment: Benign skin neoplasms follow-up.
+  - Diagnostic Tests: Regular skin checks during routine visits.
+  - Treatment Plan: Monitor for any changes in existing lesions, no immediate action required.
+
+Plan:
+- Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if new symptoms develop.
+- Educate the patient on the importance of adherence to inhaled corticosteroid use and correct inhaler techniques. Emphasize strategies to reduce exposure to asthma triggers.
+- Schedule a follow-up appointment in 4-6 weeks to reassess asthma control and effectiveness of the new medication regimen. The patient agrees with the treatment plan and follow-up instructions.

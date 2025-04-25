@@ -1,0 +1,73 @@
+demographics
+patient_num: 1000000088  age: 10
+patient_num: 1000000088  sex: M
+patient_num: 1000000088  race: asian
+patient_num: 1000000088  language: german
+patient_num: 1000000088  vital_status: alive
+patient_num: 1000000088  earliest fact: Jul  2 1999 12:00AM
+patient_num: 1000000088  latest fact: Dec  3 2004 12:00AM
+patient_num: 1000000088  range in days: 1981
+totals
+patient_num: 1000000088  distinct concepts: 75
+patient_num: 1000000088  total facts: 123
+patient_num: 1000000088  total encounters: 22
+patient_num: 1000000088  total asthma: 11
+descriptive
+patient_num: 1000000088  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 11
+patient_num: 1000000088  diagnosis code: ICD9:477.8  name: Allergic rhinitis due to other allergen  count: 1
+patient_num: 1000000088  diagnosis code: ICD9:477.9  name: Allergic rhinitis, cause unspecified  count: 4
+patient_num: 1000000088  diagnosis code: ICD9:995.60  name: Anaphylactic shock due to unspecified food  count: 1
+patient_num: 1000000088  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 11
+patient_num: 1000000088  diagnosis code: ICD9:277.00  name: Cystic fibrosis without mention of meconium ileus  count: 1
+patient_num: 1000000088  diagnosis code: ICD9:783.4  name: Lack of expected normal physiological development  count: 1
+patient_num: 1000000088  diagnosis code: ICD9:V07.2  name: Need for prophylactic immunotherapy  count: 1
+patient_num: 1000000088  diagnosis code: ICD9:V05.3  name: Need for prophylactic vaccination and inoculation against viral hepatitis  count: 1
+patient_num: 1000000088  diagnosis code: ICD9:V03.1  name: Need for prophylactic vaccination with typhoid-paratyphoid alone (TAB) vaccine  count: 1
+patient_num: 1000000088  diagnosis code: ICD9:V65.49  name: Other specified counseling  count: 1
+patient_num: 1000000088  diagnosis code: ICD9:515  name: Postinflammatory pulmonary fibrosis  count: 1
+patient_num: 1000000088  diagnosis code: ICD9:V20.2  name: Routine infant or child health check  count: 1
+patient_num: 1000000088  diagnosis code: ICD9:V82.89  name: Screening for other specified conditions  count: 1
+patient_num: 1000000088  diagnosis code: ICD9:269.9  name: Unspecified nutritional deficiency  count: 1
+patient_num: 1000000088  laboratory code: LOINC:711-2  name: Abs EOS Auto (Group:AEOS)  count: 1
+patient_num: 1000000088  laboratory code: LOINC:731-0  name: Abs Lymphs Auto (Group:ALYMPHS)  count: 1
+patient_num: 1000000088  laboratory code: LOINC:764-1  name: Bands - Manual (Group:BAND)  count: 1
+patient_num: 1000000088  laboratory code: LOINC:30180-4  name: Basophils (Group:BASOP)  count: 1
+patient_num: 1000000088  laboratory code: LOINC:706-2  name: Basophils - Auto (Group:BASOS)  count: 1
+patient_num: 1000000088  laboratory code: LOINC:5770-3  name: Bilirubin (Group:UA-BILI)  count: 1
+patient_num: 1000000088  laboratory code: LOINC:3094-0  name: Blood Urea Nitrogen (Group:BUN)  count: 1
+patient_num: 1000000088  laboratory code: LOINC:2028-9  name: Carbon Dioxide (Group:CO2)  count: 1
+patient_num: 1000000088  laboratory code: LOINC:2075-0  name: Chloride (Group:CL)  count: 1
+patient_num: 1000000088  laboratory code: LOINC:5778-6  name: Color (Group:UA-COLOR)  count: 1
+patient_num: 1000000088  laboratory code: LOINC:2160-0  name: Creatinine (Group:CRE)  count: 1
+patient_num: 1000000088  laboratory code: LOINC:X2012-1  name: Differential Request (Group:DIFFR)  count: 1
+patient_num: 1000000088  laboratory code: LOINC:26450-7  name: Eosinophils (Group:EOSP)  count: 1
+patient_num: 1000000088  laboratory code: LOINC:713-8  name: Eosinophils - Auto (Group:EOS)  count: 1
+patient_num: 1000000088  laboratory code: LOINC:5792-7  name: Glucose - UA (Group:UA-GLUC)  count: 1
+patient_num: 1000000088  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 2
+patient_num: 1000000088  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 2
+patient_num: 1000000088  laboratory code: LOINC:2462-0  name: IgE (Group:IGE)  count: 1
+patient_num: 1000000088  laboratory code: LOINC:5797-6  name: Ketones (Group:UA-KET)  count: 1
+patient_num: 1000000088  laboratory code: LOINC:26478-8  name: Lymphocytes (Group:LYMP)  count: 1
+patient_num: 1000000088  laboratory code: LOINC:736-9  name: Lymphocytes - Auto (Group:LYMPHS)  count: 1
+patient_num: 1000000088  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 2
+patient_num: 1000000088  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 2
+patient_num: 1000000088  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 2
+patient_num: 1000000088  laboratory code: LOINC:26485-3  name: Monocytes (Group:MON)  count: 1
+patient_num: 1000000088  laboratory code: LOINC:5905-5  name: Monocytes - Auto (Group:MONOS)  count: 1
+patient_num: 1000000088  laboratory code: LOINC:26511-6  name: Neutrophils (Group:NEUT)  count: 1
+patient_num: 1000000088  laboratory code: LOINC:770-8  name: Neutrophils - Auto (Group:POLYS)  count: 1
+patient_num: 1000000088  laboratory code: LOINC:5802-4  name: Nitrites (Group:UA-NIT)  count: 1
+patient_num: 1000000088  laboratory code: LOINC:5794-3  name: Occult Blood (Group:UA-BLD)  count: 1
+patient_num: 1000000088  laboratory code: LOINC:5803-2  name: PH (Group:UA-PH)  count: 1
+patient_num: 1000000088  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 2
+patient_num: 1000000088  laboratory code: LOINC:2823-3  name: Potassium (Group:K)  count: 1
+patient_num: 1000000088  laboratory code: LOINC:5804-0  name: Protein (Group:UA-ALB)  count: 1
+patient_num: 1000000088  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 2
+patient_num: 1000000088  laboratory code: LOINC:11273-0  name: RBC Morph Auto (Group:RCM-A)  count: 1
+patient_num: 1000000088  laboratory code: LOINC:6742-1  name: RBC Morph Manual (Group:RCM-M)  count: 1
+patient_num: 1000000088  laboratory code: LOINC:788-0  name: RDW (Group:RDW)  count: 1
+patient_num: 1000000088  laboratory code: LOINC:2951-2  name: Sodium (Group:NA)  count: 1
+patient_num: 1000000088  laboratory code: LOINC:5811-5  name: Specific Gravity (Group:UA-SPGR)  count: 1
+patient_num: 1000000088  laboratory code: LOINC:5767-9  name: Turbidity (Group:UA-TURB)  count: 1
+patient_num: 1000000088  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 2
+patient_num: 1000000088  laboratory code: LOINC:5799-2  name: WBC Screen (Group:UA-WBC)  count: 1

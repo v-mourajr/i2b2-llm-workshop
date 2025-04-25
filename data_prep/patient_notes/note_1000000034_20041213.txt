@@ -1,0 +1,51 @@
+Visit Information:
+- Patient Num: 1000000034
+- Visit Date: 12/13/2004
+
+This is a 35-year-old Indian male who speaks English and has been receiving care at our clinic over several years, most recently presenting for a follow-up visit to evaluate his asthma, chronic sinusitis, and related symptoms. The patient’s primary diagnosis is asthma, unspecified without mention of status asthmaticus. Secondary diagnoses include allergic rhinitis, chronic sinusitis, and previous diagnoses like abdominal pain of unspecified site, acute pharyngitis, and various allergies.
+
+Subjective:
+The patient reports experiencing intermittent exacerbations of asthma, including dyspnea, wheezing, and chest tightness, particularly when exposed to allergens like pollen or during cold weather. He states that his asthma symptoms are better controlled with his current medications which include an inhaled corticosteroid (fluticasone) and a short-acting beta-agonist (albuterol) used as needed. He continues to experience nasal congestion and postnasal drip that he attributes to chronic sinusitis and allergic rhinitis. The patient is compliant with his treatment regimen and denies any adverse effects from his medications. He has no known drug allergies and maintains a healthy lifestyle, working as a software engineer, living with his partner, and participating in regular physical activities such as running and yoga.
+
+Objective:
+Vital Signs:
+- Blood Pressure: 120/80 mmHg
+- Heart Rate: 82 bpm
+- Respiratory Rate: 18 rpm
+- Temperature: 98.2°F
+- Oxygen Saturation: 97% on room air
+
+Physical Examination:
+The patient appears well-nourished and in no acute distress. Cardiovascular examination revealed a regular heart rate and rhythm with no murmurs or gallops. Respiratory examination detected normal breath sounds with occasional end-expiratory wheezing heard bilaterally, without retractions or use of accessory muscles. The abdominal examination was benign, with the abdomen soft, non-tender, and non-distended. Musculoskeletal examination was unremarkable with no joint pain or swelling. The neurological examination showed the patient to be alert and oriented, with no focal deficits. His skin examination did not reveal any rashes or notable lesions.
+
+Laboratory Results:
+The patient's recent laboratory tests indicate normal liver function, kidney function, and a complete blood count with normal findings. Urinalysis was also within normal limits.
+
+Assessment:
+Primary Diagnosis: Asthma, unspecified without mention of status asthmaticus.
+Secondary Diagnoses: Chronic sinusitis, Allergic rhinitis.
+
+The patient is managing a chronic course of asthma with persistent but generally controlled symptoms under the current treatment regimen. Chronic sinusitis and allergic rhinitis appear to be contributing to ongoing nasal congestion and postnasal drip.
+
+Plan:
+1. Asthma:
+   - The patient should continue the fluticasone inhaler as prescribed and use the albuterol inhaler as needed. 
+   - Reinforce the importance of regular use of the inhaled corticosteroid.
+   - Suggest receiving the seasonal flu vaccine.
+   - Schedule a follow-up visit in three months or sooner if symptoms worsen or asthma exacerbations increase.
+
+2. Chronic Sinusitis:
+   - Start treatment with a nasal corticosteroid spray (fluticasone nasal spray).
+   - Recommend saline nasal irrigation twice daily to help alleviate symptoms.
+   - If symptoms persist despite treatment, consider a referral to an ENT specialist for further evaluation.
+
+3. Allergic Rhinitis:
+   - Advise avoiding known allergens as much as possible.
+   - Continue with over-the-counter antihistamines as needed during peak allergy seasons.
+
+4. Other:
+   - The acute pharyngitis which was treated and resolved; no further treatment is needed at this time.
+   - Encourage maintaining good hydration and use throat lozenges if needed for any throat discomfort.
+
+Follow-Up:
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if laboratory results suggest further evaluation is necessary. Patient education regarding the importance of medication adherence and recognizing signs of asthma exacerbation was provided, and the patient verbalized understanding the plan and instructions for emergent follow-up care.

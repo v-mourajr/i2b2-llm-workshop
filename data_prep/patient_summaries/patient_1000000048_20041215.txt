@@ -1,0 +1,122 @@
+demographics
+patient_num: 1000000048  age: 9
+patient_num: 1000000048  sex: F
+patient_num: 1000000048  race: hispanic
+patient_num: 1000000048  language: spanish
+patient_num: 1000000048  vital_status: alive
+patient_num: 1000000048  earliest fact: Sep 14 1999 12:00AM
+patient_num: 1000000048  latest fact: Dec 15 2004 12:00AM
+patient_num: 1000000048  range in days: 1919
+totals
+patient_num: 1000000048  distinct concepts: 117
+patient_num: 1000000048  total facts: 413
+patient_num: 1000000048  total encounters: 67
+patient_num: 1000000048  total asthma: 10
+descriptive
+patient_num: 1000000048  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 10
+patient_num: 1000000048  diagnosis code: ICD9:E849.6  name: Accidents occurring in public building  count: 1
+patient_num: 1000000048  diagnosis code: ICD9:462  name: Acute pharyngitis  count: 2
+patient_num: 1000000048  diagnosis code: ICD9:465.9  name: Acute upper respiratory infections of unspecified site  count: 2
+patient_num: 1000000048  diagnosis code: ICD9:309.28  name: Adjustment reaction with mixed emotional features  count: 1
+patient_num: 1000000048  diagnosis code: ICD9:995.3  name: Allergy, unspecified, not elsewhere classified  count: 1
+patient_num: 1000000048  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 10
+patient_num: 1000000048  diagnosis code: ICD9:920  name: Contusion of face, scalp, and neck except eye(s)  count: 1
+patient_num: 1000000048  diagnosis code: ICD9:786.2  name: Cough  count: 3
+patient_num: 1000000048  diagnosis code: ICD9:691.0  name: Diaper or napkin rash  count: 1
+patient_num: 1000000048  diagnosis code: ICD9:530.81  name: Esophageal reflux  count: 6
+patient_num: 1000000048  diagnosis code: ICD9:E884.4  name: Fall from bed  count: 1
+patient_num: 1000000048  diagnosis code: ICD9:768.3  name: Fetal distress first noted during labor, in liveborn infant  count: 1
+patient_num: 1000000048  diagnosis code: ICD9:768.4  name: Fetal distress, unspecified as to time of onset, in liveborn infant  count: 2
+patient_num: 1000000048  diagnosis code: ICD9:780.6  name: Fever  count: 2
+patient_num: 1000000048  diagnosis code: ICD9:591  name: Hydronephrosis  count: 1
+patient_num: 1000000048  diagnosis code: ICD9:611.1  name: Hypertrophy of breast  count: 2
+patient_num: 1000000048  diagnosis code: ICD9:96.04  name: Insertion of endotracheal tube  count: 1
+patient_num: 1000000048  diagnosis code: ICD9:770.1  name: Meconium aspiration syndrome  count: 2
+patient_num: 1000000048  diagnosis code: ICD9:799.2  name: Nervousness  count: 1
+patient_num: 1000000048  diagnosis code: ICD9:V29.2  name: Observation for suspected respiratory condition  count: 1
+patient_num: 1000000048  diagnosis code: ICD9:753.2  name: Obstructive defects of renal pelvis and ureter, congenital  count: 1
+patient_num: 1000000048  diagnosis code: ICD9:761.2  name: Oligohydramnios affecting fetus or newborn  count: 1
+patient_num: 1000000048  diagnosis code: ICD9:780.09  name: Other alteration of consciousness  count: 1
+patient_num: 1000000048  diagnosis code: ICD9:348.8  name: Other conditions of brain  count: 1
+patient_num: 1000000048  diagnosis code: ICD9:780.39  name: Other convulsions  count: 5
+patient_num: 1000000048  diagnosis code: ICD9:770.8  name: Other newborn respiratory problems  count: 1
+patient_num: 1000000048  diagnosis code: ICD9:783.9  name: Other symptoms concerning nutrition, metabolism, and development  count: 1
+patient_num: 1000000048  diagnosis code: ICD9:788.9  name: Other symptoms involving urinary system  count: 1
+patient_num: 1000000048  diagnosis code: ICD9:309.81  name: Prolonged posttraumatic stress disorder  count: 2
+patient_num: 1000000048  diagnosis code: ICD9:V20.2  name: Routine infant or child health check  count: 13
+patient_num: 1000000048  diagnosis code: ICD9:V78.8  name: Screening for other disorders of blood and blood-forming organs  count: 1
+patient_num: 1000000048  diagnosis code: ICD9:V30.01  name: Single liveborn, born in hospital, delivered by cesarean section  count: 2
+patient_num: 1000000048  diagnosis code: ICD9:V30.00  name: Single liveborn, born in hospital, delivered without mention of cesarean section  count: 9
+patient_num: 1000000048  diagnosis code: ICD9:780.2  name: Syncope and collapse  count: 1
+patient_num: 1000000048  diagnosis code: ICD9:793.9  name: Thermography  count: 1
+patient_num: 1000000048  diagnosis code: ICD9:744.3  name: Unspecified congenital anomaly of ear  count: 1
+patient_num: 1000000048  diagnosis code: ICD9:382.9  name: Unspecified otitis media  count: 1
+patient_num: 1000000048  diagnosis code: ICD9:079.99  name: Unspecified viral infection in conditions classified elsewhere and of unspecified site  count: 2
+patient_num: 1000000048  laboratory code: LOINC:763-3  name: Abs Bands Manual (Group:ABANDS)  count: 1
+patient_num: 1000000048  laboratory code: LOINC:26444-0  name: Abs Basos (Group:ABASOP)  count: 4
+patient_num: 1000000048  laboratory code: LOINC:26449-9  name: Abs Eos (Group:AEOSN)  count: 3
+patient_num: 1000000048  laboratory code: LOINC:711-2  name: Abs EOS Auto (Group:AEOS)  count: 1
+patient_num: 1000000048  laboratory code: LOINC:26474-7  name: Abs Lymphs (Group:ALYMP)  count: 4
+patient_num: 1000000048  laboratory code: LOINC:26484-6  name: Abs Monos (Group:AMONS)  count: 4
+patient_num: 1000000048  laboratory code: LOINC:26499-4  name: Abs Neuts (Group:ANEU)  count: 4
+patient_num: 1000000048  laboratory code: LOINC:1751-7  name: Albumin (Group:ALB)  count: 1
+patient_num: 1000000048  laboratory code: LOINC:702-1  name: Anisocytosis (Group:ANISO)  count: 1
+patient_num: 1000000048  laboratory code: LOINC:1920-8  name: AST (SGOT) (Group:SGOT)  count: 1
+patient_num: 1000000048  laboratory code: LOINC:735-1  name: Atypical Lymphs (Group:ATYPS)  count: 1
+patient_num: 1000000048  laboratory code: LOINC:5769-5  name: Bacteria (Group:UAS-BACT)  count: 1
+patient_num: 1000000048  laboratory code: LOINC:764-1  name: Bands - Manual (Group:BAND)  count: 1
+patient_num: 1000000048  laboratory code: LOINC:30180-4  name: Basophils (Group:BASOP)  count: 4
+patient_num: 1000000048  laboratory code: LOINC:5770-3  name: Bilirubin (Group:UA-BILI)  count: 2
+patient_num: 1000000048  laboratory code: LOINC:11278-9  name: Bladder Cells (Group:UAS-BLAD)  count: 1
+patient_num: 1000000048  laboratory code: LOINC:3094-0  name: Blood Urea Nitrogen (Group:BUN)  count: 1
+patient_num: 1000000048  laboratory code: LOINC:2000-8  name: Calcium (Group:CA)  count: 1
+patient_num: 1000000048  laboratory code: LOINC:2028-9  name: Carbon Dioxide (Group:CO2)  count: 1
+patient_num: 1000000048  laboratory code: LOINC:2075-0  name: Chloride (Group:CL)  count: 1
+patient_num: 1000000048  laboratory code: LOINC:5778-6  name: Color (Group:UA-COLOR)  count: 2
+patient_num: 1000000048  laboratory code: LOINC:2160-0  name: Creatinine (Group:CRE)  count: 1
+patient_num: 1000000048  laboratory code: LOINC:X2012-1  name: Differential Request (Group:DIFFR)  count: 4
+patient_num: 1000000048  laboratory code: LOINC:1968-7  name: Direct Bilirubin (Group:DBILI)  count: 2
+patient_num: 1000000048  laboratory code: LOINC:26450-7  name: Eosinophils (Group:EOSP)  count: 3
+patient_num: 1000000048  laboratory code: LOINC:3151-8  name: FIO2 (Group:FIO2)  count: 1
+patient_num: 1000000048  laboratory code: LOINC:2336-6  name: Globulin (Group:GLOB)  count: 1
+patient_num: 1000000048  laboratory code: LOINC:6777-7  name: Glucose (Group:GLU)  count: 1
+patient_num: 1000000048  laboratory code: LOINC:5792-7  name: Glucose - UA (Group:UA-GLUC)  count: 2
+patient_num: 1000000048  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 5
+patient_num: 1000000048  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 5
+patient_num: 1000000048  laboratory code: LOINC:728-6  name: Hypochromia (Group:HYPO)  count: 1
+patient_num: 1000000048  laboratory code: LOINC:2462-0  name: IgE (Group:IGE)  count: 1
+patient_num: 1000000048  laboratory code: LOINC:5797-6  name: Ketones (Group:UA-KET)  count: 2
+patient_num: 1000000048  laboratory code: LOINC:26478-8  name: Lymphocytes (Group:LYMP)  count: 4
+patient_num: 1000000048  laboratory code: LOINC:11554-3  name: Magnesium (Group:MG)  count: 1
+patient_num: 1000000048  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 5
+patient_num: 1000000048  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 5
+patient_num: 1000000048  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 5
+patient_num: 1000000048  laboratory code: LOINC:740-1  name: Metamyelocytes - Manual (Group:META)  count: 1
+patient_num: 1000000048  laboratory code: LOINC:741-9  name: Microcytes (Group:MICROC)  count: 2
+patient_num: 1000000048  laboratory code: LOINC:26485-3  name: Monocytes (Group:MON)  count: 4
+patient_num: 1000000048  laboratory code: LOINC:26511-6  name: Neutrophils (Group:NEUT)  count: 4
+patient_num: 1000000048  laboratory code: LOINC:5802-4  name: Nitrites (Group:UA-NIT)  count: 2
+patient_num: 1000000048  laboratory code: LOINC:5794-3  name: Occult Blood (Group:UA-BLD)  count: 2
+patient_num: 1000000048  laboratory code: LOINC:774-0  name: Ovalocytes (Group:OVALS)  count: 1
+patient_num: 1000000048  laboratory code: LOINC:5803-2  name: PH (Group:UA-PH)  count: 2
+patient_num: 1000000048  laboratory code: LOINC:2777-1  name: Phosphorus (Group:PHOS)  count: 1
+patient_num: 1000000048  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 5
+patient_num: 1000000048  laboratory code: LOINC:11125-2  name: PLT Comments (Group:P-COM)  count: 1
+patient_num: 1000000048  laboratory code: LOINC:779-9  name: Poikilocytosis (Group:POIK)  count: 1
+patient_num: 1000000048  laboratory code: LOINC:2823-3  name: Potassium (Group:K)  count: 1
+patient_num: 1000000048  laboratory code: LOINC:5804-0  name: Protein (Group:UA-ALB)  count: 2
+patient_num: 1000000048  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 5
+patient_num: 1000000048  laboratory code: LOINC:5808-1  name: RBC - Urine Sed (Group:UAS-RBC)  count: 2
+patient_num: 1000000048  laboratory code: LOINC:6742-1  name: RBC Morph Manual (Group:RCM-M)  count: 4
+patient_num: 1000000048  laboratory code: LOINC:788-0  name: RDW (Group:RDW)  count: 4
+patient_num: 1000000048  laboratory code: LOINC:2951-2  name: Sodium (Group:NA)  count: 1
+patient_num: 1000000048  laboratory code: LOINC:5811-5  name: Specific Gravity (Group:UA-SPGR)  count: 2
+patient_num: 1000000048  laboratory code: LOINC:11277-1  name: Squamous Cells (Group:UAS-SQUA)  count: 1
+patient_num: 1000000048  laboratory code: LOINC:1975-2  name: Total Bilirubin (Group:TBILI)  count: 2
+patient_num: 1000000048  laboratory code: LOINC:2885-2  name: Total Protein (Group:TP)  count: 1
+patient_num: 1000000048  laboratory code: LOINC:5767-9  name: Turbidity (Group:UA-TURB)  count: 2
+patient_num: 1000000048  laboratory code: LOINC:11558-4  name: Unspecified pH (Group:BPH)  count: 2
+patient_num: 1000000048  laboratory code: LOINC:5818-0  name: Urobilinogen (Group:UA-UROBI)  count: 2
+patient_num: 1000000048  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 5
+patient_num: 1000000048  laboratory code: LOINC:5821-4  name: WBC - Urine Sed (Group:UAS-WBC)  count: 2
+patient_num: 1000000048  laboratory code: LOINC:5799-2  name: WBC Screen (Group:UA-WBC)  count: 2

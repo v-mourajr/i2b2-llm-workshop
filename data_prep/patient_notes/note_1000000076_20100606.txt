@@ -1,0 +1,46 @@
+Visit Information:
+- Patient Num: 1000000076
+- Visit Date: 06/06/2010
+
+Subjective:
+This is a 63-year-old Black male who speaks German and has been under the care at our clinic for ten years for the management of his asthma. He presents today for a scheduled follow-up visit, citing exacerbations in his asthma over the past few months, particularly noting increased episodes of cough and dyspnea. The symptoms have intensified with the recent changes in the weather and heightened exposure to allergens, including dust and pollen. Consequently, his use of the prescribed rescue inhaler has significantly increased.
+
+In addition to asthma, the patient has a history of seasonal allergic rhinitis, which worsens during high pollen periods and is marked by symptoms such as nasal congestion and sneezing. His medical history is also notable for multiple instances of extrinsic asthma with acute exacerbation and past episodes of anaphylactic shock due to unspecified food reactions. He has also experienced angioneurotic edema in the past.
+
+His medications include an inhaled corticosteroid and a short-acting beta-agonist for asthma, and he occasionally uses antihistamines for allergic symptoms. He denies the use of herbal supplements, does not smoke, and consumes alcohol moderately. There have been no new allergies reported since the last visit. His respiratory symptoms are exacerbated by physical activity and cold temperatures, resulting in moderate distress. The patient avoids exposure to secondhand smoke in his living environment.
+
+Objective:
+Vital signs recorded today are: Blood Pressure 135/82 mmHg, Heart Rate 92 bpm, Respiratory Rate 22 breaths per minute, Temperature 98.7°F, and Oxygen Saturation 94% on room air.
+- General Appearance: The patient appears well-nourished, alert, and oriented, without any acute distress.
+- Cardiovascular: The heart rate and rhythm are regular with no murmurs, gallops, or rubs detected.
+- Respiratory: Bilateral wheezes are noted on auscultation, predominantly during expiration. Mild retractions are visible. There are no crackles or rhonchi.
+- Abdomen: The abdomen is soft, non-tender, and exhibits normal bowel sounds.
+- Musculoskeletal: There is no evidence of joint swelling or deformities. The patient demonstrates a full range of motion in all extremities, though he reports tenderness in the lower limbs.
+- Neurological: The patient is alert and oriented to person, place, and time. Cranial nerves II-XII are functionally intact. Motor and sensory exams are grossly normal.
+- Skin: The skin is clear with no rashes, lesions, or cyanosis.
+
+Relevant laboratory studies within the last few months include normal ranges for WBC, RBC, HGB, HCT, MCV, MCH, and MCHC. There are slight elevations in AST and ALT levels, indicative of mild hepatic involvement, though this is not attributed to current medication use.
+
+Assessment:
+The patient is primarily diagnosed with asthma, unspecified without status asthmaticus. Additionally, he presents with symptoms of chronic cough and dyspnea, likely secondary to uncontrolled asthma and allergic rhinitis. Other significant diagnoses include extrinsic asthma with acute exacerbations, anaphylactic reactions to food, and various forms of allergic rhinitis. These conditions contribute to his overall respiratory complications.
+
+Plan:
+1. Asthma and Respiratory Management:
+   - Continue the current inhaled corticosteroid regimen and increase the frequency during acute episodes as needed.
+   - Maintain the use of the short-acting beta-agonist and counsel on proper use and frequency.
+   - Consider the introduction of a long-acting beta-agonist for better asthma control if necessary.
+   - Educate the patient on peak flow monitoring for asthma self-management.
+   - Schedule spirometry to assess lung function and monitor progress.
+   - Referral to a pulmonologist for advanced asthma management is considered.
+
+2. Management of Allergic Rhinitis:
+   - Continue with antihistamines on an as-needed basis.
+   - Introduce nasal corticosteroids if symptoms persist and consider an allergy evaluation for precise trigger identification.
+   - Reinforce strategies to reduce allergen exposure in his environment.
+
+3. General Symptom Management:
+   - Recommend the use of a humidifier to alleviate cough symptoms.
+   - Address lower limb tenderness with a referral to physical therapy, should it prove to be a significant ongoing problem.
+
+Follow-Up:
+The patient is instructed to contact the clinic if his asthma symptoms worsen or do not improve within a week. A follow-up appointment is scheduled for three months to reassess asthma control, make any necessary medication adjustments, and evaluate overall symptom progression. The patient verbalized an understanding of the management plan and agrees to adhere to the recommendations, including monitoring for signs of exacerbation and ensuring proper medication use.

@@ -1,0 +1,42 @@
+**Visit Information:**
+
+- **Patient Num:** 1000000048
+- **Visit Date:** October 16, 2007
+
+**Subjective:**
+
+This is a 12-year-old Hispanic female who has been a patient at our clinic for approximately 8 years. The patient speaks Spanish and is accompanied today by her mother for a follow-up visit. The primary concerns reported include persistent headaches and episodes of dizziness occurring over the past week. The mother states that these symptoms have been intermittent but troubling enough to affect the patient’s daily activities, including school performance. 
+
+The patient’s medical history is notable for adjustment reaction with mixed emotional features, recurrent upper respiratory infections, and esophageal reflux. She has also been treated for acute pharyngitis and diaper rash in the past. Currently, she is taking omeprazole for esophageal reflux with good therapeutic effect and over-the-counter ibuprofen as needed for headache relief.
+
+The family resides in a single-parent household, and the mother is very involved in managing the patient’s health care. The patient attends school regularly but has had a few absences due to her current symptoms. They report no use of herbal supplements. Known allergies include penicillin, which causes a mild rash.
+
+The headaches are described as throbbing, predominantly in the frontal region, and tend to worsen in the late afternoon. The dizziness is characterized by a sensation of lightheadedness, particularly when standing quickly. There have been no reports of fever, nausea, or visual disturbances. 
+
+**Objective:**
+
+Vital signs today indicate a blood pressure of 110/70 mmHg, a heart rate of 90 bpm, a respiratory rate of 18 breaths per minute, a temperature of 36.8°C (98.2°F), and oxygen saturation at 99%.
+
+On physical examination, the patient appears well-nourished and in no acute distress but looks noticeably tired. The cardiovascular examination revealed a regular heart rhythm with no murmurs, rubs, or gallops. Lung fields are clear to auscultation bilaterally, without any wheezing or abnormal breath sounds. The abdominal examination indicated a soft, non-distended abdomen with no tenderness or palpable masses. Musculoskeletal assessment did not show any joint swelling, tenderness, or limitation in the range of motion. Neurological examination was significant for mild difficulty with tandem gait but normal deep tendon reflexes, cranial nerve function, and motor strength. The skin exam noted no rashes or lesions, but there was mild residual diaper rash as previously documented, appearing stable.
+
+Laboratory results from the latest visit include a complete blood count indicating slight leukocytosis, likely secondary to recent or resolving infection. Urinalysis results were unremarkable, except for mild transient bacteriuria, which has resolved.
+
+**Assessment:**
+
+The primary diagnosis is likely tension-type headache, given the description and intermittent nature of the symptoms. Associated symptoms of dizziness may suggest orthostatic hypotension as a secondary issue. Additionally, her esophageal reflux remains well-managed with current medication.
+
+**Plan:**
+
+1. **Symptomatic Management:** Continue administering over-the-counter ibuprofen as needed for headache relief, respecting safe dosing intervals. Recommend non-pharmacological interventions such as rest, hydration, and a regular sleep schedule to alleviate headache episodes.
+
+2. **Hydration and Orthostatic Symptoms:** Instruct the patient to maintain adequate hydration by drinking plenty of fluids throughout the day and to rise slowly from sitting or lying positions to prevent dizziness. 
+
+3. **Nutritional Monitoring:** Monitor dietary intake to ensure it is balanced and sufficient to prevent any nutritional deficiencies that might contribute to symptoms.
+
+4. **Diagnostic Tests:** If dizziness persists, plan for an orthostatic blood pressure series to confirm orthostatic hypotension. Additionally, monitor hemoglobin and hematocrit levels to rule out anemia that could be contributing to these symptoms.
+
+5. **Caregiver Education:** Educate the caregiver on recognizing signs that indicate worsening conditions, such as persistent or severe headache unrelieved by medication or dizziness that affects daily activities. Emphasize the importance of hydration and proper postural habits.
+
+6. **Follow-Up Appointment:** Schedule a follow-up visit in two weeks to reassess the patient’s condition, monitor headache frequency, and evaluate the effectiveness of the current management strategy. Adjust treatments accordingly based on findings.
+
+Instruct the patient’s caregiver to contact the clinic if symptoms worsen, do not improve within the two-week period, or if any new concerning symptoms arise. Provide reassurance and support as the patient manages her current symptoms.

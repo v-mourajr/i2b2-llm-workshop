@@ -1,0 +1,68 @@
+Visit Information:
+    - Patient Num: 1000000116
+    - Visit Date: 07/17/2000
+
+Subjective:
+    - Chief Complaints & History of Present Illness:
+        This is a 6-year-old Black male, who has been receiving care at our clinic for approximately 10 months. Today, he presents with complaints of cough, wheezing, and difficulty breathing which have persisted for the past three days. His mother reports that these symptoms are worse at night and after physical activity. There is no reported fever, but he has had a decreased appetite and increased fatigue. His asthma is typically well-managed with his current medication regimen but has been exacerbated recently.
+    - Past Medical & Surgical History:
+        The patient has a history of asthma, with previous episodes requiring nebulizer treatments. He also has a medical history of acute nonsuppurative otitis media and has undergone routine circumcision as an infant.
+    - Medications & Supplements:
+        He is currently taking Albuterol as needed for asthma exacerbations and Fluticasone (daily inhaled corticosteroid) to manage chronic symptoms. His mother ensures the medications are administered as prescribed.
+    - Social History:
+        The patient lives with his mother and younger sibling in an urban environment. He attends kindergarten and is generally active, though his activities are often limited by his asthma. There is no exposure to tobacco smoke in the home.
+    - Allergies:
+        No known allergies.
+    - Symptom Details:
+        The cough and wheezing began abruptly three days ago, mainly occurring at night and following physical exertion. These symptoms have made him more fatigued than usual. No fever has been noted during this period.
+    - Additional Narrative:
+        The mother has been using the nebulizer at home, which has provided some relief. However, she is concerned about the frequency and severity of the recent asthma exacerbation. There are no new exposures or changes in his routine that might explain the increased symptoms.
+
+Objective:
+    - Vital Signs:
+        - Blood Pressure: 98/62 mmHg
+        - Heart Rate: 95 beats per minute
+        - Respiratory Rate: 22 breaths per minute
+        - Temperature: 98.6°F
+        - Oxygen Saturation: 94% on room air
+    - General Appearance:
+        The patient appears slightly fatigued but is in no acute distress.
+    - Cardiovascular:
+        Regular heart rate and rhythm, no murmurs, rubs, or gallops.
+    - Respiratory:
+        Mild intercostal retractions noted. Breath sounds reveal bilateral wheezes, more pronounced on expiration. No stridor or rhonchi is present.
+    - Abdomen:
+        Soft, non-tender, and non-distended. Normal bowel sounds in all quadrants. No hepatosplenomegaly.
+    - Musculoskeletal:
+        Normal tone and strength. No joint swelling or tenderness.
+    - Neurological:
+        Alert and oriented. Normal speech and appropriate responses.
+    - Skin:
+        No rashes or lesions. Skin is warm and dry.
+
+Assessment:
+    - Diagnosis or Clinical Impression:
+        The patient likely has an acute exacerbation of asthma, possibly triggered by an unidentified allergen or respiratory infection.
+    - Issue/Problem/Request 1:
+        Assessment:
+            - Acute exacerbation of asthma
+            - Differential diagnoses include viral respiratory infection or environmental allergen exposure.
+        Diagnostic Tests:
+            - Peak flow meter assessment
+            - Consider chest X-ray if symptoms persist or worsen
+        Treatment Plan:
+            - Continue Albuterol as needed, increase frequency to every 4 hours for acute symptoms.
+            - Continue Fluticasone as maintenance.
+            - Add a short course of oral corticosteroids (Prednisone) to reduce inflammation.
+            - Reevaluate in one week or sooner if symptoms worsen.
+            - Referral to a pediatric pulmonologist if frequent exacerbations continue.
+
+Follow-Up:
+    - Instructions for emergent follow-up care or monitoring:
+        Instruct patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.
+    - Follow-Up for persistent, changing, or worsening symptoms:
+        Follow-up appointment in one week to evaluate response to treatment.
+    - Patient Education & Understanding of the Plan:
+        The mother was educated on the importance of adherence to the medication regimen and monitoring symptoms closely. She verbalized understanding and agreed to follow the outlined treatment plan.
+
+This comprehensive note integrates the patient’s history and current presentation while appropriately following the SOAP structure and creating a cohesive medical narrative.

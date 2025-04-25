@@ -1,0 +1,71 @@
+**Visit Information:**
+- **Patient Num**: 1000000029
+- **Visit Date**: 10/15/2008
+
+**Subjective:**
+This is a 26-year-old Hispanic male who predominantly speaks English. He has been a patient at our clinic for approximately ten years, presenting today for follow-up management of his asthma. The patient reports that his asthma symptoms have been increasingly difficult to manage over the past month, especially with occurrences of acute bronchitis. He experiences shortness of breath and wheezing, intensified by physical exertion and during nighttime. His albuterol inhaler provides temporary relief.
+
+In addition, the patient discusses episodes of depression, characterized by persistent low mood, loss of interest in daily activities, and social withdrawal. Despite ongoing use of antidepressants, these symptoms persist. No recent surgical interventions have been performed, and he has not noted significant side effects from his medications.
+
+The patient lives with his family and is actively engaged in his community. He denies the use of tobacco, alcohol, or recreational drugs, and attempts to stay physically active and maintain a balanced diet. He also reports experiencing acute conjunctivitis occasionally and symptoms of allergic rhinitis, both of which exacerbate his respiratory condition.
+
+**Objective:**
+
+- **Vital Signs:**
+  - Blood Pressure: 125/80 mmHg
+  - Heart Rate: 78 bpm
+  - Respiratory Rate: 20 breaths/min
+  - Temperature: 98.3°F
+  - Oxygen Saturation: 97% on room air
+
+- **General Appearance:**
+  The patient is well-nourished and appears slightly anxious but cooperative and not in acute distress.
+
+- **Cardiovascular:**
+  Regular heart rhythm with no murmurs, gallops, or rubs.
+
+- **Respiratory:**
+  Bilateral expiratory wheezes are present, more prominent during forced expiration; however, no rales or rhonchi are detected. Normal respiratory effort without accessory muscle use is noted.
+
+- **Abdomen:**
+  Abdomen feels soft and non-tender with normal bowel sounds. No organomegaly detected.
+
+- **Musculoskeletal:**
+  Full range of motion in all extremities. No signs of swelling, joint pain, or deformities.
+
+- **Neurological:**
+  The patient is alert, oriented to time, place, and person. Cranial nerves II-XII are intact. Gross motor and sensory functions appear within normal limits.
+
+- **Skin:**
+  No new skin lesions or rashes. Benign neoplasms noted from prior evaluations remain unchanged.
+
+**Assessment:**
+1. Asthma: Persistent, with recent exacerbation due to acute bronchitis.
+2. Depression: Ongoing symptoms suggestive of a major depressive disorder, noting some psychotic components.
+3. Acute Conditions: Acute bronchitis and allergic rhinitis complicating respiratory function.
+4. Chronic Conditions: Presence of benign skin neoplasms, obesity, recurrent dental caries, and esophageal reflux.
+
+**Plan:**
+
+1. **Asthma and Acute Bronchitis:**
+   - Continue using the albuterol inhaler as needed.
+   - Prescribe a 5-day course of oral prednisone, 20 mg daily.
+   - Increase the dose of Flovent to 220 mcg/inh twice daily.
+   - Educate regarding the use of a peak flow meter, and reinforce comprehension of the asthma action plan.
+
+2. **Depression and Psychosis:**
+   - Initiate weekly cognitive-behavioral therapy (CBT) sessions.
+   - Start fluoxetine at 10 mg daily, with adjustments as needed based on response and tolerance.
+   - Refer to psychiatry for in-depth evaluation and management of psychotic symptoms.
+   - Emphasize strict adherence to the mental health plan and scheduled follow-ups.
+
+3. **Laboratory and Clinical Follow-up:**
+   - Order complete blood count (CBC) and a comprehensive metabolic panel (CMP) in one month.
+   - Schedule follow-up psychological and psychiatric assessments within the next two weeks.
+
+4. **Follow-Up Instructions:**
+   - Schedule a follow-up appointment in two weeks to reassess symptoms, treatment efficacy, and potential side effects.
+   - Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if adverse reactions to medications occur.
+
+**Patient Education & Understanding:**
+The patient and his family were counseled on the necessity of adhering to the prescribed treatment plan and monitoring for any side effects. Discussions included non-pharmacologic strategies such as maintaining a healthy lifestyle and stress management. The patient demonstrated understanding of the treatment plan and expressed willingness to communicate promptly should new concerns arise.

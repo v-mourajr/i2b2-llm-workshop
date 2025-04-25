@@ -1,0 +1,75 @@
+Visit Information:
+    - Patient Num: 1000000007
+    - Visit Date: 05/01/1998
+
+Subjective:
+    This is an 18-year-old Asian male who presents today, 05/01/1998, for evaluation of an abrasion or friction burn on his face, neck, and scalp which occurred recently. He primarily speaks Spanish. The patient reports that the injury happened yesterday during a fall while playing soccer. He states that the abrasion is causing mild irritation but denies any signs of infection such as increased redness, swelling, warmth, or discharge.
+
+    His past medical history includes occasional asthma, which he manages with an inhaler as needed, but is otherwise notable for good general health. He has no history of surgeries. 
+
+    Currently, he is not on any routine medications except for his asthma inhaler. He denies using any herbal supplements.
+
+    Social history reveals that he is a high school student, lives with his parents, and engages in sports regularly, including soccer and basketball. He does not smoke, drink alcohol, or use recreational drugs.
+
+    The patient has no known allergies.
+
+    Symptoms include visible redness and superficial abrasions on the face and neck, specifically along the cheek and forehead. The abrasion is described as stinging and tender to touch, particularly when cleaning the area. He has tried cleaning the wound with water and applying a topical antibiotic.
+
+Objective:
+    - Vital Signs:
+        - Blood Pressure: 118/72 mmHg
+        - Heart Rate: 72 bpm
+        - Respiratory Rate: 18 breaths per minute
+        - Temperature: 98.6°F
+        - Oxygen Saturation: 98% on room air
+
+    - General Appearance:
+        The patient is alert, in no apparent distress, and oriented to person, place, and time.
+
+    - Cardiovascular:
+        Heart sounds are regular, with no murmurs, gallops, or rubs. No signs of peripheral edema.
+
+    - Respiratory:
+        Lungs are clear to auscultation bilaterally, with no wheezes, rales, or rhonchi. No signs of respiratory distress.
+
+    - Abdomen:
+        Soft, non-tender, and non-distended. Normal bowel sounds in all quadrants.
+
+    - Musculoskeletal:
+        Full range of motion in all extremities. No signs of trauma other than the abrasion mentioned.
+
+    - Neurological:
+        The patient is alert and oriented. Cranial nerves II-XII are intact. No focal neurological deficits.
+
+    - Skin:
+        There is a 3 cm x 4 cm area of superficial abrasion on the right cheek and a smaller 1 cm x 2 cm area on the forehead. Both areas show signs of healing with minimal erythema and no purulent discharge or significant swelling.
+
+Assessment:
+    - Diagnosis or Clinical Impression:
+        The primary diagnosis is an abrasion or friction burn of the face, neck, and scalp without mention of infection.
+
+    - Issue/Problem/Request 1:
+        Assessment:
+            The likely diagnosis is an abrasion on the face secondary to trauma (fall).
+        Diagnostic Tests:
+            No additional diagnostic tests are necessary at this time.
+        Treatment Plan:
+            Cleanse the area with mild soap and water twice daily and keep it dry. Apply a topical antibiotic ointment (e.g., Neosporin) and cover with a sterile bandage. Reassess for signs of infection. Avoid further trauma to the area.
+            No referrals are necessary unless the condition worsens.
+
+    - Issue/Problem/Request 2:
+        Assessment:
+            Monitoring asthma history; currently no symptoms indicative of an acute asthma episode.
+        Diagnostic Tests:
+            None planned at present.
+        Treatment Plan:
+            Continue use of the asthma inhaler as needed. Instruct the patient to monitor for any signs of asthma exacerbation and to seek immediate medical attention if breathing difficulties arise.
+            No referrals needed currently.
+
+Follow-Up:
+    - Instructions for emergent follow-up care or monitoring:
+        Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if signs of infection develop such as increased redness, warmth, pain, swelling, or discharge.
+    - Follow-Up for persistent, changing, or worsening symptoms:
+        Schedule a follow-up appointment in 1 week to reassess the abrasion and ensure proper healing. 
+    - Patient Education & Understanding of the Plan:
+        The patient was educated on wound care and the importance of monitoring for signs of infection. He verbalized understanding and agreed with the treatment plan. Encouraged to contact the clinic if any issues arise before the next scheduled visit.

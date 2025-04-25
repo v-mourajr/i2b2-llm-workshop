@@ -1,0 +1,61 @@
+demographics
+patient_num: 1000000125  age: 28
+patient_num: 1000000125  sex: F
+patient_num: 1000000125  race: indian
+patient_num: 1000000125  language: german
+patient_num: 1000000125  vital_status: alive
+patient_num: 1000000125  earliest fact: Aug  4 1998 12:00AM
+patient_num: 1000000125  latest fact: Dec  9 2004 12:00AM
+patient_num: 1000000125  range in days: 2319
+totals
+patient_num: 1000000125  distinct concepts: 55
+patient_num: 1000000125  total facts: 113
+patient_num: 1000000125  total encounters: 18
+patient_num: 1000000125  total asthma: 3
+descriptive
+patient_num: 1000000125  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 3
+patient_num: 1000000125  diagnosis code: ICD9:789.01  name: Abdominal pain, right upper quadrant  count: 1
+patient_num: 1000000125  diagnosis code: ICD9:789.00  name: Abdominal pain, unspecified site  count: 1
+patient_num: 1000000125  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 3
+patient_num: 1000000125  diagnosis code: ICD9:574.00  name: Calculus of gallbladder with acute cholecystitis, without mention of obstruction  count: 2
+patient_num: 1000000125  diagnosis code: ICD9:574.10  name: Calculus of gallbladder with other cholecystitis, without mention of obstruction  count: 2
+patient_num: 1000000125  diagnosis code: ICD9:574.20  name: Calculus of gallbladder without mention of cholecystitis, without mention of obstruction  count: 5
+patient_num: 1000000125  diagnosis code: ICD9:50.11  name: Closed (percutaneous) [needle] biopsy of liver  count: 1
+patient_num: 1000000125  diagnosis code: ICD9:692.9  name: Contact dermatitis and other eczema, unspecified cause  count: 1
+patient_num: 1000000125  diagnosis code: ICD9:569.3  name: Hemorrhage of rectum and anus  count: 1
+patient_num: 1000000125  diagnosis code: ICD9:573.3  name: Hepatitis, unspecified  count: 3
+patient_num: 1000000125  diagnosis code: ICD9:87.53  name: Intraoperative cholangiogram  count: 1
+patient_num: 1000000125  diagnosis code: ICD9:51.23  name: Laparoscopic cholecystectomy  count: 1
+patient_num: 1000000125  diagnosis code: ICD9:794.8  name: Nonspecific abnormal results of function study of liver  count: 2
+patient_num: 1000000125  diagnosis code: ICD9:575.8  name: Other specified disorders of gallbladder  count: 1
+patient_num: 1000000125  diagnosis code: ICD9:573.9  name: Unspecified disorder of liver  count: 1
+patient_num: 1000000125  diagnosis code: ICD9:300.9  name: Unspecified neurotic disorder  count: 1
+patient_num: 1000000125  medication code: NDC:00074246124  name: Actiq 400 mcg device Abbott Pharmaceutical  count: 3
+patient_num: 1000000125  medication code: NDC:00364246533  name: Cefazolin Sodium 1gm powder for injection Schein Pharmaceuticals Inc  count: 4
+patient_num: 1000000125  medication code: NDC:00006468100  name: M-M-R II powder for injection Merck & Co. Inc  count: 3
+patient_num: 1000000125  laboratory code: LOINC:704-7  name: Abs Basos Auto (Group:ABASOS)  count: 1
+patient_num: 1000000125  laboratory code: LOINC:711-2  name: Abs EOS Auto (Group:AEOS)  count: 1
+patient_num: 1000000125  laboratory code: LOINC:731-0  name: Abs Lymphs Auto (Group:ALYMPHS)  count: 1
+patient_num: 1000000125  laboratory code: LOINC:742-7  name: Abs Monos Auto (Group:AMONOS)  count: 1
+patient_num: 1000000125  laboratory code: LOINC:752-6  name: Abs Neuts Auto (Group:ANEUTS)  count: 1
+patient_num: 1000000125  laboratory code: LOINC:1742-6  name: ALT (SGPT) (Group:SGPT)  count: 2
+patient_num: 1000000125  laboratory code: LOINC:1798-8  name: Amylase (Group:AMY)  count: 1
+patient_num: 1000000125  laboratory code: LOINC:1920-8  name: AST (SGOT) (Group:SGOT)  count: 1
+patient_num: 1000000125  laboratory code: LOINC:706-2  name: Basophils - Auto (Group:BASOS)  count: 1
+patient_num: 1000000125  laboratory code: LOINC:1968-7  name: Direct Bilirubin (Group:DBILI)  count: 4
+patient_num: 1000000125  laboratory code: LOINC:713-8  name: Eosinophils - Auto (Group:EOS)  count: 1
+patient_num: 1000000125  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 1
+patient_num: 1000000125  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 1
+patient_num: 1000000125  laboratory code: LOINC:3040-3  name: Lipase (Group:LIPS)  count: 1
+patient_num: 1000000125  laboratory code: LOINC:736-9  name: Lymphocytes - Auto (Group:LYMPHS)  count: 1
+patient_num: 1000000125  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 1
+patient_num: 1000000125  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 1
+patient_num: 1000000125  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 1
+patient_num: 1000000125  laboratory code: LOINC:5905-5  name: Monocytes - Auto (Group:MONOS)  count: 1
+patient_num: 1000000125  laboratory code: LOINC:770-8  name: Neutrophils - Auto (Group:POLYS)  count: 1
+patient_num: 1000000125  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 1
+patient_num: 1000000125  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 1
+patient_num: 1000000125  laboratory code: LOINC:788-0  name: RDW (Group:RDW)  count: 1
+patient_num: 1000000125  laboratory code: LOINC:1975-2  name: Total Bilirubin (Group:TBILI)  count: 4
+patient_num: 1000000125  laboratory code: LOINC:2885-2  name: Total Protein (Group:TP)  count: 1
+patient_num: 1000000125  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 1

@@ -1,0 +1,82 @@
+---
+
+### Visit Information:
+- **Patient Number:** 1000000040
+- **Visit Date:** 08/14/2007
+
+---
+
+### Subjective:
+This is a follow-up visit for a 16-year-old Black male who has been a patient at our clinic for approximately 10 years. The patient and his mother, both English speakers, report numerous health concerns. The primary complaint involves recurrent sore throat episodes, particularly acute pharyngitis, which have significantly increased in frequency. The patient experienced eleven instances of sore throat over the past year, described by pain, low-grade fever, and difficulty swallowing. Over-the-counter analgesics like acetaminophen have been partially effective, but symptoms recur frequently.
+
+The patient also has recurring ear inflammation, diagnosed previously as acute suppurative otitis media, observable in the past year with symptoms like ear pain and discharge. Despite multiple antibiotic courses, the response has been inconsistent.
+
+Additionally, the patient expresses feelings of sadness and difficulty concentrating, indicative of a major depressive disorder. These symptoms have impacted his interest in school and daily activities. Treatment with Bupropion and Zoloft has shown some improvements, but symptoms persist. He denies any non-medication allergies and adverse reactions to current medications.
+
+---
+
+### Objective:
+- **Vital Signs:**
+  - Blood Pressure: 112/70 mmHg
+  - Heart Rate: 76 bpm
+  - Respiratory Rate: 18 breaths per minute
+  - Temperature: 36.8°C (98.2°F)
+  - Oxygen Saturation: 99% on room air
+
+- **General Appearance:**
+The patient presents as well-developed and nourished but slightly fatigued and pale. He appears anxious but is cooperative, maintaining proper hygiene and grooming.
+
+- **Cardiovascular:**
+Normal S1 and S2 without any pathological murmurs, rubs, or gallops. Peripheral pulses are well-palpated and symmetrical.
+
+- **Respiratory:**
+Clear to auscultation bilaterally with no adventitious sounds. Respiratory effort is unlabored.
+
+- **Abdomen:**
+Soft and non-tender with no palpable masses or hepatosplenomegaly. Normal bowel sounds are heard across all quadrants.
+
+- **Musculoskeletal:**
+No joint deformities, swelling, or tenderness. Full range of motion in all major joints.
+
+- **Neurological:**
+Alert and oriented to time, place, and person. Cranial nerves II-XII are intact. Motor strength is 5/5 bilaterally in both upper and lower extremities. Sensation is intact throughout.
+
+- **Skin:**
+Normal with adequate turgor. No rashes, lesions, or cyanosis noted.
+
+---
+
+### Assessment:
+1. **Recurrent Acute Pharyngitis:**
+   - Recurrent instances likely of both viral and bacterial origin.
+2. **Recurrent Acute Suppurative Otitis Media:**
+   - Multiple ear infections with partial success from antibiotic therapy.
+3. **Major Depressive Disorder, Recurrent:**
+   - Persistent depressive symptoms despite current medication regimen.
+
+---
+
+### Plan:
+1. **Recurrent Acute Pharyngitis:**
+   - Perform throat culture and rapid antigen detection tests to identify Streptococcus species.
+   - Advise warm saline gargles and continuation of acetaminophen for symptomatic relief.
+   - Schedule consultation with an ENT specialist given the recurrent nature of symptoms.
+
+2. **Recurrent Acute Suppurative Otitis Media:**
+   - Prescribe targeted antibiotics based on current culture results.
+   - Discuss potential benefits and risks of tympanostomy tube placement with an ENT specialist.
+   - Reinforce ear hygiene education to prevent recurrent infections.
+
+3. **Major Depressive Disorder, Recurrent:**
+   - Continue current medications: Bupropion Hydrochloride 100mg and Zoloft 25mg.
+   - Schedule regular psychiatric follow-up for medication adjustment and therapy.
+   - Encourage participation in supportive school activities and family discussions to address social and academic concerns.
+
+4. **Follow-Up:**
+   - Monitor symptoms, with instructions to contact the clinic if conditions worsen or do not improve within a week.
+   - Schedule follow-up visit in two weeks for re-evaluation and potential adjustments in therapy.
+   - Educate patient and family regarding the importance of adhering to medications and attending follow-up visits.
+
+Instruct the patient on symptom monitoring and provide emergency contact information for any urgent issues.
+
+---

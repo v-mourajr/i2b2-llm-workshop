@@ -1,0 +1,48 @@
+Visit Information:
+- Patient Num: 1000000076
+- Visit Date: 07/18/2007
+
+Subjective:
+This is a 60-year-old Black male who speaks German and has been receiving care at our clinic for approximately seven years for asthma management. He presents today for a follow-up visit, reporting an increase in asthma symptoms, including cough and dyspnea. These symptoms have persisted for the past several months, peaking with the recent change in weather and exposure to allergens such as dust and pollen. His usage of the rescue inhaler has consequently increased. 
+
+Alongside his asthma, he experiences seasonal allergic rhinitis, characterized by nasal congestion and sneezing, which worsens during pollen-heavy periods. His medical history includes extrinsic asthma with acute exacerbations and anaphylactic reactions to unspecified food triggers, as well as an incident of angioneurotic edema.
+
+He is currently on an inhaled corticosteroid and a short-acting beta-agonist for his asthma, with occasional use of antihistamines for allergies. The patient does not take herbal supplements, denies smoking, and drinks alcohol in moderation. There have been no new allergies reported since his last visit. His respiratory symptoms predominantly flare up during physical exertion and in colder temperatures, causing moderate distress. He continues to avoid secondhand smoke in his living environment.
+
+Objective:
+Vital signs today are: Blood Pressure 135/82 mmHg, Heart Rate 92 bpm, Respiratory Rate 22 breaths per minute, Temperature 98.7°F, and Oxygen Saturation 94% on room air.
+- General Appearance: The patient appears well-nourished, alert, and oriented, without acute distress.
+- Cardiovascular: Regular heart rate and rhythm, no murmurs, gallops, or rubs.
+- Respiratory: Bilateral wheezes are present on auscultation, especially during expiration. Mild retractions are noted. No crackles or rhonchi are heard.
+- Abdomen: The abdomen is soft and non-tender with normal bowel sounds.
+- Musculoskeletal: No joint swelling or deformities. Full range of motion in all extremities, albeit with reported tenderness, particularly in the lower limbs.
+- Neurological: Patient is alert and oriented to person, place, and time. Cranial nerves II-XII are intact. Motor and sensory functions are grossly normal.
+- Skin: Clear, with no rashes, lesions, or signs of cyanosis.
+
+Laboratories of note within the past few months include:
+- WBC, RBC, HGB, HCT, MCV, MCH, MCHC levels continue to be within normal ranges.
+- Slightly elevated AST and ALT suggesting mild hepatic involvement, but not attributable to current medication.
+
+Assessment:
+The patient has a primary diagnosis of asthma, unspecified without status asthmaticus. There is evidence of chronic cough and dyspnea, likely secondary to poorly controlled asthma and allergic rhinitis. Other pertinent diagnoses include extrinsic asthma with acute exacerbations and anaphylactic reactions to food allergens, along with allergic rhinitis of various etiologies, and associated respiratory complications.
+
+Plan:
+1. Asthma and Respiratory Issues:
+   - Continue current use of inhaled corticosteroid (increase frequency as needed during acute episodes).
+   - Maintain use of short-acting beta-agonist (rescue inhaler), counsel on proper use and frequency.
+   - Introduce a long-acting beta-agonist if control remains suboptimal.
+   - Educate on peak flow monitoring for self-management of asthma.
+   - Schedule spirometry to measure and monitor lung function.
+   - Consider referral to a pulmonologist for specialized management.
+
+2. Allergic Rhinitis:
+   - Maintain antihistamines as required.
+   - Start nasal corticosteroids if symptoms prevail, consider an allergy evaluation for specific trigger identification.
+   - Review and adjust allergen exposure mitigation strategies.
+
+3. General Management:
+   - Recommend use of a humidifier to help with cough.
+   - Address lower limb pain with physical therapy evaluation if it continues to present a significant issue.
+
+Follow-Up:
+The patient is instructed to contact the clinic if asthma symptoms worsen or fail to improve within a week. A follow-up appointment is set for three months to evaluate asthma management, therapeutic adjustments, and overall symptomatology. The patient has understood and agrees with the management plan, including recognizing signs of exacerbation and ensuring proper medication adherence.

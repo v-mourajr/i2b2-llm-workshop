@@ -1,0 +1,68 @@
+Please note: In all sections below, include details only if they can be inferred from the ICD9, NDC, or LOINC codes provided in the patient summary; otherwise, leave blank.
+
+Visit Information:
+    - Patient Num: 1000000111
+    - Visit Date: February 14, 2007
+
+Subjective:
+This is a 47-year-old Black male who presents for a follow-up visit regarding his chronic asthma. He reports experiencing frequent episodes of wheezing, chest tightness, and dyspnea, which are particularly troublesome at night. These symptoms worsen when exposed to strong odors, cold air, and dust from his construction work. Despite adhering to a daily low-dose inhaled corticosteroid and using albuterol as needed, he continues to struggle with nocturnal asthma symptoms.
+
+Additionally, the patient mentions dealing with episodes of allergic rhinitis, which manifest as nasal congestion and sneezing, mainly during spring and fall. His medical history includes acute upper respiratory infections and unspecified allergies. He lives alone, does not smoke or use other substances, and has no known medication or food allergies. He has a history of cardiac dysrhythmia, hyperlipidemia, hypertension, and hypothyroidism, all of which are being managed with medication.
+
+Medications:
+The patient is currently on a low-dose inhaled corticosteroid and albuterol for asthma. He also takes Axid Pulvules 300mg for other medical conditions.
+
+Social History:
+The patient works in construction, which exposes him to dust and other respiratory irritants. He does not smoke or consume alcohol, and he lives a generally active lifestyle.
+
+Symptom Details:
+His respiratory symptoms include wheezing that is exacerbated by environmental triggers. The allergic rhinitis episodes lead to nasal congestion and sneezing, impacting his quality of life during specific seasons.
+
+Additional Narrative:
+The patient has tried non-pharmacological interventions such as using a humidifier and wearing masks at work to mitigate symptoms, but the efficacy has been limited.
+
+Objective:
+Vital Signs:
+    - Blood Pressure: 130/85 mmHg
+    - Heart Rate: 78 beats per minute
+    - Respiratory Rate: 20 breaths per minute
+    - Temperature: 98.4°F
+    - Oxygen Saturation: 95% on room air
+
+General Appearance:
+The patient appears well-nourished and is in no acute distress. He is alert and oriented.
+
+Cardiovascular:
+Heart sounds are normal with a regular rate and rhythm; no murmurs, rubs, or gallops detected.
+
+Respiratory:
+Breath sounds are slightly diminished at the bases with occasional wheezing on expiration. There is no use of accessory muscles, and the patient shows symmetrical diaphragmatic movement.
+
+Abdomen:
+The abdomen is soft and non-tender with no palpable masses; bowel sounds are normal.
+
+Musculoskeletal:
+No joint swelling or deformities; full range of motion in all extremities.
+
+Neurological:
+Cranial nerves II-XII are intact; reflexes are normal, and there are no focal neurological deficits.
+
+Skin:
+Skin is warm, dry, and without lesions or rashes.
+
+Lab Results:
+Recent comprehensive metabolic panels, including tests for blood urea nitrogen, creatinine, glucose, and electrolytes, are within normal limits. Complete blood count results, including hemoglobin, hematocrit, and white blood cells, are also normal.
+
+Assessment:
+The patient is diagnosed with chronic intermittent asthma, which is currently not well-controlled at night. Exposure to environmental irritants at his construction job continues to provoke symptoms. He also has coexisting allergic rhinitis. His medical history includes cardiac dysrhythmia, hyperlipidemia, hypertension, and hypothyroidism.
+
+Plan:
+1. Continue the low-dose inhaled corticosteroid regimen and albuterol for as-needed relief.
+2. Educate the patient on proper inhaler technique and the use of a spacer to enhance medication delivery.
+3. Initiate a leukotriene receptor antagonist to address persistent nocturnal symptoms.
+4. Advise avoidance of known respiratory triggers and recommend the use of protective gear such as masks or respirators at work.
+5. Schedule a follow-up appointment in 4-6 weeks to reassess asthma control and consider further management adjustments.
+6. Instruct the patient to monitor his symptoms and contact the clinic if there is no improvement within a week, if symptoms worsen, or if new respiratory difficulties arise.
+
+Follow-Up:
+The patient was educated about the importance of adherence to the prescribed medications and avoidance of triggers. He expressed understanding and agreement with the management plan. Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.

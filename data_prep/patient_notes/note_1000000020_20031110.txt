@@ -1,0 +1,73 @@
+**Visit Information:**
+- Patient Num: 1000000020
+- Visit Date: 11/10/2003
+
+**Subjective:**
+This is a 47-year-old Black male who speaks English and has been receiving care at our clinic for several years, presenting today for a follow-up visit regarding his asthma management. He reports increased shortness of breath and wheezing, primarily occurring at night over the past week. The patient also notes persistent nasal congestion and itchy eyes, attributing these symptoms to his chronic allergic rhinitis. He complains of general fatigue and occasional chest tightness but denies any fever or productive cough.
+
+He has a well-documented history of asthma, allergic rhinitis, and a nonspecific allergy. His current medications include albuterol as a rescue inhaler, Klonopin for anxiety, and over-the-counter antihistamines for allergy management. He mentions that while his medications have been somewhat effective, environmental allergens like pollen have recently exacerbated his symptoms.
+
+The patient lives alone and works in construction, which subjects him to dust and other potential asthma triggers. He does not smoke, consumes alcohol occasionally, and is unaware of any medication allergies.
+
+**Objective:**
+- **Vital Signs:**
+    - Blood Pressure: 130/78 mmHg
+    - Heart Rate: 80 beats per minute
+    - Respiratory Rate: 20 breaths per minute
+    - Temperature: 98.7°F
+    - Oxygen Saturation: 95% on room air
+
+- **General Appearance:**
+    The patient appears moderately distressed due to respiratory discomfort but remains alert, oriented, and in no acute distress otherwise.
+
+- **Cardiovascular:**
+    Normal S1 and S2 heart sounds with no murmurs, rubs, or gallops detected.
+
+- **Respiratory:**
+    Auscultation reveals bilateral expiratory wheezes, more pronounced in the lower lung fields. No retractions or cyanosis were observed.
+
+- **Abdomen:**
+    The abdomen is soft and non-tender with normoactive bowel sounds.
+
+- **Musculoskeletal:**
+    Full range of motion in all extremities with no joint swelling or deformity noted.
+
+- **Neurological:**
+    Cranial nerves II through XII are intact. There are no focal neurological deficits.
+
+- **Skin:**
+    An erythematous maculopapular rash is present on both arms, likely secondary to an allergic reaction. The skin is otherwise warm and dry, without signs of infection.
+
+**Assessment:**
+1. Asthma, likely exacerbated by recent environmental triggers.
+2. Allergic rhinitis, contributing to nasal congestion and eye symptoms.
+3. Nonspecific allergic rash, possibly related to an environmental allergen or a known allergen.
+4. General fatigue, likely secondary to asthma and allergy symptoms.
+5. Anxiety state, currently managed with Klonopin.
+
+**Plan:**
+1. **Asthma:**
+    - Continue the use of albuterol inhaler as needed.
+    - Introduce a daily maintenance inhaler containing inhaled corticosteroids (e.g., fluticasone) to improve overall asthma control.
+    - Review and reinforce the asthma action plan, including peak flow monitoring and recognizing signs for emergent care.
+    - Schedule a follow-up in one month to reassess asthma control and adjust treatment if necessary.
+
+2. **Allergic Rhinitis:**
+    - Continue the current use of fluticasone propionate nasal spray.
+    - Maintain over-the-counter antihistamines as needed for symptom control.
+    - Encourage the patient to minimize exposure to known allergens, employ air purifiers, and adopt avoidance measures.
+
+3. **Rash:**
+    - Prescribe a topical corticosteroid (e.g., hydrocortisone cream) to be applied to the affected areas.
+    - Educate the patient on identifying and avoiding potential allergens.
+    - Monitor for improvement and have a follow-up in two weeks, or sooner if symptoms worsen.
+
+4. **Additional Diagnostic Tests:**
+    - Perform comprehensive blood tests, including cholesterol, glucose, and liver function tests, to monitor chronic conditions and the effects of current medications.
+
+**Follow-Up:**
+- The patient was instructed to contact the clinic if his asthma symptoms do not improve within a week, or if the rash worsens or shows signs of infection.
+- A follow-up appointment is planned in one month to review overall progress and adjust treatments accordingly.
+- Provided education on peak flow monitoring and advised when to seek immediate medical attention.
+
+The patient was thoroughly informed about his treatment plan, the importance of medication adherence, and necessary environmental alterations to reduce allergen exposure. All questions were answered, and the patient expressed a clear understanding of the next steps in his care.

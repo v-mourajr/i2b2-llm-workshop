@@ -1,0 +1,17 @@
+demographics
+patient_num: 1000000112  age: 6
+patient_num: 1000000112  sex: M
+patient_num: 1000000112  race: black
+patient_num: 1000000112  language: spanish
+patient_num: 1000000112  vital_status: alive
+patient_num: 1000000112  earliest fact: May 13 1998 12:00AM
+patient_num: 1000000112  latest fact: Nov 20 1998 12:00AM
+patient_num: 1000000112  range in days: 191
+totals
+patient_num: 1000000112  distinct concepts: 3
+patient_num: 1000000112  total facts: 4
+patient_num: 1000000112  total encounters: 4
+descriptive
+patient_num: 1000000112  diagnosis code: ICD9:474.12  name: Hypertrophy of adenoids alone  count: 2
+patient_num: 1000000112  diagnosis code: ICD9:385.83  name: Retained foreign body of middle ear  count: 1
+patient_num: 1000000112  diagnosis code: ICD9:382.9  name: Unspecified otitis media  count: 1

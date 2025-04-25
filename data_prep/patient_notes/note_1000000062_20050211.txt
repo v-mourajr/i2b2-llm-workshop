@@ -1,0 +1,38 @@
+**Visit Information:**
+- Patient Number: 1000000062
+- Visit Date: February 11, 2005
+
+**Subjective:**
+This is a 35-year-old White male who speaks English, presenting to the clinic today for a follow-up concerning his chronic asthma management. He has been experiencing worsening asthma symptoms, including frequent wheezing, chest tightness, and shortness of breath, particularly at night and early morning. These episodes have been partially alleviated by his short-acting beta-agonist (SABA) inhaler, but the relief is temporary, prompting him to seek further evaluation and treatment adjustment.
+
+The patient has a significant medical history that includes chronic asthma (unspecified without mention of status asthmaticus), chronic pharyngitis, unspecified chronic sinusitis, abnormal weight loss, and ongoing dyspnea. He has been adherent to his prescribed inhaled corticosteroid and uses a SABA as needed for acute symptomatic relief. There has been no record of any surgeries.
+
+The patient's lifestyle is generally healthy; he does not smoke, drink alcohol, or use recreational drugs. He works as a graphic designer, an occupation that does not expose him to respiratory hazards. He lives alone and manages his daily activities independently. To manage his condition, he uses an air purifier and avoids known allergens, yet his symptoms persist, causing him considerable discomfort and disrupted sleep.
+
+**Objective:**
+On examination today, the patient appears well-groomed and in no acute distress, with a clear orientation to person, time, and place. Vital signs are as follows: Blood Pressure 120/80 mmHg, Heart Rate 78 bpm, Respiratory Rate 18 breaths/min, Temperature 98.6°F, and Oxygen Saturation at 98% on room air.
+
+- **Cardiovascular:** Regular heart rate and rhythm without murmurs, rubs, or gallops.
+- **Respiratory:** Bilateral expiratory wheezes noted without crackles or rhonchi. Mild intercostal retractions visible upon deep inhalation.
+- **Abdomen:** Soft, non-tender, with normal bowel sounds.
+- **Musculoskeletal:** Full range of motion and no joint deformities or tenderness observed.
+- **Neurological:** Alert and oriented. Cranial nerves II-XII intact. Motor strength 5/5 in all extremities.
+- **Skin:** Normal skin turgor, no rashes or lesions observed.
+
+Recent laboratory results, inclusive of a complete blood count (CBC) with hemoglobin, hematocrit, and total cell counts, are within normal limits.
+
+**Assessment:**
+- Primary diagnosis: Chronic asthma (unspecified type without status asthmaticus) with recent exacerbation possibly linked to environmental factors or current medication regimen's suboptimal efficacy.
+- Secondary diagnoses: Chronic pharyngitis, unspecified chronic sinusitis, abnormal weight loss, and dyspnea.
+
+**Plan:**
+1. Adjust asthma management plan by increasing the dose of the inhaled corticosteroid and introducing a long-acting beta-agonist (LABA) for maintenance alongside the current corticosteroid regimen.
+2. Provide thorough education on proper inhaler usage and enforce avoiding known asthma triggers.
+3. Schedule a follow-up appointment in one month to reassess symptoms and the effectiveness of the modified asthma management plan.
+4. Order spirometry to evaluate lung function and the impact of the medication adjustments.
+5. Consider pulmonology referral if there is no notable improvement or if symptoms continue to escalate.
+6. Advise the patient to keep a daily peak expiratory flow rate diary for tracking lung function and identifying early signs of exacerbation.
+7. Offer educational resources on asthma management and strategies to improve indoor air quality and reduce symptom triggers.
+
+**Follow-Up:**
+Instruct the patient to contact the clinic if symptoms worsen, persist unimproved within a week, or if test outcomes suggest further evaluation is necessary. Reiterate the importance of medication adherence and accurate inhaler use. A return visit is scheduled for one month, with earlier follow-up advised if required.

@@ -1,0 +1,25 @@
+demographics
+patient_num: 1000000029  age: 14
+patient_num: 1000000029  sex: M
+patient_num: 1000000029  race: hispanic
+patient_num: 1000000029  language: english
+patient_num: 1000000029  vital_status: alive
+patient_num: 1000000029  earliest fact: Apr  8 1998 12:00AM
+patient_num: 1000000029  latest fact: Jul 14 1998 12:00AM
+patient_num: 1000000029  range in days: 97
+totals
+patient_num: 1000000029  distinct concepts: 20
+patient_num: 1000000029  total facts: 30
+patient_num: 1000000029  total encounters: 4
+descriptive
+patient_num: 1000000029  diagnosis code: ICD9:296.20  name: Major depressive disorder, single episode, unspecified degree  count: 2
+patient_num: 1000000029  diagnosis code: ICD9:298.9  name: Unspecified psychosis  count: 1
+patient_num: 1000000029  laboratory code: LOINC:2093-3  name: Cholesterol (Group:CHOL)  count: 1
+patient_num: 1000000029  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 1
+patient_num: 1000000029  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 1
+patient_num: 1000000029  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 1
+patient_num: 1000000029  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 1
+patient_num: 1000000029  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 1
+patient_num: 1000000029  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 1
+patient_num: 1000000029  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 1
+patient_num: 1000000029  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 1

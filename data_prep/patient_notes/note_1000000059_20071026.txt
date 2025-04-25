@@ -1,0 +1,42 @@
+Visit Information:
+    - Patient Num: 1000000059
+    - Visit Date: 10/26/2007
+
+Subjective:
+This is a 33-year-old Hispanic male, primarily German-speaking, who has been under our care for approximately ten years. He presents today for a follow-up visit focusing on asthma management. The patient reports persistent shortness of breath and episodes of wheezing, which are exacerbated by exposure to dust and alleviated by the use of his albuterol inhaler. His asthma is currently managed with albuterol sulfate taken as needed and Pulmicort Turbuhaler. He also takes Zoloft for recurrent major depressive disorder, and Kenalog-40 injections periodically for inflammation. 
+
+His past medical history is notable for asthma, which has been managed with minimal acute exacerbations. He underwent a biopsy and excision of a benign neoplasm on his right upper limb. Other significant medical history includes hyperlipidemia, acute pharyngitis, esophageal reflux, and occasional bouts of depression. He denies any known allergies to medications, foods, or environmental factors.
+
+Social history reveals that the patient leads a sedentary lifestyle owing to his desk job. He lives alone, does not smoke, and consumes alcohol only on social occasions. There have been no significant changes in his condition since the last visit. 
+
+Objective:
+- Vital Signs:
+  - Blood Pressure: 120/78 mmHg
+  - Heart Rate: 72 bpm
+  - Respiratory Rate: 18 breaths per minute
+  - Temperature: 97.9°F
+  - Oxygen Saturation: 98% on room air
+
+- General Appearance: Patient appears well-nourished, well-developed, and in no acute distress.
+- Cardiovascular: Regular rate and rhythm with no murmurs, gallops, or rubs.
+- Respiratory: Clear to auscultation bilaterally, no adventitious sounds except for mild wheezing noted on forced expiration.
+- Abdomen: Soft and non-tender, without organomegaly or masses.
+- Musculoskeletal: Full range of motion in all extremities. Healed surgical scar on the right upper limb without signs of infection or inflammation.
+- Neurological: Alert and oriented. Cranial nerves II-XII intact.
+- Skin: Well-healed surgical scar on the right upper arm; no new lesions or abnormalities observed.
+
+Assessment:
+- Primary Diagnosis: Asthma, unspecified without mention of status asthmaticus. The patient is managing symptoms effectively with albuterol and Pulmicort, but occasional wheezing and dyspnea persist.
+- Secondary Diagnoses:
+  - Benign neoplasm of soft tissue, previously excised from the right upper limb.
+  - Major depressive disorder, recurrent episode, adequately managed with Zoloft.
+  - Hyperlipidemia, under monitoring and dietary management.
+
+Plan:
+1. Asthma Management: Continue albuterol sulfate as needed and Pulmicort Turbuhaler. Consider an inhaled corticosteroid for better asthma control if current symptoms persist. Reinforce the importance of avoiding dust and other known triggers, and review the proper inhaler technique with the patient.
+2. Neoplasm Monitoring: Continue monitoring the excision site for signs of infection or recurrence. Schedule a follow-up with oncology for further evaluation and potential imaging studies as needed. Routine blood tests, including complete blood count (CBC) and liver function tests (LFTs), will be conducted to monitor overall health.
+3. Depressive Disorder: Continue Zoloft at the current dosage. Monitor for any mood changes or side effects. Schedule routine follow-ups with mental health services as necessary.
+4. Lifestyle Modification: Encourage the patient to incorporate moderate physical activity into his daily routine to improve overall health and potentially aid in managing hyperlipidemia.
+5. Follow-Up Care: Instruct the patient to seek medical attention if asthma symptoms worsen or are not relieved by the inhaler, or if he notices any signs of infection at the surgical site. Schedule a follow-up appointment in three months to reassess asthma management and review any changes related to the neoplasm.
+
+The patient has been educated on his asthma action plan and recognizes the importance of immediate medical attention in cases of severe asthma exacerbations. All instructions were clearly explained, and the patient acknowledged understanding of the provided care plan.

@@ -1,0 +1,55 @@
+### Visit Information:
+- Patient Num: 1000000059
+- Visit Date: 04/09/1998
+
+### Subjective:
+This is a 24-year-old Hispanic male who has been receiving care at our clinic for asthma management. Although his primary language is German, he communicates effectively in the clinical setting. He presents today for a follow-up visit, primarily to address his asthma symptoms and to review the outcome of a recent biopsy of a soft tissue lesion.
+
+The patient reports experiencing shortness of breath and wheezing, which has been consistent over the last few weeks. He identifies exposure to dust as an aggravating factor and mentions that using his rescue inhaler provides some relief. His asthma has been managed with albuterol as needed, and he is compliant with medication use.
+
+In his past medical history, the patient has a recent diagnosis of an unspecified neoplasm involving soft tissue and skin, which warranted a biopsy and excision of the lesion in his upper limb. He denies any significant surgical history.
+
+He has not taken any herbal supplements and denies any known allergies. He works a desk job and lives alone, maintaining a relatively sedentary lifestyle. He does not smoke or use alcohol excessively. He has been diligent about avoiding asthma triggers and is actively engaged in managing his condition. 
+
+### Objective:
+- **Vital Signs**:
+  - Blood Pressure: 120/80 mmHg
+  - Heart Rate: 72 bpm
+  - Respiratory Rate: 16 breaths per minute
+  - Temperature: 98.4°F
+  - Oxygen Saturation: 98% on room air
+
+- **General Appearance**: The patient appears well-nourished and in no acute distress.
+- **Cardiovascular**: Regular rate and rhythm without murmurs, gallops, or rubs.
+- **Respiratory**: Clear to auscultation bilaterally with mild wheezing noted on forced expiration. No rales or rhonchi.
+- **Abdomen**: Soft, non-tender, no organomegaly.
+- **Musculoskeletal**: Normal range of motion, no joint deformities. Noted scar from recent excision on the right upper arm, healing well.
+- **Neurological**: No focal deficits. Cranial nerves II-XII intact.
+- **Skin**: Scar on right upper arm from recent lesion excision; no new lesions or rashes.
+
+### Assessment:
+- **Primary Diagnosis**: Asthma, unspecified without mention of status asthmaticus
+  - The patient continues to experience symptoms consistent with asthma, including shortness of breath and wheezing.
+  
+- **Secondary Diagnoses**: 
+  - Recent biopsy and excision of lesion due to unspecified neoplasm of the upper limb's soft tissue.
+  - Benign connective and other soft tissue neoplasm in the right upper limb. 
+
+### Plan:
+1. **Asthma Management**:
+   - Continue current albuterol inhaler as needed.
+   - Consider adding a low-dose inhaled corticosteroid if symptoms persist.
+   - Patient education on avoiding triggers and proper inhaler technique.
+
+2. **Follow-up on Neoplasm**:
+   - Monitor the surgical site for signs of infection or poor healing.
+   - Referrals to oncology for further evaluation and potential imaging studies if necessary.
+   - Ensure recent laboratory tests, including complete blood count (CBC) and liver function tests (LFTs), are reviewed and within normal limits.
+
+3. **Lifestyle and Symptom Management**:
+   - Encouraged to engage in mild to moderate physical activity as tolerated.
+   - Advised to monitor symptoms and seek immediate care if experiencing significant worsening, including increased shortness of breath, chest pain, or recurrent wheezing not responsive to the inhaler.
+
+The patient was instructed to contact the clinic if symptoms worsen or do not improve within a week, or if there are any signs of infection, especially at the biopsy site. The next appointment is scheduled for a three-month follow-up visit to reassess asthma management and review any new developments related to the neoplasm. 
+
+**Patient Education**: The patient demonstrated understanding of his asthma action plan and the importance of consistent medication use. He was informed about the signs and symptoms of an asthma exacerbation that would necessitate urgent medical attention.

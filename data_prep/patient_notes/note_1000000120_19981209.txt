@@ -1,0 +1,55 @@
+Visit Information:
+- Patient Num: 1000000120
+- Visit Date: 12/09/1998
+
+Subjective:
+This is a 25-year-old Hispanic male who presents today for follow-up regarding his asthma and recent hand injury. The patient has a history of unspecified asthma and recently suffered a traumatic amputation of his fingers, leading to multiple complications and surgical interventions. He reports that his asthma symptoms are well-controlled with his current medication regimen. However, he is currently experiencing significant pain and limited mobility in his right hand following his recent surgery. The patient has previously undergone arthroplasty, internal fixation, and multiple bone grafts due to the severity of his injury.
+
+He is currently taking albuterol as needed for asthma and ibuprofen to manage pain. He reports adhering to his medication plan with no significant side effects. The patient is a non-smoker, lives alone, and works as a manual laborer which adds strain to his injured hand.
+
+Objective:
+Vital Signs:
+- Blood Pressure: 120/78 mmHg
+- Heart Rate: 76 bpm
+- Respiratory Rate: 18 breaths/minute
+- Temperature: 98.6°F
+- Oxygen Saturation: 98% on room air
+
+General Appearance:
+The patient is alert, oriented, and in mild distress due to hand pain.
+
+Cardiovascular:
+Heart sounds are normal with a regular rate and rhythm. No murmurs, gallops, or rubs noted.
+
+Respiratory:
+Breath sounds are clear bilaterally with no wheezes, rales, or rhonchi. The patient demonstrates good air movement with no use of accessory muscles.
+
+Abdomen:
+Soft, non-tender, non-distended with normal bowel sounds in all quadrants.
+
+Musculoskeletal:
+Examination of the right hand reveals significant swelling and tenderness. There is a noticeable deformity due to the traumatic amputation, and recent surgical scars are healing well. Limited range of motion noted. No signs of infection present.
+
+Neurological:
+Cranial nerves II-XII intact. Sensation and motor strength are decreased in the injured right hand.
+
+Skin:
+The skin on the rest of the body is clear with no rashes or lesions. The surgical scars on the hand are clean, dry, and show no signs of infection.
+
+Assessment:
+The patient’s primary diagnosis remains asthma, unspecified without mention of status asthmaticus, which is well-controlled with current medication. Secondary diagnoses include the extensive history of hand injuries and complications such as traumatic amputation and multiple surgeries including bone grafting and arthroplasty.
+
+Plan:
+1. Asthma:
+   - Continue current albuterol as needed for acute symptoms.
+   - Educate the patient on potential triggers and the importance of adherence to medication.
+2. Hand Injury:
+   - Continue with ibuprofen for pain management.
+   - Referral to orthopedic specialist for evaluation of hand surgery outcomes and consideration for physical therapy to improve function and mobility.
+   - Suggest occupational therapy to help the patient adapt to his work with the limitation in hand function.
+3. Follow-up:
+   - Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if signs of infection develop.
+   - Schedule follow-up in 2 weeks to reassess hand function and any ongoing issues related to asthma.
+
+Patient Education & Understanding of the Plan:
+The patient verbalizes understanding of his treatment plan, including the importance of medication adherence for asthma management and attending scheduled follow-ups for hand evaluation. He understands the need to report any worsening symptoms or new concerns promptly.

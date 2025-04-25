@@ -1,0 +1,59 @@
+Visit Information:
+    - Patient Num: 1000000051
+    - Visit Date: 06/05/2010
+
+Subjective:
+This is a 43-year-old Asian male who has been receiving care at our clinic for approximately 10 years, presenting today for a follow-up visit focusing primarily on managing his asthma, which has shown recent signs of worsening. He speaks English fluently and is actively involved in managing his asthma condition. Over the past two weeks, he has experienced escalating asthma symptoms, characterized by increased shortness of breath, wheezing, and chest tightness, predominantly on exertion. His symptoms are aggravated by cold air, dust, and smoke exposure, common in his urban living environment. He has been utilizing his albuterol inhaler, which provides temporary relief, but the relief is not sustained. The patient also reports recent episodes of self-resolving diarrhea and believes a mild upper respiratory infection may be exacerbating his asthma.
+
+His past medical history includes asthma, two significant episodes of pleurisy without effusion, pneumonia, a deviated nasal septum surgically corrected via septoplasty and turbinectomy, allergic rhinitis, and chronic sinusitis with nasal polyps. The patient denies any drug allergies. His social history includes occasional alcohol consumption and no history of smoking or illicit drug use.
+
+Current medications include albuterol sulfate 4mg tablets for asthma, beclomethasone aerosol for maintenance, fexofenadine 180mg tablets for allergies, mometasone furoate lotion for skin conditions, and ibuprofen 200mg tablets for occasional joint pain. He is compliant with his medication regimen and has not reported any significant side effects.
+
+Objective:
+Vital Signs:
+  - Blood Pressure: 118/76 mmHg
+  - Heart Rate: 82 bpm
+  - Respiratory Rate: 22 breaths per minute
+  - Temperature: 98.8°F
+  - Oxygen Saturation: 94% on room air
+
+General Appearance: The patient appears alert, oriented, in mild respiratory distress, with some use of accessory muscles for breathing.
+
+Cardiovascular: Heart sounds are normal with no murmurs. Peripheral pulses are strong and symmetrical.
+
+Respiratory: Diffuse wheezing is audible upon auscultation, more pronounced in the lower lung fields. Breath sounds are diminished at the bases without crackles or rhonchi.
+
+Abdomen: Soft and non-tender with normal bowel sounds. No hepatosplenomegaly noted.
+
+Musculoskeletal: No abnormalities observed, full range of motion present, no tenderness or swelling.
+
+Neurological: Patient is alert and oriented, exhibiting no focal deficits.
+
+Skin: Skin is warm, dry, without rashes or lesions.
+
+Laboratory Data:
+Recent liver function tests including ALT, AST, and bilirubin have shown occasional mild elevations but are presently stable.
+
+Assessment:
+The patient primarily has asthma without status asthmaticus. Secondary conditions include a history of pleurisy and pneumonia, which may contribute to his ongoing respiratory challenges. Additionally, he has chronic sinusitis and post-surgical deviations of the nasal septum, which could be exacerbating his pulmonary symptoms. His recent upper respiratory infection is likely worsening his asthma. The intermittent diarrhea has resolved and likely does not impact his overall health.
+
+Plan:
+1. Asthma Management:
+   - The patient should continue using albuterol for immediate symptom relief.
+   - A long-acting inhaled corticosteroid will be initiated to achieve better long-term asthma control.
+   - A short course of oral corticosteroids may be considered to manage acute exacerbations.
+
+2. Investigations:
+   - Schedule pulmonary function tests, including spirometry and vital capacity measurements, to quantify current asthma control and lung function.
+   - A chest X-ray is advised to check for any residual infections or complications from previous pneumonia or pleurisy.
+
+3. Referrals:
+   - Refer to a pulmonologist for specialized asthma management and evaluation of any chronic issues.
+
+4. Patient Education and Monitoring:
+   - Review and reinforce proper inhaler techniques and ensure adherence to the prescribed medication regimen.
+   - Emphasize avoiding known asthma triggers and encourage ongoing symptom monitoring.
+   - Instruct the patient to contact the clinic if symptoms worsen or do not improve with the new treatment plan within one week or if diagnostic results suggest further evaluation is needed.
+
+Follow-Up:
+   - Schedule a follow-up appointment in two weeks to reassess symptom control, review test results, and adjust treatment as necessary. Ensure continuous monitoring and support for managing his chronic asthma.

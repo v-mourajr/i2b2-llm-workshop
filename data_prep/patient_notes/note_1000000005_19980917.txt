@@ -1,0 +1,71 @@
+**Visit Information:**
+- Patient Num: 1000000005  
+- Visit Date: 09/17/1998  
+
+**Subjective:**
+This is a 29-year-old Hispanic female who speaks English and has been receiving care at our clinic. She presents today for the follow-up of her chronic asthma, which has been exacerbating recently, especially in response to environmental allergens and changes in weather. She reports increased episodes of shortness of breath and wheezing, particularly at night, and a non-productive cough persisting over the past week. She has been using her albuterol inhaler more frequently, with partial relief.
+
+In addition to asthma, the patient has a history of recurrent respiratory infections. She takes a daily combination inhaler (fluticasone/salmeterol) and uses albuterol as a rescue inhaler. She reports compliance with her medication regimen, though the need for increased use of her rescue inhaler indicates suboptimal control. She denies any recent hospitalizations for asthma exacerbations.
+
+She has no known allergies and has not undergone any previous surgeries. The patient lives with her parents and works as a cashier, which requires her to stand for long periods and engage with many people, potentially increasing her exposure to various respiratory irritants. She is a non-smoker and denies alcohol or illicit drug use.
+
+**Objective:**
+- **Vital Signs:**
+    - Blood Pressure: 118/76 mmHg
+    - Heart Rate: 82 bpm
+    - Respiratory Rate: 20 breaths per minute
+    - Temperature: 98.4°F (36.9°C)
+    - Oxygen Saturation: 95% on room air
+
+- **General Appearance:**
+The patient appears well-nourished and in no acute distress but shows mild tachypnea and is using accessory muscles slightly for breathing.
+
+- **Cardiovascular:**
+Heart sounds are regular with no murmurs, gallops, or rubs noted. Capillary refill time is less than 2 seconds.
+
+- **Respiratory:**
+On auscultation, the patient demonstrates bilateral wheezing, which is more pronounced in the lower lobes. There is no presence of rales or rhonchi. The air entry is slightly diminished bilaterally. 
+
+- **Abdomen:**
+The abdomen is soft, non-tender, non-distended, and bowel sounds are present in all four quadrants.
+
+- **Musculoskeletal:**
+No joint swelling or deformities are noted. The patient does not have any tenderness to palpation in the spine or extremities.
+
+- **Neurological:**
+Cranial nerves II-XII are grossly intact. The patient demonstrates normal muscle tone and strength in all extremities. Reflexes are 2+ and symmetrical.
+
+- **Skin:**
+Clear without rashes, lesions, or bruising.
+
+**Assessment:**
+- **Primary Diagnosis:**
+   Chronic asthma with current exacerbation.
+   
+- **Secondary Diagnoses:**
+   - Recurrent respiratory infections.
+   - Routine urinalysis abnormalities (amorph crystals, bacteria, bilirubin, casts, and protein presence) may need further evaluation to rule out underlying urinary tract issues or systemic causes.
+
+**Plan:**
+1. **Asthma Management:**
+    - Continue current inhaler regimen: fluticasone/salmeterol.
+    - Reinforce the use of albuterol as a rescue inhaler, limiting to acute episodes.
+    - Add a short course of oral corticosteroids (prednisone) for 5 days to manage this exacerbation.
+    - Consider increasing the dose of fluticasone/salmeterol if symptoms persist after the course of steroids.
+
+2. **Follow-Up Testing:**
+    - Perform spirometry to assess current lung function.
+    - Order a chest X-ray to rule out any infectious or structural abnormalities secondary to asthma exacerbations.
+
+3. **Referral:**
+    - Refer to a pulmonologist for further evaluation and management of asthma if no improvement is observed in the follow-up visit.
+
+4. **Lifestyle and Education:**
+    - Advise the patient to avoid known triggers, including dust, smoke, strong odors, and pets.
+    - Educate the patient on proper inhaler techniques to ensure maximum efficacy.
+    - Instruct on identifying signs of an asthma attack and when to seek emergency care.
+
+**Follow-Up:**
+- Instructions for emergent follow-up care or monitoring: Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.
+- Follow up for persistent, changing, or worsening symptoms: Schedule a follow-up appointment in 2 weeks to evaluate response to treatment and adjust the plan as necessary.
+- Patient education & understanding of the plan: The patient confirms understanding of the current treatment plan, including medication adjustments, follow-up testing, and avoidance of triggers.

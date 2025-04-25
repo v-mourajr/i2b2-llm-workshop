@@ -1,0 +1,61 @@
+### Visit Information:
+- **Patient Number**: 1000000069
+- **Visit Date**: December 27, 2001
+
+### Subjective:
+The patient is a 33-year-old Black male who primarily speaks Spanish. He has been receiving care at our clinic for several years and presents today for a follow-up visit. He has a known history of asthma and reports experiencing recurrent episodes of wheezing, shortness of breath, and chest tightness. These symptoms have worsened over the past week, particularly during physical activities. He has been consistent with his asthma regimen, which includes the use of both short-acting beta-agonists (SABA) and inhaled corticosteroids (ICS), however, he finds minimal relief from these medications recently.
+
+Additionally, the patient reports persistent abdominal pain of an unspecified location which has been occurring intermittently. The pain is described as dull, without any clear exacerbating or alleviating factors, and does not accompany nausea or vomiting. No significant changes in bowel habits are noted.
+
+Furthermore, the patient has a history of several recurrent conditions including alopecia and intermittent episodes of acute bronchitis and pharyngitis, contributing to his overall health status. He has also experienced backaches and occasional headaches.
+
+### Objective:
+- **Vital Signs**:
+  - Blood Pressure: 122/80 mmHg
+  - Heart Rate: 85 bpm
+  - Respiratory Rate: 26 breaths/min
+  - Temperature: 98.4°F
+  - Oxygen Saturation: 94% on room air
+
+- **General Appearance**: The patient is alert and conversant, displaying mild respiratory discomfort but in no acute distress.
+- **Cardiovascular**: Heart sounds are normal with a regular rate and rhythm; no murmurs, gallops, or rubs detected.
+- **Respiratory**: Respiratory examination reveals increased rate and bilateral diffuse wheezing, particularly on expiration. No crackles or rhonchi noted, and air movement is symmetric.
+- **Abdomen**: Soft, non-tender, non-distended with normal bowel sounds. No palpable masses or organomegaly.
+- **Musculoskeletal**: No joint swelling or deformities. Full range of motion in all extremities.
+- **Neurological**: The patient is alert, oriented to person, place, and time, with no focal neurological deficits appreciated.
+- **Skin**: Examination reveals a diffuse, erythematous maculopapular rash on the arms and torso, with no vesicles or pustules. The patient denies new product use or known allergen exposure.
+
+Laboratory results from previous visits indicate normal complete blood count and hepatic function tests. An eosinophil count noted to be mildly elevated, consistent with allergic reaction or asthma exacerbation. Other lab results, including renal function tests, blood urea nitrogen, and creatinine, were within normal parameters.
+
+### Assessment:
+- **Primary Diagnosis**: Asthma exacerbation, likely due to suboptimal control despite adherence to current medication regimen.
+- **Secondary Diagnosis**: Erythematous maculopapular rash, likely atopic dermatitis or allergic reaction.
+- **Additional Concerns**: Chronic abdominal pain of unspecified origin; possibly functional or stress-related given the patient's recurrent asthma and potential related stresses.
+
+### Plan:
+1. **Management of Asthma**:
+   - Continue current inhalation therapy with regular monitoring.
+   - Prescribe oral corticosteroids (e.g., prednisone) for 5 days to manage the current exacerbation.
+   - Review and educate on correct inhaler technique. Consider a session with a respiratory therapist for demonstration and reinforcement.
+   - Refer to an allergist for comprehensive allergy testing and management strategies.
+
+2. **Rash**:
+   - Initiate treatment with topical corticosteroids (e.g., hydrocortisone cream) to manage rash inflammation and pruritus.
+   - Instruct the patient to avoid new lotions, soaps, and potential allergens.
+   - Schedule a follow-up in one week for reassessment.
+
+3. **Abdominal Pain**:
+   - Recommend symptomatic treatment with over-the-counter antacids and a dietary consultation to identify potential triggers.
+   - If pain persists or exacerbates, consider further diagnostic imaging such as abdominal ultrasound.
+
+4. **General Care Instructions**:
+   - Advise the patient to monitor symptoms closely and contact the clinic if respiratory distress worsens or if new concerning symptoms develop.
+   - Educate the patient on recognizing early signs of an asthma attack and the importance of emergency treatment.
+
+### Follow-Up:
+- Schedule a follow-up visit in one week to evaluate the patient's response to asthma and rash treatment.
+- Emphasize the importance of compliance with the prescribed treatment regimen and immediate reporting of any adverse effects.
+- Provide education materials on asthma management and discuss lifestyle modifications to avoid triggers.
+
+**Patient Education**:
+The patient verbalized understanding of the treatment plan, including medication use, emergency symptoms, and follow-up care. Ensure patient feels comfortable with the action plan and understands the need for continuous and proactive asthma management measures.

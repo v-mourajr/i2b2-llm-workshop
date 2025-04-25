@@ -1,0 +1,106 @@
+demographics
+patient_num: 1000000004  age: 29
+patient_num: 1000000004  sex: M
+patient_num: 1000000004  race: black
+patient_num: 1000000004  language: english
+patient_num: 1000000004  vital_status: alive
+patient_num: 1000000004  earliest fact: Nov 20 2000 12:00AM
+patient_num: 1000000004  latest fact: Nov 15 2004 12:00AM
+patient_num: 1000000004  range in days: 1456
+totals
+patient_num: 1000000004  distinct concepts: 99
+patient_num: 1000000004  total facts: 337
+patient_num: 1000000004  total encounters: 44
+patient_num: 1000000004  total asthma: 10
+descriptive
+patient_num: 1000000004  asthma code: ICD9:493.9  name: Asthma, unspecified  count: 1
+patient_num: 1000000004  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 10
+patient_num: 1000000004  diagnosis code: ICD9:789.0  name: Abdominal pain  count: 1
+patient_num: 1000000004  diagnosis code: ICD9:789.06  name: Abdominal pain, epigastric  count: 1
+patient_num: 1000000004  diagnosis code: ICD9:789.01  name: Abdominal pain, right upper quadrant  count: 1
+patient_num: 1000000004  diagnosis code: ICD9:919.0  name: Abrasion or friction burn of other, multiple, and unspecified sites, without mention of infection  count: 1
+patient_num: 1000000004  diagnosis code: ICD9:466.0  name: Acute bronchitis  count: 1
+patient_num: 1000000004  diagnosis code: ICD9:462  name: Acute pharyngitis  count: 1
+patient_num: 1000000004  diagnosis code: ICD9:465.9  name: Acute upper respiratory infections of unspecified site  count: 2
+patient_num: 1000000004  diagnosis code: ICD9:309.28  name: Adjustment reaction with mixed emotional features  count: 2
+patient_num: 1000000004  diagnosis code: ICD9:305.00  name: Alcohol abuse, unspecified drinking behavior  count: 1
+patient_num: 1000000004  diagnosis code: ICD9:477.9  name: Allergic rhinitis, cause unspecified  count: 2
+patient_num: 1000000004  diagnosis code: ICD9:493.9  name: Asthma, unspecified  count: 1
+patient_num: 1000000004  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 10
+patient_num: 1000000004  diagnosis code: ICD9:305.20  name: Cannabis abuse, unspecified use  count: 1
+patient_num: 1000000004  diagnosis code: ICD9:305.60  name: Cocaine abuse, unspecified use  count: 1
+patient_num: 1000000004  diagnosis code: ICD9:780.3  name: Convulsions  count: 3
+patient_num: 1000000004  diagnosis code: ICD9:110.9  name: Dermatophytosis of unspecified site  count: 1
+patient_num: 1000000004  diagnosis code: ICD9:847.2  name: Lumbar sprain  count: 1
+patient_num: 1000000004  diagnosis code: ICD9:787.01  name: Nausea with vomiting  count: 1
+patient_num: 1000000004  diagnosis code: ICD9:V04.8  name: Need for prophylactic vaccination and inoculation against influenza  count: 1
+patient_num: 1000000004  diagnosis code: ICD9:V06.9  name: Need for prophylactic vaccination with unspecified combined vaccine  count: 1
+patient_num: 1000000004  diagnosis code: ICD9:793.2  name: Nonspecific abnormal findings on radiological and other examination of other intrathoracic organs  count: 1
+patient_num: 1000000004  diagnosis code: ICD9:473.8  name: Other chronic sinusitis  count: 1
+patient_num: 1000000004  diagnosis code: ICD9:786.09  name: Other dyspnea and respiratory abnormality  count: 2
+patient_num: 1000000004  diagnosis code: ICD9:E812.1  name: Other motor vehicle traffic accident involving collision with motor vehicle injuring passenger in motor vehicle other than motorcycle  count: 1
+patient_num: 1000000004  diagnosis code: ICD9:V20.2  name: Routine infant or child health check  count: 2
+patient_num: 1000000004  diagnosis code: ICD9:309.9  name: Unspecified adjustment reaction  count: 4
+patient_num: 1000000004  diagnosis code: ICD9:629.9  name: Unspecified disorder of female genital organs  count: 1
+patient_num: 1000000004  diagnosis code: ICD9:786.07  name: Wheezing  count: 2
+patient_num: 1000000004  medication code: NDC:00088110947  name: Allegra 180mg tablet extended release Aventis Pharmaceuticals  count: 4
+patient_num: 1000000004  medication code: NDC:00088109047  name: Allegra-D 60mg-120mg tablet extended release Aventis Pharmaceuticals  count: 3
+patient_num: 1000000004  medication code: NDC:50458022304  name: Nizoral Topical 2% shampoo Janssen Pharmaceuticals  count: 4
+patient_num: 1000000004  medication code: NDC:00173044100  name: Zantac 1 mg/ml solution Glaxo Wellcome  count: 3
+patient_num: 1000000004  laboratory code: LOINC:704-7  name: Abs Basos Auto (Group:ABASOS)  count: 4
+patient_num: 1000000004  laboratory code: LOINC:711-2  name: Abs EOS Auto (Group:AEOS)  count: 4
+patient_num: 1000000004  laboratory code: LOINC:731-0  name: Abs Lymphs Auto (Group:ALYMPHS)  count: 4
+patient_num: 1000000004  laboratory code: LOINC:742-7  name: Abs Monos Auto (Group:AMONOS)  count: 4
+patient_num: 1000000004  laboratory code: LOINC:752-6  name: Abs Neuts Auto (Group:ANEUTS)  count: 4
+patient_num: 1000000004  laboratory code: LOINC:1751-7  name: Albumin (Group:ALB)  count: 2
+patient_num: 1000000004  laboratory code: LOINC:1742-6  name: ALT (SGPT) (Group:SGPT)  count: 1
+patient_num: 1000000004  laboratory code: LOINC:10466-1  name: Anion Gap (Group:ANION)  count: 1
+patient_num: 1000000004  laboratory code: LOINC:702-1  name: Anisocytosis (Group:ANISO)  count: 2
+patient_num: 1000000004  laboratory code: LOINC:1920-8  name: AST (SGOT) (Group:SGOT)  count: 2
+patient_num: 1000000004  laboratory code: LOINC:735-1  name: Atypical Lymphs (Group:ATYPS)  count: 2
+patient_num: 1000000004  laboratory code: LOINC:764-1  name: Bands - Manual (Group:BAND)  count: 2
+patient_num: 1000000004  laboratory code: LOINC:706-2  name: Basophils - Auto (Group:BASOS)  count: 5
+patient_num: 1000000004  laboratory code: LOINC:707-0  name: Basophils - Manual (Group:BASO)  count: 2
+patient_num: 1000000004  laboratory code: LOINC:3094-0  name: Blood Urea Nitrogen (Group:BUN)  count: 3
+patient_num: 1000000004  laboratory code: LOINC:14815-5  name: Calculated LDL (Group:LDLCAL)  count: 1
+patient_num: 1000000004  laboratory code: LOINC:2028-9  name: Carbon Dioxide (Group:CO2)  count: 3
+patient_num: 1000000004  laboratory code: LOINC:2075-0  name: Chloride (Group:CL)  count: 3
+patient_num: 1000000004  laboratory code: LOINC:2093-3  name: Cholesterol (Group:CHOL)  count: 1
+patient_num: 1000000004  laboratory code: LOINC:2160-0  name: Creatinine (Group:CRE)  count: 3
+patient_num: 1000000004  laboratory code: LOINC:X2012-1  name: Differential Request (Group:DIFFR)  count: 1
+patient_num: 1000000004  laboratory code: LOINC:1968-7  name: Direct Bilirubin (Group:DBILI)  count: 4
+patient_num: 1000000004  laboratory code: LOINC:713-8  name: Eosinophils - Auto (Group:EOS)  count: 5
+patient_num: 1000000004  laboratory code: LOINC:714-6  name: Eosinophils - Manual (Group:EO)  count: 2
+patient_num: 1000000004  laboratory code: LOINC:4537-7  name: ESR (Group:ESR)  count: 1
+patient_num: 1000000004  laboratory code: LOINC:2336-6  name: Globulin (Group:GLOB)  count: 1
+patient_num: 1000000004  laboratory code: LOINC:6777-7  name: Glucose (Group:GLU)  count: 2
+patient_num: 1000000004  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 6
+patient_num: 1000000004  laboratory code: LOINC:2086-7  name: HDL (Group:HDL)  count: 1
+patient_num: 1000000004  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 6
+patient_num: 1000000004  laboratory code: LOINC:2462-0  name: IgE (Group:IGE)  count: 1
+patient_num: 1000000004  laboratory code: LOINC:2532-0  name: LDH (Group:LDH)  count: 2
+patient_num: 1000000004  laboratory code: LOINC:736-9  name: Lymphocytes - Auto (Group:LYMPHS)  count: 5
+patient_num: 1000000004  laboratory code: LOINC:737-7  name: Lymphocytes - Manual (Group:LYMPH)  count: 2
+patient_num: 1000000004  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 6
+patient_num: 1000000004  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 6
+patient_num: 1000000004  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 6
+patient_num: 1000000004  laboratory code: LOINC:5905-5  name: Monocytes - Auto (Group:MONOS)  count: 5
+patient_num: 1000000004  laboratory code: LOINC:744-3  name: Monocytes - Manual (Group:MONO)  count: 2
+patient_num: 1000000004  laboratory code: LOINC:770-8  name: Neutrophils - Auto (Group:POLYS)  count: 5
+patient_num: 1000000004  laboratory code: LOINC:769-0  name: Neutrophils - Manual (Group:POLY)  count: 2
+patient_num: 1000000004  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 6
+patient_num: 1000000004  laboratory code: LOINC:9317-9  name: PLT Estimate (Group:PLTEST)  count: 2
+patient_num: 1000000004  laboratory code: LOINC:10378-8  name: Polychromasia (Group:POLYCH)  count: 1
+patient_num: 1000000004  laboratory code: LOINC:2823-3  name: Potassium (Group:K)  count: 3
+patient_num: 1000000004  laboratory code: LOINC:5902-2  name: PT (Group:PT)  count: 2
+patient_num: 1000000004  laboratory code: LOINC:6301-6  name: PT-INR (Group:PT-INR)  count: 1
+patient_num: 1000000004  laboratory code: LOINC:5898-2  name: PTT (Group:PTT)  count: 2
+patient_num: 1000000004  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 6
+patient_num: 1000000004  laboratory code: LOINC:11273-0  name: RBC Morph Auto (Group:RCM-A)  count: 1
+patient_num: 1000000004  laboratory code: LOINC:788-0  name: RDW (Group:RDW)  count: 6
+patient_num: 1000000004  laboratory code: LOINC:2951-2  name: Sodium (Group:NA)  count: 3
+patient_num: 1000000004  laboratory code: LOINC:1975-2  name: Total Bilirubin (Group:TBILI)  count: 4
+patient_num: 1000000004  laboratory code: LOINC:2885-2  name: Total Protein (Group:TP)  count: 1
+patient_num: 1000000004  laboratory code: LOINC:2571-8  name: Triglycerides (Group:TRIG)  count: 1
+patient_num: 1000000004  laboratory code: LOINC:2092-5  name: VLDL (Group:VLDL)  count: 1
+patient_num: 1000000004  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 6

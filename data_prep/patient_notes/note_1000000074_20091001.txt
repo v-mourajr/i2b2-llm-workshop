@@ -1,0 +1,62 @@
+**Visit Information:**
+- Patient Num: 1000000074
+- Visit Date: 10/01/2009
+
+**Subjective:**
+
+This is a 47-year-old Hispanic female who has been receiving care at our clinic for approximately 12 years, primarily for the management of her asthma. She presents today for a follow-up visit, reporting persistent issues with asthma despite adherence to her medication regimen. Over the past two weeks, she has experienced frequent episodes of dyspnea, wheezing, and chest tightness, noting that she has had to use her albuterol rescue inhaler several times daily. She denies any recent upper respiratory infections or particular allergen exposures but mentions increased stress due to her teaching job. The patient has also been experiencing more frequent migraines and neck pain, which she attributes to her long work hours and non-ergonomic workstation setup. She adheres to a regular medication schedule including Albuterol Sulfate, Flovent, Serevent Diskus, and intermittently uses Codeine Phosphate-Guaifenesin for cough and Benzonatate as needed. In terms of lifestyle, she is a non-smoker, does not consume alcohol, and uses air purifiers and dust mite covers to manage her allergic rhinitis. She has no known drug allergies.
+
+**Objective:**
+
+- **Vital Signs:**
+  - Blood Pressure: 128/84 mmHg
+  - Heart Rate: 78 bpm
+  - Respiratory Rate: 22 breaths/min
+  - Temperature: 98.7°F
+  - Oxygen Saturation: 94% on room air
+- **General Appearance:** The patient appears anxious but is otherwise well-nourished and cooperative. Mild respiratory distress is noted, with some use of accessory muscles during breathing.
+- **Cardiovascular:** Heart sounds are normal, without murmurs, rubs, or gallops. Peripheral pulses are intact and equal bilaterally.
+- **Respiratory:** Bilateral diffuse expiratory wheezes are present on auscultation, with evident prolonged expiratory phase. There is some use of accessory muscles during inspiration. No crackles or rhonchi are heard.
+- **Abdomen:** The abdomen is soft, non-tender, with normal bowel sounds. There are no masses or organomegaly.
+- **Musculoskeletal:** The patient demonstrates tenderness and mild spasm along the cervical spine with a full range of motion. No deformities or misalignments are noted.
+- **Neurological:** The patient is alert and oriented to person, place, and time. Cranial nerves II to XII are intact. Motor strength and sensation are normal in all extremities.
+- **Skin:** Skin exam is unremarkable; no rashes or lesions are present.
+
+**Assessment:**
+
+- **Primary Diagnosis:** Asthma, unspecified type, with acute exacerbation, moderate severity.
+- **Secondary Diagnoses:**
+  - Allergic rhinitis due to other allergens
+  - Acute upper respiratory infections of unspecified site
+  - Chronic cervicalgia
+  - Classical migraine without intractable migraine
+  - Acquired kyphosis
+  - Recurrent neck sprains
+
+**Plan:**
+
+1. **Asthma Management:**
+   - Increase the dosage of inhaled corticosteroids, specifically adjusting the current Flovent dosage.
+   - Instruct the patient to continue using the Albuterol inhaler for acute symptoms but limit its use by improving baseline control with Flovent and Serevent Diskus.
+   - Consider adding a leukotriene receptor antagonist, such as montelukast, if there is no improvement within two weeks.
+   - Referral to a pulmonologist for further asthma management.
+   - Advise on the importance of flu vaccination and pneumococcal vaccination to prevent respiratory infections that could exacerbate asthma.
+
+2. **Allergic Rhinitis:**
+   - Continue with current antihistamines.
+   - Recommend the use of intranasal corticosteroids to better control symptoms.
+   - Ensure follow-up with an allergist for potential immunotherapy assessment.
+
+3. **Cervicalgia and Neck Sprains:**
+   - Maintain the current regimen of muscle relaxants.
+   - Referral to physical therapy to develop an ergonomic exercise program aimed at strengthening neck and shoulder muscles.
+   - Advise ergonomic adjustments at her workstation to reduce neck strain.
+
+4. **Classical Migraines:**
+   - Continue current abortive migraine treatments.
+   - If migraine frequency increases, consider a preventive medication regimen.
+   - Encourage the patient to keep a headache diary to track the triggers and frequency of headaches.
+
+**Follow-Up:**
+
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate the need for further evaluation. Reassess the patient's asthma control and overall health in two weeks to monitor the effectiveness of the increased dosage of asthma medications. The patient was educated on recognizing the signs of severe asthma exacerbation and the importance of seeking immediate medical attention when necessary.

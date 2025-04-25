@@ -1,0 +1,62 @@
+Visit Information:
+    - Patient Num: 1000000041
+    - Visit Date: 10/20/2009
+
+This is a 17-year-old Hispanic male who has been receiving care at our clinic for approximately 11 years. He speaks English and presents today for a routine follow-up for his asthma management.
+
+Subjective:
+The patient reports an increase in coughing and wheezing, more pronounced during physical exertion and when exposed to cold air over the past week. He experienced one significant episode of nighttime shortness of breath which was managed effectively with his rescue inhaler, albuterol. His mother reports good adherence to his prescribed medications. However, she is concerned about the recent increase in symptoms, despite their control regime which includes albuterol as needed, montelukast daily, and a fluticasone inhaler twice daily. The patient has not had any recent episodes of bronchitis or pneumonia.
+
+The patient’s gastrointestinal history is uneventful as he has not experienced recurrent episodes of gastroenteritis or abdominal pain. He continues to live in a smoke-free environment with his family, who are diligent in avoiding asthma triggers such as pets and smoke. There are no known drug allergies. 
+
+His symptoms started about a week ago with an increased cough, particularly during and after physical activities. Despite a slight reduction in nighttime coughing, it continues to disturb his sleep. His mother uses a cold mist humidifier and maintains high hydration to alleviate his symptoms. He has not exhibited any fever, change in appetite, or weight loss.
+
+Objective:
+Vital Signs:
+- Blood Pressure: 110/70 mmHg
+- Heart Rate: 96 bpm
+- Respiratory Rate: 22 breaths per minute
+- Temperature: 98.4°F
+- Oxygen Saturation: 98% on room air
+
+General Appearance: The patient appears well-developed, well-nourished, alert, and oriented, with no signs of distress.
+
+Cardiovascular: The examination reveals a regular rate and rhythm, without murmurs, gallops, or rubs.
+
+Respiratory: There is mild to moderate expiratory wheezing noted bilaterally. There are no signs of retractions, nasal flaring, or the use of accessory muscles. Lung fields are clear to percussion, although there is a slightly increased anteroposterior diameter indicating chronic airway changes.
+
+Abdomen: The abdomen is non-distended, soft, and non-tender with normal bowel sounds.
+
+Musculoskeletal: The patient demonstrates a full range of motion in all extremities with no tenderness in spine or hips.
+
+Neurological: The patient is alert and oriented. Cranial nerves II-XII are intact, and he exhibits appropriate developmental milestones with no focal deficits observed.
+
+Skin: The skin is warm and dry with no rashes or lesions.
+
+Assessment:
+The patient’s primary diagnosis remains asthma, unspecified without status asthmaticus. Current symptoms suggest an exacerbation without acute infection. There are no signs of bronchitis or pneumonia at this time. Gastrointestinal complaints remain stable, with no new gastrointestinal symptoms.
+
+Plan:
+1. Asthma
+    - Continue montelukast daily and fluticasone inhaler twice daily.
+    - Increase albuterol as needed every 4-6 hours for wheezing and shortness of breath.
+    - Educate on using scarves or masks in cold conditions to prevent symptom exacerbation.
+    - Continue using a cold mist humidifier at night and encourage hydration.
+
+2. Preventive measures for bronchitis/pneumonia
+    - Emphasize proper hand hygiene and infection control practices.
+    - Provide education on recognizing early respiratory infection signs and establish an action plan for such events.
+
+3. Overall well-being
+    - Encourage maintenance of a smoke-free environment and avoidance of known asthma triggers.
+    - Reinforce medication adherence and the importance of routine follow-up visits.
+    - Offer reassurances and thorough education regarding asthma management.
+
+Follow-Up:
+- The patient and family were instructed to contact the clinic if symptoms worsen or do not improve within a week. 
+- A follow-up visit is scheduled in 4 weeks or sooner if symptoms increase in severity.
+
+Patient Education & Understanding of the Plan:
+The patient's mother demonstrated comprehension of the treatment adjustments and the emergency action plan. She acknowledges the necessity of monitoring symptoms and following the prescribed steps for symptom escalation. Educational materials regarding asthma management and trigger avoidance were reviewed and provided. 
+
+The patient and his family appear well-educated on his condition and understand the ongoing care requirements.

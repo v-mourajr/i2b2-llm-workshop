@@ -1,0 +1,46 @@
+#### Patient Information:
+- **Patient Number**: 1000000111
+- **Visit Date**: October 20, 2004
+
+#### Subjective:
+This is a 44-year-old Black male presenting for follow-up of his chronic asthma, last reviewed on November 16, 2001. He reports continued recurrent episodes of wheezing, chest tightness, and dyspnea, especially at night. These episodes are often triggered by exposure to strong odors, cold air, and the dust associated with his construction work. Despite using a daily low-dose inhaled corticosteroid and as-needed albuterol, he continues to experience nocturnal symptoms and considers his asthma not fully controlled.
+
+The patient also mentions intermittent episodes of allergic rhinitis, characterized by nasal congestion and sneezing, which occur mainly during the spring and fall. He denies recent respiratory infections but has a history of acute upper respiratory infections and unspecified allergic reactions. He lives alone, denies smoking or substance abuse, and adheres to his medication regimen. He has no known medication or food allergies.
+
+#### Objective:
+**Vital Signs:**
+- **Blood Pressure**: 132/86 mmHg
+- **Heart Rate**: 80 beats per minute
+- **Respiratory Rate**: 18 breaths per minute
+- **Temperature**: 98.7°F
+- **Oxygen Saturation**: 96% on room air
+
+**General Appearance:** The patient is alert, oriented, and in no apparent distress. He appears well-nourished and well-groomed.
+
+**Cardiovascular:** Regular heart rate and rhythm, no murmurs, rubs, or gallops detected.
+
+**Respiratory:** Bilateral breath sounds are present with occasional expiratory wheezing, particularly at the bases. No use of accessory muscles is noted; diaphragmatic movement is symmetrical.
+
+**Abdomen:** Soft, non-tender, no masses or organomegaly; normal bowel sounds auscultated.
+
+**Musculoskeletal:** No joint swelling or deformities observed. Full range of motion in all limbs.
+
+**Neurological:** No focal deficits noted; cranial nerves II-XII are intact, reflexes are normal and symmetric.
+
+**Skin:** Skin appears warm and dry with no lesions, rashes, or cyanosis.
+
+**Recent Lab Results:** Prior lab results, including comprehensive metabolic panels (Amylase, Blood Urea Nitrogen, CO2, Chloride, Creatinine, Glucose) and complete blood count components (HCT, HGB, MCH, MCHC, MCV, PLT, Potassium, RBC, Sodium, WBC), remain within normal limits.
+
+#### Assessment:
+The patient is diagnosed with chronic intermittent asthma, experiencing mild to moderate nocturnal exacerbations. His occupational exposure to dust and irritants from his work in construction is a significant contributing factor. He also presents with allergic rhinitis and a history of acute upper respiratory infections. Although currently on a low-dose inhaled corticosteroid and albuterol, his persistent symptoms suggest that his asthma is not optimally controlled.
+
+#### Plan:
+1. Continue the inhaled corticosteroid at the current dosage and albuterol as needed for symptom relief.
+2. Educate the patient on the proper use of a spacer device with his inhaler to improve medication delivery.
+3. Begin a trial of a leukotriene receptor antagonist to address nocturnal symptoms.
+4. Advise the patient on the importance of avoiding known triggers, particularly in the workplace. Recommend the use of protective masks or respirators to reduce inhalation of dust and particulate matter.
+5. Arrange a follow-up appointment in 4-6 weeks to reassess asthma control and make necessary adjustments to the management plan.
+6. Instruct the patient to monitor his symptoms closely and to contact the clinic if he experiences a significant worsening of symptoms, no improvement within a week, or any new breathing difficulties.
+
+#### Follow-Up:
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. Patient education on the importance of medication adherence and trigger avoidance was provided, and the patient expressed understanding and agreement with the management plan.

@@ -1,0 +1,51 @@
+**Visit Information:**
+    - Patient Num: 1000000101
+    - Visit Date: 02/17/2004
+
+**Subjective:**
+This is a 54-year-old Asian male who speaks Spanish and has been receiving care at our clinic for various musculoskeletal issues for several years. The patient presents today for a follow-up regarding persistent musculoskeletal discomfort, including lower back pain, hip pain, and occasional neck pain. The patient describes his lower back pain as a dull, persistent ache that is exacerbated in the mornings and with prolonged sitting. He experiences sharp, radiating neck pain that often travels to his shoulders, aggravated by certain movements. Additionally, he reports persistent hip pain, which worsens with weight-bearing activities.
+
+His past medical history is significant for multiple musculoskeletal disorders, including disorders of bone and cartilage, benign neoplasms of the pelvis, lumbar and cervical sprains, and chronic osteoarthrosis involving the pelvic region and thigh. The patient also has a history of a lumbar sprain and a previous contusion of the hip. He underwent an excision of an intervertebral disc in the past.
+
+Medications currently include acetaminophen for pain management and a daily multivitamin. He denies any known allergies and is not currently using any herbal supplements. Socially, the patient reports leading a sedentary lifestyle primarily due to his chronic pain. He is a non-smoker and denies alcohol use.
+
+**Objective:**
+Vital Signs:
+- Blood Pressure: 140/85 mmHg
+- Heart Rate: 78 bpm
+- Respiratory Rate: 16 breaths per minute
+- Temperature: 98.6°F
+- Oxygen Saturation: 98% on room air
+
+The patient appears well-nourished and in mild distress, primarily due to pain. On cardiovascular exam, the heart sounds are normal, with no murmurs, gallops, or rubs. The respiratory examination reveals clear breath sounds bilaterally, with no wheezing or crackles. The abdominal examination is unremarkable, with a soft, non-tender abdomen and no organomegaly.
+
+The musculoskeletal examination shows tenderness over the lower lumbar spine and pelvic region, with a noticeable reduction in the range of motion in the lumbar spine. Palpation of the hip joints elicits pain, and the cervical spine is tender with normal but painful motion on rotation. 
+
+The neurological examination is normal, without any focal deficits. Skin examination does not reveal any abnormalities.
+
+Laboratory findings are as follows:
+- Erythrocyte Sedimentation Rate (ESR): Normal
+- Complete Blood Count (CBC): Hemoglobin, Hematocrit, White Blood Cell Count, and Platelets are within normal limits.
+- Blood Urea Nitrogen (BUN): Normal
+- Electrolytes (Na, K, Cl, CO2): Normal
+- Calcium, Phosphorus, Magnesium: Normal
+- Urinalysis: Specific Gravity, pH, Glucose, Ketones, Protein, Bilirubin, and Urobilinogen: Normal
+
+**Assessment:**
+1. Chronic lower back pain, likely related to osteoarthrosis and prior lumbar sprain.
+2. Persistent hip pain, exacerbated by previous contusion and current osteoarthrosis.
+3. Chronic neck pain, primarily musculoskeletal in nature.
+
+**Plan:**
+1. Continue the current regimen with acetaminophen. Consider adjusting the dosage if pain control remains inadequate.
+2. Refer the patient to physical therapy, focusing on core strengthening exercises and mobility enhancement for the lower back and hips.
+3. Prescribe NSAIDs to help manage pain and inflammation, with instructions to monitor for gastrointestinal side effects.
+4. Order a comprehensive metabolic panel (CMP) and repeat ESR to rule out any underlying inflammatory conditions.
+5. Schedule a follow-up appointment in 6 weeks to reassess symptom management and response to therapy.
+6. Educate the patient on adhering to physical therapy exercises and promoting an active lifestyle within his tolerance limits. Advise avoiding prolonged sitting and to take regular breaks.
+
+**Patient Education & Understanding of the Plan:**
+The patient has been instructed on the importance of adhering to the physical therapy regimen, medication schedule, and lifestyle changes. He understands to take NSAIDs with food to minimize gastrointestinal discomfort and is aware of the treatment plan. He is also instructed to contact the clinic if his symptoms worsen or if they do not improve, or if test results indicate further evaluation is needed.
+
+**Follow-Up:**
+The patient is scheduled for a follow-up visit in 6 weeks for reevaluation. Adjustments to the treatment plan, including potential imaging studies, will be considered based on his progress and the persistence of symptoms.

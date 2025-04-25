@@ -1,0 +1,87 @@
+### Visit Information:
+- Patient Num: 1000000040
+- Visit Date: 09/03/1997
+
+---
+
+### Subjective:
+This is a 7-year-old Black male who presents today, September 3, 1997, for evaluation and follow-up care. The patient has been under our clinic's care for the past 5 days and is here for a routine check-up. The child speaks English fluently and is accompanied by his mother during the visit.
+
+- **Chief Complaints & History of Present Illness:**
+The primary reason for today's visit is abdominal pain that has persisted for the past three days. The mother reports that the pain is diffuse, occurring intermittently throughout the day, and has not been associated with any specific food intake. There has been no vomiting, but the child has displayed a reduced appetite. Additionally, the mother mentions her son has been more fatigued than usual.
+
+- **Past Medical & Surgical History:**
+The patient has a history of a urinary tract infection a few months prior, which was treated successfully with antibiotics. There are no reported previous surgeries or significant past medical issues.
+
+- **Medications & Supplements:**
+The patient is currently taking a multivitamin supplement daily. No other medications are being taken at this time.
+
+- **Social History:**
+The patient lives with his mother and attends elementary school. He is active in school activities but has had reduced participation recently due to feeling unwell. The household environment is stable with no known stressors.
+
+- **Allergies:**
+No known allergies to medications, foods, or environmental factors have been reported.
+
+- **Symptom Details:**
+The abdominal pain began three days ago and is described as a dull ache with occasional sharper episodes. Pain intensity ranges from mild to moderate. Over-the-counter acetaminophen has been given with partial relief. There have been no changes in bowel habits or urinary frequency.
+
+---
+
+### Objective:
+- **Vital Signs:**
+  - Blood Pressure: 105/70 mmHg
+  - Heart Rate: 88 bpm
+  - Respiratory Rate: 18 breaths per minute
+  - Temperature: 36.8°C (98.2°F)
+  - Oxygen Saturation: 98% on room air
+
+- **General Appearance:**
+The patient appears slightly pale but is in no acute distress. He is alert and oriented, engaging well during the interaction.
+
+- **Cardiovascular:**
+Heart sounds are regular with no murmurs, gallops, or rubs. Peripheral pulses are normal and equal bilaterally.
+
+- **Respiratory:**
+Breath sounds are clear to auscultation bilaterally with no wheezes or crackles. No signs of respiratory distress.
+
+- **Abdomen:**
+The abdomen is soft and non-distended with normal bowel sounds. Mild tenderness is noted upon palpation of the lower quadrants without any guarding or rebound tenderness. No organomegaly is detected.
+
+- **Musculoskeletal:**
+The child demonstrates normal range of motion in all limbs. There is no joint swelling or deformities.
+
+- **Neurological:**
+Cranial nerves II-XII are intact. The patient exhibits normal reflexes and muscle strength. No focal neurological deficits are observed.
+
+- **Skin:**
+Skin examination reveals no rashes or lesions. No signs of jaundice or pallor noted.
+
+---
+
+### Assessment:
+- **Diagnosis or Clinical Impression:**
+1. Abdominal Pain:
+   - Likely secondary to a gastrointestinal etiology, such as a mild gastrointestinal infection or possible dietary intolerance.
+2. Fatigue:
+   - Could be linked to the recent abdominal complaints and decreased food intake.
+3. History of Urinary Tract Infection:
+   - Currently, no signs of recurrence.
+
+---
+
+### Plan:
+1. **Abdominal Pain:**
+   - Conduct a urinalysis to rule out any underlying infection, considering the patient's past medical history.
+   - Recommend avoiding foods that might aggravate symptoms, including high-fat and spicy foods.
+   - Encourage fluids and a bland diet to manage gastro symptoms.
+   - Prescribe acetaminophen for pain as needed.
+
+2. **Fatigue:**
+   - Monitor nutritional intake and provide guidance on maintaining a balanced diet.
+   - Advise on rest and assess participation in activities to manage energy levels.
+
+3. **Follow-Up:**
+   - Follow up in one week to assess symptom progression.
+   - Instruct the patient and mother to return immediately if symptoms worsen, particularly if pain intensifies, vomiting occurs, or notable changes in urinary or bowel habits arise.
+
+Patient education was provided to ensure understanding of the care plan with an emphasis on observing for any worsening symptoms or new developments, prompting immediate clinic contact if such circumstances arise.

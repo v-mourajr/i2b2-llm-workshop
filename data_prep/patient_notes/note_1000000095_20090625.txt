@@ -1,0 +1,65 @@
+This is a 54-year-old Indian male who speaks German and has been a patient at our clinic since September 22, 1997. He presents today, June 25, 2009, for a follow-up appointment primarily to address a recent exacerbation of his asthma.
+
+### Subjective:
+
+The patient reports an exacerbation of his asthma symptoms, including increased wheezing and shortness of breath, which have notably worsened over the past week, particularly at night. Despite using his albuterol inhaler regularly, he feels it has been less effective recently. He has a history of recurrent asthma exacerbations and has been diagnosed with chronic obstructive asthma, extrinsic and intrinsic asthma in the past. Additionally, he reports a past diagnosis of pneumonia and pulmonary eosinophilia, which poses extra challenges to his respiratory health.
+
+The patient’s medical history also includes fractures involving the radius and humerus, and osteoarthrosis affecting his upper arm, which causes chronic joint pain and stiffness. He denies any known drug allergies and has no history of recent infections or injuries.
+
+Medications currently include his albuterol inhaler for asthma and over-the-counter NSAIDs to manage osteoarthrosis pain. He lives with his spouse and two children and works as an engineer. He does not smoke, drink alcohol, or use illicit drugs.
+
+### Objective:
+
+**Vital Signs:**
+- Blood Pressure: 140/90 mmHg
+- Heart Rate: 92 bpm
+- Respiratory Rate: 26 breaths/min
+- Temperature: 98.9°F
+- Oxygen Saturation: 92% on room air
+
+**General Appearance:**
+The patient appears well-nourished but in moderate respiratory distress. He is alert and oriented, breathing laboriously.
+
+**Cardiovascular:**
+Heart sounds are normal without murmurs, gallops, or rubs. Peripheral pulses are strong, and there is no peripheral edema.
+
+**Respiratory:**
+Bilateral wheezing is heard on auscultation, most pronounced in the upper lobes. There is mild intercostal retraction and use of accessory muscles for breathing. No rales or rhonchi are noted.
+
+**Abdomen:**
+The abdomen is soft and non-tender, with normal bowel sounds. There are no palpable masses or hepatosplenomegaly.
+
+**Musculoskeletal:**
+Examination of the upper extremities reveals no deformities or signs of new fractures. There is mild crepitus in the shoulders, and range of motion is slightly restricted, consistent with osteoarthrosis.
+
+**Neurological:**
+The patient displays no focal neurological deficits and is neurologically intact.
+
+**Skin:**
+The skin exam shows no rashes, bruises, or lesions.
+
+### Assessment:
+
+The clinical impression is an exacerbation of asthma, likely triggered by environmental factors or suboptimal adherence to preventive treatment. His history includes diagnoses of pneumonia and pulmonary eosinophilia, and stable osteoarthrosis with a history of fractures.
+
+### Plan:
+
+1. **Asthma Management:**
+   - Increase the frequency of albuterol inhaler use to 2 puffs every 4-6 hours as needed.
+   - Start a low-dose inhaled corticosteroid (ICS) such as fluticasone, to be used daily to manage chronic inflammation.
+   - Provide education on proper inhaler technique and emphasize the importance of strict adherence to daily ICS therapy.
+   - Provide a peak flow meter and educate the patient on how to log daily peak expiratory flow measurements for monitoring.
+   - Schedule a follow-up appointment in 4 weeks to assess asthma control and lung function.
+
+2. **Osteoarthrosis Management:**
+   - Continue NSAIDs for pain relief as required.
+   - Recommend physical therapy designed to improve joint functionality and decrease stiffness.
+   - Consider a referral to a rheumatologist if symptoms persist without improvement.
+
+3. **General Care:**
+   - Review recent laboratory results including liver function tests and a complete blood count, considering the patient’s medication use and comorbid conditions.
+   - Educate the patient on identifying common asthma triggers and strategies to avoid exposure to known allergens and irritants.
+
+### Follow-Up:
+
+Instruct the patient to contact the clinic if symptoms do not improve or worsen within a week, or if test results suggest the need for further evaluation. Emphasize the importance of adhering to the treatment plan to prevent future exacerbations and ensure stable management. Schedule a follow-up appointment in 4 weeks to re-evaluate asthma management and overall health status.

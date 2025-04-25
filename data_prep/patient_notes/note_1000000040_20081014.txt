@@ -1,0 +1,72 @@
+### Visit Information:
+- **Patient Number:** 1000000040
+- **Visit Date:** 10/14/2008
+
+### Subjective:
+The patient is a 19-year-old Black male who has been receiving care at our clinic for approximately 10 years. He speaks English and is accompanied by his mother for this visit. He presents today with complaints of persistent pharyngitis and recurrent ear infections. The patient reports over the past year experiencing frequent episodes of acute pharyngitis characterized by sore throat, low-grade fever, and difficulty swallowing. These episodes have recurred multiple times despite treatment with over-the-counter medications such as acetaminophen, offering only partial relief.
+
+The patient also reports recurrent bouts of acute suppurative otitis media, experiencing symptoms like ear pain and discharge. He describes a fluctuation in response to various courses of antibiotics he has been prescribed, with only temporary resolution of symptoms.
+
+In addition to these acute issues, the patient reports ongoing depressive symptoms. He feels persistently sad, has a diminished ability to concentrate, and exhibits a reduced interest in previously enjoyed activities. These symptoms have significantly impacted his school performance and daily life. The patient has been on Bupropion Hydrochloride and Zoloft, which have helped mitigate some symptoms but the effects seem limited. There are no non-medication allergies or adverse reactions reported to his current medication regimen.
+
+### Objective:
+- **Vital Signs:**
+  - Blood Pressure: 116/74 mmHg
+  - Heart Rate: 78 bpm
+  - Respiratory Rate: 16 breaths per minute
+  - Temperature: 37.1°C (98.8°F)
+  - Oxygen Saturation: 98% on room air
+
+- **General Appearance:**
+The patient appears well-developed and well-nourished, but mildly pale and shows signs of fatigue. He is cooperative and maintains good hygiene.
+
+- **Cardiovascular:**
+Examination reveals normal S1 and S2 heart sounds without any pathologic murmurs, rubs, or gallops. Peripheral pulses are intact and symmetrical.
+
+- **Respiratory:**
+Lungs are clear to auscultation bilaterally. Respiratory effort is normal with no adventitious sounds such as wheezing or crackles.
+
+- **Abdomen:**
+The abdomen is soft without tenderness, and no organomegaly is noted. Bowel sounds are present and normal in all quadrants.
+
+- **Musculoskeletal:**
+Full range of motion is present in all joints without pain, swelling, or deformity.
+
+- **Neurological:**
+The patient is alert and oriented to person, place, and time. Cranial nerves II-XII are intact. Motor strength is 5/5 in all extremities with normal tone and reflexes. Sensory examination is within normal limits.
+
+- **Skin:**
+The skin is intact without any lesions, rashes, or signs of infection. Turgor is good.
+
+### Assessment:
+1. **Recurrent Acute Pharyngitis:**
+   The patient's frequent episodes of pharyngitis are likely of both viral and bacterial etiology given the typical presentation and history.
+
+2. **Recurrent Acute Suppurative Otitis Media:**
+   The history of multiple ear infections despite antibiotic treatment suggests potential complications or resistance.
+
+3. **Major Depressive Disorder, Recurrent:**
+   The patient shows ongoing depressive symptoms that impact daily functioning despite current antidepressant therapy.
+
+### Plan:
+1. **Recurrent Acute Pharyngitis:**
+   - Perform throat culture and rapid antigen testing to identify potential Streptococcal infection.
+   - Advise the patient to continue using acetaminophen for symptom relief and recommend warm saline gargles.
+   - Refer to an ENT specialist for further evaluation given the recurrent nature of symptoms.
+
+2. **Recurrent Acute Suppurative Otitis Media:**
+   - Continue antibiotic therapy tailored based on culture results.
+   - Discuss the potential need for tympanostomy tube placement with an ENT specialist.
+   - Educate on proper ear hygiene to reduce the incidence of recurrent infections.
+
+3. **Major Depressive Disorder, Recurrent:**
+   - Continue the current regimen of Bupropion Hydrochloride 100 mg and Zoloft 25 mg.
+   - Schedule a follow-up with psychiatry for potential medication adjustments and to explore therapeutic options.
+   - Encourage engagement in supportive activities at school and at home to help alleviate depressive symptoms.
+
+### Follow-Up:
+- Instruct the patient to monitor symptoms and contact the clinic if there is no improvement within a week or if symptoms worsen.
+- Arrange a follow-up appointment in two weeks for reassessment and potential modification of treatment plans.
+- Provide patient education on the importance of medication adherence and attendance at follow-up visits. Ensure that the patient and his mother are aware of the signs that would necessitate more urgent care.
+
+The patient and his mother were given detailed instructions and education today and expressed understanding of the plan. They were also provided emergency contact information should urgent needs arise.

@@ -1,0 +1,41 @@
+demographics
+patient_num: 1000000036  age: 37
+patient_num: 1000000036  sex: F
+patient_num: 1000000036  race: black
+patient_num: 1000000036  language: english
+patient_num: 1000000036  vital_status: alive
+patient_num: 1000000036  earliest fact: Oct  6 1997 12:00AM
+patient_num: 1000000036  latest fact: Dec 30 2004 12:00AM
+patient_num: 1000000036  range in days: 2642
+totals
+patient_num: 1000000036  distinct concepts: 34
+patient_num: 1000000036  total facts: 60
+patient_num: 1000000036  total encounters: 18
+patient_num: 1000000036  total asthma: 2
+descriptive
+patient_num: 1000000036  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 2
+patient_num: 1000000036  diagnosis code: ICD9:522.4  name: Acute apical periodontitis of pulpal origin  count: 2
+patient_num: 1000000036  diagnosis code: ICD9:465.9  name: Acute upper respiratory infections of unspecified site  count: 1
+patient_num: 1000000036  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 2
+patient_num: 1000000036  diagnosis code: ICD9:216.5  name: Benign neoplasm of skin of trunk, except scrotum  count: 2
+patient_num: 1000000036  diagnosis code: ICD9:216.9  name: Benign neoplasm of skin, site unspecified  count: 1
+patient_num: 1000000036  diagnosis code: ICD9:472.0  name: Chronic rhinitis  count: 1
+patient_num: 1000000036  diagnosis code: ICD9:780.3  name: Convulsions  count: 3
+patient_num: 1000000036  diagnosis code: ICD9:521.0  name: Dental caries  count: 2
+patient_num: 1000000036  diagnosis code: ICD9:695.4  name: Lupus erythematosus  count: 1
+patient_num: 1000000036  diagnosis code: ICD9:873.42  name: Open wound of forehead, uncomplicated  count: 2
+patient_num: 1000000036  diagnosis code: ICD9:86.3  name: Other local excision or destruction of lesion or tissue of skin and subcutaneous tissue  count: 1
+patient_num: 1000000036  diagnosis code: ICD9:784.9  name: Other symptoms involving head and neck  count: 1
+patient_num: 1000000036  diagnosis code: ICD9:844.8  name: Sprain of other specified sites of knee and leg  count: 2
+patient_num: 1000000036  diagnosis code: ICD9:710.0  name: Systemic lupus erythematosus  count: 1
+patient_num: 1000000036  diagnosis code: ICD9:707.1  name: Ulcer of lower limbs, except decubitus ulcer  count: 1
+patient_num: 1000000036  diagnosis code: ICD9:709.9  name: Unspecified disorder of skin and subcutaneous tissue  count: 1
+patient_num: 1000000036  laboratory code: LOINC:2118-8  name: HCG-Qual (Group:HCG,QL)  count: 1
+patient_num: 1000000036  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 1
+patient_num: 1000000036  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 1
+patient_num: 1000000036  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 1
+patient_num: 1000000036  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 1
+patient_num: 1000000036  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 1
+patient_num: 1000000036  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 1
+patient_num: 1000000036  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 1
+patient_num: 1000000036  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 1

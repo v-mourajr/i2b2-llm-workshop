@@ -1,0 +1,63 @@
+**Visit Information:**
+
+- Patient Num: 1000000003
+- Visit Date: 06/19/2009
+
+**Subjective:**
+
+This is a 42-year-old Asian male who primarily communicates in German. He has been under the care of our clinic since July 31, 1997. Today, he presents for a comprehensive follow-up evaluation regarding chronic neck and lower back pain, as well as persistent sinus and upper respiratory concerns.
+
+The patient reports that his neck pain, which radiates to his shoulders, has been present for several years. The discomfort magnifies with prolonged sitting, especially during computer work, and is somewhat improved with rest, though never completely alleviated. He also describes his lower back pain as a constant, dull ache exacerbated by physical activity.
+
+In addition to these musculoskeletal issues, the patient reports experiencing frequent sinusitis and bouts of pharyngitis characterized by sore throat and general malaise. He also mentions experiencing occasional nasal congestion and discharge, alongside headaches mainly centered around the forehead and cheeks. These episodes generally last for several days and have been recurrent over the past few years.
+
+The patient’s medical history includes well-controlled alopecia and atopic dermatitis, with the latter managed using topical emollients. He has also dealt with instances of viral warts, which are currently inactive. He has no significant surgical history or known drug allergies.
+
+Medications he is currently on include NSAIDs for pain management which provide partial relief, Diastat for temporary anxiety management, Kenalog for atopic dermatitis flare-ups, and occasional use of Zithromax for severe infections. He has been compliant with his medication regimen and reports no adverse effects.
+
+He leads a sedentary lifestyle due to his desk job but engages in social activities. He does not smoke, drinks alcohol socially, and maintains a balanced diet. He lives alone but has a supportive family living nearby. The patient reports a pain severity of 6 out of 10 and states no recent change in condition or new symptoms. Non-pharmacological measures like physical therapy offered only limited short-term relief.
+
+**Objective:**
+
+Vital signs are as follows: blood pressure 125/82 mmHg, heart rate 70 bpm, respiratory rate 18 breaths per minute, temperature 37°C, and oxygen saturation at 99% on room air. 
+
+On general examination, the patient appears well-nourished, alert, and oriented, with no signs of acute distress. Cardiovascular examination reveals a regular rhythm with no murmurs, gallops, or rubs. The respiratory examination shows clear lungs bilaterally without wheezes or crackles.
+
+Abdominal examination reveals a soft, non-tender abdomen without organomegaly, masses, or bruits. The musculoskeletal examination identifies tenderness over the cervical and lumbar spine regions with palpable muscle spasms. The range of motion is limited by pain, particularly noticeable during flexion and extension. No deformities are observed.
+
+Neurological examination shows intact cranial nerves with no focal deficits. Reflexes are symmetric, and both sensory and motor functions are intact. Skin examination indicates no new lesions, signs of active atopic dermatitis, or viral warts.
+
+Recent laboratory tests indicate normal albumin and total protein. Creatinine levels are slightly elevated but stable. Liver function tests, including AST and bilirubin, are within normal limits. Complete blood count and differential are unremarkable, though a repeated differential will be performed to monitor any potential changes.
+
+**Assessment:**
+
+1. Chronic neck and lower back pain, likely due to musculoskeletal strain aggravated by poor ergonomics.
+   - Differential diagnoses include myofascial pain syndrome and degenerative disc disease.
+  
+2. Recurrent sinusitis and pharyngitis, suggestive of chronic upper respiratory tract infections.
+   - Differential includes allergic rhinitis and chronic sinusitis.
+
+3. Alopecia and atopic dermatitis, currently well-controlled.
+   - Differential consists of eczema and contact dermatitis.
+
+**Plan:**
+
+1. Chronic neck and back pain:
+   - Continue NSAIDs for pain relief and consider introducing muscle relaxants for muscle spasms.
+   - Referral to physical therapy for core strengthening and posture correction exercises.
+   - Recommend an ergonomic review of the patient’s workspace to improve posture and reduce strain while working.
+   - Evaluate for potential referral to a pain management specialist if pain persists despite current measures.
+
+2. Recurrent sinusitis and pharyngitis:
+   - Initiate a nasal corticosteroid spray to reduce mucosal inflammation.
+   - Suggest using saline nasal irrigation for symptomatic relief of nasal congestion.
+   - Consider prescribing a course of antibiotics such as Zithromax if bacterial infection is suspected in severe cases.
+   - Plan for ENT referral if symptoms do not improve or recur frequently.
+
+3. Alopecia and atopic dermatitis:
+   - Continue using topical emollients.
+   - Advise avoiding known irritants and continuing the use of hypoallergenic skincare products.
+
+**Follow-Up:**
+
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week or if new symptoms arise. Schedule a follow-up visit in four weeks to reassess his condition and adjust treatment plans accordingly. The patient expressed understanding and agreement with this management plan.

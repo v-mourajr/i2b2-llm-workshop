@@ -1,0 +1,69 @@
+**Visit Information**
+- **Patient Num:** 1000000020
+- **Visit Date:** 04/16/2008
+
+**Subjective:**
+This is a 53-year-old Black male who has been receiving care at our clinic for ten years. He speaks English and currently presents for a follow-up visit related to the management of his asthma and associated conditions. The patient reports experiencing significant shortness of breath, wheezing, and nighttime awakenings over the past week. He also mentions nasal congestion and itchy eyes, which he links to his chronic allergic rhinitis. The patient feels generally fatigued, has intermittent chest tightness, and denies any fever, productive cough, or recent infections. 
+
+His medical history is notable for asthma, allergic rhinitis, an unspecified allergy, and a recent episode of esophageal reflux. His medication regimen includes Albuterol Sulfate as a rescue inhaler, Flonase nasal spray for rhinitis, Allegra for antihistamine coverage, Klonopin for anxiety, Nexium for acid reflux, and Flomax for benign prostatic hypertrophy. Despite adhering to his treatment plan, the patient indicates that environmental allergens such as pollen and dust from his construction job exacerbate his symptoms. Socially, he lives alone, works in construction, does not smoke, drinks alcohol occasionally, and has no known drug allergies.
+
+**Objective:**
+- **Vital Signs:**
+   - Blood Pressure: 130/80 mmHg
+   - Heart Rate: 84 beats per minute
+   - Respiratory Rate: 20 breaths per minute
+   - Temperature: 98.6°F
+   - Oxygen Saturation: 93% on room air
+
+- **General Appearance:**
+   The patient is in mild respiratory distress but remains alert and oriented. He appears cooperative during the examination.
+
+- **Cardiovascular:**
+   Regular heart rate with normal S1 and S2 sounds, without murmurs, rubs, or gallops.
+
+- **Respiratory:**
+   Bilateral expiratory wheezes, particularly in the lower lobes. No use of accessory muscles or nasal flaring.
+
+- **Abdomen:**
+   Soft, non-tender, and within normal limits. Normal bowel sounds and no hepatosplenomegaly.
+
+- **Musculoskeletal:**
+   No deformities or tenderness. Full range of motion in all joints.
+
+- **Neurological:**
+   Alert, oriented, and with normal reflexes. Cranial nerves II-XII intact. Muscle strength and sensation are normal.
+
+- **Skin:**
+   Notable for a dry, erythematous maculopapular rash on both arms, possibly due to an allergic reaction. No cyanosis, clubbing, or other acute lesions.
+
+**Assessment:**
+The patient has multiple medical issues pertinent to this visit:
+1. **Asthma:** Presenting with acute exacerbation, likely influenced by environmental allergens.
+2. **Allergic Rhinitis:** Persistent and causing notable nasal congestion and itchy eyes.
+3. **Non-specific Allergy:** Resulting in an allergic rash on the arms.
+4. **General Fatigue:** Appears secondary to the ongoing struggle with asthma and allergies.
+5. **Anxiety:** Currently managed with Klonopin.
+
+**Plan:**
+1. **Asthma Management:**
+   - Continue Albuterol rescue inhaler as needed.
+   - Initiate daily usage of Fluticasone inhaler (inhaled corticosteroid) to improve control of asthma and reduce exacerbations.
+   - Reinforce the asthma action plan, highlighting the importance of peak flow monitoring and recognizing early exacerbation signs.
+   - Follow-up appointment in one month for asthma reassessment.
+
+2. **Allergic Rhinitis Treatment:**
+   - Continue daily Flonase nasal spray.
+   - Use Allegra as needed for symptomatic relief.
+   - Emphasize environmental control measures, including avoiding known allergens and employing air purifiers and masks at work.
+
+3. **Rash Management:**
+   - Prescribe hydrocortisone cream to be applied twice daily to the affected areas.
+   - Educate the patient on identifying potential allergens causing the rash.
+   - Follow-up in two weeks to monitor the rash and assess treatment efficacy.
+
+4. **Diagnostic Tests:**
+   - Perform comprehensive laboratory tests, including lipid panel, glucose, and liver function tests to monitor for side effects from medications and identify comorbid conditions.
+   - Focus continuous monitoring on liver function tests and cholesterol levels, with an eye on repeated abnormalities.
+
+**Follow-Up:**
+The patient is advised to contact the clinic if symptoms do not improve within a week, if the rash worsens, or if signs of infection develop. A follow-up appointment is scheduled for one month to reassess asthma control and treatment effectiveness. Detailed instructions on medication use, avoidance of triggers, and adherence to the asthma action plan were provided, which the patient understood and agreed to follow.

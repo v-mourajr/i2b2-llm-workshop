@@ -1,0 +1,63 @@
+**Visit Information:**
+- Patient Num: 1000000039
+- Visit Date: 10/28/2009
+
+**Subjective:**
+This is a 28-year-old White female who speaks German and has been receiving care at our clinic for asthma and multiple related conditions for several years. Today, she presents for a follow-up visit, reporting ongoing episodic shortness of breath and wheezing, particularly troubling at night and during physical exertion. These episodes compel her to use her rescue inhaler more frequently, especially during high pollen seasons. Since her last visit in November 2007, she has had no hospitalizations or emergency room visits for asthma. Although her inhaled medication regimen generally offers relief, its efficacy wanes during peak allergen exposure periods.
+
+Her medical history includes allergic rhinitis, which aggravates her asthma. She has acute pharyngitis, allergic rhinitis due to pollen, and unspecified causes. Additionally, she experiences recurring pain in the shoulder and cervical regions, described as a dull ache rated at 4 out of 10, exacerbated by heavy activity. Past injuries include abrasions to the elbows and forearms from minor accidents, which have since healed. There is no known drug or herbal supplement use. She lives at home in a smoke-free environment, refrains from alcohol, smoking, and illicit drug use. She is currently a student, expressing stress related to academic pressures, although she finds solace in music and reading.
+
+**Objective:**
+
+-Vital Signs:
+    - Blood Pressure: 110/70 mmHg
+    - Heart Rate: 78 bpm
+    - Respiratory Rate: 16 breaths per minute
+    - Temperature: 98.4°F
+    - Oxygen Saturation: 98% on room air
+
+-General Appearance:
+    - The patient appears well-nourished, alert, and in no acute distress.
+
+-Cardiovascular:
+    - Regular heart rate and rhythm with no audible murmurs, rubs, or gallops.
+
+-Respiratory:
+    - Lungs are clear to auscultation bilaterally except for mild end-expiratory wheezing upon forced exhalation. No use of accessory muscles or retractions noted.
+
+-Abdomen:
+    - The abdomen is soft and non-tender, with normoactive bowel sounds and no hepatosplenomegaly or masses.
+
+-Musculoskeletal:
+    - Tenderness palpable over the left shoulder and cervical region, with slightly reduced range of motion due to pain but no significant limitations. No acute swelling or erythema of the joints.
+    
+-Neurological:
+    - Cranial nerves II-XII intact; no focal deficits observed.
+
+-Skin:
+    - No new rashes or lesions; healed abrasion sites on the elbows and forearms without signs of infection or irritation.
+
+**Assessment:**
+The primary diagnosis is asthma, which remains generally well-controlled with long-acting beta-agonist and inhaled corticosteroid therapy, although exacerbated by allergic rhinitis to pollen and other allergens. Secondary issues include musculoskeletal pain in the shoulder and cervical regions likely linked to academic stress. Additional minor concerns include managed dermatologic conditions and healed abrasions from previous minor injuries.
+
+**Plan:**
+1. **Asthma:**
+   - Continue current regimen of long-acting beta-agonist and inhaled corticosteroids.
+   - Use the rescue inhaler as needed.
+   - Schedule pulmonary function tests to reassess lung function and adapt treatment if necessary.
+   - Recommend flu vaccination and discuss minimizing allergen exposure during peak seasons.
+
+2. **Allergic Rhinitis:**
+   - Continue with current antihistamine therapy.
+   - Refer to an allergist if symptoms persist despite current management.
+
+3. **Cervicalgia and Shoulder Pain:**
+   - Continue prescribed physical therapy exercises for strengthening and stretching.
+   - Use NSAIDs for acute pain management.
+   - Consider orthopedic referral if symptoms persist or worsen.
+
+4. **General Health & Stress Management:**
+   - Advise stress management techniques, including relaxation practices.
+   - Schedule a follow-up appointment in three months or sooner if new or worsening symptoms appear.
+
+The patient appears to understand and agrees with this plan. She has been instructed to contact the clinic if her symptoms worsen or do not improve within a week or if additional evaluation is required based on test results.

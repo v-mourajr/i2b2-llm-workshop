@@ -1,0 +1,72 @@
+**Visit Information:**
+- Patient Num: 1000000073
+- Visit Date: 09/06/2001
+
+**Subjective:**
+This is a 34-year-old Hispanic male, fluent in German, who has been attending our clinic for approximately 3 years. He presents for a follow-up visit primarily to manage his asthma, which is currently his principal health concern. The patient indicates that his asthma symptoms have been stable with occasional exacerbations. He describes episodes of shortness of breath, wheezing, and chest tightness, particularly following exposure to allergens or during physical exertion. The patient uses an albuterol inhaler which provides symptomatic relief, although he admits to forgetting to use his maintenance inhaler regularly.
+
+In addition to asthma, he has a past medical history significant for backache, esophageal reflux, and hypertension. He recently experienced intermittent dysphagia and exacerbation of lower leg joint pain, likely due to his history of chondromalacia patella. He denies any recent upper respiratory tract infections, fever, or significant weight loss. He is currently on Lisinopril 20 mg daily for hypertension and uses over-the-counter antacids for gastroesophageal reflux disease (GERD) symptoms.
+
+The patient lives alone, works as a translator, does not smoke, consumes alcohol socially, and adheres to a balanced diet but occasionally consumes high-sodium foods. He has no known allergies.
+
+**Objective:**
+Vital Signs:
+- Blood Pressure: 140/90 mmHg
+- Heart Rate: 80 beats per minute
+- Respiratory Rate: 18 breaths per minute
+- Temperature: 98.6°F (37°C)
+- Oxygen Saturation: 97% on room air
+
+General Appearance:
+The patient appears well-nourished, in no acute distress, and cooperative.
+
+Cardiovascular:
+No jugular venous distension. Regular rate and rhythm without murmurs, rubs, or gallops. Peripheral pulses 2+ and equal bilaterally.
+
+Respiratory:
+Clear to auscultation bilaterally, no wheezes, crackles, or rhonchi noted. Mild respiratory effort with a noted non-productive cough.
+
+Abdomen:
+Soft, non-tender, with no hepatosplenomegaly. Normal bowel sounds in all quadrants.
+
+Musculoskeletal:
+No edema or deformities. Full range of motion in all extremities. Mild tenderness on palpation of the lower back and knee joints. 
+
+Neurological:
+Alert and oriented to person, place, and time. Cranial nerves II-XII intact. Motor strength 5/5 in all extremities. Reflexes 2+ and symmetrical.
+
+Skin:
+No rashes, lesions, or signs of infection.
+
+**Assessment:**
+1. Asthma: The patient presents with asthma which is currently stable with the use of albuterol but needs improved adherence to maintenance therapy.
+2. Hypertension: Controlled on Lisinopril, though BP monitoring is required to ensure further management.
+3. GERD: Symptoms managed with over-the-counter antacids.
+4. Musculoskeletal Pain: Recurrent back and knee pain, consistent with known history of backache and chondromalacia patella.
+5. Dysphagia: Intermittent symptoms, correlated with GERD.
+
+**Plan:**
+1. Asthma:
+   - Reinforce the importance of daily use of maintenance inhaler. Prescribe Fluticasone inhaler, with instructions to use twice daily.
+   - Continue albuterol inhaler as needed.
+   - Educate on the avoidance of known triggers and adherence to medication regimen.
+   - Schedule a follow-up in 3 months to assess control and adherence.
+
+2. Hypertension:
+   - Continue Lisinopril 20 mg daily.
+   - Advise on low-sodium diet and regular physical activity.
+   - Schedule follow-up in 3 months for blood pressure monitoring.
+
+3. GERD and Dysphagia:
+   - Continue over-the-counter antacids as needed.
+   - Monitor for worsening symptoms, consider esophagogastroduodenoscopy (EGD) if symptoms persist.
+
+4. Musculoskeletal Pain:
+   - Recommend physical therapy for knee and back pain.
+   - Advise use of NSAIDs for pain management as needed.
+   - Educate on weight management and moderate exercise.
+
+**Follow-Up:**
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. Ensure the patient understands the importance of medication adherence, dietary modifications, and regular follow-up appointments.
+
+Patient education was provided regarding asthma management, the importance of medication adherence for hypertension, and lifestyle adjustments for GERD and musculoskeletal pain. The patient confirmed understanding and agreement with the current plan.

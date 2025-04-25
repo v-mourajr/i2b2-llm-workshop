@@ -1,0 +1,50 @@
+### Visit Information:
+- **Patient Num**: 1000000008
+- **Visit Date**: 06/19/2010
+
+This is a 25-year-old Hispanic male who has been a patient at our clinic for several years. He frequently speaks German and presents today for a follow-up on his asthma management. The patient has a documented history of asthma of both unspecified types, with and without status asthmaticus, and experiencing multiple exacerbations. Recently, he reported significant worsening of asthma symptoms, including increased wheezing, shortness of breath, and chest tightness, which have been particularly troublesome at night. These exacerbations are poorly controlled with his current rescue inhaler, and physical activities seem to aggravate his condition. In addition to asthma, the patient has a history of attention deficit disorder with hyperactivity (ADHD), developmental dyslexia, and speech disturbances. Other relevant medical history includes contact dermatitis, acute pharyngitis, and otitis media. He previously underwent circumcision due to redundant prepuce and phimosis.
+
+The patient is currently taking Atrovent (18 mcg/inh) and Qvar (80 mcg/inh) for asthma management, and methylphenidate for ADHD, with reported good compliance. He lives with his parents, who are very supportive, and he is a diligent university student struggling academically due to ADHD and dyslexia. He has no known drug allergies.
+
+Lately, he has been experiencing frequent nocturnal coughing and increased restlessness likely associated with exacerbated asthma and stress from academic demands. He denies fever or chills.
+
+### Objective:
+- **Vital Signs**:
+  - Blood Pressure: 118/76 mmHg
+  - Heart Rate: 92 beats per minute
+  - Respiratory Rate: 26 breaths per minute
+  - Temperature: 98.4°F
+  - Oxygen Saturation: 94% on room air
+
+- **General Appearance**: The patient appears well-nourished but visibly tired and anxious, noted to be frequently shifting and fidgeting.
+- **Cardiovascular**: Regular heart rate and rhythm without murmurs, rubs, or gallops.
+- **Respiratory**: Use of accessory muscles visible. Scattered wheezes were heard bilaterally, more pronounced on expiration. No crackles or rhonchi were observed.
+- **Abdomen**: Nondistended, soft, and nontender with normoactive bowel sounds. No hepatosplenomegaly evident.
+- **Musculoskeletal**: Full range of motion and normal strength observed. Exhibits restlessness, typical of ADHD.
+- **Neurological**: Alert, and oriented to person, place, time, and situation. Cranial nerves II-XII are intact.
+- **Skin**: No new rashes or lesions were detected.
+
+### Assessment:
+The patient's principal concern involves an acute exacerbation of asthma, which is likely also contributing to increased anxiety and restlessness. His chronic conditions, including ADHD and developmental dyslexia, continue to significantly affect his daily activities and academic performance. The current asthma exacerbation could potentially be triggered by environmental factors or inadequate control through present medications.
+
+### Plan:
+1. **Asthma Exacerbation**:
+    - Perform peak expiratory flow measurements and consider repeating spirometry to evaluate lung function.
+    - Temporarily increase the dose of Qvar and encourage frequent use of Atrovent as a rescue medication.
+    - Prescribe a short course of oral corticosteroids, such as prednisone, should symptoms not improve within 48-72 hours.
+    - Schedule a follow-up in one week with the primary care provider or immediately if symptoms worsen.
+    - Consider referral to a pulmonologist if symptoms persist despite the above measures.
+
+2. **Attention Deficit Disorder with Hyperactivity**:
+    - Maintain the current dosage of methylphenidate.
+    - Evaluate the need for additional behavioral or cognitive therapies.
+    - Monitor using the Vanderbilt ADHD Diagnostic Teacher Rating Scale.
+    - Referral to a pediatric psychiatrist for further management if ADHD symptoms become unmanageable may be considered.
+
+3. **Developmental Dyslexia and Speech Disturbances**:
+    - Continue with ongoing speech and occupational therapies.
+    - Reassess academic accommodations and support from university disability services.
+    - Encourage utilization of tutoring services tailored to his specific learning requirements.
+
+### Follow-Up:
+The patient is instructed to contact the clinic if symptoms do not improve within one week or if they worsen. Follow-up appointment is scheduled in two weeks to reassess asthma control and address any ADHD and academic concerns further. Reinforce the importance of adherence to prescribed medications, recognizing early signs of asthma exacerbation, and adhering to regular follow-up visits. Ensure the patient and his family understand and concur with the treatment plan, emphasizing the necessity of closely monitoring respiratory symptoms.

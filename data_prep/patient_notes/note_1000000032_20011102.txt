@@ -1,0 +1,73 @@
+
+Visit Information:
+    - Patient Num: 1000000032
+    - Visit Date: 11/02/2001
+
+This is a 5-year-old Indian girl who presents today with her mother for a follow-up visit. The patient has been under the care of our clinic for routine child health checks, with previous visits noted in August 2000 and other significant interactions for respiratory-related conditions. Both the patient and her mother speak Spanish.
+
+Subjective:
+    The patient’s mother reports that her daughter has been experiencing symptoms consistent with a common cold for the past few days, including a runny nose, mild cough, and nasal congestion. There is no history of fever, and her energy levels are relatively normal besides the discomfort of her symptoms. The patient's history includes episodes of unspecified otitis media, with the last noted instance occurring approximately three months ago.
+
+    Past Medical & Surgical History:
+    - Acute nasopharyngitis (common cold)
+    - Other dyspnea and respiratory abnormality
+    - Unspecified otitis media
+
+    Medications & Supplements:
+    The patient is currently taking an over-the-counter children’s antihistamine as needed for her nasal symptoms. Her mother has also been using saline nasal drops to aid in decongestion.
+
+    Social History:
+    The patient lives with her parents and attends a local preschool. There are no smokers in the household, and the family practices good hand hygiene and sanitization at home to minimize infections.
+
+    Allergies:
+    No known allergies reported.
+
+    Symptom Details:
+    The symptoms began four days ago with nasal congestion, runny nose, and a mild cough. There are no aggravating factors reported, and there has been modest improvement with home remedies.
+
+    Additional Narrative:
+    The family has been managing the symptoms primarily through over-the-counter medications and home care. The mother expresses that similar episodes have occurred in the past, generally resolving without complications within a week.
+
+Objective:
+    Vital Signs:
+    - Blood Pressure: 100/60 mmHg
+    - Heart Rate: 110 bpm
+    - Respiratory Rate: 22 breaths per minute
+    - Temperature: 37.1°C (98.8°F)
+    - Oxygen Saturation: 99% on room air
+
+    General Appearance:
+    The patient appears alert, interactive, and in no acute distress. 
+
+    Cardiovascular:
+    Regular rate and rhythm; no murmurs, gallops, or rubs detected.
+
+    Respiratory:
+    Mild nasal congestion present. Lungs are clear to auscultation bilaterally, with no wheezes, rales, or rhonchi noted. Respiratory effort appears normal.
+
+    Abdomen:
+    Soft, non-tender, and non-distended. Normal bowel sounds heard in all quadrants.
+
+    Musculoskeletal:
+    No abnormalities observed. The patient moves all extremities well and appears to be in good physical condition.
+
+    Neurological:
+    Grossly intact; appropriate for age. The patient is responsive and engaging.
+
+    Skin:
+    Warm and dry with no rashes or lesions observed.
+
+Assessment:
+    - Diagnosis or Clinical Impression:
+    1. Acute nasopharyngitis (common cold)
+    2. History of unspecified otitis media
+    3. Routine child health check
+
+Plan:
+    - For the management of acute nasopharyngitis, continue with current over-the-counter children’s antihistamine as needed. Increase fluid intake and maintain good nasal hygiene with saline drops to assist in symptom relief.
+    - Monitor for any signs of secondary infections, such as a worsening cough, high fever, or ear discomfort, which may warrant further evaluation, particularly given the history of otitis media.
+    - Instruct the patient’s mother on the importance of hand hygiene and keeping a clean environment to prevent further occurrences.
+    - Follow-up within the next two weeks for a routine assessment or sooner if symptoms worsen, particularly any indication of increased respiratory distress.
+    - Education on the normal course of a common cold and reassurance provided to the mother regarding the self-limiting nature of the illness.
+
+Instruct patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. The mother expressed understanding and agreement with the educational and follow-up plan provided.

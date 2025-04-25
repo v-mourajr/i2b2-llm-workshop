@@ -1,0 +1,66 @@
+**Visit Information:**
+- Patient Num: 1000000081
+- Visit Date: 12/16/2004
+
+**Subjective:**
+This is an 8-year-old Black male who has been receiving care at our clinic since January 14, 2002. He speaks Spanish and presents today for a follow-up visit regarding his asthma and recurrent respiratory issues. His mother reports that he has been experiencing persistent coughing and wheezing, particularly at night, over the past week. He has also had a mild fever and nasal congestion. She mentions that his symptoms are not fully controlled by his current medications.
+
+His past medical history includes multiple diagnoses of asthma, acute bronchiolitis due to other infectious organisms and respiratory syncytial virus (RSV), acute upper respiratory infections, and unspecified allergies. He has also had episodes of acute nonsuppurative otitis media and feeding problems as a newborn. He underwent a routine circumcision and has experienced teething syndrome.
+
+The patient's current medications include Prednisolone Acetate 5mg tablets, which he takes during asthma exacerbations. Despite compliance with this medication, his mother feels that there has been minimal improvement in his symptoms.
+
+Socially, he lives in a smoke-free environment and attends school regularly. There are no pets at home that could potentially aggravate his asthma. There are no known drug allergies or adverse reactions to medications.
+
+His symptoms include persistent cough, exacerbated at night, wheezing, and difficulty in breathing at times. The nasal congestion has been a recurring issue, and the mild fever has been ongoing for two days.
+
+**Objective:**
+- **Vital Signs:**
+  - Blood Pressure: 100/60 mmHg
+  - Heart Rate: 100 bpm
+  - Respiratory Rate: 28 breaths per minute
+  - Temperature: 38.2°C (100.8°F)
+  - Oxygen Saturation: 94% on room air
+
+- **General Appearance:**
+The patient appears mildly distressed due to his respiratory symptoms but is cooperative during the examination.
+
+- **Cardiovascular:**
+Heart sounds are normal with no murmurs. Peripheral pulses are strong and equal bilaterally.
+
+- **Respiratory:**
+Diffuse wheezing throughout bilateral lung fields with prolonged expiratory phase noted. Mild intercostal retractions present. No crackles or rhonchi are heard.
+
+- **Abdomen:**
+Soft, non-tender, and non-distended. Bowel sounds are present and normal.
+
+- **Musculoskeletal:**
+Normal range of motion in all extremities. No joint swelling or tenderness.
+
+- **Neurological:**
+The patient is alert and oriented to person, place, and time. Cranial nerves II-XII are intact. Motor and sensory functions are normal.
+
+- **Skin:**
+No rashes or lesions noted. Skin appears normal in color and temperature.
+
+**Assessment:**
+The primary diagnosis remains asthma, which is evidently not well-controlled at the present visit. Additionally, the patient has acute upper respiratory infection symptoms and a mild fever. The presence of wheezing and coughing suggests an exacerbation of his asthma potentially triggered by a viral infection.
+
+**Plan:**
+The treatment plan includes:
+1. **Asthma Management:**
+   - Increase the dose of Prednisolone Acetate as per the exacerbation protocol.
+   - Initiate a short course of inhaled bronchodilator therapy (e.g., Albuterol).
+   - Education on proper use of asthma inhalers and spacers.
+   - Schedule a follow-up appointment in two weeks to reassess asthma control.
+   - Consider allergy testing to identify possible triggers.
+
+2. **Infection Management:**
+   - Continue monitoring the fever; if symptoms persist or worsen, consider a chest X-ray to rule out pneumonia.
+   - Educate on the importance of hydration and symptomatic relief with antipyretics (e.g., Acetaminophen).
+
+3. **Additional Recommendations:**
+   - Reinforce the importance of a smoke-free environment and avoidance of other potential asthma triggers.
+   - Continue regular follow-up appointments to monitor asthma control and overall health.
+
+**Follow-Up:**
+Instruct the patient’s mother to contact the clinic if symptoms worsen or do not improve within a week, or if new symptoms arise. Follow-up for persistent, changing, or worsening symptoms will be scheduled within two weeks. Educate the patient and his mother on recognizing signs of uncontrolled asthma and the importance of adherence to the prescribed treatment plan.

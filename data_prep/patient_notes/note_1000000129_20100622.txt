@@ -1,0 +1,57 @@
+- **Visit Information:**
+  - **Patient Num:** 1000000129
+  - **Visit Date:** 06/22/2010
+
+**Subjective:**
+This is a 40-year-old Hispanic male who speaks German and has been receiving care at our clinic for approximately 13 years. Today, he presents for a follow-up visit. The patient reports that he has been experiencing a worsening productive cough over the past week with yellowish sputum. He also notes intermittent nasal congestion but no recent episodes of epistaxis. Despite the cough, he has managed his asthma with Albuterol sulfate, Flonase, and Flovent, with no recent asthmatic episodes. The patient has been diligent with Allegra for allergic rhinitis, but his chronic sinus issues persist. He denies any shortness of breath or chest pain. 
+
+At home, he is compliant with his medication regimen including Dicloxacillin Sodium for infections and Naproxen for pain. He follows dietary recommendations and exercises regularly for managing obesity. The patient lives alone, is a software engineer, and maintains a relatively healthy lifestyle, refraining from smoking, drinking alcohol only occasionally, and not using illicit drugs. The patient reports no known allergies and no recent hospitalizations or surgeries.
+
+**Objective:**
+- **Vital Signs:**
+  - Blood Pressure: 126/80 mmHg
+  - Heart Rate: 78 bpm
+  - Respiratory Rate: 18 breaths per minute
+  - Temperature: 99.8 °F
+  - Oxygen Saturation: 98% on room air
+
+- **General Appearance:** The patient appears slightly fatigued but is in no acute distress. He is well-nourished.
+- **Cardiovascular:** Normal S1 and S2, no murmurs, gallops, or rubs detected.
+- **Respiratory:** Mild expiratory wheezes noted in bilateral lung fields but no rhonchi or rales. The patient exhibits tenderness upon palpation over the frontal and maxillary sinuses.
+- **Abdomen:** Soft, non-tender, non-distended with normoactive bowel sounds.
+- **Musculoskeletal:** Full range of motion in all joints, no deformities. The palpable tenderness is noted in the lumbar spine, consistent with reported myalgia.
+- **Neurological:** Alert and oriented to person, place, and time. Cranial nerves II-XII intact. No gross motor or sensory deficits.
+- **Skin:** Mild erythematous dermatitis persists on the extensor surfaces of the forearms, no new lesions or signs of infection.
+
+Review of recent labs shows stable kidney function, with both creatinine and blood urea nitrogen within normal limits. Urinalysis revealed no significant issues.
+
+**Assessment:**
+The patient’s current symptoms are suggestive of an acute exacerbation of chronic sinusitis, potentially complicated by upper respiratory tract infection. His asthma management appears stable, with no recent status asthmaticus reported. The allergic rhinitis and erythematous dermatitis are under reasonable control. Obesity and its management remain ongoing challenges, with the patient adherent to lifestyle modifications. There have been no new episodes of convulsions since his last visit.
+
+**Plan:**
+- **Sinusitis/Upper Respiratory Infection:**
+  - Initiate antibiotic therapy with amoxicillin-clavulanate for 10 days.
+  - Continue using nasal saline sprays and commence corticosteroid nasal sprays.
+  - Advise increased fluid intake and adequate rest.
+
+- **Asthma:**
+  - Maintain current asthma management regimen (Albuterol sulfate and Flovent).
+  - Reinforce the importance of adherence to medications and review the asthma action plan at each follow-up visit.
+
+- **Obesity:**
+  - Continue both dietary modifications and regular physical activity.
+  - Schedule a consultation with a dietitian for advanced dietary planning.
+
+- **Convulsions:**
+  - Prescribe continued use of anticonvulsant medication.
+  - Arrange follow-up with neurology for monitoring blood levels and controlling seizures.
+
+- **Erythematous Dermatitis:**
+  - Maintain current emollient and topical corticosteroid treatment as required.
+
+- **General Recommendations:**
+  - Instruct the patient to monitor his symptoms and seek immediate medical advice if symptoms worsen or fail to improve within the following week. Reiterate the importance of medication adherence and management of comorbidities.
+  - Provide educational materials emphasizing the importance of maintaining a healthy lifestyle and following medical advice.
+
+**Follow-Up:**
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week. Schedule a follow-up appointment in three months to monitor progress and reassess his overall health status. The patient demonstrated understanding of the management plan and agreed to the follow-up schedule.

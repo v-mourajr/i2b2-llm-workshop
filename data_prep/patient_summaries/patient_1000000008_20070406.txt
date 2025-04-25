@@ -1,0 +1,160 @@
+demographics
+patient_num: 1000000008  age: 22
+patient_num: 1000000008  sex: M
+patient_num: 1000000008  race: hispanic
+patient_num: 1000000008  language: german
+patient_num: 1000000008  vital_status: alive
+patient_num: 1000000008  earliest fact: Jun 29 1998 12:00AM
+patient_num: 1000000008  latest fact: Apr  6 2007 12:00AM
+patient_num: 1000000008  range in days: 3203
+totals
+patient_num: 1000000008  distinct concepts: 153
+patient_num: 1000000008  total facts: 557
+patient_num: 1000000008  total encounters: 145
+patient_num: 1000000008  total asthma: 27
+descriptive
+patient_num: 1000000008  asthma code: ICD9:493.91  name: Asthma, unspecified type, with status asthmaticus  count: 14
+patient_num: 1000000008  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 19
+patient_num: 1000000008  diagnosis code: ICD9:789.07  name: Abdominal pain, generalized  count: 2
+patient_num: 1000000008  diagnosis code: ICD9:789.09  name: Abdominal pain, other specified site; multiple sites  count: 3
+patient_num: 1000000008  diagnosis code: ICD9:462  name: Acute pharyngitis  count: 4
+patient_num: 1000000008  diagnosis code: ICD9:465.9  name: Acute upper respiratory infections of unspecified site  count: 1
+patient_num: 1000000008  diagnosis code: ICD9:309.28  name: Adjustment reaction with mixed emotional features  count: 2
+patient_num: 1000000008  diagnosis code: ICD9:315.01  name: Alexia  count: 1
+patient_num: 1000000008  diagnosis code: ICD9:784.61  name: Alexia and dyslexia  count: 1
+patient_num: 1000000008  diagnosis code: ICD9:995.3  name: Allergy, unspecified, not elsewhere classified  count: 2
+patient_num: 1000000008  diagnosis code: ICD9:307.1  name: Anorexia nervosa  count: 1
+patient_num: 1000000008  diagnosis code: ICD9:493.91  name: Asthma, unspecified type, with status asthmaticus  count: 14
+patient_num: 1000000008  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 19
+patient_num: 1000000008  diagnosis code: ICD9:314.01  name: Attention deficit disorder of childhood with hyperactivity  count: 35
+patient_num: 1000000008  diagnosis code: ICD9:314.00  name: Attention deficit disorder of childhood without mention of hyperactivity  count: 3
+patient_num: 1000000008  diagnosis code: ICD9:494  name: Bronchiectasis  count: 1
+patient_num: 1000000008  diagnosis code: ICD9:682.9  name: Cellulitis and abscess of unspecified sites  count: 1
+patient_num: 1000000008  diagnosis code: ICD9:64.0  name: Circumcision  count: 1
+patient_num: 1000000008  diagnosis code: ICD9:692.9  name: Contact dermatitis and other eczema, unspecified cause  count: 2
+patient_num: 1000000008  diagnosis code: ICD9:315.02  name: Developmental dyslexia  count: 1
+patient_num: 1000000008  diagnosis code: ICD9:780.6  name: Fever  count: 1
+patient_num: 1000000008  diagnosis code: ICD9:734  name: Flat foot  count: 3
+patient_num: 1000000008  diagnosis code: ICD9:474.12  name: Hypertrophy of adenoids alone  count: 1
+patient_num: 1000000008  diagnosis code: ICD9:474.10  name: Hypertrophy of tonsil with adenoids  count: 1
+patient_num: 1000000008  diagnosis code: ICD9:315.5  name: Mixed development disorder  count: 3
+patient_num: 1000000008  diagnosis code: ICD9:278.01  name: Morbid obesity  count: 2
+patient_num: 1000000008  diagnosis code: ICD9:793.1  name: Nonspecific abnormal findings on radiological and other examination of lung field  count: 1
+patient_num: 1000000008  diagnosis code: ICD9:872.00  name: Open wound of external ear, unspecified site, uncomplicated  count: 2
+patient_num: 1000000008  diagnosis code: ICD9:376.01  name: Orbital cellulitis  count: 1
+patient_num: 1000000008  diagnosis code: ICD9:558.9  name: Other and unspecified noninfectious gastroenteritis and colitis  count: 2
+patient_num: 1000000008  diagnosis code: ICD9:755.6  name: Other congenital anomalies of lower limb, including pelvic girdle  count: 1
+patient_num: 1000000008  diagnosis code: ICD9:755.63  name: Other congenital deformity of hip (joint)  count: 1
+patient_num: 1000000008  diagnosis code: ICD9:786.09  name: Other dyspnea and respiratory abnormality  count: 1
+patient_num: 1000000008  diagnosis code: ICD9:518.82  name: Other pulmonary insufficiency, not elsewhere classified  count: 2
+patient_num: 1000000008  diagnosis code: ICD9:607.89  name: Other specified disorders of penis  count: 1
+patient_num: 1000000008  diagnosis code: ICD9:784.5  name: Other speech disturbance  count: 4
+patient_num: 1000000008  diagnosis code: ICD9:486  name: Pneumonia, organism unspecified  count: 10
+patient_num: 1000000008  diagnosis code: ICD9:782.1  name: Rash and other nonspecific skin eruption  count: 2
+patient_num: 1000000008  diagnosis code: ICD9:605  name: Redundant prepuce and phimosis  count: 3
+patient_num: 1000000008  diagnosis code: ICD9:V20.2  name: Routine infant or child health check  count: 10
+patient_num: 1000000008  diagnosis code: ICD9:003.0  name: Salmonella gastroenteritis  count: 2
+patient_num: 1000000008  diagnosis code: ICD9:564.0  name: Slow transit constipation  count: 1
+patient_num: 1000000008  diagnosis code: ICD9:034.0  name: Streptococcal sore throat  count: 1
+patient_num: 1000000008  diagnosis code: ICD9:296.90  name: Unspecified affective psychosis  count: 2
+patient_num: 1000000008  diagnosis code: ICD9:786.50  name: Unspecified chest pain  count: 3
+patient_num: 1000000008  diagnosis code: ICD9:474.9  name: Unspecified chronic disease of tonsils and adenoids  count: 1
+patient_num: 1000000008  diagnosis code: ICD9:382.9  name: Unspecified otitis media  count: 3
+patient_num: 1000000008  diagnosis code: ICD9:079.99  name: Unspecified viral infection in conditions classified elsewhere and of unspecified site  count: 3
+patient_num: 1000000008  diagnosis code: ICD9:480.9  name: Viral pneumonia, unspecified  count: 1
+patient_num: 1000000008  diagnosis code: ICD9:787.03  name: Vomiting alone  count: 2
+patient_num: 1000000008  medication code: NDC:00597008214  name: Atrovent 18 mcg/inh aerosol Boehringer-Ingelheim  count: 8
+patient_num: 1000000008  medication code: NDC:00089074121  name: Qvar 80 mcg/inh aerosol with adapter 3 M Pharmaceuticals  count: 4
+patient_num: 1000000008  laboratory code: LOINC:1989-3  name: 25 OH Vitamin D (Group:25VITD)  count: 1
+patient_num: 1000000008  laboratory code: LOINC:763-3  name: Abs Bands Manual (Group:ABANDS)  count: 1
+patient_num: 1000000008  laboratory code: LOINC:712-0  name: Abs EOS Manual (Group:AEO)  count: 1
+patient_num: 1000000008  laboratory code: LOINC:732-8  name: Abs Lymphs Manual (Group:ALYMPH)  count: 1
+patient_num: 1000000008  laboratory code: LOINC:743-5  name: Abs Monos Manual (Group:AMONO)  count: 1
+patient_num: 1000000008  laboratory code: LOINC:753-4  name: Abs Neuts Manual (Group:ANEUT)  count: 1
+patient_num: 1000000008  laboratory code: LOINC:1751-7  name: Albumin (Group:ALB)  count: 2
+patient_num: 1000000008  laboratory code: LOINC:1742-6  name: ALT (SGPT) (Group:SGPT)  count: 1
+patient_num: 1000000008  laboratory code: LOINC:702-1  name: Anisocytosis (Group:ANISO)  count: 3
+patient_num: 1000000008  laboratory code: LOINC:1920-8  name: AST (SGOT) (Group:SGOT)  count: 2
+patient_num: 1000000008  laboratory code: LOINC:735-1  name: Atypical Lymphs (Group:ATYPS)  count: 2
+patient_num: 1000000008  laboratory code: LOINC:5769-5  name: Bacteria (Group:UAS-BACT)  count: 1
+patient_num: 1000000008  laboratory code: LOINC:764-1  name: Bands - Manual (Group:BAND)  count: 2
+patient_num: 1000000008  laboratory code: LOINC:706-2  name: Basophils - Auto (Group:BASOS)  count: 1
+patient_num: 1000000008  laboratory code: LOINC:707-0  name: Basophils - Manual (Group:BASO)  count: 2
+patient_num: 1000000008  laboratory code: LOINC:5770-3  name: Bilirubin (Group:UA-BILI)  count: 4
+patient_num: 1000000008  laboratory code: LOINC:3094-0  name: Blood Urea Nitrogen (Group:BUN)  count: 2
+patient_num: 1000000008  laboratory code: LOINC:2000-8  name: Calcium (Group:CA)  count: 2
+patient_num: 1000000008  laboratory code: LOINC:2028-9  name: Carbon Dioxide (Group:CO2)  count: 2
+patient_num: 1000000008  laboratory code: LOINC:9830-1  name: Cardiac Risk Ratio (Group:CardRR)  count: 1
+patient_num: 1000000008  laboratory code: LOINC:2075-0  name: Chloride (Group:CL)  count: 2
+patient_num: 1000000008  laboratory code: LOINC:9830-1  name: Chol/HDL Ratio (Group:CHOL/HDL)  count: 1
+patient_num: 1000000008  laboratory code: LOINC:2093-3  name: Cholesterol (Group:CHOL)  count: 1
+patient_num: 1000000008  laboratory code: LOINC:5778-6  name: Color (Group:UA-COLOR)  count: 4
+patient_num: 1000000008  laboratory code: LOINC:2157-6  name: CPK (Group:CPK)  count: 1
+patient_num: 1000000008  laboratory code: LOINC:2160-0  name: Creatinine (Group:CRE)  count: 2
+patient_num: 1000000008  laboratory code: LOINC:X2012-1  name: Differential Request (Group:DIFFR)  count: 3
+patient_num: 1000000008  laboratory code: LOINC:1968-7  name: Direct Bilirubin (Group:DBILI)  count: 4
+patient_num: 1000000008  laboratory code: LOINC:713-8  name: Eosinophils - Auto (Group:EOS)  count: 1
+patient_num: 1000000008  laboratory code: LOINC:714-6  name: Eosinophils - Manual (Group:EO)  count: 2
+patient_num: 1000000008  laboratory code: LOINC:4537-7  name: ESR (Group:ESR)  count: 1
+patient_num: 1000000008  laboratory code: LOINC:2276-4  name: Ferritin (Group:FER)  count: 1
+patient_num: 1000000008  laboratory code: LOINC:2284-8  name: Folic Acid (Group:FOLATE)  count: 1
+patient_num: 1000000008  laboratory code: LOINC:2991-8  name: Free Testosterone (Group:FTES)  count: 1
+patient_num: 1000000008  laboratory code: LOINC:4548-4  name: GHBA1C (Group:GHBA1C)  count: 1
+patient_num: 1000000008  laboratory code: LOINC:2336-6  name: Globulin (Group:GLOB)  count: 2
+patient_num: 1000000008  laboratory code: LOINC:6777-7  name: Glucose (Group:GLU)  count: 2
+patient_num: 1000000008  laboratory code: LOINC:5792-7  name: Glucose - UA (Group:UA-GLUC)  count: 4
+patient_num: 1000000008  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 5
+patient_num: 1000000008  laboratory code: LOINC:2086-7  name: HDL (Group:HDL)  count: 1
+patient_num: 1000000008  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 5
+patient_num: 1000000008  laboratory code: LOINC:5796-8  name: Hyaline Cast (Group:HCAST)  count: 1
+patient_num: 1000000008  laboratory code: LOINC:728-6  name: Hypochromia (Group:HYPO)  count: 2
+patient_num: 1000000008  laboratory code: LOINC:2498-4  name: Iron (Group:FE)  count: 1
+patient_num: 1000000008  laboratory code: LOINC:5797-6  name: Ketones (Group:UA-KET)  count: 4
+patient_num: 1000000008  laboratory code: LOINC:2532-0  name: LDH (Group:LDH)  count: 2
+patient_num: 1000000008  laboratory code: LOINC:2090-9  name: LDL (Group:LDL)  count: 1
+patient_num: 1000000008  laboratory code: LOINC:736-9  name: Lymphocytes - Auto (Group:LYMPHS)  count: 1
+patient_num: 1000000008  laboratory code: LOINC:737-7  name: Lymphocytes - Manual (Group:LYMPH)  count: 2
+patient_num: 1000000008  laboratory code: LOINC:11554-3  name: Magnesium (Group:MG)  count: 3
+patient_num: 1000000008  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 5
+patient_num: 1000000008  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 5
+patient_num: 1000000008  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 5
+patient_num: 1000000008  laboratory code: LOINC:740-1  name: Metamyelocytes - Manual (Group:META)  count: 1
+patient_num: 1000000008  laboratory code: LOINC:741-9  name: Microcytes (Group:MICROC)  count: 1
+patient_num: 1000000008  laboratory code: LOINC:5905-5  name: Monocytes - Auto (Group:MONOS)  count: 1
+patient_num: 1000000008  laboratory code: LOINC:744-3  name: Monocytes - Manual (Group:MONO)  count: 2
+patient_num: 1000000008  laboratory code: LOINC:770-8  name: Neutrophils - Auto (Group:POLYS)  count: 1
+patient_num: 1000000008  laboratory code: LOINC:769-0  name: Neutrophils - Manual (Group:POLY)  count: 3
+patient_num: 1000000008  laboratory code: LOINC:5802-4  name: Nitrites (Group:UA-NIT)  count: 4
+patient_num: 1000000008  laboratory code: LOINC:5794-3  name: Occult Blood (Group:UA-BLD)  count: 4
+patient_num: 1000000008  laboratory code: LOINC:5803-2  name: PH (Group:UA-PH)  count: 4
+patient_num: 1000000008  laboratory code: LOINC:2777-1  name: Phosphorus (Group:PHOS)  count: 3
+patient_num: 1000000008  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 5
+patient_num: 1000000008  laboratory code: LOINC:9317-9  name: PLT Estimate (Group:PLTEST)  count: 2
+patient_num: 1000000008  laboratory code: LOINC:779-9  name: Poikilocytosis (Group:POIK)  count: 2
+patient_num: 1000000008  laboratory code: LOINC:10378-8  name: Polychromasia (Group:POLYCH)  count: 1
+patient_num: 1000000008  laboratory code: LOINC:2823-3  name: Potassium (Group:K)  count: 2
+patient_num: 1000000008  laboratory code: LOINC:5804-0  name: Protein (Group:UA-ALB)  count: 4
+patient_num: 1000000008  laboratory code: LOINC:5902-2  name: PT (Group:PT)  count: 1
+patient_num: 1000000008  laboratory code: LOINC:2731-8  name: PTH (Group:PTH)  count: 1
+patient_num: 1000000008  laboratory code: LOINC:5898-2  name: PTT (Group:PTT)  count: 1
+patient_num: 1000000008  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 5
+patient_num: 1000000008  laboratory code: LOINC:5808-1  name: RBC - Urine Sed (Group:UAS-RBC)  count: 1
+patient_num: 1000000008  laboratory code: LOINC:11273-0  name: RBC Morph Auto (Group:RCM-A)  count: 1
+patient_num: 1000000008  laboratory code: LOINC:6742-1  name: RBC Morph Manual (Group:RCM-M)  count: 3
+patient_num: 1000000008  laboratory code: LOINC:788-0  name: RDW (Group:RDW)  count: 2
+patient_num: 1000000008  laboratory code: LOINC:2951-2  name: Sodium (Group:NA)  count: 2
+patient_num: 1000000008  laboratory code: LOINC:2484-4  name: Somatomedin C (Group:SMC)  count: 1
+patient_num: 1000000008  laboratory code: LOINC:5811-5  name: Specific Gravity (Group:UA-SPGR)  count: 4
+patient_num: 1000000008  laboratory code: LOINC:11277-1  name: Squamous Cells (Group:UAS-SQUA)  count: 1
+patient_num: 1000000008  laboratory code: LOINC:2500-7  name: TIBC (Group:TIBC)  count: 1
+patient_num: 1000000008  laboratory code: LOINC:1975-2  name: Total Bilirubin (Group:TBILI)  count: 4
+patient_num: 1000000008  laboratory code: LOINC:2885-2  name: Total Protein (Group:TP)  count: 2
+patient_num: 1000000008  laboratory code: LOINC:2571-8  name: Triglycerides (Group:TRIG)  count: 1
+patient_num: 1000000008  laboratory code: LOINC:3016-3  name: TSH (Group:TSH)  count: 2
+patient_num: 1000000008  laboratory code: LOINC:5767-9  name: Turbidity (Group:UA-TURB)  count: 4
+patient_num: 1000000008  laboratory code: LOINC:3084-1  name: Uric Acid (Group:URIC)  count: 1
+patient_num: 1000000008  laboratory code: LOINC:5818-0  name: Urobilinogen (Group:UA-UROBI)  count: 4
+patient_num: 1000000008  laboratory code: LOINC:2170-9  name: Vitamin B12 (Group:B12)  count: 1
+patient_num: 1000000008  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 5
+patient_num: 1000000008  laboratory code: LOINC:5821-4  name: WBC - Urine Sed (Group:UAS-WBC)  count: 1
+patient_num: 1000000008  laboratory code: LOINC:5799-2  name: WBC Screen (Group:UA-WBC)  count: 4

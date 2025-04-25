@@ -1,0 +1,70 @@
+**Visit Information:**
+
+- **Patient Num:** 1000000106
+- **Visit Date:** December 3, 2004
+
+**Subjective:**
+
+This is a 24-year-old Indian male who speaks Spanish and has been a patient at our clinic for several years, primarily for asthma management. He presents today for a routine follow-up regarding his asthma and to discuss ongoing respiratory symptoms. The patient reports frequent episodes of wheezing and shortness of breath, which are specifically problematic at night and sometimes limit his ability to participate in daily activities. His rescue inhaler provides temporary relief, but he finds himself needing it more frequently, notably in the past few weeks. He mentions daily occurrences of chest tightness and persistent throat clearing.
+
+The patient's past medical history includes chronic asthma, recurrent acute pharyngitis, brachial plexus lesions, and cervicalgia. He also has a history of orthopedic surgery for a closed fracture of the fibula and tibia. There is no significant surgical history aside from the mentioned orthopedic interventions. He is currently prescribed an albuterol inhaler, which he admits overusing. Additionally, he noted recent upper respiratory distress, possibly linked to weather changes.
+
+He is a college student, lives with his parents, and reports no smoking or alcohol consumption. The patient does not engage in physically intense activities but identifies exercise and cold weather as asthma triggers. There were no known allergies reported.
+
+**Objective:**
+
+- **Vital Signs:**
+  - Blood Pressure: 118/76 mmHg
+  - Heart Rate: 82 bpm
+  - Respiratory Rate: 17 breaths per minute
+  - Temperature: 98.4°F (36.9°C)
+  - Oxygen Saturation: 97% on room air
+
+- **General Appearance:** The patient appears well-nourished, alert, and oriented, with no signs of acute distress.
+
+- **Cardiovascular:** Regular heart rate and rhythm with normal heart sounds. No murmurs, gallops, or rubs heard.
+
+- **Respiratory:** Auscultation reveals mild expiratory wheezing and occasional coarse breath sounds. There are no notable crackles or rhonchi. The patient shows no significant use of accessory muscles for breathing.
+
+- **Abdomen:** Soft and non-tender, with no organomegaly or masses. Bowel sounds are active.
+
+- **Musculoskeletal:** Normal range of motion in all joints. No joint swelling or pain on movement.
+
+- **Neurological:** The patient is alert and oriented to person, place, and time. Cranial nerves II-XII are intact. Strength and sensation are normal in all extremities.
+
+- **Skin:** Clear, without rashes, lesions, or cyanosis.
+
+- **Lab Findings:** Review of recent lab results indicates most values, including hemoglobin, hematocrit, white and red blood cells, and platelets, are within normal ranges. Red blood cell indices show some anisocytosis and mild polychromasia indicative of slight variability but not outside generally acceptable limits. Liver and kidney function tests, including AST and creatinine levels, are stable and within normal parameters.
+
+**Assessment:**
+
+The patient's primary concern remains chronic asthma, unspecified without mention of status asthmaticus. Given his reported symptoms and reliance on his rescue inhaler, this suggests a need for a more robust management strategy. The evidence of occasional nighttime shortness of breath and documented expiratory wheezing supports this diagnosis. Secondary considerations include the management of his recurrent pharyngitis and addressing any orthopedic aftercare related to his previous fibula and tibia fractures.
+
+**Plan:**
+
+1. **Asthma Management:**
+   - Continue with the albuterol inhaler for acute symptom relief but instruct the patient on the risks of overuse.
+   - Initiate low-dose inhaled corticosteroid therapy to improve long-term asthma control and reduce nocturnal symptoms.
+   - Arrange for spirometry to assess lung function and evaluate the severity of airway obstruction.
+   - Discuss avoidance strategies for identified asthma triggers, including cold exposure and strenuous activity.
+
+2. **Pharyngitis and Throat Clearing:**
+   - Advise increased hydration and use of saline nasal sprays or lozenges to alleviate throat irritation.
+   - Monitor for any signs of bacterial infection that might necessitate antibiotic therapy.
+
+3. **Orthopedic Aftercare:**
+   - Reassess any lingering symptoms from previous fractures and ensure adherence to physical therapy if indicated.
+
+4. **Education:**
+   - Provide asthma education, including proper inhaler technique and the creation of an asthma action plan.
+   - Educate on the importance of regular follow-up and adherence to maintenance medications.
+
+5. **Follow-Up:**
+   - Schedule a follow-up appointment in two months to review spirometry results, assess the effectiveness of the corticosteroid treatment, and adjust the management plan as needed.
+   - Instruct the patient to contact the clinic if symptoms worsen or are not controlled within a week, or if any new symptoms arise that require further evaluation.
+
+The patient confirms understanding the management plan and the importance of medication adherence and trigger avoidance. He is cooperative and committed to following the prescribed regimen.
+
+---
+
+The patient's asthma management plan has been updated to include inhaled corticosteroids, and routine follow-up has been scheduled to ensure effective symptom control and overall respiratory health improvement. Continued monitoring and patient education are essential for optimizing his long-term outcomes.

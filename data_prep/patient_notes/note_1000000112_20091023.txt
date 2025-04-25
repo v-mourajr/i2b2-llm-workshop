@@ -1,0 +1,61 @@
+**Visit Information:**
+- Patient Num: 1000000112
+- Visit Date: 10/23/2009
+
+**Subjective:**
+This is an 18-year-old Black male from a Spanish-speaking household who presents for a follow-up visit regarding his asthma management and recent respiratory symptoms. The patient reports increased episodes of coughing, wheezing, and shortness of breath over the past several weeks, especially noticeable at night and during physical exertion. Despite regular use of his inhaler, these symptoms have not been sufficiently controlled. 
+
+The patient's medical history includes multiple asthma exacerbations of unspecified and extrinsic types, with instances of acute exacerbation and status asthmaticus. Additional respiratory conditions such as acute bronchiolitis, recurrent pneumonia, pulmonary collapse, and a case of unspecified pleural effusion have been recorded. He also has a history of hypertrophied adenoids, and a few musculoskeletal injuries such as fractures and effusion of the ankle and foot. The patient's mother confirmed no recent surgeries or major changes in health status. 
+
+The patient is currently using Atrovent 18 mcg/inh aerosol and express that it provides temporary relief but is insufficient for managing nocturnal and exercise-induced symptoms. He denies any known allergies. His current symptoms include persistent asthma with frequent dyspnea episodes that significantly affect his daily activities and school participation.
+
+**Objective:**
+- **Vital Signs:**
+    - Blood Pressure: 110/70 mmHg
+    - Heart Rate: 90 bpm
+    - Respiratory Rate: 20 breaths/min
+    - Temperature: 98.6°F
+    - Oxygen Saturation: 96% on room air
+
+- **General Appearance:**
+    The patient appears well-nourished, alert, and in no acute distress but demonstrates mild respiratory discomfort.
+
+- **Cardiovascular:**
+    Auscultation reveals normal S1 and S2 heart sounds with no murmurs, and a regular rate and rhythm.
+
+- **Respiratory:**
+    There are mild intercostal retractions, bilateral expiratory wheezes, and a slightly prolonged expiratory phase without crackles or rhonchi.
+
+- **Abdomen:**
+    Soft, non-tender with no palpable masses, and no evidence of hepatosplenomegaly.
+
+- **Musculoskeletal:**
+    Full range of motion observed with no deformities or localized tenderness.
+
+- **Neurological:**
+    Patient is alert, oriented x3, with intact cranial nerves and normal gait.
+
+- **Skin:**
+    No rashes, lesions, or signs of infection noted.
+
+**Assessment:**
+The patient continues to experience suboptimal asthma control, characterized by frequent exacerbations and nocturnal symptoms. Contributing factors likely include recurrent respiratory infections and hypertrophied adenoids, impacting effective asthma management.
+
+**Plan:**
+- **Issue/Problem/Request 1: Asthma**
+    - **Assessment:** Chronic asthma with frequent exacerbations, particularly nocturnally and post-exertion.
+    - **Diagnostic Tests:** Administer pulmonary function tests (spirometry) to gauge the extent of airway obstruction and response to bronchodilators.
+    - **Treatment Plan:** Adjust the medication regimen to better control symptoms, including considering the addition of a long-acting bronchodilator and inhaled corticosteroid. Continue Atrovent for acute relief. Schedule regular follow-ups to monitor the new treatment's efficacy, and refer to a pediatric pulmonologist for specialized management if necessary.
+
+- **Issue/Problem/Request 2: Recurrent Respiratory Infections**
+    - **Assessment:** History of recurrent pneumonia and pulmonary collapse indicates the need for vigilance against infections.
+    - **Diagnostic Tests:** Order a chest X-ray to identify any underlying pulmonary complications.
+    - **Treatment Plan:** Ensure up-to-date vaccinations, including the annual flu vaccine and pneumococcal vaccine. Educate the patient's family on recognizing early signs of infection and seeking prompt medical care.
+
+- **Issue/Problem/Request 3: Hypertrophy of Adenoids**
+    - **Assessment:** Hypertrophied adenoids potentially contributing to respiratory symptoms and asthma control issues.
+    - **Diagnostic Tests:** Refer to an ENT specialist for further evaluation, potentially including a nasopharyngoscopy.
+    - **Treatment Plan:** Depending on the ENT assessment, consider conservative management with nasal steroids or proceed with adenoidectomy if significant hypertrophy is evident.
+
+**Follow-Up:**
+The patient's mother was advised to monitor symptoms closely and ensure adherence to the new asthma medication regimen. Avoid asthma triggers and recognize early signs of respiratory infections. A follow-up visit is scheduled for one month to reassess symptom control and treatment efficacy. Instructions are given to contact the clinic if symptoms worsen, do not improve within a week, or if test results suggest further evaluation is necessary. Patient education focused on symptom monitoring, medication adherence, and environmental control to improve asthma management outcomes.

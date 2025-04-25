@@ -1,0 +1,16 @@
+demographics
+patient_num: 1000000064  age: 15
+patient_num: 1000000064  sex: M
+patient_num: 1000000064  race: asian
+patient_num: 1000000064  language: spanish
+patient_num: 1000000064  vital_status: alive
+patient_num: 1000000064  earliest fact: Oct  8 1998 12:00AM
+patient_num: 1000000064  latest fact: Oct  8 1998 12:00AM
+patient_num: 1000000064  range in days: 0
+totals
+patient_num: 1000000064  distinct concepts: 11
+patient_num: 1000000064  total facts: 11
+patient_num: 1000000064  total encounters: 2
+descriptive
+patient_num: 1000000064  diagnosis code: ICD9:315.2  name: Other specific developmental learning difficulties  count: 1
+patient_num: 1000000064  diagnosis code: ICD9:V70.0  name: Routine general medical examination at a health care facility  count: 1

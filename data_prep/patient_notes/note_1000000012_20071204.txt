@@ -1,0 +1,48 @@
+Visit Information:  
+- Patient Num: 1000000012  
+- Visit Date: 12/04/2007
+
+Subjective:  
+This is a 17-year-old Black female who presents for a follow-up visit regarding her asthma and other recurrent respiratory issues. The patient, a Spanish speaker, reported experiencing increased asthma symptoms, characterized by shortness of breath and wheezing, especially at night and during physical exertion. She has also had bouts of acute pharyngitis and episodes of otitis media, which have been frequent over the past year.
+
+The patient has a history of repeated respiratory infections, and her conditions have been managed with intermittent courses of antibiotics. She is currently taking Albuterol Sulfate tablets as needed for asthma and has recently completed a course of Trimox for acute otitis media. 
+
+The patient lives with her family, who are non-smokers. She attends school regularly and is active in soccer, despite her respiratory issues. There are no pets at home. Family and patient report no known drug allergies. Non-pharmacological methods such as using a humidifier at night and saline gargles for sore throats have been employed with varying degrees of success.
+
+The patient’s mother is concerned about the chronicity of these infections and seeks a more enduring solution to manage her conditions. There have been no significant changes in the patient’s appetite or weight, and she maintains a good spirit despite the recurrent symptoms.
+
+Objective:  
+Vital signs today are: Blood Pressure 118/76 mmHg, Heart Rate 84 bpm, Respiratory Rate 20/min, Temperature 99.0°F, and Oxygen Saturation 97% on room air. 
+
+On physical examination, the patient appears well-nourished and in no acute distress. The cardiovascular exam reveals regular heart rhythm with no murmurs. The respiratory exam shows clear lung fields without wheezes, crackles, or rhonchi. The abdomen is soft and non-tender with no palpable masses or organomegaly. The musculoskeletal examination indicates a full range of motion with no joint tenderness or swelling. Neurologically, the patient is intact with no focal deficits. Skin examination reveals no rashes or lesions; the skin is warm and dry.
+
+Assessment:  
+
+1. Asthma, unspecified without mention of status asthmaticus:
+   - Likely exacerbated by recent respiratory infections. 
+   - Requires ongoing management and monitoring.
+
+2. Recurrent acute pharyngitis:
+   - Persistent sore throat likely secondary to chronic infections.
+   - Requires further evaluation to ensure appropriate management.
+
+3. Recurrent acute suppurative otitis media:
+   - Recurrent nature suggests possible Eustachian tube dysfunction.
+   - Requires further diagnostic evaluation.
+
+4. Other conditions:
+   - Past records indicate various other conditions including musculoskeletal deformities, acute cystitis, allergic rhinitis, and bacterial pneumonia which should be considered in the overall management plan.
+
+Plan:  
+- Continue Albuterol Sulfate for asthma management. Emphasize adherence to the asthma action plan.
+- Obtain throat culture and CBC to evaluate for bacterial pharyngitis and underlying infection.
+- Prescribe a steroid nasal spray for potential Eustachian tube dysfunction associated with otitis media.
+- Refer to ENT specialist for comprehensive evaluation of recurrent pharyngitis and otitis media.
+- Provide education on avoiding asthma triggers, maintaining good hand hygiene to prevent infections, and the importance of medication adherence.
+- Schedule a follow-up appointment in two weeks to review results and assess symptom progression.
+
+Follow-Up:  
+- Instruct the patient and her mother to monitor for worsening symptoms or any new symptoms and contact the clinic if there is no improvement within one week.
+- Ensure the patient and her mother understand the treatment plan and the importance of follow-up appointments for continued assessment and management. 
+
+The patient and her mother confirmed understanding of the plan and agreed to follow it meticulously. They were reassured and appeared comfortable with the proposed approach for managing her conditions.

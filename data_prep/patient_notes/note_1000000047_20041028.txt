@@ -1,0 +1,36 @@
+**Narrative Physician's Note**
+
+Visit Information:
+
+- Patient Num: 1000000047
+- Visit Date: 10/28/2004
+
+Subjective:
+
+This is a 34-year-old Black male who returns for follow-up care at our clinic. He has been under our care for approximately 5 years, seeking treatment primarily for his persistent allergic rhinitis and concerns regarding abnormal liver function tests. He communicates fluently in English. Today, he presents with a primary complaint of worsening nasal congestion, sneezing, and itchy eyes, which are persistent and not fully controlled by his current medication, Hismanal. Additionally, he reports feeling generally unwell and fatigued, which he fears may be linked to his liver condition. He has also experienced intermittent right-sided abdominal pain but denies nausea, vomiting, or changes in bowel habits.
+
+The patient has a significant past medical history of allergic rhinitis due to various allergens, including pollen. There have been previous instances of chronic bronchitis, though this is not a current concern. Additionally, he has a history of open wounds on his hand and fingers, which have healed without complications. He has previously received medication via nebulizer for an unrelated episode. His medications include Hismanal for his allergic symptoms and Metronidazole, possibly prescribed for a past infection. He denies any new allergies to medications or food.
+
+Socially, the patient is a non-smoker, does not consume alcohol, and denies any illicit drug use. He is currently employed in a clerical position, which does not present any occupational hazards. He lives alone and maintains an active lifestyle through regular exercise.
+
+Objective:
+
+Vital signs were noted as follows: Blood Pressure: 125/80 mmHg, Heart Rate: 76 bpm, Respiratory Rate: 18 breaths per minute, Temperature: 98.6°F, Oxygen Saturation: 98% on room air.
+
+On physical examination, the patient appeared well-nourished and in no acute distress. Cardiovascular examination revealed regular heart rate and rhythm without murmurs, gallops, or rubs. Respiratory effort was normal without wheezing or rales on auscultation. Abdominal examination revealed mild tenderness in the right upper quadrant without palpable masses, hepatomegaly, or splenomegaly. Musculoskeletal and neurological examinations were unremarkable, with normal range of motion and sensory responses. Skin examination did not show rashes or lesions and skin turgor was normal.
+
+Laboratory tests indicated elevated levels of ALT and AST, as well as abnormalities in both direct and total bilirubin levels, suggestive of liver function impairment. His lipid panel suggested hyperlipidemia and his glucose and protein levels were within normal ranges.
+
+Assessment:
+
+1. Chronic allergic rhinitis due to multiple allergens, currently poorly controlled.
+2. Abnormal liver function test results indicating potential chronic liver disease.
+3. Intermittent right upper quadrant abdominal pain without acute gastrointestinal pathology.
+
+Plan:
+
+1. For allergic rhinitis: Continue Hismanal, and initiate a nasal steroid spray such as Fluticasone to improve symptom control. Refer to an allergist for evaluation and consideration of allergen-specific immunotherapy.
+2. For liver function abnormalities: Repeat liver function tests including a comprehensive liver panel. Schedule an abdominal ultrasound to further investigate liver pathology. Refer to a gastroenterologist for a thorough evaluation of potential chronic liver disease.
+3. For abdominal pain: Advise the patient to monitor for exacerbation and consider dietary changes to avoid potential food triggers. Reassess during the next visit.
+
+We reviewed the importance of medication adherence, lifestyle modifications, and dietary management with the patient. He was instructed to contact the clinic if his symptoms worsen or fail to improve within a week, or if results from the ordered tests suggest the need for further evaluation. A follow-up appointment was scheduled in two weeks to discuss laboratory findings and reassess his condition.

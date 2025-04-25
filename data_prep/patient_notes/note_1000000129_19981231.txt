@@ -1,0 +1,56 @@
+**Visit Information:**
+    - Patient Num: 1000000129
+    - Visit Date: 12/31/1998
+
+**Subjective:**
+This is a 28-year-old Hispanic male who is fluent in German and presents today for his routine follow-up visit. The patient has a history of recurrent acute sinusitis, convulsions, cough, epistaxis, erythematosquamous dermatosis, fever, lack of normal physiological development, myalgia and myositis, obesity, unspecified injury to knee, leg, ankle, and foot, joint pain, and pleurisy. 
+
+The patient reports experiencing persistent cough and occasional fever over the past week along with intermittent nasal congestion and episodes of epistaxis. He notes his cough has been productive with yellowish sputum. He denies any shortness of breath or chest pain. 
+
+He is currently on medications to manage obesity and convulsions, and regularly uses a nasal saline spray for his sinus symptoms. The patient also mentioned adherence to dietary restrictions to manage his weight and has been incorporating physical activity daily. He has not undergone any recent surgeries.
+
+Socially, the patient lives alone, works as a software engineer, and is a non-smoker. He rarely consumes alcohol and has no history of illicit drug use.
+
+**Objective:**
+- **Vital Signs:**
+    - Blood Pressure: 125/80 mmHg
+    - Heart Rate: 78 bpm
+    - Respiratory Rate: 18 breaths per minute
+    - Temperature: 99.3 °F
+    - Oxygen Saturation: 98% on room air
+
+- **General Appearance:** The patient appears well-nourished and in no acute distress.
+- **Cardiovascular:** Regular rate and rhythm, no murmurs, gallops, or rubs.
+- **Respiratory:** Clear to auscultation bilaterally, no wheezes, rales, or rhonchi. Mild tenderness to palpation over the maxillary sinuses.
+- **Abdomen:** Soft, non-tender, non-distended, bowel sounds present in all four quadrants.
+- **Musculoskeletal:** Full range of motion in all joints, mild diffuse myalgia reported.
+- **Neurological:** Alert and oriented, no focal deficits.
+- **Skin:** No new or changing rashes, erythematous dermatitis noted on the extensor surfaces of the arms.
+
+Recent laboratory results:
+- Normal thyroid function tests (Free T4 index, T3 resin uptake, TSH, T4)
+- Urinalysis showed trace protein and specific gravity within normal limits, with no signs of infection (negative for glucose, ketones, nitrites, and WBC).
+
+**Assessment:**
+The patient presents with symptoms likely attributable to his known history of acute sinusitis, currently experiencing a flare-up possibly complicated by secondary upper respiratory infection. His erythematosquamous dermatosis appears stable, requiring no immediate intervention. Obesity management continues to be a significant aspect of his health maintenance, along with ongoing monitoring following his history of convulsions.
+
+**Plan:**
+- **Acute Sinusitis with Upper Respiratory Infection:**
+    - Start patient on a course of amoxicillin-clavulanate for 10 days.
+    - Recommend continued use of nasal saline spray and the addition of a corticosteroid nasal spray to manage inflammation.
+    - Encourage adequate hydration and rest.
+- **Erythematosquamous Dermatosis:**
+    - Continue current skin care regimen with emollients and topical corticosteroids as needed.
+- **Obesity:**
+    - Reinforce dietary modifications and regular physical activity.
+    - Schedule follow-up with nutritionist for additional dietary planning and support.
+- **Convulsions:**
+    - Continue current anticonvulsant medication.
+    - Arrange for neurology follow-up to review medication levels and control.
+- **General Recommendations:**
+    - Instruct patient to monitor symptoms, especially fever and productive cough, and return if symptoms worsen or do not improve within the week.
+    - Patient education provided on medication adherence, symptom management, and lifestyle modification. 
+
+**Follow-Up:**
+    - Instruct patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.
+    - Plan for routine follow-up in 3 months to review overall progress and condition.

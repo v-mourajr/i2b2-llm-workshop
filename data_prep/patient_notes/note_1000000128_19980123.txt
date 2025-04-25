@@ -1,0 +1,62 @@
+**Visit Information:**
+- Patient Num: 1000000128
+- Visit Date: 01/23/1998
+
+**Subjective:**
+This is a 32-year-old Black female who has been a patient in our clinic for the past 5 months. She speaks English and is presenting today, 01/23/1998, for follow-up of her asthma. She currently complains of shortness of breath, which has been more frequent over the past two weeks, especially noticeable during physical exertion and at night. The patient reports using her rescue inhaler more than usual, about three to four times per week.
+
+Her past medical history is significant for asthma, which she has had since childhood, and she has previously been hospitalized due to acute exacerbations. Additionally, the patient has a history of second-degree burns on unspecified parts of her body, incurred approximately 4 months ago. She has no known drug allergies.
+
+Medications include her regular asthma maintenance therapy with a combination inhaler (fluticasone/salmeterol) and Ortho Tri-Cyclen, taken for the past year without any significant side effects. She reports adherence to her medication regimen, although she acknowledges occasional missed doses of her asthma controller inhaler.
+
+The patient lives alone and works as a customer service representative in a call center. She does not smoke and denies alcohol or illicit drug use. Her family history is notable for asthma in her mother.
+
+**Objective:**
+- **Vital Signs:** 
+  - Blood Pressure: 120/75 mmHg
+  - Heart Rate: 82 beats per minute
+  - Respiratory Rate: 18 breaths per minute
+  - Temperature: 98.6°F
+  - Oxygen Saturation: 96% on room air
+
+- **General Appearance:**
+  The patient is alert, oriented, and in no apparent distress but appears mildly anxious.
+
+- **Cardiovascular:**
+  Regular rhythm and rate without murmurs, gallops, or rubs.
+
+- **Respiratory:**
+  Bilateral wheezing heard in all lung fields, no crackles or rales. Prolonged exhalation noted.
+
+- **Abdomen:**
+  Soft, non-tender, no hepatosplenomegaly, bowel sounds present in all quadrants.
+
+- **Musculoskeletal:**
+  Normal range of motion in all joints, no deformities or tenderness noted.
+
+- **Neurological:**
+  Alert and oriented to person, place, and time. Cranial nerves II-XII intact with no focal deficits.
+
+- **Skin:**
+  Scattered areas of hyperpigmentation from healed burn lesions, no active lesions or signs of infection.
+
+**Assessment:**
+The patient continues to have frequent asthma symptoms, which signal a potential need for adjustments in her management plan. Additionally, her history indicates effective recovery from previous burn injuries with no current complications. 
+
+- **Primary Diagnosis:** Asthma, not elsewhere classified (exacerbation).
+- **Secondary Diagnosis:** Burn of unspecified site, unspecified degree (resolved).
+
+**Plan:**
+- **For Asthma:**
+  - Assessment: Asthma exacerbation likely due to inadequate control.
+  - Diagnostic Tests: Pulmonary function tests (PFTs) to assess lung function and severity of asthma.
+  - Treatment Plan: Increase the dose of the inhaled corticosteroid, consider adding a long-acting bronchodilator if not already in use, and provide a spacer device to improve drug delivery. Educate patient on the importance of daily inhaler use and proper inhaler technique. Advise an asthma action plan.
+  - Referrals: Referral to a pulmonologist for further management if symptoms persist despite stepped-up therapy.
+  
+- **For Burn History:**
+  - Assessment: Healed burn injuries without active issues.
+  - Diagnostic Tests: Not required at this time.
+  - Treatment Plan: Ensure skin remains moisturized to reduce dryness and itching. Monitor for any signs of complications such as infection or new lesions. No additional treatment required currently.
+
+**Follow-Up:**
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. Schedule a follow-up appointment in one month to assess asthma control and review PFT results. Educate the patient on recognizing early signs of asthma exacerbation and reinforce the importance of adherence to the asthma management plan.

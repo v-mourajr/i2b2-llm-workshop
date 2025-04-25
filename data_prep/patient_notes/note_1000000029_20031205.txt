@@ -1,0 +1,72 @@
+**Visit Information:**
+
+- Patient Num: 1000000029
+- Visit Date: 12/05/2003
+
+**Subjective:**
+
+This is a 20-year-old Hispanic male who speaks English and has been receiving care at our clinic for approximately five years. He presents today for follow-up concerning his ongoing health issues, primarily asthma and occasional episodes of acute bronchitis. The patient reports increased shortness of breath and wheezing, particularly during physical activities and nighttime over the past month. He uses albuterol inhaler as needed, with partial relief of symptoms. He also mentions a recent episode of acute bronchitis, characterized by a persistent, productive cough lasting about two weeks producing yellow sputum, accompanied by throat pain. 
+
+His mental health remains a concern with persisting depressive symptoms, including low mood, feelings of hopelessness, and social withdrawal. He denies any changes in his psychotropic medications and has not had any recent surgeries.
+
+Living with his parents, the patient is a high school student and abstains from tobacco, alcohol, or recreational drugs. Efforts to alleviate his conditions include engaging in regular physical activity and maintaining a balanced diet. He has no known allergies and does not report significant side effects from his current asthma and depression medications.
+
+**Objective:**
+
+- **Vital Signs:**
+  - Blood Pressure: 118/76 mmHg
+  - Heart Rate: 82 bpm
+  - Respiratory Rate: 20 breaths/min
+  - Temperature: 98.6°F
+  - Oxygen Saturation: 96% on room air
+
+- **General Appearance:**
+  The patient appears mildly anxious but is alert, cooperative, and well-nourished, with no signs of acute distress.
+
+- **Cardiovascular:**
+  Regular heart rate and rhythm with no murmurs, gallops, or rubs.
+
+- **Respiratory:**
+  Mild expiratory wheezes heard bilaterally without rales or rhonchi. There is no use of accessory muscles during respiration.
+
+- **Abdomen:**
+  The abdomen is soft and non-tender, with normal bowel sounds. No hepatosplenomegaly is noted.
+
+- **Musculoskeletal:**
+  The patient demonstrates full range of motion in all extremities without pain, swelling, or deformity.
+
+- **Neurological:**
+  He is alert and oriented to person, place, and time. Cranial nerves II-XII are intact, and motor and sensory functions are normal.
+
+- **Skin:**
+  No new skin lesions or rashes noted. Previously identified benign neoplasms appear unchanged.
+
+**Assessment:**
+
+The patient presents with persistent respiratory symptoms indicative of poorly controlled asthma exacerbated by acute bronchitis. His major depressive disorder continues to impact his quality of life, and symptoms of a previously noted unspecified psychosis remain a concern. Chronic dental issues, including caries and gingival disease, should not be overlooked in ongoing care.
+
+**Plan:**
+
+1. **Asthma and Acute Bronchitis:**
+   - Continue using albuterol as needed for acute symptom relief.
+   - Prescribe a 5-day course of oral prednisone (20 mg daily) to address the acute exacerbation.
+   - Increase the dose of his daily inhaled corticosteroid (Flovent) to improve long-term asthma control.
+   - Educate the patient on the use of a peak flow meter to monitor airway function and on the asthma action plan to maintain long-term control.
+
+2. **Depressive Disorder and Psychosis:**
+   - Begin cognitive-behavioral therapy (CBT) sessions once weekly.
+   - Initiate fluoxetine (10 mg daily), with a plan to titrate up based on clinical response and tolerability.
+   - Refer the patient to a psychiatrist for a detailed evaluation and management of his psychosis symptoms.
+   - Encourage adherence to treatment and follow-up appointments for mental health management.
+
+3. **Laboratory and Clinical Follow-Up:**
+   - Schedule a complete blood count (CBC) and comprehensive metabolic panel (CMP) in one month to monitor the side effects of the new medication regimen.
+   - Set psychological and psychiatric assessments within the coming two weeks.
+
+4. **Follow-Up Instructions:**
+   - Recommend a follow-up visit in two weeks to reassess symptoms, treatment efficacy, and address any possible side effects.
+   - Advise the patient to contact the clinic if symptoms worsen, fail to improve within the next week, or if he experiences any adverse reactions to the medications.
+
+**Patient Education & Understanding:**
+
+The patient and his family have been counseled on the critical importance of adhering to the prescribed treatment plan and monitoring for medication side effects. They have also been guided on non-pharmacologic measures, such as maintaining a healthy lifestyle and actively managing stress. The patient has demonstrated a clear understanding of the treatment plan and the need to promptly report any emerging concerns.

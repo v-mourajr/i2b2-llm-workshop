@@ -1,0 +1,158 @@
+demographics
+patient_num: 1000000085  age: 58
+patient_num: 1000000085  sex: F
+patient_num: 1000000085  race: indian
+patient_num: 1000000085  language: english
+patient_num: 1000000085  vital_status: alive
+patient_num: 1000000085  earliest fact: Feb 13 1998 12:00AM
+patient_num: 1000000085  latest fact: Apr  6 2004 12:00AM
+patient_num: 1000000085  range in days: 2244
+totals
+patient_num: 1000000085  distinct concepts: 151
+patient_num: 1000000085  total facts: 647
+patient_num: 1000000085  total encounters: 50
+patient_num: 1000000085  total asthma: 6
+descriptive
+patient_num: 1000000085  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 5
+patient_num: 1000000085  asthma code: ICD9:493.00  name: Extrinsic asthma without mention of status asthmaticus  count: 1
+patient_num: 1000000085  diagnosis code: ICD9:995.3  name: Allergy, unspecified, not elsewhere classified  count: 3
+patient_num: 1000000085  diagnosis code: ICD9:995.66  name: Anaphylactic shock due to adverse food reaction to food additives  count: 2
+patient_num: 1000000085  diagnosis code: ICD9:789.5  name: Ascites  count: 1
+patient_num: 1000000085  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 5
+patient_num: 1000000085  diagnosis code: ICD9:216.5  name: Benign neoplasm of skin of trunk, except scrotum  count: 1
+patient_num: 1000000085  diagnosis code: ICD9:427.9  name: Cardiac dysrhythmia, unspecified  count: 1
+patient_num: 1000000085  diagnosis code: ICD9:89.41  name: Cardiovascular stress test using treadmill  count: 1
+patient_num: 1000000085  diagnosis code: ICD9:682.2  name: Cellulitis and abscess of trunk  count: 1
+patient_num: 1000000085  diagnosis code: ICD9:616.0  name: Cervicitis and endocervicitis  count: 1
+patient_num: 1000000085  diagnosis code: ICD9:96.71  name: Continuous mechanical ventilation for less than 96 consecutive hours  count: 1
+patient_num: 1000000085  diagnosis code: ICD9:311  name: Depressive disorder, not elsewhere classified  count: 1
+patient_num: 1000000085  diagnosis code: ICD9:V58.81  name: Encounter for fitting and adjustment of vascular catheter  count: 1
+patient_num: 1000000085  diagnosis code: ICD9:617.2  name: Endometriosis of fallopian tube  count: 1
+patient_num: 1000000085  diagnosis code: ICD9:617.1  name: Endometriosis of ovary  count: 1
+patient_num: 1000000085  diagnosis code: ICD9:617.0  name: Endometriosis of uterus  count: 4
+patient_num: 1000000085  diagnosis code: ICD9:617.9  name: Endometriosis, site unspecified  count: 2
+patient_num: 1000000085  diagnosis code: ICD9:530.81  name: Esophageal reflux  count: 3
+patient_num: 1000000085  diagnosis code: ICD9:493.00  name: Extrinsic asthma without mention of status asthmaticus  count: 1
+patient_num: 1000000085  diagnosis code: ICD9:276.8  name: Hypopotassemia  count: 1
+patient_num: 1000000085  diagnosis code: ICD9:998.51  name: Infected postoperative seroma  count: 2
+patient_num: 1000000085  diagnosis code: ICD9:96.04  name: Insertion of endotracheal tube  count: 1
+patient_num: 1000000085  diagnosis code: ICD9:218.1  name: Intramural leiomyoma of uterus  count: 1
+patient_num: 1000000085  diagnosis code: ICD9:626.4  name: Irregular menstrual cycle  count: 2
+patient_num: 1000000085  diagnosis code: ICD9:218.9  name: Leiomyoma of uterus, unspecified  count: 4
+patient_num: 1000000085  diagnosis code: ICD9:611.71  name: Mastodynia  count: 1
+patient_num: 1000000085  diagnosis code: ICD9:995.0  name: Other anaphylactic shock  count: 1
+patient_num: 1000000085  diagnosis code: ICD9:691.8  name: Other atopic dermatitis and related conditions  count: 3
+patient_num: 1000000085  diagnosis code: ICD9:786.59  name: Other chest pain  count: 4
+patient_num: 1000000085  diagnosis code: ICD9:626.8  name: Other disorders of menstruation and other abnormal bleeding from female genital tract  count: 5
+patient_num: 1000000085  diagnosis code: ICD9:42.23  name: Other esophagoscopy  count: 1
+patient_num: 1000000085  diagnosis code: ICD9:68.29  name: Other excision or destruction of lesion of uterus  count: 1
+patient_num: 1000000085  diagnosis code: ICD9:620.8  name: Other noninflammatory disorders of ovary, fallopian tube, and broad ligament  count: 1
+patient_num: 1000000085  diagnosis code: ICD9:65.61  name: Other removal of both ovaries and tubes at same operative episode  count: 2
+patient_num: 1000000085  diagnosis code: ICD9:V76.12  name: Other screening mammogram  count: 1
+patient_num: 1000000085  diagnosis code: ICD9:623.8  name: Other specified noninflammatory disorders of vagina  count: 1
+patient_num: 1000000085  diagnosis code: ICD9:041.19  name: Other Staphylococcus infection in conditions classified elsewhere and of unspecified site  count: 1
+patient_num: 1000000085  diagnosis code: ICD9:627.1  name: Postmenopausal bleeding  count: 3
+patient_num: 1000000085  diagnosis code: ICD9:V72.5  name: Radiological examination, not elsewhere classified  count: 1
+patient_num: 1000000085  diagnosis code: ICD9:799.1  name: Respiratory arrest  count: 2
+patient_num: 1000000085  diagnosis code: ICD9:V76.1  name: Screening for malignant neoplasms of the breast  count: 1
+patient_num: 1000000085  diagnosis code: ICD9:V72.3  name: Special investigations and examinations  count: 1
+patient_num: 1000000085  diagnosis code: ICD9:68.4  name: Total abdominal hysterectomy  count: 2
+patient_num: 1000000085  diagnosis code: ICD9:995.2  name: Unspecified adverse effect of drug, medicinal and biological substance (due) to correct medicinal substance properly administered  count: 1
+patient_num: 1000000085  diagnosis code: ICD9:786.50  name: Unspecified chest pain  count: 2
+patient_num: 1000000085  diagnosis code: ICD9:401.9  name: Unspecified essential hypertension  count: 1
+patient_num: 1000000085  diagnosis code: ICD9:244.9  name: Unspecified hypothyroidism  count: 1
+patient_num: 1000000085  diagnosis code: ICD9:473.9  name: Unspecified sinusitis (chronic)  count: 1
+patient_num: 1000000085  medication code: NDC:00005306343  name: Albuterol Sulfate 4mg tablet ESI Lederle Generics  count: 4
+patient_num: 1000000085  medication code: NDC:00088109047  name: Allegra-D 60mg-120mg tablet extended release Aventis Pharmaceuticals  count: 3
+patient_num: 1000000085  medication code: NDC:00264122200  name: Dextrose and Sodium Chloride Dextrose 10% with 0.45% NaCl solution B. Braun/McGaw Inc  count: 2
+patient_num: 1000000085  medication code: NDC:00085006906  name: Garamycin 40 mg/ml solution Schering Corporation  count: 3
+patient_num: 1000000085  medication code: NDC:00245012112  name: Uniserts 120mg suppository Upsher-Smith Laboratories Inc  count: 4
+patient_num: 1000000085  medication code: NDC:00173044100  name: Zantac 1 mg/ml solution Glaxo Wellcome  count: 3
+patient_num: 1000000085  medication code: NDC:00049496050  name: Zoloft 25mg tablet Pfizer U.S. Pharmaceuticals  count: 4
+patient_num: 1000000085  laboratory code: LOINC:26444-0  name: Abs Basos (Group:ABASOP)  count: 1
+patient_num: 1000000085  laboratory code: LOINC:704-7  name: Abs Basos Auto (Group:ABASOS)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:26449-9  name: Abs Eos (Group:AEOSN)  count: 1
+patient_num: 1000000085  laboratory code: LOINC:711-2  name: Abs EOS Auto (Group:AEOS)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:26474-7  name: Abs Lymphs (Group:ALYMP)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:731-0  name: Abs Lymphs Auto (Group:ALYMPHS)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:26484-6  name: Abs Monos (Group:AMONS)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:742-7  name: Abs Monos Auto (Group:AMONOS)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:26499-4  name: Abs Neuts (Group:ANEU)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:752-6  name: Abs Neuts Auto (Group:ANEUTS)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:1751-7  name: Albumin (Group:ALB)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:10466-1  name: Anion Gap (Group:ANION)  count: 1
+patient_num: 1000000085  laboratory code: LOINC:2019-8  name: Arterial PCO2 (Group:APCO2)  count: 1
+patient_num: 1000000085  laboratory code: LOINC:2744-1  name: Arterial pH (Group:APH)  count: 1
+patient_num: 1000000085  laboratory code: LOINC:2703-7  name: Arterial PO2 (Group:APO2)  count: 1
+patient_num: 1000000085  laboratory code: LOINC:1920-8  name: AST (SGOT) (Group:SGOT)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:735-1  name: Atypical Lymphs (Group:ATYPS)  count: 1
+patient_num: 1000000085  laboratory code: LOINC:30180-4  name: Basophils (Group:BASOP)  count: 1
+patient_num: 1000000085  laboratory code: LOINC:706-2  name: Basophils - Auto (Group:BASOS)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:5770-3  name: Bilirubin (Group:UA-BILI)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:3094-0  name: Blood Urea Nitrogen (Group:BUN)  count: 7
+patient_num: 1000000085  laboratory code: LOINC:2000-8  name: Calcium (Group:CA)  count: 1
+patient_num: 1000000085  laboratory code: LOINC:2028-9  name: Carbon Dioxide (Group:CO2)  count: 5
+patient_num: 1000000085  laboratory code: LOINC:2075-0  name: Chloride (Group:CL)  count: 5
+patient_num: 1000000085  laboratory code: LOINC:6773-6  name: CK-MB QUANT (Group:CPK-MB)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:5778-6  name: Color (Group:UA-COLOR)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:2157-6  name: CPK (Group:CPK)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:2160-0  name: Creatinine (Group:CRE)  count: 7
+patient_num: 1000000085  laboratory code: LOINC:3247-4  name: D-dimer Test (Group:DDTEST)  count: 1
+patient_num: 1000000085  laboratory code: LOINC:X2012-1  name: Differential Request (Group:DIFFR)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:1968-7  name: Direct Bilirubin (Group:DBILI)  count: 4
+patient_num: 1000000085  laboratory code: LOINC:26450-7  name: Eosinophils (Group:EOSP)  count: 1
+patient_num: 1000000085  laboratory code: LOINC:713-8  name: Eosinophils - Auto (Group:EOS)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:4537-7  name: ESR (Group:ESR)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:3151-8  name: FIO2 (Group:FIO2)  count: 6
+patient_num: 1000000085  laboratory code: LOINC:2286-3  name: FSH (Group:FSH,CH)  count: 1
+patient_num: 1000000085  laboratory code: LOINC:2336-6  name: Globulin (Group:GLOB)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:6777-7  name: Glucose (Group:GLU)  count: 7
+patient_num: 1000000085  laboratory code: LOINC:5792-7  name: Glucose - UA (Group:UA-GLUC)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:2118-8  name: HCG-Qual (Group:HCG,QL)  count: 1
+patient_num: 1000000085  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 9
+patient_num: 1000000085  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 9
+patient_num: 1000000085  laboratory code: LOINC:728-6  name: Hypochromia (Group:HYPO)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:1994-3  name: Ionized Calcium (Group:IC)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:5797-6  name: Ketones (Group:UA-KET)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:2532-0  name: LDH (Group:LDH)  count: 4
+patient_num: 1000000085  laboratory code: LOINC:26478-8  name: Lymphocytes (Group:LYMP)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:736-9  name: Lymphocytes - Auto (Group:LYMPHS)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:11554-3  name: Magnesium (Group:MG)  count: 1
+patient_num: 1000000085  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 9
+patient_num: 1000000085  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 10
+patient_num: 1000000085  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 9
+patient_num: 1000000085  laboratory code: LOINC:26485-3  name: Monocytes (Group:MON)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:5905-5  name: Monocytes - Auto (Group:MONOS)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:26511-6  name: Neutrophils (Group:NEUT)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:770-8  name: Neutrophils - Auto (Group:POLYS)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:5802-4  name: Nitrites (Group:UA-NIT)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:5794-3  name: Occult Blood (Group:UA-BLD)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:2692-2  name: Osmolality (Group:OSM)  count: 1
+patient_num: 1000000085  laboratory code: LOINC:5803-2  name: PH (Group:UA-PH)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:2777-1  name: Phosphorus (Group:PHOS)  count: 1
+patient_num: 1000000085  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 9
+patient_num: 1000000085  laboratory code: LOINC:2823-3  name: Potassium (Group:K)  count: 7
+patient_num: 1000000085  laboratory code: LOINC:5804-0  name: Protein (Group:UA-ALB)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:5902-2  name: PT (Group:PT)  count: 3
+patient_num: 1000000085  laboratory code: LOINC:6301-6  name: PT-INR (Group:PT-INR)  count: 1
+patient_num: 1000000085  laboratory code: LOINC:5898-2  name: PTT (Group:PTT)  count: 3
+patient_num: 1000000085  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 9
+patient_num: 1000000085  laboratory code: LOINC:5808-1  name: RBC - Urine Sed (Group:UAS-RBC)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:6742-1  name: RBC Morph Manual (Group:RCM-M)  count: 1
+patient_num: 1000000085  laboratory code: LOINC:788-0  name: RDW (Group:RDW)  count: 7
+patient_num: 1000000085  laboratory code: LOINC:X2021-0  name: Slide Review PLT (Group:MSRP)  count: 1
+patient_num: 1000000085  laboratory code: LOINC:2951-2  name: Sodium (Group:NA)  count: 7
+patient_num: 1000000085  laboratory code: LOINC:5811-5  name: Specific Gravity (Group:UA-SPGR)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:1975-2  name: Total Bilirubin (Group:TBILI)  count: 4
+patient_num: 1000000085  laboratory code: LOINC:2885-2  name: Total Protein (Group:TP)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:10839-9  name: Troponin-I (Group:TROP-I)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:3016-3  name: TSH (Group:TSH)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:5767-9  name: Turbidity (Group:UA-TURB)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:11557-6  name: Unspecified PCO2 (Group:BPCO2)  count: 5
+patient_num: 1000000085  laboratory code: LOINC:11558-4  name: Unspecified pH (Group:BPH)  count: 6
+patient_num: 1000000085  laboratory code: LOINC:11556-8  name: Unspecified PO2 (Group:BPO2)  count: 4
+patient_num: 1000000085  laboratory code: LOINC:3084-1  name: Uric Acid (Group:URIC)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:5818-0  name: Urobilinogen (Group:UA-UROBI)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 9
+patient_num: 1000000085  laboratory code: LOINC:5821-4  name: WBC - Urine Sed (Group:UAS-WBC)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:5799-2  name: WBC Screen (Group:UA-WBC)  count: 2

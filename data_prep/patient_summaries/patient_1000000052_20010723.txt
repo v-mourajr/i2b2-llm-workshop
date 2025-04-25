@@ -1,0 +1,22 @@
+demographics
+patient_num: 1000000052  age: 30
+patient_num: 1000000052  sex: M
+patient_num: 1000000052  race: asian
+patient_num: 1000000052  language: spanish
+patient_num: 1000000052  vital_status: alive
+patient_num: 1000000052  earliest fact: May 16 2001 12:00AM
+patient_num: 1000000052  latest fact: Jul 23 2001 12:00AM
+patient_num: 1000000052  range in days: 68
+totals
+patient_num: 1000000052  distinct concepts: 15
+patient_num: 1000000052  total facts: 22
+patient_num: 1000000052  total encounters: 8
+patient_num: 1000000052  total asthma: 1
+descriptive
+patient_num: 1000000052  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 1
+patient_num: 1000000052  diagnosis code: ICD9:E919.8  name: Accidents caused by other specified machinery  count: 1
+patient_num: 1000000052  diagnosis code: ICD9:84.01  name: Amputation and disarticulation of finger  count: 1
+patient_num: 1000000052  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 1
+patient_num: 1000000052  diagnosis code: ICD9:V05.9  name: Need for prophylactic vaccination and inoculation against unspecified single disease  count: 1
+patient_num: 1000000052  diagnosis code: ICD9:959.5  name: Other and unspecified injury to finger  count: 1
+patient_num: 1000000052  diagnosis code: ICD9:886.0  name: Traumatic amputation of other finger(s) (complete) (partial), without mention of complication  count: 8

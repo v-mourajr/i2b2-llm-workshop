@@ -1,0 +1,63 @@
+Visit Information:
+- Patient Num: 1000000107
+- Visit Date: 07/15/2009
+
+This is a 31-year-old Hispanic male who has been under care at our clinic for approximately twelve years. He speaks German and presents today for a follow-up visit. The patient reports intermittent abdominal discomfort and loose stools, which have increased in both frequency and severity over the last week. Additionally, he has noticed a reappearance of a generalized erythematous rash. He denies any recent fever, chills, night sweats, or respiratory symptoms.
+
+The patient's relevant past medical history includes episodes of recurrent noninfectious gastroenteritis, unspecified upper respiratory tract infections, developmental learning difficulties, a history of scarlet fever in childhood, a wrist sprain, and an aneurysm of the heart. He has been utilizing over-the-counter antacids to manage his abdominal symptoms and topical antihistamines for his rash, though he reports that these measures provide only partial relief.
+
+The patient is currently a postgraduate student living in a shared apartment. He maintains an active lifestyle as a member of his university's soccer team and abstains from smoking, alcohol, and recreational drugs. He has a known allergy to penicillin, which causes hives.
+
+The patient's abdominal pain is described as a dull, crampy sensation localized in the lower abdomen, aggravated by food intake and somewhat alleviated by antacids. The erythematous rash is pruritic and located on his chest and back; it has been severe during previous episodes of scarlet fever.
+
+### Objective:
+#### Vital Signs:
+- Blood Pressure: 130/85 mmHg
+- Heart Rate: 82 beats/min
+- Respiratory Rate: 18 breaths/min
+- Temperature: 37.2°C (98.96°F)
+- Oxygen Saturation: 98% on room air
+
+#### General Appearance:
+The patient appears well-developed, well-nourished, alert, and in no acute distress. He is cooperative throughout the examination.
+
+#### Cardiovascular:
+Normal S1 and S2 detected. No murmurs, rubs, or gallops heard, and he has a regular rhythm with equal and symmetric peripheral pulses.
+
+#### Respiratory:
+Clear lung fields bilaterally, with no wheezing, rhonchi, or crackles upon auscultation.
+
+#### Abdomen:
+The abdomen is soft and non-distended with mild tenderness in the lower quadrants. No rebound tenderness, guarding, hepatomegaly, or splenomegaly is noted. Bowel sounds are active across all quadrants.
+
+#### Musculoskeletal:
+The patient has a normal range of motion in all extremities. The previously sprained wrist shows no signs of swelling, deformity, or instability.
+
+#### Neurological:
+The patient is alert and oriented to person, place, and time. Cranial nerves II-XII are intact, motor and sensory functions are within normal limits, and deep tendon reflexes are 2+ and symmetric.
+
+#### Skin:
+An erythematous maculopapular rash is present on the chest and back, with no evidence of drainage or other skin lesions.
+
+### Assessment:
+The patient's symptoms are suggestive of chronic recurrent noninfectious gastroenteritis and an erythematous skin rash possibly related to previous infections or an allergic response. Additionally, his developmental learning difficulties continue to be a concern.
+
+### Plan:
+#### 1. Recurrent Noninfectious Gastroenteritis:
+- Continue current treatment with antacids.
+- Introduce a proton pump inhibitor to improve symptom control.
+- Recommend a bland diet and increased water intake.
+- If symptoms persist, a gastroenterologist referral will be considered.
+
+#### 2. Erythematous Skin Rash:
+- Maintain the use of topical antihistamines.
+- Prescribe a short course of low-potency corticosteroid cream for better symptomatic relief.
+- Advise the patient to avoid known allergens and irritants.
+- Follow up in dermatology if there is no improvement in the condition.
+
+#### 3. Developmental Learning Difficulties:
+- Encourage continued use of the university's educational accommodations.
+- Refer the patient to a learning specialist for comprehensive assessment and support.
+
+### Follow-Up:
+The patient was instructed to contact the clinic if symptoms worsen or do not improve within a week. Further laboratory evaluations will be reviewed during the next visit, and any necessary adjustments to the treatment plan will be made. The patient was informed about the new medications and advised on recognizing any concerning warning signs.

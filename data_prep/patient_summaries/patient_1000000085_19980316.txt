@@ -1,0 +1,72 @@
+demographics
+patient_num: 1000000085  age: 52
+patient_num: 1000000085  sex: F
+patient_num: 1000000085  race: indian
+patient_num: 1000000085  language: english
+patient_num: 1000000085  vital_status: alive
+patient_num: 1000000085  earliest fact: Feb 13 1998 12:00AM
+patient_num: 1000000085  latest fact: Mar 16 1998 12:00AM
+patient_num: 1000000085  range in days: 31
+totals
+patient_num: 1000000085  distinct concepts: 66
+patient_num: 1000000085  total facts: 127
+patient_num: 1000000085  total encounters: 9
+patient_num: 1000000085  total asthma: 1
+descriptive
+patient_num: 1000000085  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 1
+patient_num: 1000000085  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 1
+patient_num: 1000000085  diagnosis code: ICD9:616.0  name: Cervicitis and endocervicitis  count: 1
+patient_num: 1000000085  diagnosis code: ICD9:617.0  name: Endometriosis of uterus  count: 1
+patient_num: 1000000085  diagnosis code: ICD9:617.9  name: Endometriosis, site unspecified  count: 1
+patient_num: 1000000085  diagnosis code: ICD9:276.8  name: Hypopotassemia  count: 1
+patient_num: 1000000085  diagnosis code: ICD9:218.1  name: Intramural leiomyoma of uterus  count: 1
+patient_num: 1000000085  diagnosis code: ICD9:218.9  name: Leiomyoma of uterus, unspecified  count: 4
+patient_num: 1000000085  diagnosis code: ICD9:626.8  name: Other disorders of menstruation and other abnormal bleeding from female genital tract  count: 3
+patient_num: 1000000085  diagnosis code: ICD9:68.29  name: Other excision or destruction of lesion of uterus  count: 1
+patient_num: 1000000085  diagnosis code: ICD9:620.8  name: Other noninflammatory disorders of ovary, fallopian tube, and broad ligament  count: 1
+patient_num: 1000000085  diagnosis code: ICD9:65.61  name: Other removal of both ovaries and tubes at same operative episode  count: 1
+patient_num: 1000000085  diagnosis code: ICD9:68.4  name: Total abdominal hysterectomy  count: 1
+patient_num: 1000000085  laboratory code: LOINC:1751-7  name: Albumin (Group:ALB)  count: 1
+patient_num: 1000000085  laboratory code: LOINC:1920-8  name: AST (SGOT) (Group:SGOT)  count: 1
+patient_num: 1000000085  laboratory code: LOINC:5770-3  name: Bilirubin (Group:UA-BILI)  count: 1
+patient_num: 1000000085  laboratory code: LOINC:3094-0  name: Blood Urea Nitrogen (Group:BUN)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:2028-9  name: Carbon Dioxide (Group:CO2)  count: 1
+patient_num: 1000000085  laboratory code: LOINC:2075-0  name: Chloride (Group:CL)  count: 1
+patient_num: 1000000085  laboratory code: LOINC:5778-6  name: Color (Group:UA-COLOR)  count: 1
+patient_num: 1000000085  laboratory code: LOINC:2160-0  name: Creatinine (Group:CRE)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:1968-7  name: Direct Bilirubin (Group:DBILI)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:4537-7  name: ESR (Group:ESR)  count: 1
+patient_num: 1000000085  laboratory code: LOINC:2336-6  name: Globulin (Group:GLOB)  count: 1
+patient_num: 1000000085  laboratory code: LOINC:6777-7  name: Glucose (Group:GLU)  count: 1
+patient_num: 1000000085  laboratory code: LOINC:5792-7  name: Glucose - UA (Group:UA-GLUC)  count: 1
+patient_num: 1000000085  laboratory code: LOINC:2118-8  name: HCG-Qual (Group:HCG,QL)  count: 1
+patient_num: 1000000085  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:5797-6  name: Ketones (Group:UA-KET)  count: 1
+patient_num: 1000000085  laboratory code: LOINC:2532-0  name: LDH (Group:LDH)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 3
+patient_num: 1000000085  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:5802-4  name: Nitrites (Group:UA-NIT)  count: 1
+patient_num: 1000000085  laboratory code: LOINC:5794-3  name: Occult Blood (Group:UA-BLD)  count: 1
+patient_num: 1000000085  laboratory code: LOINC:2692-2  name: Osmolality (Group:OSM)  count: 1
+patient_num: 1000000085  laboratory code: LOINC:5803-2  name: PH (Group:UA-PH)  count: 1
+patient_num: 1000000085  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:2823-3  name: Potassium (Group:K)  count: 1
+patient_num: 1000000085  laboratory code: LOINC:5804-0  name: Protein (Group:UA-ALB)  count: 1
+patient_num: 1000000085  laboratory code: LOINC:5902-2  name: PT (Group:PT)  count: 1
+patient_num: 1000000085  laboratory code: LOINC:5898-2  name: PTT (Group:PTT)  count: 1
+patient_num: 1000000085  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:5808-1  name: RBC - Urine Sed (Group:UAS-RBC)  count: 1
+patient_num: 1000000085  laboratory code: LOINC:X2021-0  name: Slide Review PLT (Group:MSRP)  count: 1
+patient_num: 1000000085  laboratory code: LOINC:2951-2  name: Sodium (Group:NA)  count: 1
+patient_num: 1000000085  laboratory code: LOINC:5811-5  name: Specific Gravity (Group:UA-SPGR)  count: 1
+patient_num: 1000000085  laboratory code: LOINC:1975-2  name: Total Bilirubin (Group:TBILI)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:2885-2  name: Total Protein (Group:TP)  count: 1
+patient_num: 1000000085  laboratory code: LOINC:3016-3  name: TSH (Group:TSH)  count: 1
+patient_num: 1000000085  laboratory code: LOINC:5767-9  name: Turbidity (Group:UA-TURB)  count: 1
+patient_num: 1000000085  laboratory code: LOINC:3084-1  name: Uric Acid (Group:URIC)  count: 1
+patient_num: 1000000085  laboratory code: LOINC:5818-0  name: Urobilinogen (Group:UA-UROBI)  count: 1
+patient_num: 1000000085  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 2
+patient_num: 1000000085  laboratory code: LOINC:5821-4  name: WBC - Urine Sed (Group:UAS-WBC)  count: 1
+patient_num: 1000000085  laboratory code: LOINC:5799-2  name: WBC Screen (Group:UA-WBC)  count: 1

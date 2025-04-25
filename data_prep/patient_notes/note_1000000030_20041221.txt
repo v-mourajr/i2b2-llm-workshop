@@ -1,0 +1,71 @@
+Visit Information: 
+- Patient Num: 1000000030 
+- Visit Date: 12/21/2004
+
+This is a 9-year-old Black female who speaks Spanish and has been under our care for approximately 4 months. She presents today for a follow-up appointment regarding her primary diagnosis of asthma with a history of status asthmaticus.
+
+Subjective:
+The patient's mother reports that over the past week, the child has been experiencing increased wheezing and shortness of breath, predominantly at night and with physical exertion. These symptoms have indicated a worsening of her asthma condition. She has also been persistently coughing, which has been disturbing her sleep. The child’s severe asthma has previously warranted hospitalization due to acute exacerbations, including episodes with status asthmaticus. She has been compliant with her daily medications, consisting of an albuterol inhaler as needed and a recently initiated low-dose inhaled corticosteroid. Despite strict adherence to the medication regimen, her symptoms have not improved substantially. 
+
+The past medical history is notable for multiple episodes of acute upper respiratory infections and an instance of acute bronchiolitis. She has no significant surgical history. Presently, she is taking albuterol as needed and an inhaled corticosteroid. There are no herbal supplements or additional medications reported. Previous treatments were well tolerated until the recent exacerbation.
+
+In her social history, the patient lives with her family in an urban environment with potential exposure to environmental allergens. Her daily routine involves attending school and engaging in social activities; however, her recent respiratory symptoms have restricted her physical activities.
+
+The family reports no known allergies.
+
+Symptom details include:
+- Onset began last week.
+- Located primarily in the chest.
+- The duration of symptoms has been ongoing, with increased frequency at night and upon physical activity.
+- Characteristics include wheezing, shortness of breath, and a persistent cough.
+- Alleviating factors are temporary relief from inhaler usage.
+- Aggravating factors include physical activities and nighttime.
+- Symptoms occur intermittently but are frequent and of moderate severity, leading to disrupted sleep and limited activity.
+
+Additionally, the mother tried increasing the inhaler frequency without noticeable improvement. The patient has experienced mild throat irritation as a side effect of her inhaled corticosteroids.
+
+Objective:
+Vital signs today are within normal limits:
+- Blood Pressure: 102/65 mmHg
+- Heart Rate: 98 bpm
+- Respiratory Rate: 24 breaths per minute
+- Temperature: 37.0°C
+- Oxygen Saturation: 94% on room air
+
+On examination, the patient appears mildly distressed but remains alert and oriented, with noticeable labored breathing during physical exertion. 
+
+The cardiovascular examination reveals a regular rhythm without murmurs or gallops. 
+
+The respiratory examination notes audible wheezing throughout all lung fields, with a prolonged expiratory phase and no crackles or rhonchi. The use of accessory muscles is noticeable during respiration.
+
+The abdominal examination shows a soft, non-tender abdomen with no organomegaly. 
+
+The musculoskeletal examination reveals no signs of joint swelling or tenderness, maintaining a normal range of motion.
+
+Neurological examination: The patient is alert, oriented, and moves all extremities well with normal reflexes. 
+
+Skin examination shows no rashes or lesions.
+
+Recent laboratory results show normal Blood Urea Nitrogen, Creatinine, Sodium, and Potassium levels. However, there is an elevation in eosinophils and specific white blood cell counts, suggesting an eosinophilic response often associated with her asthma exacerbations. Capillary blood gases were within normal limits, aside from a mildly elevated capillary PCO2.
+
+Assessment:
+Primary Diagnosis: Asthma exacerbation
+The clinical impression suggests worsening of asthma with a significant history of status asthmaticus. The differential diagnosis might include other respiratory tract infections or exacerbations of underlying allergic conditions. 
+
+Plan:
+To manage the asthma exacerbation, I will increase the dosage of the inhaled corticosteroid and introduce a short course of oral corticosteroids. The correct use of the albuterol inhaler and frequency will be reviewed to ensure effectiveness. Monitoring through peak flow measurements and considering repeat pulmonary function tests may be beneficial.
+
+Secondary Diagnosis: Acute upper respiratory infection 
+This might be contributing to the worsening of asthma. Symptomatic monitoring will continue. If symptoms persist, consider a throat culture to rule out bacterial infection. 
+
+Plan:
+Provide symptomatic management with fluids, rest, and over-the-counter medications as necessary.
+
+Tertiary Diagnosis: Hypopotassemia, resolved
+Previously managed, likely secondary to prior respiratory treatment. Regular monitoring of electrolytes is advised.
+
+Plan:
+Ensure adequate dietary potassium intake and hydration.
+
+Patient education and follow-up:
+The patient and her mother were educated on the importance of medication adherence, the correct use of the inhaler and spacer, and the avoidance of known environmental triggers. A follow-up appointment is scheduled in two weeks to reassess symptoms and further evaluate the asthma management plan. They have been instructed to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate a need for further evaluation. They acknowledged understanding and agreed with the proposed management plan.

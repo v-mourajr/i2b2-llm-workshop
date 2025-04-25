@@ -1,0 +1,52 @@
+### Visit Information:
+- **Patient Num:** 1000000104
+- **Visit Date:** June 18, 2007
+
+### Subjective:
+The patient is a 29-year-old Hispanic male who speaks English and has been receiving care at our clinic for asthma management over the past several years. He presents today for follow-up of his asthma and to address some recent respiratory symptoms. He has been experiencing increased wheezing and shortness of breath over the past two weeks, particularly at night. Despite adhering to his prescribed daily low-dose inhaled corticosteroid and the use of an albuterol inhaler as needed, he has needed to use the rescue inhaler 3-4 times daily, which is more frequent than usual. He has a known history of acute pharyngitis, though he denies any recent episodes of sore throat, fever, or other signs of active infection.
+
+The patient denies any known allergies to medications, foods, or environmental factors. He has not traveled recently and reports no exposure to new respiratory irritants. He lives with his parents, does not smoke or consume alcohol, and is currently a college student. His social history reveals that he has been diagnosed with attention deficit disorder (ADD) without hyperactivity and is under treatment for this condition. He pays close attention to his oral health, with a recent dental examination showing no issues.
+
+### Objective:
+**Vital Signs:**
+- Blood Pressure: 118/76 mmHg
+- Heart Rate: 84 bpm
+- Respiratory Rate: 18 breaths per minute
+- Temperature: 98.6°F (37°C)
+- Oxygen Saturation: 95% on room air
+
+**Physical Examination:**
+- **General Appearance:** The patient is well-developed, well-nourished, and in no acute distress. He is alert and oriented.
+- **Cardiovascular:** S1 and S2 are present with no murmurs, rubs, or gallops. Pulses are strong and regular.
+- **Respiratory:** Breath sounds are diminished with notable expiratory wheezes bilaterally. There are no crackles, but the use of accessory muscles to aid breathing is evident.
+- **Abdomen:** The abdomen is soft, non-tender, with no distension, normal bowel sounds, and no organomegaly.
+- **Musculoskeletal:** The range of motion is normal, and no deformities or tenderness are observed.
+- **Neurological:** The patient is alert and oriented; there are no focal neurological deficits.
+- **Skin:** The skin is clear with no rashes, lesions, or signs of infection.
+
+Recent laboratory investigations, including bilirubin, glucose, and protein levels, showed normal results with no abnormalities found in urinalysis for ketones, nitrites, and specific gravity. Hematocrit and white blood cell counts were within normal limits, ruling out signs of infection or anemia.
+
+### Assessment:
+1. **Asthma:** The patient continues to have asthma, unspecified without mention of status asthmaticus. The recent increase in symptom frequency indicates an exacerbation that may require adjustment in treatment. 
+2. **Acute Pharyngitis:** This condition, previously diagnosed, is currently in remission with no active complaints or symptoms necessitating intervention.
+3. **Attention Deficit Disorder of Childhood without Mention of Hyperactivity:** This condition remains stable under current treatment.
+
+### Plan:
+1. **Asthma:**
+   - Increase the dosage of the inhaled corticosteroid to improve symptom control.
+   - Continue the albuterol inhaler as needed for acute symptoms.
+   - Advise the patient to monitor peak expiratory flow rates at home daily to better assess asthma control.
+   - Recommend a follow-up appointment in one week to evaluate the effectiveness of the adjusted management plan. If symptoms persist or worsen, consider a referral to a pulmonologist.
+
+2. **Acute Pharyngitis:**
+   - No current symptoms requiring treatment; continue monitoring.
+
+3. **Attention Deficit Disorder:**
+   - Continue current treatment regimen for ADD.
+   - Schedule routine follow-up visits to monitor the patient's progress and response to therapy.
+
+**Follow-Up:**
+The patient was instructed to contact the clinic if his symptoms worsen or do not improve within a week or if indicated by test results for further evaluation. A follow-up appointment is planned in four weeks to reassess asthma management and efficacy of the treatment adjustments. 
+
+**Patient Education & Understanding of the Plan:**
+The patient demonstrated understanding of the treatment plan, recognized the importance of medication adherence, and was aware of the necessity for follow-up care. He was also advised on maintaining good oral hygiene and the need for regular dental check-ups.

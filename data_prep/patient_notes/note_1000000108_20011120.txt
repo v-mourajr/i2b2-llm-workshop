@@ -1,0 +1,51 @@
+Visit Information:
+    - Patient Num: 1000000108 
+    - Visit Date: November 20, 2001
+
+This is a 58-year-old Asian male who has been receiving care at our clinic for approximately 4 years. He speaks English and presents today for follow-up on his asthma and related conditions. The primary diagnosis is asthma, unspecified without mention of status asthmaticus. He also has other notable diagnoses including disorders of iron metabolism, dizziness and giddiness, malaise and fatigue, nonspecific abnormal findings on radiological examination of the lung field, suspected mental condition, other diseases of the lung, and other primary cardiomyopathies.
+
+Subjective:
+    The patient reports persistent asthma symptoms, including shortness of breath, wheezing, predominantly nocturnal episodes, which have led to increased use of rescue inhaler over the past week. He expresses concerns about dizziness, persistent fatigue and generally feeling unwell. Iron metabolism issues were identified in prior visits, with recent lab results monitoring iron levels and related parameters. Despite adherence to his treatment regimen, he feels that his asthma control has not been optimal.
+
+    Known past medical history includes chronic persistent asthma and other primary cardiomyopathies. He denies any previous surgical history.
+
+    The patient’s current medications include a short-acting beta2 agonist inhaler, used overnight primarily, and a daily inhaled corticosteroid. He takes medications for his cardiomyopathy as prescribed, without mentioning any specific current medications beyond the asthma treatments. Compliance with his medication regimen is high, although he mentions inconsistent symptom relief recently.
+
+    Socially, the patient lives alone and works as an accountant. He does not smoke and drinks alcohol occasionally. Physical activities have been limited due to respiratory symptoms. There are no known allergies.
+
+    Symptom specifics include increased and frequent wheezing, cough, chest tightness, and triggering factors such as dust exposure. Relief is obtained somewhat via medication usage. No fever, chills, or abnormal sputum production reported.
+
+Objective:
+    - Vital Signs:
+        - Blood Pressure: 140/85 mmHg
+        - Heart Rate: 90 bpm
+        - Respiratory Rate: 24 breaths per minute
+        - Temperature: 98.8°F
+        - Oxygen Saturation: 94% on room air
+    - General Appearance: Patient appears in mild distress, primarily due to breathing difficulties.
+    - Cardiovascular: Heart examination revealed normal rhythm, no murmurs, rubs, or gallops.
+    - Respiratory: Notably prolonged expiratory phase with diffuse bilateral wheezes, absent of crackles or rhonchi. Slight use of accessory muscles observed.
+    - Abdomen: Non-tender, soft, no organomegaly noticed.
+    - Musculoskeletal: No peripheral edema, normal muscle bulk and tone without tenderness to palpation.
+    - Neurological: Alert and oriented to person, place, and time. Cranial nerves II-XII are intact.
+    - Skin: Normal appearance without rashes or lesions, normal turgor observed.
+
+Assessment:
+    - Chronic persistent asthma with exacerbation noted
+    - Differential diagnoses include pulmonary conditions like other primary lung diseases contributing to increased symptoms such as dyspnea and wheezing.
+    - Secondary issues encompass iron metabolism disorders which can lead to persistent fatigue and general malaise, monitored closely by prior labs.
+    - Non-specific findings in lung examination and noted cardiomyopathies warrant continuous observation.
+
+Plan:
+    - Continue currently prescribed asthma medications.
+    - Initiate a prescribed short course of oral corticosteroids to address the acute asthma exacerbation.
+    - Schedule repeat spirometry for lung function assessment to monitor response to current treatment and evaluate control.
+    - Referral to a pulmonologist if there is no significant improvement in symptoms upon the next review.
+    - Reinforce asthma education inclusive of inhaler techniques, and approaches to avoid known allergens and triggers.
+    - Discuss the importance of regular follow-ups to ensure effective asthma management and to reassess treatment.
+
+Follow-Up:
+    - Instruct the patient to contact the clinic if his symptoms worsen or do not improve within a week, or if any tests suggest further evaluation is needed.
+    - Schedule a follow-up appointment in two weeks to reassess his symptoms and the efficacy of the interventions prescribed.
+
+The patient demonstrated a clear understanding of the plan and has committed to following the prescribed recommendations.

@@ -1,0 +1,67 @@
+**Visit Information:**
+
+- Patient Num: 1000000103
+- Visit Date: 07/27/2004
+
+**Subjective:**  
+This is a 28-year-old Black female who has been receiving care at our clinic for approximately five years. She speaks English and presents today for a follow-up visit. The patient reports persistent anxiety symptoms, characterized by periodic episodes of palpitations and restlessness, which have persisted over the past few weeks. Additionally, she expresses concern about recent bouts of excessive menstrual bleeding, noting heavier and more prolonged periods than usual over her last two menstrual cycles. These symptoms have caused significant discomfort and inconvenience.
+
+The patient also reports ongoing dental issues, including a recent severe toothache and discomfort specifically in her maxillary region, which is making it difficult for her to chew. She has a history of managing these dental problems with prescribed treatments, yet the current symptoms are notably troublesome.
+
+Although she has no recent history of upper respiratory infections, she does have a history of burns, specifically a second-degree burn on her elbow from an accident involving hot liquids. Most of the burn has healed, but she mentions some residual skin sensitivity in the affected area.
+
+She is currently taking Kato 20 mEq powder for potassium supplementation, Penicillin V Potassium for a recently managed bacterial infection, and Trimox 500mg capsules for ongoing bacterial management. She denies experiencing any significant side effects from these medications and has been compliant with the prescribed regimen.
+
+In her social history, she lives alone and works as a retail assistant. She denies the use of tobacco, alcohol, and recreational drugs. Known allergies include penicillin and latex. Her symptoms are localized to anxiety, excessive menstrual bleeding, and toothache, with durations spanning multiple episodes and severities ranging from moderate to severe for the menstrual and dental issues and mild for the residual burn sensitivity.
+
+**Objective:**
+
+- **Vital Signs:**
+  - Blood Pressure: 120/80 mmHg
+  - Heart Rate: 76 bpm
+  - Respiratory Rate: 18 breaths per minute
+  - Temperature: 98.6°F
+  - Oxygen Saturation: 98% on room air
+
+- **General Appearance:** The patient appears well-groomed and in no acute distress. Her demeanor is calm, and she is alert and oriented.
+
+- **Cardiovascular:** Heart sounds are normal, with no murmurs, gallops, or rubs. Peripheral pulses are strong and equal bilaterally.
+
+- **Respiratory:** Auscultation reveals clear lung fields bilaterally, with normal breath sounds; no wheezing, rales, or rhonchi detected.
+
+- **Abdomen:** The abdomen is soft, non-tender, and non-distended, with normal bowel sounds heard in all quadrants.
+
+- **Musculoskeletal:** Mild tenderness is noted over the maxillary region without visible swelling. She exhibits a normal range of motion across all extremities. Examination of the previous second-degree burn on her left elbow shows some residual erythema, but the skin remains intact.
+
+- **Neurological:** Cranial nerves II-XII are intact, motor strength is 5/5 across all extremities, and sensory function is intact. No tremors or involuntary movements observed.
+
+- **Skin:** The site of the previous burn on the left elbow reveals minimal residual erythema with no significant lesions, rashes, or ulcerations.
+
+**Assessment:**
+
+1. **Anxiety State, unspecified:** The patient's symptoms of palpitations and restlessness suggest exacerbation of her anxiety, likely triggered by recent stressors.
+2. **Excessive Menstruation:** History and current report of heavy menstrual bleeding suggest possible anemia secondary to iron deficiency, exacerbated by underlying qualitative platelet defects.
+3. **Dentofacial Anomalies (maxillary hypoplasia and malocclusion):** The patient presents with ongoing dental pain and difficulty chewing, indicating a need for further evaluation and management.
+
+**Plan:**
+
+1. **For Anxiety State:**
+   - Continue to monitor the patient's response to daily stressors.
+   - Provide a referral to mental health services for comprehensive evaluation and potential therapy.
+   - Consider prescribing an anxiolytic if symptoms persist after initial non-pharmacological interventions.
+
+2. **For Excessive Menstruation:**
+   - Order a complete blood count and iron studies to evaluate for anemia and iron deficiency.
+   - Begin oral iron supplementation immediately to address iron deficiency.
+   - Refer the patient to a gynecologist for further evaluation and management of her menstrual disorders.
+   - Educate the patient on tracking her menstrual cycles and advise lifestyle modifications to manage symptoms.
+
+3. **For Dentofacial Issues:**
+   - Refer the patient to an oral surgeon for further assessment and management of her maxillary hypoplasia and malocclusion.
+   - Recommend obtaining a dental x-ray to thoroughly evaluate the extent of her dental issues.
+   - Prescribe appropriate pain management strategies to alleviate her discomfort while awaiting her specialist consultation.
+
+**Follow-Up:**
+
+- Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.
+- Schedule a follow-up appointment in two weeks to review lab results and reassess the management of anxiety, menstrual health, and dental pain.

@@ -1,0 +1,95 @@
+Visit Information:
+- Patient Num: 1000000009
+- Visit Date: 08/31/2001
+
+This is a 13-year-old Hispanic female who has been a patient at our clinic for several years. She speaks English and is presenting today, 08/31/2001, for a follow-up appointment. The patient has a history of recurrent upper respiratory infections, occasional episodes of acute bronchitis, and other childhood illnesses, but does not have a diagnosis related to asthma.
+
+Subjective:
+    - Chief Complaints & History of Present Illness:
+        The patient reports experiencing generalized abdominal pain for the past three days. The pain is described as diffuse and aching, with intermittent sharp episodes. She also reports nausea and a decreased appetite but denies any vomiting or changes in bowel habits. Drinking fluids or eating seems to exacerbate the pain, while resting provides some relief. There is no associated fever, and she denies any recent illness or significant changes in her activities or diet.
+
+    - Past Medical & Surgical History:
+        The patient has a notable history of acute upper respiratory infections, acute pharyngitis, croup, and unspecified otitis media. Additionally, she has a diagnosis of essential hypertension and has had a foreign body removed from her larynx in the past.
+
+    - Medications & Supplements:
+        She is currently managing her hypertension with a daily antihypertensive medication, which has been effective. For symptomatic relief of her current abdominal discomfort, her parents have provided over-the-counter pain relievers such as acetaminophen, though with limited success.
+
+    - Social History:
+        The patient resides with her parents and attends middle school. She does not have exposure to tobacco smoke at home and leads an active lifestyle participating in various school activities and physical education classes.
+
+    - Allergies:
+        There are no known drug allergies.
+
+    - Symptom Details:
+        The abdominal pain began three days ago, described as generalized and sometimes sharp. There has been nausea but no vomiting, and the pain worsens after eating or drinking. Resting seems to alleviate some of the symptoms. There is no associated fever or diarrhea.
+
+    - Additional Narrative:
+        The patient's parents are concerned about the unexplained nature of her abdominal pain and the impact it has on her ability to attend school and participate in daily activities. She has tried supportive strategies such as dietary adjustments and warm compresses, with minimal relief.
+
+Objective:
+    - Vital Signs:
+        - Blood Pressure: 108/68 mmHg
+        - Heart Rate: 82 beats per minute
+        - Respiratory Rate: 18 breaths per minute
+        - Temperature: 99.1°F
+        - Oxygen Saturation: 98% on room air
+
+    - General Appearance:
+        The patient appears alert, cooperative, and mildly uncomfortable. She is well-hydrated and does not exhibit signs of acute distress.
+
+    - Cardiovascular:
+        Heart sounds are normal with a regular rhythm. No murmurs, rubs, or gallops are appreciated.
+
+    - Respiratory:
+        Breath sounds are clear bilaterally without wheezes, rales, or rhonchi. No signs of respiratory distress are noted.
+
+    - Abdomen:
+        The abdomen is soft with diffuse tenderness, particularly in the lower quadrants. No rebound tenderness or guarding is noted, and bowel sounds are present and normal in frequency. There is no hepatosplenomegaly or palpable masses.
+
+    - Musculoskeletal:
+        The patient has a full range of motion in all extremities without joint swelling, tenderness, or deformities.
+
+    - Neurological:
+        The patient is alert and oriented to person, place, and time. Cranial nerves II-XII are grossly intact, and motor strength is 5/5 in all extremities. Sensory examination is normal, and reflexes are intact and symmetric.
+
+    - Skin:
+        The patient's skin is warm, dry, and intact without any rashes, lesions, or evidence of infection.
+
+Assessment:
+    - Diagnosis or Clinical Impression:
+        The patient likely has generalized abdominal pain of unknown etiology and essential hypertension, with a history of recurrent upper respiratory infections and other childhood illnesses.
+
+    - Issue/Problem/Request 1:
+        Assessment:
+            - Generalized abdominal pain.
+            - Differential diagnosis: gastrointestinal infection, urinary tract infection, constipation, functional abdominal pain.
+        Diagnostic Tests:
+            - Complete blood count (CBC) to evaluate for infection or anemia.
+            - Comprehensive metabolic panel (CMP) to assess liver and kidney function.
+            - Urinalysis to rule out urinary tract infection (UTI).
+            - Abdominal ultrasound if symptoms persist or worsen.
+        Treatment Plan:
+            - Encourage adequate hydration and a bland diet to minimize gastrointestinal irritation.
+            - Prescribe an antacid or H2 blocker if symptoms indicate possible gastritis.
+            - Consider a probiotic supplement to support gut health.
+            - Follow-up visit in one week to reassess symptoms and lab results.
+
+    - Issue/Problem/Request 2:
+        Assessment:
+            - Essential hypertension.
+        Diagnostic Tests:
+            - Routine blood pressure monitoring.
+        Treatment Plan:
+            - Continue current antihypertensive medication.
+            - Emphasize the importance of lifestyle modifications such as a balanced diet and regular physical activity.
+            - Plan routine follow-ups every 3-6 months to monitor blood pressure and medication effectiveness.
+
+Follow-Up:
+    - Instructions for emergent follow-up care or monitoring:
+        Instruct patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.
+    - Follow-Up for persistent, changing, or worsening symptoms:
+        Follow-up in one week for reassessment of abdominal pain and review of diagnostic test results.
+    - Patient Education & Understanding of the Plan:
+        The patient and her parents were educated on the importance of hydration, dietary adjustments, and adherence to prescribed medications. They were informed about the follow-up plan and understood the importance of prompt reporting if symptoms worsen or new symptoms arise.
+
+This note encapsulates the present visit, outlining the management strategies to address the patient's concerns and promote prompt recovery.

@@ -1,0 +1,65 @@
+Visit Information:
+- Patient Num: 1000000018
+- Visit Date: 09/23/1998
+
+Subjective:
+This is a 60-year-old Indian male who has been a patient at our clinic since July 29, 1997, presenting today for a follow-up appointment. The patient, who prefers to communicate in Spanish, reports experiencing increased shortness of breath and wheezing over the past week, which he attributes to his asthma. He describes his asthma symptoms as worsening during the night, leading to difficulty sleeping. He has been using his albuterol inhaler with some relief, but the symptoms persist. 
+
+He has a notable past medical history of asthma, nontoxic multinodular goiter, and open wound of fingers. He reports having undergone a partial thyroidectomy in the past. He takes an inhaler (albuterol) regularly as prescribed but reports no changes in his condition or any new medication added since the last visit.
+
+The patient’s lifestyle includes cessation of smoking 10 years ago, and he denies the consumption of alcohol or illicit drugs. He leads a relatively sedentary life with minimal physical activity due to his chronic respiratory condition.
+
+No known allergies are reported. He denies the presence of fever, chills, or other systemic symptoms. He has tried non-pharmacological interventions such as breathing exercises which have provided only limited relief.
+
+Objective:
+Vital signs at today’s visit:
+- Blood Pressure: 130/85 mmHg
+- Heart Rate: 82 bpm
+- Respiratory Rate: 18 breaths per minute
+- Temperature: 98.6°F
+- Oxygen Saturation: 94% on room air
+
+General Appearance: The patient appears well-developed, well-nourished, and in no acute distress. He is alert and oriented to person, place, and time.
+
+Cardiovascular: Normal heart sounds with no murmurs, gallops, or rubs. Peripheral pulses are strong and symmetrical.
+
+Respiratory: The exam reveals mild to moderate expiratory wheezing bilateral lung fields. There are no signs of severe respiratory distress. Chest expansion appears symmetrical.
+
+Abdomen: Soft and non-tender with no hepatosplenomegaly. Bowel sounds are present and normoactive in all four quadrants.
+
+Musculoskeletal: No joint deformities, swelling, or tenderness. Normal range of motion noted in all major joints.
+
+Neurological: Cranial nerves II-XII are intact. Strength, sensation, and reflexes are normal. No focal deficits.
+
+Skin: No rashes, lesions, or pallor. The open wound on the finger healing well with no signs of infection or complication.
+
+Laboratory Findings: Recent monitoring shows stable Albumin, Bilirubin, BUN, Calcium, Free T4 index, and thyroid function tests (TSH and T4). No significant abnormalities noted in blood glucose, HCT, HGB, RBC, and WBC levels.
+
+Assessment:
+1. Asthma: The patient’s chronic asthma is currently exacerbated. He has shown a clear pattern of nocturnal asthma which might indicate poor control that needs addressing.
+2. Nontoxic multinodular goiter: Stable under the patient's current medical management following partial thyroidectomy.
+3. Open wound of fingers: Healing appropriately without complication.
+
+Plan:
+1. Asthma:
+   - Increase frequency of albuterol inhaler use as needed and prescribe a corticosteroid inhaler (e.g., fluticasone) to improve control of symptoms.
+   - Recommend continued use of non-pharmacological interventions such as breathing exercises.
+   - Schedule a follow-up appointment within 2 weeks, and if symptoms persist or worsen, consider referral to a pulmonologist.
+
+2. Nontoxic multinodular goiter:
+   - Continue surveillance of thyroid function tests and ensure no new symptoms are appearing.
+   - Discuss with endocrinology for any long-term management adjustments if necessary.
+
+3. Open wound of fingers:
+   - Continue with local wound care. 
+   - Follow-up in 1 week or sooner if signs of infection develop.
+
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week or if test results indicate further evaluation is needed. The patient verbalized understanding and appeared agreeable to the management plan.
+
+Patient Education:
+- Educated the patient on the importance of adhering to asthma medications and recognizing signs of exacerbations.
+- Discussed the benefits of avoiding known asthma triggers and incorporating regular physical activity within tolerable limits.
+
+Follow-Up:
+- Instructed patient to return in 2 weeks for re-evaluation of asthma control.
+- Return sooner if there is any significant change or deterioration in condition.

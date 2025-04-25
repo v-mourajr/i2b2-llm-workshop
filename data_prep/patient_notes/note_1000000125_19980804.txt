@@ -1,0 +1,65 @@
+Visit Information:
+    - Patient Num: 1000000125
+    - Visit Date: 08/04/1998
+
+Subjective:
+    - Chief Complaints & History of Present Illness:
+        A 25-year-old Indian female, who speaks German, presents today for management of her asthma. She reports experiencing frequent episodes of shortness of breath and wheezing, primarily at night and triggered by physical exertion and exposure to dust. She notes that the symptoms have been persistent but slightly worsened over the past week.
+    - Past Medical & Surgical History:
+        The patient has a history of asthma, diagnosed as unspecified without mention of status asthmaticus. She has no record of significant surgeries or other chronic conditions.
+    - Medications & Supplements:
+        The patient is currently taking a short-acting beta-agonist (albuterol) inhaler as needed, which provides temporary relief of symptoms. No herbal supplements are reported.
+    - Social History:
+        The patient is a non-smoker, living in an urban environment with a high level of air pollution, which might be exacerbating her symptoms. She works in an office and is currently not involved in regular physical exercise.
+    - Allergies:
+        The patient has no known drug allergies or environmental allergies.
+    - Symptom Details:
+        She describes that the onset of her symptoms typically occurs in the evening, with episodes lasting several hours. The shortness of breath and wheezing are aggravated by physical activity and alleviated somewhat by using her inhaler and resting in a cooler environment.
+    - Additional Narrative:
+        The patient has tried using a humidifier at night and avoiding known triggers such as dust and strong odors to manage her symptoms. There have been no recent changes in her condition except for the slight worsening of symptoms over the past week. She denies any recent hospitalizations or visits to the emergency room.
+
+Objective:
+    - Vital Signs:
+        - Blood Pressure: 120/80 mmHg
+        - Heart Rate: 78 bpm
+        - Respiratory Rate: 18 breaths per minute
+        - Temperature: 98.6°F (37°C)
+        - Oxygen Saturation: 95% on room air
+    - General Appearance:
+        The patient appears well and in no acute distress, though she seems slightly anxious about her symptoms.
+    - Cardiovascular:
+        Normal heart sounds with no murmurs, gallops, or rubs detected.
+    - Respiratory:
+        Lung examination reveals bilateral wheezing, more prominent on expiration. There is no use of accessory muscles and no signs of cyanosis.
+    - Abdomen:
+        Soft, non-tender, with no organomegaly or masses detected.
+    - Musculoskeletal:
+        Normal range of motion with no joint swelling or tenderness.
+    - Neurological:
+        Alert and oriented to person, place, time, and situation. Cranial nerves II-XII are intact, and motor and sensory exams are normal.
+    - Skin:
+        No rashes, lesions, or other abnormalities observed.
+
+Assessment:
+    - Diagnosis or Clinical Impression:
+        The patient’s asthma remains under unspecified control, with recent exacerbations likely triggered by environmental factors and physical exertion.
+    - Issue/Problem/Request 1:
+        Assessment:
+            - Likely diagnosis for Issue 1: Asthma exacerbation
+            - Differential diagnosis for Issue 1: Allergic rhinitis, GERD
+        Diagnostic Tests:
+            - Peak flow meter test to monitor expiratory flow rates
+            - Consider referral to a pulmonologist for further evaluation
+        Treatment Plan:
+            - Increase the use of the short-acting beta-agonist (albuterol) inhaler to every 4-6 hours as needed for symptoms
+            - Introduce a low-dose inhaled corticosteroid (ICS) for daily use to reduce inflammation and prevent frequent exacerbations
+            - Provide patient education on avoiding known triggers and guidelines for using inhaler effectively
+            - Advise the patient to maintain a symptom diary to track occurrences and details of each asthma episode
+
+Follow-Up:
+    - Instructions for emergent follow-up care or monitoring:
+        Instruct patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.
+    - Follow-Up for persistent, changing, or worsening symptoms:
+        Schedule a follow-up visit in 3-4 weeks to assess response to treatment and make necessary adjustments.
+    - Patient Education & Understanding of the Plan:
+        The patient was educated on the importance of adherence to the prescribed medication regimen and the correct use of inhalers. She voiced understanding and agreed to monitor her symptoms closely and return for a follow-up visit as planned.

@@ -1,0 +1,68 @@
+**Visit Information:**
+Patient Num: 1000000021
+Visit Date: 07/22/2004
+
+**Subjective:**
+This is a 29-year-old Black male who has been receiving care at our clinic for asthma management. He speaks Spanish and presents today for a follow-up appointment on July 22, 2004. He reports escalated symptoms of asthma, including increased wheezing, dyspnea, and nocturnal coughing over the past week. These symptoms are more pronounced during physical exertion and exposure to cold air. He has had difficulty adhering to his medication regimen due to forgetfulness but denies chest pain or fever.
+
+The patient has a past medical history significant for various forms of asthma, allergic rhinitis, chronic rhinitis, acute pharyngitis, and non-specific back pain. His medications include Albuterol Sulfate 4mg tablets, used primarily during asthma exacerbations. He lives alone and works in a shipping warehouse, where his respiratory symptoms can be exacerbated. He does not smoke but occasionally drinks alcohol on weekends. He has no known drug allergies.
+
+**Objective:**
+- Vital Signs:
+  - Blood Pressure: 118/76 mmHg
+  - Heart Rate: 88 bpm
+  - Respiratory Rate: 20 breaths/min
+  - Temperature: 98.6 °F
+  - Oxygen Saturation: 94% on room air
+
+- General Appearance:
+  The patient appears slightly anxious but is in no acute distress.
+
+- Cardiovascular:
+  Regular rate and rhythm, no murmurs, rubs, or gallops present.
+
+- Respiratory:
+  Diffuse expiratory wheezes heard bilaterally with a prolonged expiratory phase. No use of accessory muscles observed.
+
+- Abdomen:
+  Soft, non-tender, non-distended, with normal bowel sounds.
+
+- Musculoskeletal:
+  Full range of motion noted in all extremities. No deformities.
+
+- Neurological:
+  Alert and oriented. Cranial nerves II-XII intact with no focal deficits.
+
+- Skin:
+  No rashes, lesions, or discoloration.
+
+**Assessment:**
+1. **Asthma, unspecified without mention of status asthmaticus**:
+   The patient is experiencing an exacerbation likely triggered by environmental factors and possibly an upper respiratory infection.
+   
+2. **Chronic rhinitis and Allergic rhinitis**:
+   Symptoms are contributing to upper respiratory irritation and exacerbating asthma symptoms.
+   
+3. **Acute pharyngitis**:
+   This recent infection may be aggravating his asthma.
+
+**Plan:**
+1. **Asthma Management**:
+   - Continue with Albuterol Sulfate 4mg as needed for acute symptoms. Reinforce the importance of adherence to the medication regimen.
+   - Initiate Fluticasone inhaler 2 puffs twice daily to improve symptom control.
+   - Provide a peak flow meter for daily lung function monitoring to identify early signs of exacerbation.
+
+2. **Diagnostic Tests**:
+   - Order a chest X-ray to rule out other causes of cough.
+   - Perform routine pulmonary function tests to assess the severity of asthma.
+
+3. **Management of Rhinitis and Pharyngitis**:
+   - Prescribe a nasal corticosteroid spray for chronic rhinitis.
+   - Instruct the patient on avoiding known allergens and maintaining proper nasal hygiene.
+
+**Follow-Up:**
+- Schedule a follow-up appointment in 2 weeks to evaluate asthma control and adherence to the new inhaler regimen.
+- Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.
+- Emphasize the importance of immediate medical attention for new or worsening symptoms such as hemoptysis, severe chest pain, or significant dyspnea.
+
+The patient has been educated on the new treatment plan, including medication usage, peak flow monitoring, and allergen avoidance. He has confirmed understanding of the plan.

@@ -1,0 +1,40 @@
+**Visit Information:**
+- Patient Num: 1000000096
+- Visit Date: 04/15/2003
+
+**Subjective:**
+This is a 71-year-old Black female, who primarily speaks Spanish, and has been receiving medical care at our clinic for over six years. She presents today for follow-up due to ongoing respiratory difficulties. The patient reports persistent wheezing and shortness of breath, particularly severe in the early mornings and late evenings. She mentions that while regularly using her asthma medications provides some relief, she still needs her rescue inhaler several times a week.
+
+Alongside her respiratory complaints, the patient shares feelings of persistent sadness, anxiety, and panic episodes which have worsened lately. She admits to a lack of interest in daily activities and struggles with coordination, particularly affecting her upper limbs and daily functions. Her adherence to medication includes an albuterol inhaler as needed and sertraline for depression.
+
+She has a history of chronic lymphocytic thyroiditis, depressive disorders, conversion disorder, coronary artery disease with previous myocardial infarction, post-thyroidectomy status, and upper limb coordination issues. The patient denies smoking, lives alone, and has limited social interaction due to her depressive symptoms. She has no known allergies.
+
+**Objective:**
+The patient’s vital signs today include a blood pressure of 130/85 mmHg, heart rate of 75 beats per minute, respiratory rate of 20 breaths per minute, temperature of 98.6°F, and oxygen saturation of 95% on room air.
+
+On physical examination, the patient appears fatigued and slightly anxious but is not in acute distress. Cardiovascular examination shows a regular heart rate and rhythm without murmurs, rubs, or gallops. Jugular venous pressure is normal, and there is no peripheral edema. 
+
+During the respiratory examination, bilateral wheezes and a prolonged expiratory phase were noted. The abdomen is soft, non-tender, with normal bowel sounds. Musculoskeletal assessment reveals a decreased range of motion in both shoulders, but no observable swelling or tenderness. Neurological examination discloses mild discoordination evidenced by slight dysmetria on finger-to-nose testing. The skin is clear with no rashes or lesions observed.
+
+Recent laboratory results show slight eosinophilia and a mildly elevated erythrocyte sedimentation rate, consistent with her known asthma. Other components of the basic metabolic panel are within normal ranges.
+
+**Assessment:**
+The primary impression is that the patient's asthma is poorly controlled. Secondary concerns include her chronic depressive disorders and conversion disorder, a history of myocardial infarction, and reported lack of coordination.
+
+**Plan:**
+1. **Asthma Management:**
+   - Escalate therapy by increasing the dose of inhaled corticosteroids and introducing a leukotriene receptor antagonist.
+   - Reinforce the importance of following the asthma action plan and proper inhaler use.
+   - Schedule spirometry to further assess lung function.
+   
+2. **Depressive Disorder and Conversion Disorder:**
+   - Continue with sertraline therapy.
+   - Refer the patient to a psychiatrist for further evaluation to consider potential adjustments in treatment.
+   - Coordinate follow-up with mental health services for psychological therapy.
+
+3. **Upper Arm Joint and Coordination Issues:**
+   - Refer to physical therapy for shoulder exercises and coordination improvement.
+   - Plan a follow-up in one month to monitor progress on mobility and coordination.
+
+**Follow-Up:**
+The patient is instructed to contact the clinic if her symptoms of respiratory distress or depression worsen or if new symptoms emerge. A follow-up appointment is scheduled in one month to evaluate asthma control, mental health status, and progress with physical therapy interventions. The patient was provided with educational materials regarding medication adherence and relaxation techniques for managing anxiety. She acknowledges understanding the plan and agrees to the outlined interventions.

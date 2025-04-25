@@ -1,0 +1,54 @@
+### Visit Information:
+- **Patient Number**: 1000000069
+- **Visit Date**: October 8, 1998
+
+### Subjective:
+The patient is a 30-year-old Black male who primarily speaks Spanish. He has been presenting to our clinic over the last few months and has come in for a follow-up visit today. He has a history of asthma and reports experiencing increased wheezing, shortness of breath, and chest tightness, particularly during physical exertion over the past week. He has been compliant with his prescribed inhalers but states that symptoms have not significantly improved. He denies any recent upper respiratory infections, fever, or changes in medication. Currently, he is on a combination of short-acting beta-agonists (SABA) and inhaled corticosteroids (ICS) to manage his asthma.
+
+The patient also reports a persistent rash on his arms and torso that started a few days ago, which he describes as pruritic and non-painful. He denies any new skin products or known allergen exposure. Historically, his rashes have been sporadic and self-resolving.
+
+### Objective:
+- **Vital Signs**:
+  - Blood Pressure: 120/78 mmHg
+  - Heart Rate: 82 bpm
+  - Respiratory Rate: 24 breaths/min
+  - Temperature: 98.6°F
+  - Oxygen Saturation: 95% on room air
+
+- **General Appearance**: In no acute distress but appears to be experiencing mild respiratory discomfort.
+- **Cardiovascular**: Regular rate and rhythm. No murmurs, rubs, or gallops noted.
+- **Respiratory**: Increased respiratory rate, mild wheezing diffusely in all lung fields, but no crackles or rhonchi. Good bilateral air entry.
+- **Abdomen**: Soft, non-tender, and non-distended. Bowel sounds present and normal.
+- **Musculoskeletal**: No joint swelling or deformities.
+- **Neurological**: Alert and oriented to person, place, and time. No focal neurological deficits identified.
+- **Skin**: Diffuse, erythematous maculopapular rash noted on arms and torso. No vesicles or pustules were seen.
+
+Laboratory results from previous visits show that complete blood count and liver function tests, including AST, ALT, and Bilirubin, are within normal ranges. Eosinophil count was mildly elevated, suggestive of allergic reaction or asthma exacerbation.
+
+### Assessment:
+- **Primary Diagnosis**: Asthma, likely exacerbation given the increase in respiratory symptoms despite compliance with medication.
+- **Secondary Diagnosis**: Rash and other non-specific skin eruptions, likely of an allergic or atopic nature.
+- **Additional Concerns**: Superficial injury of the face and neck resolved without complications; no current systemic symptoms to suggest ongoing infection or complications.
+
+### Plan:
+1. **Asthma Management**:
+   - Continue current inhaled corticosteroid and SABA regimen.
+   - Add a longer course of oral corticosteroids (e.g., prednisone) for 5 days to manage exacerbation.
+   - Reevaluate medication compliance and technique during inhalation.
+   - Consider specialist referral to an allergist/immunologist for possible allergy testing and further management recommendations.
+
+2. **Rash**:
+   - Prescribe a topical corticosteroid (e.g., hydrocortisone cream) to manage pruritus and inflammation.
+   - Advise the patient to avoid any new skin products and consider potential exposure to allergens.
+   - Follow up in one week for reassessment of skin condition. If condition worsens or new symptoms develop, patient instructed to return to the clinic.
+
+3. **General Care Instructions**:
+   - Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.
+   - Educate the patient on recognizing early signs of asthma exacerbation and the importance of prompt treatment.
+
+### Follow-Up:
+- Schedule follow-up in one week to re-evaluate asthma management effectiveness and monitor skin condition.
+- Remind the patient to seek emergent follow-up care if respiratory symptoms escalate.
+
+**Patient Education**:
+The patient verbalized understanding of the treatment plan, medication usage, and when to seek further medical care. Compliance and proper use of the inhaler were reinforced. The patient seemed comfortable with the plan and acknowledged the importance of following up as instructed.

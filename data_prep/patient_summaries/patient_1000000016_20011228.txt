@@ -1,0 +1,66 @@
+demographics
+patient_num: 1000000016  age: 19
+patient_num: 1000000016  sex: F
+patient_num: 1000000016  race: indian
+patient_num: 1000000016  language: german
+patient_num: 1000000016  vital_status: alive
+patient_num: 1000000016  earliest fact: Jul 29 1998 12:00AM
+patient_num: 1000000016  latest fact: Dec 28 2001 12:00AM
+patient_num: 1000000016  range in days: 1248
+totals
+patient_num: 1000000016  distinct concepts: 60
+patient_num: 1000000016  total facts: 238
+patient_num: 1000000016  total encounters: 34
+patient_num: 1000000016  total asthma: 5
+descriptive
+patient_num: 1000000016  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 6
+patient_num: 1000000016  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 6
+patient_num: 1000000016  diagnosis code: ICD9:490  name: Bronchitis, not specified as acute or chronic  count: 1
+patient_num: 1000000016  diagnosis code: ICD9:429.3  name: Cardiomegaly  count: 2
+patient_num: 1000000016  diagnosis code: ICD9:472  name: Chronic pharyngitis and nasopharyngitis  count: 1
+patient_num: 1000000016  diagnosis code: ICD9:786.2  name: Cough  count: 1
+patient_num: 1000000016  diagnosis code: ICD9:737  name: Curvature of spine  count: 2
+patient_num: 1000000016  diagnosis code: ICD9:787.91  name: Diarrhea  count: 1
+patient_num: 1000000016  diagnosis code: ICD9:V72.6  name: Laboratory examination  count: 1
+patient_num: 1000000016  diagnosis code: ICD9:611.72  name: Lump or mass in breast  count: 1
+patient_num: 1000000016  diagnosis code: ICD9:355.9  name: Mononeuritis of unspecified site  count: 1
+patient_num: 1000000016  diagnosis code: ICD9:340  name: Multiple sclerosis  count: 4
+patient_num: 1000000016  diagnosis code: ICD9:780.9  name: Other general symptoms  count: 1
+patient_num: 1000000016  diagnosis code: ICD9:781.9  name: Other symptoms involving nervous and musculoskeletal systems  count: 1
+patient_num: 1000000016  diagnosis code: ICD9:V70.0  name: Routine general medical examination at a health care facility  count: 1
+patient_num: 1000000016  diagnosis code: ICD9:V20.2  name: Routine infant or child health check  count: 3
+patient_num: 1000000016  diagnosis code: ICD9:737.30  name: Scoliosis (and kyphoscoliosis), idiopathic  count: 3
+patient_num: 1000000016  diagnosis code: ICD9:V81.2  name: Screening for other and unspecified cardiovascular conditions  count: 1
+patient_num: 1000000016  diagnosis code: ICD9:246.9  name: Unspecified disorder of thyroid  count: 1
+patient_num: 1000000016  laboratory code: LOINC:1798-8  name: Amylase (Group:AMY)  count: 2
+patient_num: 1000000016  laboratory code: LOINC:1920-8  name: AST (SGOT) (Group:SGOT)  count: 1
+patient_num: 1000000016  laboratory code: LOINC:706-2  name: Basophils - Auto (Group:BASOS)  count: 3
+patient_num: 1000000016  laboratory code: LOINC:3094-0  name: Blood Urea Nitrogen (Group:BUN)  count: 2
+patient_num: 1000000016  laboratory code: LOINC:2028-9  name: Carbon Dioxide (Group:CO2)  count: 2
+patient_num: 1000000016  laboratory code: LOINC:2075-0  name: Chloride (Group:CL)  count: 2
+patient_num: 1000000016  laboratory code: LOINC:2093-3  name: Cholesterol (Group:CHOL)  count: 1
+patient_num: 1000000016  laboratory code: LOINC:2160-0  name: Creatinine (Group:CRE)  count: 2
+patient_num: 1000000016  laboratory code: LOINC:X2012-1  name: Differential Request (Group:DIFFR)  count: 3
+patient_num: 1000000016  laboratory code: LOINC:713-8  name: Eosinophils - Auto (Group:EOS)  count: 3
+patient_num: 1000000016  laboratory code: LOINC:6777-7  name: Glucose (Group:GLU)  count: 2
+patient_num: 1000000016  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 4
+patient_num: 1000000016  laboratory code: LOINC:2086-7  name: HDL (Group:HDL)  count: 1
+patient_num: 1000000016  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 4
+patient_num: 1000000016  laboratory code: LOINC:2532-0  name: LDH (Group:LDH)  count: 2
+patient_num: 1000000016  laboratory code: LOINC:2090-9  name: LDL (Group:LDL)  count: 1
+patient_num: 1000000016  laboratory code: LOINC:736-9  name: Lymphocytes - Auto (Group:LYMPHS)  count: 3
+patient_num: 1000000016  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 4
+patient_num: 1000000016  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 4
+patient_num: 1000000016  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 4
+patient_num: 1000000016  laboratory code: LOINC:5905-5  name: Monocytes - Auto (Group:MONOS)  count: 3
+patient_num: 1000000016  laboratory code: LOINC:770-8  name: Neutrophils - Auto (Group:POLYS)  count: 3
+patient_num: 1000000016  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 4
+patient_num: 1000000016  laboratory code: LOINC:2823-3  name: Potassium (Group:K)  count: 2
+patient_num: 1000000016  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 4
+patient_num: 1000000016  laboratory code: LOINC:11273-0  name: RBC Morph Auto (Group:RCM-A)  count: 3
+patient_num: 1000000016  laboratory code: LOINC:2951-2  name: Sodium (Group:NA)  count: 2
+patient_num: 1000000016  laboratory code: LOINC:3026-2  name: Thyroxine T4 (Group:T4)  count: 1
+patient_num: 1000000016  laboratory code: LOINC:3053-6  name: Total T3 (Group:T3)  count: 1
+patient_num: 1000000016  laboratory code: LOINC:2571-8  name: Triglycerides (Group:TRIG)  count: 1
+patient_num: 1000000016  laboratory code: LOINC:3016-3  name: TSH (Group:TSH)  count: 2
+patient_num: 1000000016  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 4

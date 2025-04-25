@@ -1,0 +1,54 @@
+Visit Information:
+   - Patient Num: 1000000035
+   - Visit Date: 09/18/2006
+
+This is a 20-year-old Black male who has been receiving care at our clinic for approximately 9 years. He speaks Spanish and presents today, September 18, 2006, for follow-up regarding his ongoing asthma management and associated respiratory issues due to congenital anomalies of the diaphragm.
+
+**Subjective:**
+The patient reports ongoing episodes of wheezing and shortness of breath, which are exacerbated by physical activities and occur primarily in the early morning and at night, resulting in sleep disturbances. He continues to use his bronchodilator (albuterol) about three times per week to manage acute symptoms. His mother notes that he has a history of congenital anomalies of the diaphragm, leading to moderate respiratory distress at times, necessitating periodic use of a respirator during severe episodes. Additionally, the patient has a history of chronic tonsillitis and a benign neoplasm of the skin on the upper limb, which are monitored regularly but are not causing significant issues at present.
+
+The patient's asthma has been managed with a daily inhaled corticosteroid (Qvar), which has helped reduce the frequency of exacerbations. He has not reported any new symptoms since the last visit and has not experienced any recent acute upper respiratory infections or otitis media.
+
+**Objective:**
+- Vital Signs:
+   - Blood Pressure: 110/70 mmHg
+   - Heart Rate: 78 bpm
+   - Respiratory Rate: 20 bpm
+   - Temperature: 98.7°F
+   - Oxygen Saturation: 98% on room air
+
+- Physical Examination:
+   - General Appearance: Well-nourished, alert, and in no acute distress.
+   - Cardiovascular: Heart sounds are regular, S1 and S2 present without murmurs or gallops.
+   - Respiratory: Mild expiratory wheezing and prolonged expiratory phase were noted. No retractions or nasal flaring observed.
+   - Abdomen: Soft, non-tender, no organomegaly, and bowel sounds are normal.
+   - Musculoskeletal: Full range of motion without tenderness or swelling.
+   - Neurological: Cranial nerves II-XII are intact, with no focal deficits.
+   - Skin: No new rashes or lesions. The benign neoplasm of the upper limb remains unchanged, with no signs of infection.
+
+- Laboratory Findings: Routine blood tests show stable parameters. A slight elevation in eosinophils was noted. Findings of anisocytosis and mild anemia remain unaltered from previous tests.
+
+**Assessment:**
+1. **Asthma, unspecified without mention of status asthmaticus:** The patient’s symptoms suggest potential environmental triggers and inadequate control of nocturnal symptoms.
+2. **Congenital diaphragmatic anomaly:** This continues to cause periodic respiratory distress.
+3. **Chronic tonsillitis and benign neoplasm of the skin:** Both conditions remain stable but require ongoing monitoring.
+
+**Plan:**
+1. **Asthma:**
+   - Continue with the current inhaled corticosteroid (Qvar) therapy.
+   - Increase monitoring for potential environmental triggers.
+   - Start a leukotriene receptor antagonist to manage nocturnal symptoms and improve overall control of asthma.
+   - Refer to pulmonology to assess the current treatment regimen and make further recommendations.
+
+2. **Congenital Diaphragmatic Anomaly:**
+   - Continue regular follow-up care with both a pediatric surgeon and a pulmonologist.
+   - Maintain support with respiratory aids as needed during severe episodes.
+
+3. **Chronic Tonsillitis:**
+   - Monitor for signs of infection and prescribe antibiotics as warranted.
+   - Refer to an ENT specialist if symptoms persist or recur.
+
+4. **Benign Neoplasm of the Skin:**
+   - Continue routine dermatological monitoring to detect any changes or concerns.
+
+Instruct the patient and his mother to contact the clinic if symptoms do not improve within a week or if they worsen. They should be vigilant for early signs of asthma exacerbation and prioritize adherence to prescribed medications. They understood and agreed to the proposed care plan. A follow-up appointment has been scheduled in one month to evaluate the effectiveness of the new treatment measures and to monitor symptom progression.

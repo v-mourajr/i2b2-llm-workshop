@@ -1,0 +1,110 @@
+Please note: In all sections below, include details only if they can be inferred from the ICD9, NDC, or LOINC codes provided in the patient_summary; otherwise, leave blank.
+
+Visit Information:
+    - Patient Num: 1000000052
+    - Visit Date: 10/15/2004
+
+This is a 33-year-old Asian male who has been receiving care at our clinic for approximately 3 years. He speaks Spanish and presents today for a follow-up on issues related to the traumatic amputation of his fingers and other ongoing health concerns. 
+
+Subjective:
+Chief Complaints & History of Present Illness:
+The patient reports persistent sharp, throbbing pain in his remaining fingers following the traumatic amputation of his right index and middle fingers due to an accident involving machinery, which occurred several months ago. He also mentions occasional numbness, particularly following physical activity or exposure to cold temperatures. The patient states that these symptoms have significantly impacted his routine activities and sleep, with the pain being more pronounced at night.
+
+Past Medical & Surgical History:
+The patient’s recent medical history includes the disarticulation surgery for the traumatic amputation of his right index and middle fingers. Additionally, he has a past history of acute apical periodontitis and other peripheral vertigo.
+
+Medications & Supplements:
+The patient is currently taking Acetaminophen for pain relief, which he finds moderately effective, and Amoxicillin to prevent infection post-amputation surgery. He is also on a daily multivitamin supplement. He reports no side effects from these medications.
+
+Social History:
+The patient lives with his family and works as a machinist, the occupation that resulted in his recent injury. He does not use tobacco or alcohol and follows a diet rich in fruits and vegetables. His physical activity has been restricted due to his recovery.
+
+Allergies:
+The patient has no known drug allergies.
+
+Symptom Details:
+The patient’s pain and numbness onset typically after activity, reaching a peak at night, sometimes disturbing his sleep. Numbness appears more frequently in colder conditions or when he puts strain on his hand.
+
+Additional Narrative:
+He has been using a custom-made hand brace and attending physical therapy sessions twice weekly, which has provided some improvement in hand function and strength. He remains compliant with his treatment plan and medication regimen.
+
+Objective:
+Vital Signs:
+- Blood Pressure: 122/78 mmHg
+- Heart Rate: 72 bpm
+- Respiratory Rate: 16 breaths/minute
+- Temperature: 98.6°F
+- Oxygen Saturation: 98% on room air
+
+General Appearance:
+The patient is well-groomed, alert, and in no acute distress. He wears a hand brace and moves with a cautious demeanour due to his injury.
+
+Cardiovascular:
+Heart sounds are regular with no murmurs, gallops, or rubs. Peripheral pulses are strong and symmetrically palpable.
+
+Respiratory:
+Lung fields are clear to auscultation bilaterally, with no adventitious sounds such as wheezes or crackles noted.
+
+Abdomen:
+The abdomen is soft, non-tender, and exhibits normal active bowel sounds. There is no evidence of organomegaly or masses.
+
+Musculoskeletal:
+The right hand shows well-healed surgical scars over the amputation sites with no signs of infection. Capillary refill in the remaining fingers is intact. The patient demonstrates a moderate range of motion with pain at the extremes and reduced strength in the right hand. All other extremities exhibit normal strength and range of motion.
+
+Neurological:
+The patient is oriented to time, place, and person with no focal neurological deficits. Cranial nerves II-XII are intact. Sensation in the remaining fingers of the right hand is reduced compared to the left hand.
+
+Skin:
+The skin examination reveals no rashes or lesions, and the surgical site is healing appropriately without signs of infection.
+
+Assessment:
+Diagnosis or Clinical Impression:
+1. Traumatic amputation of right index and middle fingers, post-surgical recovery.
+2. Post-traumatic pain and numbness.
+3. Psychological adjustment to loss of fingers, potential anxiety and depression risk.
+
+Issue/Problem/Request 1:
+Assessment:
+- Likely Diagnosis: Post-traumatic pain and numbness.
+- Differential Diagnosis: Neuropathy, surgical site infection.
+
+Diagnostic Tests:
+- Planned Investigations: Nerve conduction studies, follow-up X-rays of the hand to evaluate bone healing.
+
+Treatment Plan:
+- Continuation of the current analgesic regimen, with consideration of a longer-acting pain medication if symptoms persist.
+- Regular physical therapy sessions to enhance hand function.
+
+Issue/Problem/Request 2:
+Assessment:
+- Likely Diagnosis: Psychological adjustment issues post-amputation.
+- Differential Diagnosis: Depression, anxiety.
+
+Diagnostic Tests:
+- Screening for depression and anxiety is advised.
+
+Treatment Plan:
+- Referral to a mental health professional for counseling.
+- Consideration of short-term anxiolytic medication if required.
+
+Issue/Problem/Request 3:
+Assessment:
+- Likely Diagnosis: Risk of infection at the surgical site.
+- Differential Diagnosis: None currently, preventive assessment.
+
+Diagnostic Tests:
+- No immediate tests planned.
+
+Treatment Plan:
+- Continuation of the antibiotic course until completion.
+- Emphasis on regular wound care and hygiene practices.
+
+Follow-Up:
+Instructions for emergent follow-up care or monitoring:
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.
+
+Follow-Up for persistent, changing, or worsening symptoms:
+Patient is to return for a follow-up visit in two weeks to reassess pain management, the progress with physical therapy, and to address any psychological concerns that may arise.
+
+Patient Education & Understanding of the Plan:
+The patient was educated on the importance of adhering to pain management strategies, physical therapy, and proper hygiene for the surgical site. The benefits of mental health support were also discussed. The patient verbalized understanding and concurrence with the proposed plan.

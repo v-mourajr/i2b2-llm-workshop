@@ -1,0 +1,49 @@
+Visit Information:
+- Patient Num: 1000000083
+- Visit Date: 02/07/2001
+
+This is a 58-year-old Black female who primarily speaks German and has a medical history characterized by chronic asthma with frequent exacerbations, hypertension, and hyperlipidemia. She has been under the care of our clinic for several years and is presenting today for a follow-up visit to assess her asthma control and overall health.
+
+Subjective:
+The patient reports experiencing a significant increase in shortness of breath and wheezing over the past several days. These symptoms have intensified particularly at night, leading to disturbed sleep. She admits that her rescue inhaler has offered limited relief recently. The patient denies having a new cough, fever, or chest pain.
+
+She has a history of asthma which has resulted in recurrent exacerbations over the years. Previously diagnosed with hypertension and hyperlipidemia, she manages these conditions with medication. She has no surgical history of note.
+
+Currently, the patient is taking a daily inhaled corticosteroid and a long-acting beta-agonist to manage her asthma. For hypertension, she is on a prescribed antihypertensive. The patient uses an albuterol inhaler as needed. Despite good adherence to her medication regimen, she occasionally experiences mild tremors when using the albuterol inhaler.
+
+Socially, she lives alone but maintains an active lifestyle through walking and light exercises. She neither smokes nor consumes alcohol. The patient declares that she has no known allergies.
+
+She describes her increased wheezing and shortness of breath, predominantly worsening at night, as difficult to manage even with her prescribed medications and rescue inhaler. Despite adherence, her symptoms have notably worsened in the past week.
+
+Objective:
+- Vital Signs:
+  - Blood Pressure: 145/92 mmHg
+  - Heart Rate: 88 bpm
+  - Respiratory Rate: 20 breaths per minute
+  - Temperature: 98.6°F
+  - Oxygen Saturation: 95% on room air
+- General Appearance: The patient is in mild respiratory distress but is alert and oriented.
+- Cardiovascular: Heart sounds are normal with a regular rate and rhythm; there are no murmurs, rubs, or gallops.
+- Respiratory: Lung examination reveals a prolonged expiratory phase with diffuse wheezing audible in all lung fields. There is no use of accessory muscles noted.
+- Abdomen: The abdomen is soft and non-tender, with no hepatosplenomegaly, and bowel sounds are normal.
+- Musculoskeletal: No signs of joint swelling or tenderness; the patient has a full range of motion.
+- Neurological: The patient is alert and oriented with no focal neurological deficits.
+- Skin: There are no rashes, cyanosis, or clubbing present.
+
+Recent laboratory evaluations have included multiple tests to monitor various health parameters. Liver function tests, renal function tests, lipid profiles, and glucose levels have all returned within normal ranges, including markers such as Albumin, ALT, AST, bilirubin, cholesterol, creatinine, and sodium levels. 
+
+Assessment:
+The patient’s primary concern remains asthma, currently dealing with persistent and recurrent exacerbations. Secondary conditions include controlled hypertension and hyperlipidemia.
+
+Plan:
+- Continue the asthma management regime of inhaled corticosteroids and long-acting beta-agonists.
+- Increase the current dosage of inhaled corticosteroid and consider adding a leukotriene receptor antagonist for enhanced asthma control.
+- Provide education on proper inhaler techniques and underscore the importance of adherence to the medication schedule.
+- Maintain the current antihypertensive therapy, and closely monitor blood pressure to stay within target ranges.
+- Schedule a follow-up lipid profile assessment in three months, with potential adjustments to lipid-lowering therapy based on results.
+- Arrange for formal pulmonary function tests to objectively evaluate the current status of her asthma and to make subsequent treatment adjustments if necessary.
+- Supply a spacer for the albuterol inhaler to improve medication delivery and minimize side effects.
+- Instruct the patient to be vigilant for signs of an asthma exacerbation and to seek immediate medical attention if such symptoms occur.
+- Schedule a follow-up appointment in one month to reassess asthma control and blood pressure, and encourage her to return sooner if any issues arise.
+
+Patient education on the asthma action plan, the importance of consistent medication use, and when to seek emergent care was provided and thoroughly understood. She has been directed to monitor her symptoms closely and to contact the clinic if there are any concerns or if her condition does not improve as anticipated.

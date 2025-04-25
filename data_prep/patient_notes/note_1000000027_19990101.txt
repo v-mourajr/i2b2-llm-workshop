@@ -1,0 +1,62 @@
+**Visit Information:**
+ - Patient Num: 1000000027
+ - Visit Date: 01/01/1999
+
+**Subjective:**
+This is a 27-year-old Indian male who has been receiving care at our clinic over the past several months. Presenting today for follow-up, he primarily complains of recurrent abdominal pain localized to both the left upper and lower quadrants. The pain has been intermittent, sometimes sharp, and has recently become more bothersome. He has a medical history significant for episodes of dermatophytosis and ill-defined closed fractures of the upper limb. His current medication regimen includes NSAIDs for pain management and sporadic use of topical antifungal treatments for his skin condition. He does not report any significant side effects from his medications. Given his recurring abdominal pain, he has undergone multiple lab tests to rule out metabolic or systemic causes.
+
+His social history includes working in an office setting with moderate physical activity and he denies any use of tobacco, alcohol, or illicit drugs. The patient communicates primarily in Spanish and has no known allergies. Recent non-pharmacological strategies have included dietary modifications, increased fluid intake, and using a heating pad on his abdomen, all of which have provided limited relief. There has been no recent weight loss, fever, or change in bowel habits associated with his complaints.
+
+**Objective:**
+- **Vital Signs:**
+  - Blood Pressure: 118/74 mmHg
+  - Heart Rate: 72 beats per minute
+  - Respiratory Rate: 16 breaths per minute
+  - Temperature: 98.6°F
+  - Oxygen Saturation: 98% on room air
+
+- **General Appearance:**
+  The patient appears well-developed, well-nourished, and in no acute distress.
+
+- **Cardiovascular:**
+  Heart sounds are regular, with no murmurs, rubs, or gallops. Peripheral pulses are intact and symmetrical.
+
+- **Respiratory:**
+  Breath sounds are clear to auscultation bilaterally with no wheezes, rales, or rhonchi present. There is no use of accessory muscles or audible respiratory distress.
+
+- **Abdomen:**
+  Abdomen is soft, non-distended, and mildly tender to deep palpation in the left upper and lower quadrants. No rebound tenderness or guarding is noted. Bowel sounds are present in all quadrants.
+
+- **Musculoskeletal:**
+  No gross deformities. Full range of motion is present in the upper and lower extremities. No evidence of fractures or acute injury currently.
+
+- **Neurological:**
+  Cranial nerves II-XII are grossly intact. The patient is alert and oriented to person, place, and time.
+
+- **Skin:**
+  Erythematous plaques with scaling noted on the trunk and extremities, consistent with dermatophytosis. No signs of secondary infection.
+
+**Assessment:**
+This 27-year-old male presents with symptoms of recurring left-sided abdominal pain, dermatophytosis, and a history significant for ill-defined closed fractures of the upper limb. His diagnostic history includes multiple counseling sessions and screening exams for various conditions.
+
+**Plan:**
+1. **Abdominal Pain:**
+   - Assessment: Likely gastrointestinal in origin, possibly related to dietary factors or chronic musculoskeletal strain.
+   - Diagnostic Tests: Repeat abdominal ultrasound and comprehensive metabolic panel to further investigate causes of abdominal pain.
+   - Treatment Plan: Continue current use of NSAIDs with monitoring for gastrointestinal side effects. Trial of a proton pump inhibitor (PPI) to evaluate for possible gastritis or peptic ulcer disease.
+   - Relevant Referral: Gastroenterology consult if symptoms persist or worsen.
+
+2. **Dermatophytosis:**
+   - Assessment: Recurrent fungal infection, likely requiring more aggressive treatment.
+   - Diagnostic Tests: Skin scraping for KOH test and fungal culture to identify specific pathogen and appropriate antifungal therapy.
+   - Treatment Plan: Initiate oral antifungal therapy (e.g., terbinafine) and maintain proper skin hygiene. Follow up on effectiveness and any potential side effects.
+   - Relevant Referral: Dermatology referral if there is no clinical improvement with the current treatment regimen.
+
+3. **Closed Upper Limb Fracture:**
+   - Assessment: Currently stable, no acute symptoms associated.
+   - Diagnostic Tests: None planned at this time unless symptomatic changes occur.
+   - Treatment Plan: No specific intervention needed; routine monitoring and discussion about any sudden onset of pain or functional limitation.
+   - Relevant Referral: Orthopedic referral if there is any recurrence of fracture symptoms.
+
+**Follow-Up:**
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. Provide detailed education on medication use, monitoring for side effects, and dietary adjustments that might help alleviate symptoms. Ensure the patient understands the plan and confirm the next follow-up appointment.

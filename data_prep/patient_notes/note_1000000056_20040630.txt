@@ -1,0 +1,90 @@
+**Visit Information:**
+- Patient Num: 1000000056
+- Visit Date: 06/30/2004
+
+**Subjective:**
+This is a 7-year-old Black female who primarily communicates in German. She has been receiving care at our clinic over the past year and presents today for a follow-up regarding her asthma and associated conditions.
+
+Her chief complaints include episodes of wheezing and shortness of breath, which have been occurring more frequently over the past month. She notes that her symptoms are often exacerbated by physical activity and exposure to dust. Her mother reports that she has had a few nighttime awakenings due to coughing over the past week. 
+
+In her past medical history, she has been diagnosed with unspecified asthma and extrinsic asthma without mention of status asthmaticus. Additionally, she has cystic fibrosis and allergic rhinitis of unspecified cause. Her past surgical history is non-contributory.
+
+The patient is currently on medication management for her asthma which includes albuterol as a rescue inhaler and a daily inhaled corticosteroid. She takes antihistamines for her allergic rhinitis, but there have been no notable changes in her medication regimen since her last visit.
+
+Socially, she lives with her parents in a smoke-free environment and attends school regularly. There are no pets at home, and they reside in a dusty industrial area which might be contributing to her exacerbations.
+
+She has no known drug allergies.
+
+**Objective:**
+
+- **Vital Signs:**
+  - Blood Pressure: 105/65 mmHg
+  - Heart Rate: 88 bpm
+  - Respiratory Rate: 20 breaths per minute
+  - Temperature: 37.0°C (98.6°F)
+  - Oxygen Saturation: 98% on room air
+
+- **General Appearance:**
+  The patient is alert, cooperative, and in no acute distress. She appears well-nourished and well-hydrated.
+
+- **Cardiovascular:**
+  Regular rate and rhythm without murmurs, gallops, or rubs.
+
+- **Respiratory:**
+  Mild expiratory wheeze noted bilaterally. No retractions or use of accessory muscles. Good air entry on auscultation.
+
+- **Abdomen:**
+  Soft, non-tender, and non-distended with normoactive bowel sounds. No hepatosplenomegaly noted.
+
+- **Musculoskeletal:**
+  Full range of motion in all extremities without tenderness or swelling.
+
+- **Neurological:**
+  No focal deficits. Cranial nerves II-XII grossly intact. 
+
+- **Skin:**
+  Clear with no rashes or lesions noted.
+
+Laboratory results from her recent visit include a complete blood count which was within normal limits. Immunoglobulin E (IgE) levels were noted to be elevated, indicating allergic sensitivity which supports her diagnosis of allergic rhinitis.
+
+**Assessment:**
+
+The patient is a known case of asthma and allergic rhinitis who now presents with increased frequency of asthma exacerbations, likely triggered by environmental allergens from her residential area.
+
+1. **Asthma:** 
+   - Primary Diagnosis: Unspecified asthma without mention of status asthmaticus, likely due to increased environmental exposure.
+   - Secondary Diagnosis: Extrinsic asthma without mention of status asthmaticus. 
+
+2. **Allergic Rhinitis:**
+   - Cause unspecified, likely contributing to the exacerbation of asthmatic symptoms.
+   
+3. **Cystic Fibrosis:**
+   - Without mention of meconium ileus, contributing to her overall respiratory health and complicating her asthma management.
+
+**Plan:**
+
+1. **Asthma Management:**
+   - Continue albuterol as a rescue inhaler.
+   - Increase dosage of daily inhaled corticosteroid.
+   - Encourage avoidance of known triggers at home and in her environment.
+   - Educational review on proper inhaler usage was provided to both patient and mother.
+
+2. **Allergic Rhinitis Management:**
+   - Continue daily antihistamines.
+   - Consider adding a leukotriene receptor antagonist to help manage symptoms.
+
+3. **Cystic Fibrosis Management:**
+   - Follow-up with the cystic fibrosis clinic for ongoing management and coordination of care with respiratory therapy and nutrition.
+
+Regular follow-up visits should be scheduled every three months or sooner if symptoms worsen or new concerns arise. Additional laboratory investigations, such as repeat IgE levels, may be conducted in the next follow-up to monitor her allergic responses.
+
+**Follow-Up:**
+
+Instruct patient and caregiver to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. Educate them on recognizing signs of an acute asthma exacerbation requiring urgent care.
+
+**Patient Education & Understanding of the Plan:** 
+Patient’s mother demonstrates an understanding of the management plan, the proper inhaler technique, and signs to watch for that necessitate emergent care.
+
+---
+
+This narrative SOAP note provides a thorough understanding of the patient's medical history and current issues, summaries the clinical reassurance, and outlines the steps ahead in managing the patient's chronic conditions.

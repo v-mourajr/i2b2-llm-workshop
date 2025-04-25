@@ -1,0 +1,27 @@
+demographics
+patient_num: 1000000117  age: 5
+patient_num: 1000000117  sex: M
+patient_num: 1000000117  race: indian
+patient_num: 1000000117  language: english
+patient_num: 1000000117  vital_status: alive
+patient_num: 1000000117  earliest fact: Feb 20 2001 12:00AM
+patient_num: 1000000117  latest fact: Nov 13 2001 12:00AM
+patient_num: 1000000117  range in days: 266
+totals
+patient_num: 1000000117  distinct concepts: 22
+patient_num: 1000000117  total facts: 37
+patient_num: 1000000117  total encounters: 11
+descriptive
+patient_num: 1000000117  diagnosis code: ICD9:64.0  name: Circumcision  count: 1
+patient_num: 1000000117  diagnosis code: ICD9:692.9  name: Contact dermatitis and other eczema, unspecified cause  count: 1
+patient_num: 1000000117  diagnosis code: ICD9:V65.3  name: Dietary surveillance and counseling  count: 3
+patient_num: 1000000117  diagnosis code: ICD9:V05.3  name: Need for prophylactic vaccination and inoculation against viral hepatitis  count: 1
+patient_num: 1000000117  diagnosis code: ICD9:V06.9  name: Need for prophylactic vaccination with unspecified combined vaccine  count: 1
+patient_num: 1000000117  diagnosis code: ICD9:728.89  name: Other disorder of muscle, ligament, and fascia  count: 1
+patient_num: 1000000117  diagnosis code: ICD9:99.55  name: Prophylactic administration of vaccine against other diseases  count: 1
+patient_num: 1000000117  diagnosis code: ICD9:V20.2  name: Routine infant or child health check  count: 5
+patient_num: 1000000117  diagnosis code: ICD9:V50.2  name: Routine or ritual circumcision  count: 1
+patient_num: 1000000117  diagnosis code: ICD9:706.3  name: Seborrhea  count: 1
+patient_num: 1000000117  diagnosis code: ICD9:V30.0  name: Single liveborn, born in hospital  count: 1
+patient_num: 1000000117  diagnosis code: ICD9:V30.00  name: Single liveborn, born in hospital, delivered without mention of cesarean section  count: 1
+patient_num: 1000000117  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 1

@@ -1,0 +1,79 @@
+**Visit Information:**   
+- **Patient Num:** 1000000087  
+- **Visit Date:** 09/08/2009
+
+**Subjective:**
+
+This is a 56-year-old Asian male who has been attending our clinic for more than a decade. He primarily speaks Spanish and presents today for a follow-up appointment. The primary concerns include persistent fatigue, recurring headaches, and aggravated lower back pain.
+
+The patient describes experiencing generalized fatigue over several months, which has not improved since his last visit. He reports dull, pressure-type headaches occurring three to four times weekly, predominantly in the temples, sometimes alleviated by over-the-counter acetaminophen. The headaches are not associated with nausea, vomiting, or visual disturbances.
+
+Medical history is significant for essential hypertension, managed with Quinapril 20 mg daily, hyperlipidemia treated with Atorvastatin 40 mg daily, and type II diabetes mellitus, controlled through dietary modifications and oral hypoglycemic agents. Chronic sinusitis and occasional bouts of bronchitis are stable. The patient reports a surgical history of an uncomplicated appendectomy performed over ten years ago.
+
+Social history reveals that the patient works in an office setting with prolonged periods of sitting; however, he engages in physical activity such as walking on weekends. He consumes alcohol moderately, mostly during weekends, and denies using tobacco or recreational drugs. He has no known allergies.
+
+The lower back pain, specifically, has worsened, particularly after extended periods of sitting.
+
+**Objective:**
+
+- **Vital Signs:**
+  - Blood Pressure: 142/88 mmHg
+  - Heart Rate: 76 beats per minute
+  - Respiratory Rate: 18 breaths per minute
+  - Temperature: 98.7°F
+  - Oxygen Saturation: 98% on room air
+
+- **General Appearance:**
+The patient appears mildly fatigued but is in no acute distress. He is well-nourished and well-groomed.
+
+- **Cardiovascular:**
+Auscultation reveals a regular rate and rhythm without murmurs, rubs, or gallops. Peripheral pulses are 2+ and symmetric bilaterally.
+
+- **Respiratory:**
+Lungs are clear to auscultation bilaterally with no wheezes, rales, or rhonchi.
+
+- **Abdomen:**
+The abdomen is soft, non-tender, and non-distended with normal bowel sounds. No hepatosplenomegaly is appreciated.
+
+- **Musculoskeletal:**
+Full range of motion in all extremities. Direct palpation reveals mild lumbar tenderness without visible deformities. No joint swelling or erythema noted.
+
+- **Neurological:**
+The patient is alert and oriented x3. Cranial nerves II-XII are intact. Motor strength is 5/5 in all extremities, and deep tendon reflexes are 2+ and symmetric.
+
+- **Skin:**
+Skin is warm, dry, and without rashes, lesions, or abnormal pigmentation.
+
+Recent laboratory results indicate elevated total cholesterol and low-density lipoprotein (LDL) levels, consistent with hyperlipidemia. Renal function tests, such as creatinine and blood urea nitrogen, are within normal limits. Hematologic tests showed slight fluctuations in lymphocytes and neutrophils, requiring further monitoring.
+
+**Assessment:**
+
+1. **Essential Hypertension:**
+   - Focusing on solid control with current therapy.
+   
+2. **Hyperlipidemia:**
+   - Continue treatment with Atorvastatin, monitoring lipid profiles.
+   
+3. **Type II Diabetes Mellitus:**
+   - Adequately controlled; monitoring is ongoing.
+   
+4. **Chronic Fatigue Syndrome:**
+   - Likely multifactorial, consider evaluating thyroid function and reviewing medication effects.
+   
+5. **Chronic Low Back Pain:**
+   - Likely mechanical in origin, aggravated by prolonged sitting.
+
+**Plan:**
+
+1. Maintain current medications for hypertension and hyperlipidemia. The patient should adhere to a low-sodium and low-cholesterol diet.
+2. Order a comprehensive metabolic panel, thyroid function tests, fasting lipid profile, and a complete blood count. These will be reassessed in three months.
+3. Advise ergonomic adjustments in the workplace to alleviate mechanical back pain. Encourage routine physical activity, such as daily walks. Counsel limiting alcohol consumption.
+4. Follow-up in three months to review progress, symptoms, test results, and medication adherence.
+
+**Follow-Up:**
+
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.
+
+**Patient Education & Understanding of the Plan:**
+
+The patient and his family were educated on the significance of adherence to prescribed medications, dietary adjustments, and lifestyle modifications. They were informed about the schedule for follow-up appointments and diagnostic tests. Both the patient and his wife expressed understanding and commitment to the outlined plan.

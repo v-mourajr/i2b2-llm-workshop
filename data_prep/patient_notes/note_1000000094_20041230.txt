@@ -1,0 +1,59 @@
+**Visit Information:**
+- Patient Num: 1000000094
+- Visit Date: 12/30/2004
+
+**Subjective:**
+This is an 8-year-old Hispanic female who speaks English and has been receiving care at our clinic for routine follow-ups and management of her asthma. Today, she presents with her mother for a follow-up visit due to ongoing asthma management. The mother reports that the patient has been experiencing occasional asthma exacerbations characterized by wheezing and shortness of breath, especially during colder weather or after physical activity. These episodes have been mitigated somewhat by her prescribed inhaler, but they remain a concern due to their frequency.
+
+Her past medical history is significant for asthma, with a record of four visits related to unspecified asthma and several respiratory infections such as acute bronchiolitis and upper respiratory infections. There is no history of hospitalizations or surgeries. Current medications include an albuterol inhaler as needed, with improvements noted following its use. The mother also mentions the child is up-to-date on vaccinations.
+
+**Objective:**
+Vital Signs:
+- Blood Pressure: 100/65 mmHg
+- Heart Rate: 98 bpm
+- Respiratory Rate: 22 breaths/min
+- Temperature: 98.8°F
+- Oxygen Saturation: 97% on room air
+
+General Appearance: The patient is alert, cooperative, and appears mildly anxious but in no acute distress.
+
+Cardiovascular: Normal S1 and S2 heart sounds with no murmurs, rubs, or gallops noted.
+
+Respiratory: Mild wheezing noted bilaterally, particularly on forced expiration. Lung fields are otherwise clear. No rales or rhonchi detected.
+
+Abdomen: Soft, non-tender, with normal bowel sounds present in all quadrants.
+
+Musculoskeletal: Normal muscle tone and strength for her age. No deformities or limitations in the range of motion.
+
+Neurological: The patient is alert and oriented, with no signs of neurological deficits.
+
+Skin: Warm and dry without rashes or lesions.
+
+Recent Laboratory Results:
+The latest complete blood count revealed mild anisocytosis and slightly elevated atypical lymphocytes, potentially indicative of minor viral infections or allergic responses. Other parameters like hematocrit, hemoglobin, MCV, MCHC, and platelet counts were within normal ranges.
+
+**Assessment:**
+Primary concern remains asthma management, especially given the frequent exacerbations recently. The absence of significant deviations in laboratory findings supports the lack of acute infectious processes, suggesting these episodes are likely related to her chronic asthma condition.
+
+**Plan:**
+1. **Diagnosis/Clinical Impression:**
+   - Asthma, unspecified without mention of status asthmaticus.
+   - Likely mild viral infections accounting for slight lab variations.
+   
+2. **Treatment Plan:**
+   - Continue current use of albuterol inhaler as needed for respiratory distress.
+   - Begin daily low-dose inhaled corticosteroid therapy to manage frequent exacerbations. 
+   - Ensure the mother and patient are educated on proper inhaler techniques.
+   
+3. **Further Investigations:**
+   - Consider referral to a pulmonologist if symptoms persist or worsen despite advancing inhaled therapies.
+   - Monitor peak expiratory flow rates if possible to gauge daily lung function.
+   - No specific laboratory investigations are required unless new symptoms arise.
+
+4. **Follow-Up:**
+   - Schedule a follow-up visit in three months to reassess asthma control and medication efficacy.
+   - The mother is instructed to keep a symptom diary including triggers, frequency, and severity of wheeze or breathlessness episodes.
+   - Advise immediate return to the clinic for any signs of severe respiratory distress, unrelenting symptoms, or any other concerning manifestations.
+
+**Patient Education & Understanding of the Plan:**
+Careful explanations were provided regarding the importance of adherence to the prescribed medication regimen and techniques. The mother received education on recognizing early signs of asthma exacerbation and the appropriate action steps. She comprehended and agreed to the plan, expressing commitment to monitoring and contacting the clinic if there are signs of deteriorating or new symptoms. The family left with educational materials on asthma management and has scheduled the next appointment as advised.

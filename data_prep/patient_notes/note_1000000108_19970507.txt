@@ -1,0 +1,47 @@
+Visit Information: 
+    - Patient Num: 1000000108 
+    - Visit Date: May 7, 1997
+
+Subjective:
+    This is a 55-year-old Asian male who has been receiving care at our clinic for approximately 3 months. He speaks English and presents today, May 7, 1997, for follow-up on his asthma which has been complicated by recent exacerbations. He reports ongoing episodes of shortness of breath and wheezing, particularly during the night and early morning. He also indicates increased use of his rescue inhaler over the past week. Previously documented peak expiratory flow rates are at their lower limits, raising concern for inadequate asthma control despite adherence to his current treatment regimen.
+
+    His past medical history is notable for chronic persistent asthma, which has required repeated courses of oral corticosteroids for exacerbations. He denies any previous surgical history.
+
+    The patient’s current medications include a short-acting beta2 agonist inhaler that he uses as needed, up to four times per day recently, and a daily inhaled corticosteroid. He confirms adherence to his medication schedule but acknowledges that relief has been inconsistent over the past week. He denies the use of any herbal supplements.
+
+    Socially, the patient lives alone and works as an accountant. He does not smoke and drinks alcohol occasionally. His physical activity has been limited due to his respiratory symptoms. There are no known allergies.
+
+    Symptoms have included an increase in wheezing, cough, and chest tightness. Symptoms are primarily triggered by dust exposure and are alleviated somewhat with medication use. He also notes an absence of fever, chills, or purulent sputum production.
+
+Objective:
+    - Vital Signs:
+        - Blood Pressure: 130/80 mmHg
+        - Heart Rate: 85 bpm
+        - Respiratory Rate: 22 breaths per minute
+        - Temperature: 98.6°F
+        - Oxygen Saturation: 95% on room air
+    - General Appearance: Patient appears mildly distressed due to dyspnea.
+    - Cardiovascular: Normal heart sounds, no murmurs, rubs, or gallops detected.
+    - Respiratory: Prolonged expiratory phase, diffuse wheezes noted bilaterally, no crackles or rhonchi. Use of accessory muscles observed.
+    - Abdomen: Soft, non-tender, no organomegaly.
+    - Musculoskeletal: No peripheral edema, normal muscle bulk and tone.
+    - Neurological: Alert and oriented to person, place, and time. Cranial nerves II-XII intact.
+    - Skin: No rashes or lesions, normal turgor.
+
+Assessment:
+    - Chronic persistent asthma with acute exacerbation
+    - Differential diagnosis includes other pulmonary conditions contributing to increased respiratory symptoms
+
+Plan:
+    - Continue current asthma medications.
+    - Prescribe a short course of oral corticosteroids to manage the exacerbation.
+    - Arrange a repeat spirometry to reassess lung function and monitor the response to treatment.
+    - Referral to a pulmonologist for further management if symptoms do not improve.
+    - Educate the patient on proper inhaler technique and the importance of avoiding known triggers.
+    - Reinforce the need to maintain follow-up appointments to ensure optimal asthma control.
+
+Follow-Up:
+    - Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.
+    - Schedule a follow-up visit in two weeks to reassess symptoms and treatment efficacy.
+
+The patient demonstrated understanding of the care plan and will adhere to prescribed recommendations.

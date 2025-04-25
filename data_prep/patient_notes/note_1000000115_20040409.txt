@@ -1,0 +1,55 @@
+Visit Information:
+    - Patient Num: 1000000115
+    - Visit Date: 04/09/2004
+
+This is an 8-year-old Black female who has been receiving care at our clinic since birth. She communicates in English and attends the visit today with her mother for a routine follow-up. The patient has a history of asthma, initially diagnosed at the age of 2. Her most recent exacerbations were managed at home with albuterol inhaler use. She has not required hospitalization for asthma. Her current medication regimen includes daily inhaled corticosteroids and montelukast. The mother recounts effective management with these medications, and there have been no recent needs for oral corticosteroids.
+
+She has been consistently monitored with regular blood tests, including white blood cell counts and differential counts, which have remained within normal ranges aside from slightly elevated eosinophils. No surgical history is noted.
+
+Her social circumstances include living in a non-smoking home. She participates in activities suitable for her age but modifies her activity to prevent asthma symptoms. No known allergies have been reported.
+
+Over the past month, she had two asthma exacerbations characterized by wheezing and nocturnal shortness of breath, alleviated by albuterol. These episodes lasted three to four days without accompanying fever or chest pain.
+
+Objective:
+Vital Signs:
+- Blood Pressure: 98/62 mmHg
+- Heart Rate: 100 bpm
+- Respiratory Rate: 20 breaths per minute
+- Temperature: 37.0°C (98.6°F)
+- Oxygen Saturation: 98% on room air
+
+General Appearance:
+The patient is well-nourished, well-developed, and in no acute distress.
+
+Cardiovascular Exam:
+Heart sounds are normal without murmurs, rubs, or gallops.
+
+Respiratory Exam:
+Clear bilateral breath sounds at rest with wheezing on forced expiration. No accessory muscle use or nasal flaring is observed.
+
+Abdomen Exam:
+Soft, non-tender with active bowel sounds and no hepatosplenomegaly.
+
+Musculoskeletal Exam:
+No cyanosis, clubbing, or edema. Full range of motion in all extremities.
+
+Neurological Exam:
+Alert, oriented, and appropriately interactive for her age.
+
+Skin Exam:
+No rashes, lesions, or other abnormalities detected.
+
+Recent laboratory evaluations revealed slightly elevated eosinophil counts, though all other values including basophils, neutrophils, lymphocytes, and monocytes are within normal limits. Hemoglobin and hematocrit levels are also normal.
+
+Assessment:
+The primary diagnosis remains well-managed asthma with episodic exacerbations. Additional considerations include the prophylactic administration of hepatitis vaccines, as well as the ongoing need for routine immunizations.
+
+Plan:
+1. Maintain current asthma management with daily inhaled corticosteroids and montelukast, and continue as-needed albuterol for acute symptoms.
+2. Reinforce education on asthma action plans and trigger avoidance with the mother.
+3. Provide the hepatitis vaccine as part of today’s visit.
+4. Continue to monitor eosinophil levels with a complete blood count in three months.
+5. Schedule for another follow-up appointment in six months, though advised to return sooner if symptom severity increases. 
+6. Emphasize the importance of consistent use of control medications and demonstrate correct inhaler technique.
+
+The patient’s mother is instructed to contact the clinic if symptoms do not improve within a week or if new symptoms arise, indicating the possibility of another medical evaluation. The mother indicated understanding and agreement with the treatment plan as discussed.

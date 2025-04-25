@@ -1,0 +1,61 @@
+**Visit Information:**
+- Patient Num: 1000000033
+- Visit Date: 05/04/1998
+
+**Subjective:**
+This is an 18-year-old Asian male who has been a patient at our clinic for nearly a year. He communicates in Spanish and presents today for follow-up of his asthma, which has been previously defined as unspecified without mention of status asthmaticus as well as extrinsic asthma without mention of status asthmaticus. He reports increased frequency and severity of wheezing and shortness of breath over the past two weeks, particularly at night, which has resulted in difficulty sleeping. He mentions using his albuterol inhaler more frequently, almost daily, and notes that it provides temporary relief. 
+
+The patient's additional recent history includes a previous visit for acute pharyngitis and abdominal pain. He has not required hospitalization or emergency department visits recently for his asthma. He denies fever, chest pain, or hemoptysis. 
+
+The patient has no known allergies and is currently taking albuterol inhaler and fluticasone propionate. He does not take any herbal supplements. The patient reports good adherence to medications, except sporadically forgetting the evening dose of fluticasone. 
+
+Social history: The patient is a high school student living with his parents. He does not smoke or consume alcohol. There are no pets at home, and the family uses fans for cooling, which sometimes circulate dust. The patient has been managing his asthma with medication and avoiding known triggers.
+
+**Objective:**
+- **Vital Signs:**
+  - Blood Pressure: 110/70 mmHg
+  - Heart Rate: 84 bpm
+  - Respiratory Rate: 18 breaths/min
+  - Temperature: 36.8°C
+  - Oxygen Saturation: 98% on room air
+
+- **General Appearance:**
+  The patient is alert, oriented, and in no acute distress but appears slightly anxious.
+
+- **Cardiovascular:**
+  Heart sounds are regular without murmurs, rubs, or gallops.
+
+- **Respiratory:**
+  Symmetrical chest expansion, with mild intercostal retractions noted. Bilateral wheezes are present on auscultation, more pronounced on exhalation. No crackles or rhonchi detected.
+
+- **Abdomen:**
+  Soft, non-tender, and non-distended. Bowel sounds are normal and present in all four quadrants.
+
+- **Musculoskeletal:**
+  Normal muscle tone and strength. No joint swelling or tenderness.
+
+- **Neurological:**
+  The patient is alert and oriented; cranial nerves II-XII are intact.
+
+- **Skin:**
+  No rashes or lesions. Normal turgor and color.
+
+**Assessment:**
+The patient’s primary diagnosis remains asthma, unspecified without status asthmaticus, and extrinsic asthma without mention of status asthmaticus. The current exacerbation is possibly due to environmental triggers as suggested by his exposure to dust. The secondary conditions include a history of acute pharyngitis and recurring episodes of abdominal pain.
+
+**Plan:**
+- **Asthma Management:**
+  1. Continue current medications: albuterol inhaler as needed for acute symptoms and fluticasone propionate as a maintenance inhaler.
+  2. Reinforce the importance of adherence to prescribed controller medication to prevent exacerbations.
+  3. Educate the patient on identifying and managing asthma triggers. Recommend using a HEPA filter at home and maintaining a clean living environment.
+  4. Follow-up in 4 weeks or sooner if symptoms persist or worsen. Provide a spacer for inhaler use to enhance medication delivery.
+
+- **Further Investigation for Environmental Control:**
+  1. The patient should undergo a detailed environmental assessment at home. Referral to a social worker to provide resources for improving home environment conditions.
+
+- **General Follow-Up Care:**
+  1. Advise the patient to contact the clinic if symptoms worsen or do not improve within a week.
+  2. Educate the patient on the use of the asthma action plan, emphasizing when to seek urgent care.
+  3. Patient understands and verbalizes the outlined care plan. 
+
+The patient was instructed to return for any emergent issues and to stick closely to the prescribed treatment plan to manage his asthma optimally.

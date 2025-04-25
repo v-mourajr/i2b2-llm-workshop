@@ -1,0 +1,50 @@
+Visit Information:
+    - Patient Num: 1000000025
+    - Visit Date: 10/24/2006
+
+This is a 75-year-old Hispanic female who has been receiving care at our clinic for nearly five years. She speaks Spanish and presents today for a follow-up regarding her asthma and other chronic conditions.
+
+Subjective:
+The patient reports experiencing increased asthma symptoms, including shortness of breath and wheezing, over the past two days. Despite adhering to her prescribed inhaled corticosteroids and taking albuterol as needed, the symptoms persist, especially at night. She denies any recent infections or changes in her environment. Her past medical history includes asthma—both specified and unspecified forms—and comorbidities such as brachial neuritis, bronchiectasis, carpal tunnel syndrome, disturbance of skin sensation, hyperhidrosis, and episodic chest pain.
+
+The patient currently takes inhaled corticosteroids, albuterol as needed, Evista for osteoporosis, and Lescol for hyperlipidemia. She has also received midazolam hydrochloride previously. She is retired, lives alone, and maintains a healthy lifestyle by avoiding smoking and alcohol and staying active with daily walks. There are no known allergies. Her nocturnal wheezing and daytime shortness of breath are exacerbated by physical activities but somewhat relieved with rest and albuterol. She rated her current breathing difficulty as a 6 out of 10.
+
+Objective:
+Vital Signs:
+- Blood Pressure: 130/84 mmHg
+- Heart Rate: 80 bpm
+- Respiratory Rate: 20 breaths per minute
+- Temperature: 98.4°F
+- Oxygen Saturation: 94% on room air
+
+General Appearance: The patient appears alert and oriented, mildly dyspneic, but not in acute distress.
+Cardiovascular: Heart sounds reveal regular rhythm without murmurs, gallops, or rubs; peripheral pulses are palpable and strong.
+Respiratory: Auscultation reveals diffuse wheezing with a prolonged expiratory phase and use of accessory muscles; no rales or rhonchi detected.
+Abdomen: Soft, non-tender with normal bowel sounds, no organomegaly.
+Musculoskeletal: Mild bilateral wrist discomfort, with positive Tinel’s sign suggesting carpal tunnel syndrome; normal range of motion in all extremities.
+Neurological: Sensory examination is intact, muscle strength is 5/5 throughout.
+Skin: Warm and dry, no rashes or cyanosis noted.
+
+Assessment:
+The primary diagnosis remains asthma, experiencing an acute exacerbation despite ongoing treatment. Secondary conditions include brachial neuritis, carpal tunnel syndrome, disturbance of skin sensation, hyperhidrosis, and episodic chest pain of unknown origin.
+
+Plan:
+1. Asthma exacerbation:
+    - Increase the dosage of inhaled corticosteroids.
+    - Continue albuterol as needed and initiate a brief course of oral corticosteroids.
+    - Refer to pulmonology for further evaluation and potential adjustment of the asthma management plan.
+    - Schedule repeat spirometry to assess pulmonary function.
+
+2. Carpal tunnel syndrome:
+    - Recommend the use of nighttime wrist splints and NSAIDs for pain management.
+    - Order an electromyography (EMG) for further evaluation.
+    - Consider referral to orthopedics if symptoms do not improve with conservative management.
+
+3. Episodic chest pain:
+    - Continue to monitor and reassess, with a repeat ECG and consider a stress test if symptoms persist.
+    - Referral to cardiology for a comprehensive evaluation if chest pain continues to be a significant concern.
+
+Follow-Up:
+- The patient is instructed to contact the clinic if symptoms worsen or do not improve within a week, or if test results suggest further intervention.
+- Schedule a follow-up appointment for one week to reassess asthma control and review diagnostic results.
+- Patient education provided on asthma action plan, the patient voiced understanding and agreed with the planned interventions.

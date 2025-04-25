@@ -1,0 +1,63 @@
+**Visit Information:**
+- Patient Num: 1000000098
+- Visit Date: 07/13/2001
+
+**Subjective:**
+This is a 16-year-old Asian female who has been receiving care at our clinic for approximately 3 years. She speaks English fluently and presents today for follow-up regarding her chronic asthma management. The patient has a history of asthma, unspecified without mention of status asthmaticus, as well as past episodes of acute upper respiratory infections and acute suppurative otitis media. Her primary complaint at this visit is an increase in asthma symptoms over the past week, including wheezing and shortness of breath, particularly at night and during physical activities.
+
+She reports adherence to her current medication regimen, which includes an inhaled corticosteroid and a short-acting beta agonist for asthma. She has been using her rescue inhaler more frequently, up to three times a day. She denies any recent infections, fever, chills, or significant exposure to allergens. The patient has a past medical history notable for acute pharyngitis, acute apical periodontitis, cellulitis of oral soft tissues, slow transit constipation, and unspecified noninfectious gastroenteritis.
+
+No new medications or supplements have been introduced. There are no known drug allergies. She lives with her parents, who are supportive, and attends high school regularly. She partakes in physical activities and maintains a balanced diet.
+
+**Objective:**
+- **Vital Signs:**
+  - Blood Pressure: 110/68 mmHg
+  - Heart Rate: 76 bpm
+  - Respiratory Rate: 18 breaths per minute
+  - Temperature: 98.4°F (36.9°C)
+  - Oxygen Saturation: 97% on room air
+
+- **General Appearance:**
+  The patient appears well-developed and nourished. She is alert, oriented, and in no acute distress.
+
+- **Cardiovascular:**
+  Examination reveals regular heart sounds with no murmurs, rubs, or gallops. Peripheral pulses are palpable and symmetric.
+
+- **Respiratory:**
+  The patient’s chest examination shows bilateral wheezes on auscultation, particularly in the lower lobes. No crackles or rhonchi are present. There is no use of accessory muscles or nasal flaring.
+
+- **Abdomen:**
+  The abdomen is soft and non-tender with normal bowel sounds. There are no palpable masses or organomegaly.
+
+- **Musculoskeletal:**
+  Examination reveals full range of motion in all joints without swelling or tenderness.
+
+- **Neurological:**
+  The patient demonstrates a normal gait and coordination. Cranial nerves are intact, and reflexes are symmetrical.
+
+- **Skin:**
+  The skin is intact, warm, and dry with no rashes or lesions.
+
+**Assessment:**
+1. **Asthma, unspecified without mention of status asthmaticus:**
+   - The patient’s asthma symptoms have increased, likely triggered by environmental changes or suboptimal control.
+2. **History of recurrent upper respiratory infections and chronic nasal inflammation:**
+   - Possible contributing factor to the exacerbation of asthma symptoms.
+
+**Plan:**
+1. **Asthma Management:**
+   - Adjust the patient’s asthma action plan to include a daily long-acting beta agonist in combination with the inhaled corticosteroid.
+   - Continue the short-acting beta agonist as needed for acute symptoms but limit to no more than four times per day.
+   - Encourage the use of a peak flow meter to monitor asthma control at home and maintain a symptom diary.
+
+2. **Follow-Up and Monitoring:**
+   - Schedule a follow-up appointment in two weeks to reassess asthma control and adjust treatment as necessary.
+   - Perform spirometry testing at the next visit to evaluate pulmonary function.
+   - Educate the patient and parents about identifying environmental triggers and adhering to asthma management strategies.
+
+3. **General Health and Preventive Care:**
+   - Reiterate the importance of avoiding known allergens and addressing any symptoms of upper respiratory tract infections immediately.
+   - Advise on maintaining a healthy lifestyle, including balanced nutrition and regular physical activity within the limits of asthma control.
+   - Instruct the patient to return to the clinic or seek immediate care if she experiences symptoms suggestive of acute asthma exacerbation or if current symptoms do not improve.
+
+The patient and her family are provided with detailed educational materials on asthma management and express understanding of the outlined plan. An emergency contact number is given, and they are advised to reach out if symptoms worsen. Appropriate follow-up is planned.

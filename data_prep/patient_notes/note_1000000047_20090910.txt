@@ -1,0 +1,56 @@
+**Narrative Physician's Note**
+
+Visit Information:
+- Patient Num: 1000000047
+- Visit Date: 09/10/2009
+
+This is a 40-year-old Black male who has been attending our clinic for approximately 10 years. He speaks English fluently and presents today, 09/10/2009, for a follow-up visit focusing on persistent allergic rhinitis, ongoing abdominal discomfort, and elevated liver enzymes.
+
+**Subjective:**
+The patient continues to experience significant symptoms related to his allergic rhinitis despite regular use of Hismanal. He reports persistent nasal congestion, sneezing, itchy eyes, and malaise that have been particularly problematic over the past several weeks. These symptoms have remained refractory to his current antihistamine treatment, and he feels that his quality of life is being affected.
+
+Additionally, he mentions recurrent right lower quadrant abdominal pain that has been a present issue for several months. The pain is intermittent and does not correlate with any changes in bowel movements or urinary habits. He denies experiencing nausea, vomiting, or fever during these episodes.
+
+The patient's medical history includes multiple instances of allergic rhinitis caused by specific allergens, acute sinusitis, episodes of acute pharyngitis and bronchitis. He has a previous diagnosis of depressive disorder. Notably, he has had a benign neoplasm of the scalp and a neurofibroma of the spinal cord surgically excised.
+
+Currently, he takes Hismanal for allergic rhinitis, Metronidazole for a previous gastrointestinal infection, and Clindamycin for recurring bacterial infections. He reports no known allergies.
+
+In terms of social history, he lives alone and works a clerical job that he generally finds manageable. He maintains a healthy lifestyle, exercises regularly, and follows a balanced diet. He denies tobacco, alcohol, and illicit drug use.
+
+**Objective:**
+Vital signs recorded include blood pressure at 130/85 mmHg, heart rate at 75 bpm, respiratory rate of 20 breaths per minute, temperature of 98.6°F, and oxygen saturation at 98% on room air.
+
+Physical examination reveals a well-nourished, alert and oriented male in no acute distress:
+- **General Appearance:** Well-nourished, alert, oriented, and in no acute distress.
+- **Cardiovascular:** Regular rate and rhythm, no murmurs, gallops, or rubs.
+- **Respiratory:** Clear to auscultation bilaterally without wheezing or rales.
+- **Abdomen:** Mild tenderness in the right lower quadrant with no palpable masses or hepatosplenomegaly. No evidence of guarding or rebound tenderness.
+- **Musculoskeletal:** Full range of motion in all extremities. No swelling, erythema, or tenderness. 
+- **Neurological:** Cranial nerves II-XII intact, muscle strength 5/5 throughout, normal sensation, and reflexes 2+ bilaterally.
+- **Skin:** No rashes, lesions, or abnormal growths detected. Skin turgor normal.
+
+Recent laboratory tests continue to show elevation in liver enzymes, specifically ALT and AST. Both direct and total bilirubin levels are slightly elevated. The patient's lipid profile indicates persistent hyperlipidemia. Routine blood glucose levels are normal.
+
+**Assessment:**
+1. **Allergic Rhinitis:** Multifactorial rhinitis with suboptimal control despite Hismanal use.
+2. **Elevated Liver Enzymes:** Persistent liver enzyme elevation, suggestive of possible chronic liver disease.
+3. **Intermittent Abdominal Pain:** Right lower quadrant abdominal pain likely gastrointestinal in origin but not indicative of acute pathology currently.
+
+**Plan:**
+1. **Allergic Rhinitis:**
+   - Continue Hismanal.
+   - Start Fluticasone nasal spray for additional symptom control.
+   - Referral to an allergist for further evaluation and possible allergen-specific immunotherapy.
+
+2. **Elevated Liver Enzymes:**
+   - Repeat liver function tests including ALT, AST, and bilirubin levels.
+   - Schedule an abdominal ultrasound to further evaluate liver pathology.
+   - Referral to gastroenterology for further evaluation and management of potential chronic liver disease.
+
+3. **Intermittent Abdominal Pain:**
+   - Educate patient on dietary modifications to identify and avoid potential triggers.
+   - Advise keeping a symptom diary.
+   - Follow-up appointment in one month to reassess symptoms and review any new findings.
+
+**Follow-up:**
+The patient was advised to adhere strictly to his medication regimen and lifestyle modifications. He was instructed to contact the clinic if his symptoms worsen or persist beyond a week, or if any new test results indicate further action is necessary. A follow-up appointment was scheduled for one month to review any updates and continue managing the patient's conditions.

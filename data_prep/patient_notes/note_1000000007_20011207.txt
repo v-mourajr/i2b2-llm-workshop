@@ -1,0 +1,68 @@
+**Visit Information:**
+- Patient Num: 1000000007
+- Visit Date: 12/07/2001
+
+**Subjective:**
+This is a 21-year-old Asian male who has been under our clinic's care for approximately three years. He primarily communicates in Spanish, and today he presents for a routine follow-up evaluation, specifically for his asthma management. He reports that his asthma symptoms have been relatively controlled with his inhaler, and he has not had any significant exacerbations since his last visit. However, he mentions experiencing occasional shortness of breath and wheezing, particularly during physical activity. He has recently noticed an increase in seasonal allergies, which he suspects may be contributing to his respiratory symptoms.
+
+His past medical history is significant for asthma, both unspecified type and extrinsic asthma, and cardiac dysrhythmias, including paroxysmal supraventricular tachycardia for which he underwent catheter ablation previously. He manages his asthma with an albuterol inhaler and receives allergy shots for his allergic rhinitis.
+
+He denies using any herbal supplements and comes with no history of recent surgeries except for his previous cardiac procedures. Socially, he is a college student living with roommates, and he regularly participates in recreational sports. He denies smoking, alcohol use, or recreational drug use. 
+
+The patient has no known drug allergies.
+
+**Objective:**
+- **Vital Signs:**
+  - Blood Pressure: 120/80 mmHg
+  - Heart Rate: 68 bpm
+  - Respiratory Rate: 16 breaths per minute
+  - Temperature: 98.4°F
+  - Oxygen Saturation: 97% on room air
+
+- **General Appearance:**
+  The patient appears well, in no apparent distress, and is alert and oriented. 
+
+- **Cardiovascular:**
+  Regular rate and rhythm without any murmurs, gallops, or rubs. No jugular venous distension or peripheral edema noted.
+
+- **Respiratory:**
+  Breath sounds are clear bilaterally with no wheezes, rales, or crackles. No use of accessory muscles or nasal flaring observed. The patient exhibits good air movement during auscultation.
+
+- **Abdomen:**
+  Soft, non-tender, non-distended with normal bowel sounds.
+
+- **Musculoskeletal:**
+  Full range of motion in all joints without deformities, swelling, or tenderness. No recurrence of shoulder dislocation since last check.
+
+- **Neurological:**
+  Cranial nerves II-XII intact. No focal neurological deficits. The patient is alert and oriented (A&O x 3).
+
+- **Skin:**
+  No rashes or lesions. Good turgor and overall healthy appearance.
+
+**Assessment:**
+- **Asthma:** The patient's asthma remains well-controlled with occasional mild exacerbations managed effectively with albuterol. There's likely a seasonal allergy component exacerbating his symptoms.
+- **Cardiac Dysrhythmia:** History of paroxysmal supraventricular tachycardia, currently asymptomatic.
+- **Allergic Rhinitis:** Symptoms have increased recently; likely contributing to asthma exacerbations.
+
+**Plan:**
+1. **Asthma:**
+   - Continue the use of albuterol inhaler as needed.
+   - Consider adding a daily controller medication such as an inhaled corticosteroid if symptoms persist or increase.
+   - Reinforce asthma action plan and ensure medication technique is proper.
+   - No additional diagnostic tests or referrals are needed at this time.
+
+2. **Allergic Rhinitis:**
+   - Continue with allergy immunotherapy.
+   - Recommend over-the-counter antihistamines as needed.
+   - Advise on environmental controls to reduce allergen exposure.
+   - Follow up in a month to reassess symptoms.
+
+3. **Cardiac Management:**
+   - Continue routine monitoring for signs and symptoms of dysrhythmias.
+   - No new symptoms; thus, no immediate intervention or diagnostic tests required.
+
+**Follow-Up:**
+- Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if breathing difficulties arise.
+- Schedule a follow-up appointment in one month to reassess asthma and allergic rhinitis.
+- Educated the patient on the importance of medication adherence, environmental control for allergies, and recognizing signs of asthma exacerbation. The patient verbalized understanding and agreed with the plan.

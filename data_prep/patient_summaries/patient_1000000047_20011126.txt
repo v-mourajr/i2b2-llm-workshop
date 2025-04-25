@@ -1,0 +1,48 @@
+demographics
+patient_num: 1000000047  age: 31
+patient_num: 1000000047  sex: M
+patient_num: 1000000047  race: black
+patient_num: 1000000047  language: english
+patient_num: 1000000047  vital_status: alive
+patient_num: 1000000047  earliest fact: Mar  4 1999 12:00AM
+patient_num: 1000000047  latest fact: Nov 26 2001 12:00AM
+patient_num: 1000000047  range in days: 998
+totals
+patient_num: 1000000047  distinct concepts: 42
+patient_num: 1000000047  total facts: 117
+patient_num: 1000000047  total encounters: 40
+patient_num: 1000000047  total asthma: 4
+descriptive
+patient_num: 1000000047  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 4
+patient_num: 1000000047  diagnosis code: ICD9:477.8  name: Allergic rhinitis due to other allergen  count: 23
+patient_num: 1000000047  diagnosis code: ICD9:477.0  name: Allergic rhinitis due to pollen  count: 4
+patient_num: 1000000047  diagnosis code: ICD9:995.3  name: Allergy, unspecified, not elsewhere classified  count: 1
+patient_num: 1000000047  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 4
+patient_num: 1000000047  diagnosis code: ICD9:490  name: Bronchitis, not specified as acute or chronic  count: 1
+patient_num: 1000000047  diagnosis code: ICD9:99.23  name: Injection of steroid  count: 1
+patient_num: 1000000047  diagnosis code: ICD9:V72.6  name: Laboratory examination  count: 1
+patient_num: 1000000047  diagnosis code: ICD9:794.8  name: Nonspecific abnormal results of function study of liver  count: 2
+patient_num: 1000000047  diagnosis code: ICD9:883.0  name: Open wound of fingers, without mention of complication  count: 1
+patient_num: 1000000047  diagnosis code: ICD9:882.0  name: Open wound of hand except fingers alone, without mention of complication  count: 1
+patient_num: 1000000047  diagnosis code: ICD9:879.9  name: Open wound(s) (multiple) of unspecified site(s), complicated  count: 1
+patient_num: 1000000047  diagnosis code: ICD9:706.1  name: Other acne  count: 1
+patient_num: 1000000047  diagnosis code: ICD9:478.9  name: Other and unspecified diseases of upper respiratory tract  count: 1
+patient_num: 1000000047  diagnosis code: ICD9:372.14  name: Other chronic allergic conjunctivitis  count: 1
+patient_num: 1000000047  diagnosis code: ICD9:93.94  name: Respiratory medication administered by nebulizer  count: 1
+patient_num: 1000000047  medication code: NDC:50458051010  name: Hismanal 10mg tablet Janssen Pharmaceuticals  count: 4
+patient_num: 1000000047  medication code: NDC:51079012620  name: Metronidazole 500mg tablet UDL Laboratories Inc  count: 8
+patient_num: 1000000047  medication code: NDC:00089074121  name: Qvar 80 mcg/inh aerosol with adapter 3 M Pharmaceuticals  count: 4
+patient_num: 1000000047  laboratory code: LOINC:1751-7  name: Albumin (Group:ALB)  count: 1
+patient_num: 1000000047  laboratory code: LOINC:1742-6  name: ALT (SGPT) (Group:SGPT)  count: 1
+patient_num: 1000000047  laboratory code: LOINC:1920-8  name: AST (SGOT) (Group:SGOT)  count: 1
+patient_num: 1000000047  laboratory code: LOINC:2093-3  name: Cholesterol (Group:CHOL)  count: 2
+patient_num: 1000000047  laboratory code: LOINC:1968-7  name: Direct Bilirubin (Group:DBILI)  count: 2
+patient_num: 1000000047  laboratory code: LOINC:2276-4  name: Ferritin (Group:FER)  count: 1
+patient_num: 1000000047  laboratory code: LOINC:2336-6  name: Globulin (Group:GLOB)  count: 1
+patient_num: 1000000047  laboratory code: LOINC:6777-7  name: Glucose (Group:GLU)  count: 1
+patient_num: 1000000047  laboratory code: LOINC:2086-7  name: HDL (Group:HDL)  count: 1
+patient_num: 1000000047  laboratory code: LOINC:2498-4  name: Iron (Group:FE)  count: 1
+patient_num: 1000000047  laboratory code: LOINC:2500-7  name: TIBC (Group:TIBC)  count: 1
+patient_num: 1000000047  laboratory code: LOINC:1975-2  name: Total Bilirubin (Group:TBILI)  count: 2
+patient_num: 1000000047  laboratory code: LOINC:2885-2  name: Total Protein (Group:TP)  count: 1
+patient_num: 1000000047  laboratory code: LOINC:2571-8  name: Triglycerides (Group:TRIG)  count: 1

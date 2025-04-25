@@ -1,0 +1,60 @@
+**Visit Information:**
+- Patient Num: 1000000094
+- Visit Date: 12/26/2007
+
+**Subjective:**
+This is an 11-year-old Hispanic female who has been receiving care at our clinic for approximately 6 years, primarily for the management of asthma. She speaks English fluently and is accompanied by her mother for a follow-up visit due to ongoing difficulties in controlling her asthma. The patient's mother reports that her daughter experiences frequent asthma exacerbations, which are particularly troublesome during cold weather and post-exercise. The exacerbations are typified by wheezing and shortness of breath. Although the patient uses an albuterol inhaler when needed, the frequency of these episodes has raised concerns. 
+
+The patient has a history of unspecified asthma and extrinsic asthma, recurrent upper respiratory infections including acute bronchiolitis and sinusitis. There have been no hospitalizations or surgical interventions in her medical history. Her vaccination records are up-to-date.
+
+**Objective:**
+Vital Signs:
+- Blood Pressure: 102/66 mmHg
+- Heart Rate: 96 bpm
+- Respiratory Rate: 21 breaths/min
+- Temperature: 98.6°F
+- Oxygen Saturation: 96% on room air
+
+General Appearance: The patient appears alert, cooperative, with mild anxiety, but is in no acute distress.
+
+Cardiovascular: S1 and S2 heart sounds are normal, without murmurs, rubs, or gallops. 
+
+Respiratory: On auscultation, mild wheezing is noted bilaterally during forced expiration. There are no rales or rhonchi. Lung fields are clear otherwise.
+
+Abdomen: The abdomen is soft and non-tender. Bowel sounds are present and normal in all quadrants.
+
+Musculoskeletal: Normal muscle tone and strength are observed. The patient demonstrates a full range of motion without pain or deformities.
+
+Neurological: The patient is alert, oriented, and without neurological deficits.
+
+Skin: The skin is warm, dry, and shows no rashes or lesions.
+
+Laboratory Results (recent):
+A recent complete blood count showed mild anisocytosis and slightly elevated atypical lymphocytes, suggesting minor viral infections or allergic responses. Other parameters, including hematocrit, hemoglobin, MCV, MCHC, and platelet counts, were within normal limits.
+
+**Assessment:**
+The primary concern remains the management of asthma, taking into account the frequent exacerbations reported. The patient's recurrent respiratory symptoms, and the slight variations in laboratory results point towards chronic asthma, without current signs of acute infectious conditions.
+
+**Plan:**
+1. **Diagnosis/Clinical Impression:**
+   - Asthma, unspecified without mention of status asthmaticus.
+   - Possible mild viral infection or allergy-related response indicated by lab results.
+   
+2. **Treatment Plan:**
+   - Continue with the current use of the albuterol inhaler as needed for acute asthma symptoms.
+   - Initiate low-dose daily inhaled corticosteroid therapy to better manage and reduce the frequency of asthma exacerbations.
+   - Provide thorough education for both the patient and her mother on correct inhaler techniques and adherence to the new medication regimen.
+
+3. **Further Investigations:**
+   - Refer to a pulmonologist if there is no improvement or if symptoms worsen despite the introduction of daily inhaled corticosteroids.
+   - Encourage the use of a peak flow meter to monitor daily lung function and identify early signs of exacerbations.
+
+4. **Follow-Up:**
+   - Schedule a follow-up appointment in three months to assess asthma control and the effectiveness of the new medication.
+   - Instruct the mother to maintain a symptom diary noting triggers, frequency, and severity of episodes.
+   - Advise immediate return to the clinic for severe respiratory distress or unrelieved symptoms.
+
+**Patient Education & Understanding of the Plan:**
+Education was provided to both the patient and her mother about the importance of the new inhaled corticosteroid therapy, adherence to the medication schedule, and correct inhaler usage. They were instructed on recognizing early signs of an asthma exacerbation and appropriate steps to take during an acute episode. The mother understood and agreed to the management plan, expressing a commitment to closely monitor her daughter's symptoms and seek prompt medical help if necessary. Educational materials on asthma management were provided, and the next follow-up appointment was scheduled.
+
+Instruct patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.

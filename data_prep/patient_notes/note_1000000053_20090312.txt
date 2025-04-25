@@ -1,0 +1,27 @@
+**Visit Information:**  
+- **Patient Num:** 1000000053  
+- **Visit Date:** 03/12/2009  
+
+**Subjective:**  
+This is a 14-year-old Asian male who has been a patient at our clinic since birth and communicates primarily in Spanish, often accompanied by his mother for assistance. He presents today for a follow-up visit primarily due to concerns related to his asthma. Despite being on a daily corticosteroid inhaler and using albuterol as a rescue inhaler, he continues to experience significant symptoms. His mother reports persistent coughing, wheezing particularly at night, and shortness of breath with physical activity, which has been particularly severe over the past week. These issues seem exacerbated by a recent viral illness that included episodes of fever and rhinorrhea. Additionally, he has been experiencing intermittent skin rashes without any identifiable triggers or clear patterns.
+
+**Objective:**  
+On physical examination, the patient’s vital signs are stable with a blood pressure of 100/65 mmHg, a heart rate of 95 bpm, a respiratory rate of 22 breaths per minute, a temperature of 98.7°F, and an oxygen saturation of 97% on room air. He appears alert, active, and well-nourished, without any signs of acute distress. The cardiovascular examination is unremarkable with normal heart sounds and a regular rhythm. The respiratory examination reveals mild respiratory distress, noted primarily as wheezing during expiration, intercostal retractions, and a decrease in breath sounds bilaterally. His abdomen is soft and non-tender, showing no signs of hepatosplenomegaly. Both musculoskeletal and neurological examinations are within age-appropriate parameters and demonstrate no focal deficits. The skin examination indicates multiple erythematous, raised rashes on his arms and chest, with no signs suggestive of secondary infection.
+
+**Assessment:**  
+1. **Primary diagnosis: Asthma, unspecified, currently presenting with an acute exacerbation exacerbated by a recent viral respiratory infection.** 
+2. Secondary: Possible atopic-related dermatitis due to intermittent skin rashes.
+3. Tertiary: Presence of symptoms consistent with a recent viral illness impacting his respiratory status.
+
+**Plan:**  
+1. **Asthma Management:** Continue with the current daily corticosteroid inhaler and as-needed albuterol. Initiate a short course of oral corticosteroids to manage the acute exacerbation. Educate the family on recognizing early signs of asthma exacerbation and proper administration of medications. Schedule a follow-up in one month to reassess his progress and response to treatment.
+   
+2. **Diagnostic Testing:** Perform pulmonary function tests to establish a baseline for his respiratory function and adjust long-term management if necessary. Order a complete blood count (CBC) with differential to rule out underlying infections or anemia.
+   
+3. **Management of Skin Rash:** Prescribe a topical corticosteroid for the intermittent rashes. Advise the mother to keep a diary to identify any potential triggers.
+   
+4. **Viral Infection Management:** Recommend supportive care including maintaining hydration and ensuring adequate rest. Instruct the mother to monitor for any persistent or worsening symptoms that may require further medical attention.
+
+5. **Patient Education:** Discuss the implementation of environmental modifications at home to reduce asthma and allergic triggers, such as avoiding dust and smoke. Emphasize the importance of medication adherence and correct inhaler technique.
+
+The mother was instructed to contact the clinic if her son's symptoms do not improve or worsen, or if test results suggest the need for further evaluation. A follow-up appointment is scheduled in four weeks to reassess his condition and response to the treatment plan. All the provided education and today's consultation were thoroughly documented.

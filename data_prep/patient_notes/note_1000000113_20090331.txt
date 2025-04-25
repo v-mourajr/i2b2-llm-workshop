@@ -1,0 +1,66 @@
+**Visit Information:** 
+- **Patient Number:** 1000000113
+- **Visit Date:** 03/31/2009
+
+**Subjective:**
+This is a 13-year-old Asian female who speaks English, presenting for follow-up on her asthma management. The patient reports a worsening of her asthma symptoms over the past week, with persistent nighttime wheezing, shortness of breath during physical activities, and sporadic coughing. The mother mentions that these symptoms are exacerbated at night and seem to get worse with physical exertion. The patient has been using Atrovent 18 mcg/inh aerosol as needed, which offers partial relief but does not completely alleviate her symptoms. There have been no recent fevers, illnesses, or significant exposures reported.
+
+Her past medical history includes recurrent bouts of asthma, various acute respiratory infections, an incident of generalized abdominal pain, and a few falls and injuries from physical activity. She has not undergone any surgical procedures. The patient is currently on Atrovent for asthma relief, with good adherence to this therapy as reported by her mother.
+
+Socially, she lives with her parents and is an active middle school student who enjoys outdoor play. However, she has had to restrict her activities due to her asthma symptoms. There is a family history of asthma but no reported allergies.
+
+**Objective:**
+- **Vital Signs:**
+  - Blood Pressure: 110/72 mmHg
+  - Heart Rate: 108 bpm
+  - Respiratory Rate: 22 breaths per minute
+  - Temperature: 98.6°F
+  - Oxygen Saturation: 98% on room air
+
+- **General Appearance:**
+  The patient appears alert, cooperative, and in no acute distress, although she displays some mild anxiety, likely due to her breathing difficulties.
+
+- **Cardiovascular:**
+  Heart rate is regular with no murmurs, gallops, or rubs auscultated.
+
+- **Respiratory:**
+  Bilateral mild wheezing is heard upon auscultation, particularly on expiration. The patient exhibits a prolonged expiratory phase without rales or rhonchi.
+
+- **Abdomen:**
+  The abdomen is non-tender and without organomegaly or masses. Bowel sounds are present and normal.
+
+- **Musculoskeletal:**
+  Full range of motion is observed with no deformities, joint swelling, or tenderness.
+
+- **Neurological:**
+  The patient is alert and oriented with no focal neurological deficits. Cranial nerves II-XII are intact.
+
+- **Skin:**
+  Skin examination shows no rashes, lesions, or signs of eczema. The skin is warm and dry, with normal turgor.
+
+**Assessment:**
+The patient's asthma is currently not well controlled, with recent exacerbations noted by increased nocturnal symptoms and exercise-induced shortness of breath and wheezing. Her medical history of repeated upper respiratory infections, croup, and bronchiolitis likely contribute to the exacerbations. The presence of wheezing and cough indicates a likely diagnosis consistent with asthma exacerbation.
+
+**Plan:**
+
+1. **Asthma Management:**
+   - **Diagnosis:** Asthma, unspecified without mention of status asthmaticus.
+   - **Differential Diagnoses:** Allergic rhinitis, viral-induced asthma exacerbation.
+   - **Diagnostic Tests:** Conduct peak flow measurements and arrange for a pulmonary function test to evaluate the severity and response to treatment.
+   - **Treatment Plan:** Initiate a low-dose inhaled corticosteroid such as Fluticasone 44 mcg, 2 puffs BID. Continue Atrovent for acute relief. Provide education on proper inhaler use and the importance of adherence to the new regimen. Evaluate response in 2 weeks and adjust as necessary.
+   - **Referral:** If symptoms persist or worsen despite intervention, refer to a pediatric pulmonologist for specialized assessment.
+
+2. **Recurrent Upper Respiratory Infections:**
+   - **Assessment:** Observe symptomatically, emphasizing the importance of hydration and overall respiratory hygiene.
+   - **Diagnostic Tests:** No additional tests are indicated at this time unless new symptoms arise.
+   - **Treatment Plan:** Educate on preventive measures to reduce infection risks and ensure a stable warm indoor environment.
+
+3. **Routine Health Monitoring:**
+   - **Diagnosis:** Oversight and immunization updates.
+   - **Diagnostic Tests:** Routine physical exams will continue with specific checks on growth and development parameters.
+   - **Treatment Plan:** Regular well-child visits to monitor health and development, alongside ensuring that immunizations are up to date.
+
+**Follow-Up:**
+- **Emergent Follow-Up Care Instructions:** Advise the mother to seek immediate medical attention if the patient's symptoms worsen considerably, if there is no improvement within a week, or if new symptoms like high fever or significant respiratory distress occur.
+- **Persistent/Worsening Symptoms:** Schedule a follow-up visit in two weeks to re-evaluate asthma control, effectiveness of the new medication plan, and to perform any necessary adjustments.
+- **Patient Education & Understanding of the Plan:** The mother was educated on recognizing asthma exacerbation symptoms and correctly administering the new medication regimen. She was also instructed on environmental modifications to reduce asthma triggers. She confirmed understanding and expressed agreement with the management plan.

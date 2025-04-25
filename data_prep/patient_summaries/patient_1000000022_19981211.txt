@@ -1,0 +1,27 @@
+demographics
+patient_num: 1000000022  age: 33
+patient_num: 1000000022  sex: M
+patient_num: 1000000022  race: white
+patient_num: 1000000022  language: spanish
+patient_num: 1000000022  vital_status: alive
+patient_num: 1000000022  earliest fact: Jan 26 1998 12:00AM
+patient_num: 1000000022  latest fact: Dec 11 1998 12:00AM
+patient_num: 1000000022  range in days: 319
+totals
+patient_num: 1000000022  distinct concepts: 20
+patient_num: 1000000022  total facts: 25
+patient_num: 1000000022  total encounters: 13
+patient_num: 1000000022  total asthma: 1
+descriptive
+patient_num: 1000000022  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 1
+patient_num: 1000000022  diagnosis code: ICD9:527.3  name: Abscess of salivary gland  count: 1
+patient_num: 1000000022  diagnosis code: ICD9:462  name: Acute pharyngitis  count: 1
+patient_num: 1000000022  diagnosis code: ICD9:465.9  name: Acute upper respiratory infections of unspecified site  count: 1
+patient_num: 1000000022  diagnosis code: ICD9:704.00  name: Alopecia, unspecified  count: 2
+patient_num: 1000000022  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 1
+patient_num: 1000000022  diagnosis code: ICD9:607.84  name: Impotence of organic origin  count: 5
+patient_num: 1000000022  diagnosis code: ICD9:724.2  name: Lumbago  count: 1
+patient_num: 1000000022  diagnosis code: ICD9:706.1  name: Other acne  count: 1
+patient_num: 1000000022  diagnosis code: ICD9:784.2  name: Swelling, mass, or lump in head and neck  count: 1
+patient_num: 1000000022  laboratory code: LOINC:2842-3  name: Prolactin (Group:PRL)  count: 1
+patient_num: 1000000022  laboratory code: LOINC:2993-4  name: Testosterone (Group:TES)  count: 1

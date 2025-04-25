@@ -1,0 +1,46 @@
+**Visit Information:**
+- Patient Num: 1000000003
+- Visit Date: 12/27/2004
+
+**Subjective:**
+This is a 36-year-old Asian male, who speaks German and has been under our care since July 31, 1997. He presents today for follow-up regarding persistent chronic neck and back pain. His neck pain, which radiates to his shoulders, has been a long-standing issue and is exacerbated by prolonged sitting or computer work, and only slightly relieved by periods of rest. The lower back pain is described as dull and consistent, worsening with physical activity. 
+
+His past medical history is significant for alopecia, atopic dermatitis, and occasional viral warts, which are currently inactive. He does not have a significant surgical history. The pain is managed with NSAIDs, which provide partial relief. Topical emollients have been used for the atopic dermatitis with moderate efficacy and no adverse effects reported.
+
+The patient leads a predominantly sedentary lifestyle due to his office job. He does not smoke, drinks alcohol socially, and maintains a healthy diet. He lives alone but has supportive family members nearby. He reports no drug allergies. His pain severity is rated at 6/10, and there have been no recent changes in his condition. Physical therapy provided only temporary relief.
+
+**Objective:**
+Vital signs today are stable, with a blood pressure of 120/80 mmHg, heart rate of 72 bpm, respiratory rate of 16 breaths per minute, and temperature of 36.8°C. Oxygen saturation is 99% on room air.
+
+The patient appears well-nourished, alert, and oriented, with no acute distress. Cardiovascular examination reveals regular heart sounds with no murmurs, gallops, or rubs detected. Respiratory examination shows clear lung fields with no wheezing or rales. The abdominal examination is non-tender without masses, organomegaly, or bruits.
+
+Musculoskeletal examination reveals tenderness over the cervical and lumbar spine regions accompanied by palpable muscle spasms. Range of motion is notably restricted in the cervical and lumbar areas, with discomfort during flexion and extension. There are no apparent deformities, and the neurological examination is intact with no focal deficits, and reflexes are symmetric throughout. Cranial nerves are intact, and sensory and motor functions are normal. Skin examination reveals no new lesions or signs of active atopic dermatitis or viral warts.
+
+Recent laboratory evaluations reveal normal albumin and total protein levels. Creatinine was slightly elevated but stable. Liver function tests, including AST and bilirubin levels, were normal. The complete blood count and differential are unremarkable.
+
+**Assessment:**
+1. Chronic neck and back pain, likely from musculoskeletal strain and poor ergonomics.
+   - Differential includes myofascial pain syndrome and degenerative disc disease.
+
+2. Alopecia and atopic dermatitis, currently well-controlled.
+   - Differential includes eczema and contact dermatitis.
+
+3. History of viral warts, presently inactive.
+
+**Plan:**
+1. For the chronic neck and back pain:
+   - Continue NSAIDs for pain management, and consider the addition of muscle relaxants for symptomatic relief of muscle spasms.
+   - Refer to physical therapy with a focus on core strengthening exercises and postural correction.
+   - Conduct an ergonomic assessment of the patient's workplace to optimize chair height, monitor placement, and overall posture during work.
+   - If persistent pain or insufficient relief, refer to a pain management specialist for further evaluation and treatment.
+
+2. For alopecia and atopic dermatitis:
+   - Continue the use of the topical emollient.
+   - Advise the patient to avoid known irritants and use hypoallergenic skincare products.
+
+3. General health recommendations:
+   - Encourage the patient to incorporate regular physical activity into his daily routine, aiming for at least 30 minutes of moderate exercise five times weekly.
+   - Promote a balanced diet, proper hydration, and reduction of sedentary behavior.
+
+Follow-Up:
+The patient is instructed to contact the clinic if symptoms worsen, do not improve within a week, or if any new symptoms develop. A follow-up visit is scheduled for four weeks to reassess the patient's progress and make any necessary adjustments to his treatment plan. The patient expressed understanding and agreement with the management plan.

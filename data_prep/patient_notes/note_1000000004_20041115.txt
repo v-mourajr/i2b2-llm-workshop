@@ -1,0 +1,58 @@
+Visit Information:
+    - Patient Number: 1000000004
+    - Visit Date: November 15, 2004
+
+This is a 29-year-old Black male who has been receiving care at our clinic for approximately 4 years. He speaks English and presents today for a follow-up related to his chronic respiratory issues, primarily asthma. 
+
+Subjective:
+    The patient reports experiencing increased shortness of breath and wheezing, particularly at night and with exertion. Despite adhering to his prescribed asthma medications, he used his rescue inhaler several times over the past week. He reports no recent hospitalizations but expresses concerns regarding his respiratory control. 
+
+    His past medical history includes a primary diagnosis of asthma and several secondary diagnoses, such as acute bronchitis, allergic rhinitis, and multiple respiratory infections. The patient also has a significant history of adjustment disorder with emotional features and substance abuse; however, he denies current use of alcohol, cannabis, or cocaine.
+
+    The patient is currently taking an inhaled corticosteroid and a long-acting beta-agonist daily for his asthma, along with albuterol as needed. He occasionally consumes alcohol and works a physically demanding job, which may exacerbate his respiratory symptoms. He lives alone and maintains regular medical appointments. The patient has no known allergies.
+
+Objective:
+    Vital Signs:
+        - Blood Pressure: 118/76 mmHg
+        - Heart Rate: 78 beats per minute
+        - Respiratory Rate: 20 breaths per minute
+        - Temperature: 98.4°F
+        - Oxygen Saturation: 96% on room air
+
+    General Appearance:
+        The patient appears well-nourished and in no acute distress. He is alert and oriented.
+
+    Cardiovascular:
+        Normal S1 and S2 heart sounds, no murmurs, rubs, or gallops. No peripheral edema present.
+
+    Respiratory:
+        Mild wheezing noted on auscultation in all lung fields. Mild dyspnea on exertion was reported. No crackles or rhonchi detected.
+
+    Abdomen:
+        Soft, non-tender, and non-distended. Normal bowel sounds. No organomegaly or masses detected.
+
+    Musculoskeletal:
+        Full range of motion in all extremities. No joint swelling or tenderness.
+
+    Neurological:
+        Alert and oriented. Cranial nerves II-XII intact. No focal neurological deficits.
+
+    Skin:
+        Warm, dry, intact with no rashes or lesions.
+
+Assessment:
+    The primary diagnosis remains chronic asthma, with a recent increase in symptom frequency and reliance on the rescue inhaler suggesting poorly controlled asthma. The contribution of emotional stress from adjustment disorder and previous substance abuse history to the patient’s overall well-being is also noted.
+
+Plan:
+    - Continue current asthma medications: inhaled corticosteroid and long-acting beta-agonist.
+    - Prescribe a short course of oral corticosteroids to manage acute symptom exacerbation.
+    - Educate the patient on proper inhaler technique and the importance of adherence.
+    - Implement peak flow monitoring to better manage asthma control.
+    - Schedule a follow-up visit in 6 weeks for reassessment.
+    - Refer the patient to a mental health professional for management of adjustment disorder and coping strategy development.
+    - Offer a referral to substance abuse counseling to maintain abstinence and support.
+    - Advise regular physical activity, while avoiding known asthma triggers.
+    - Provide patient education on avoiding environmental asthma triggers and proper use of the rescue inhaler.
+
+Follow-Up:
+    Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate the need for further evaluation. Schedule a follow-up visit in 6 weeks to reassess asthma control and emotional health. The patient acknowledges understanding of and agrees to the plan.

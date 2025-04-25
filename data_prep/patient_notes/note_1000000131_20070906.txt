@@ -1,0 +1,64 @@
+**Visit Information:**
+
+- Patient Num: 1000000131
+- Visit Date: 09/06/2007
+
+**Subjective:**
+
+This is a 20-year-old Asian male who speaks English, presenting today for a follow-up appointment to manage his asthma. He has a documented history of asthma, both unspecified and extrinsic, with and without mention of status asthmaticus. Presently, he reports experiencing increased episodes of wheezing and shortness of breath over the past month. These episodes notably occur during physical activities such as playing basketball and running. Although these episodes have become more frequent, he has not experienced any nocturnal symptoms or pronounced nighttime coughing.
+
+The patient has a significant past medical history including frequent episodes of acute bronchitis and upper respiratory infections. Additionally, he had a past incidence of appendicitis and has experienced multiple incidents of acute and chronic otitis media. His medical history also highlights various psychological challenges, including periods of major depressive disorder and oppositional disorder during adolescence.
+
+He is currently on an albuterol sulfate inhaler used as needed for acute symptom control and takes Flovent 220 mcg daily as an inhaled corticosteroid. The patient adheres well to his medication regimen without experiencing any adverse effects. Socially, he lives in a smoke-free environment with his parents, where there are no pets. He denies any known allergies. The patient identifies physical exertion and potentially seasonal allergens as triggers for his wheezing and dyspnea. He finds the albuterol inhaler to be significantly helpful in providing symptomatic relief.
+
+**Objective:**
+
+- Vital Signs:
+  - Blood Pressure: 112/72 mmHg
+  - Heart Rate: 78 bpm
+  - Respiratory Rate: 20 breaths/min
+  - Temperature: 98.6°F
+  - Oxygen Saturation: 98% on room air
+
+- General Appearance: The patient appears well-nourished and in no acute distress. He is alert and oriented.
+
+- Cardiovascular: Heart sounds are regular. No murmurs, rubs, or gallops were detected.
+
+- Respiratory: Auscultation reveals mild wheezing at the bilateral lung bases without accompanying crackles or rales. The lungs show normal bilateral expansion, and there is no use of accessory muscles for breathing.
+
+- Abdomen: The abdomen is soft, non-tender, with no signs of hepatosplenomegaly or palpable masses.
+
+- Musculoskeletal: The patient exhibits full range of motion in all extremities without joint swelling or deformities.
+
+- Neurological: Cranial nerves II-XII are intact. Reflexes and motor strength are normal, and sensation is appropriate.
+
+- Skin: The skin is warm and dry, with no visible eruptions, lesions, or discolorations.
+
+Recent laboratory results are notable for a complete blood count (CBC) displaying a normal white blood cell count with a mild elevation in eosinophils, consistent with his asthma activity. Thyroid function tests (measuring T4 and TSH) returned within normal limits. Urinalysis results, including creatinine and sodium levels, were also normal.
+
+**Assessment:**
+
+The primary diagnosis is asthma, both unspecified and extrinsic, currently managed with occasional episodes of exacerbation, primarily linked to physical activity. The patient has a history of multiple episodes of acute bronchitis and upper respiratory infections.
+
+Secondary diagnoses include chronic, currently asymptomatic, serous otitis media and a history of adenoid hypertrophy and vocal cord paralysis.
+
+**Plan:**
+
+1. Asthma Management:
+   - Continue with the current medication regimen including the use of an albuterol inhaler as needed and a daily dose of inhaled corticosteroid (Flovent).
+   - Educate the patient on asthma triggers and allergen avoidance.
+   - Start the use of a peak flow meter for daily monitoring of his respiratory function, especially before and after physical activity.
+   - Arrange for pulmonary function tests to assess the current control of his asthma and make adjustments to treatment as necessary.
+
+2. Management of Allergic Conditions:
+   - Initiate a trial of a non-drowsy antihistamine to address potential seasonal allergies.
+   - Monitor the effectiveness of this intervention and adjust the management plan accordingly.
+
+3. Preventive Care:
+   - Reaffirm the importance of adhering to the asthma action plan.
+   - Recommend the seasonal flu vaccination to ward off respiratory infections.
+   - Plan for a follow-up visit in three months to monitor progress, or sooner if there are new symptoms or any worsening of his condition.
+
+The patient and his family have been advised to reach out to the clinic if there is a worsening of symptoms or if the symptoms do not improve within a week. They have been informed of and have understood the treatment plan and follow-up instructions.
+
+A follow-up appointment has been scheduled for three months. The patient was instructed to return sooner if any new symptoms arise or if existing symptoms worsen.

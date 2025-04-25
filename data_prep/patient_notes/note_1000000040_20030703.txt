@@ -1,0 +1,85 @@
+---
+
+### Visit Information:
+- **Patient Number:** 1000000040
+- **Visit Date:** 07/03/2003
+
+---
+
+### Subjective:
+This is the case of a 13-year-old Black male who presents to the clinic with ongoing health concerns. The patient has been consistently attending our clinic for approximately six years, accompanied by his mother, both of whom speak English.
+
+The chief complaint today involves recurrent acute pharyngitis, significantly increasing in episodes over the past few months. His mother reports that he has experienced at least ten instances of sore throat, with accompanying symptoms including throat pain, low-grade fever, and occasional difficulty in swallowing. Over-the-counter medications like acetaminophen have provided temporary relief; however, the symptoms frequently recur.
+
+The patient and mother also mention concerns regarding repeated ear infections over the past year, typically characterized by ear pain and discharge. These episodes have been classified as acute suppurative otitis media and have necessitated multiple antibiotic treatments with only partial and varying effectiveness.
+
+Additionally, the patient has been experiencing considerable fatigue and shows decreased interest in school activities. Despite these health issues, his social history remains positive, describing a supportive family environment and regular school attendance. He denies any known allergies and reports no adverse effects from current medications.
+
+---
+
+### Objective:
+- **Vital Signs:**
+  - Blood Pressure: 110/75 mmHg
+  - Heart Rate: 78 bpm
+  - Respiratory Rate: 20 breaths per minute
+  - Temperature: 37.0°C (98.6°F)
+  - Oxygen Saturation: 98% on room air
+
+- **General Appearance:**
+The patient appears well-nourished but slightly pale and fatigued, showing no signs of acute distress. He actively engages in conversation and maintains good eye contact throughout the examination.
+
+- **Cardiovascular:**
+Normal S1 and S2 heart sounds without murmurs, rubs, or gallops. Peripheral pulses are present and symmetrical.
+
+- **Respiratory:**
+Lungs are clear to auscultation bilaterally, with no wheezes, crackles, or respiratory distress observed.
+
+- **Abdomen:**
+The abdomen is soft, non-tender, with normal active bowel sounds in all quadrants. There is no hepatomegaly or splenomegaly.
+
+- **Musculoskeletal:**
+Demonstrates full range of motion in all extremities without joint swelling, tenderness, or deformities. Musculoskeletal system is normal.
+
+- **Neurological:**
+Neurological exam is normal with intact cranial nerves II-XII. Sensory and motor functions are intact. Reflexes are present and symmetrical, with no focal deficits.
+
+- **Skin:**
+Skin appears normal with good turgor. There are no rashes, lesions, jaundice, pallor, or cyanosis noted.
+
+---
+
+### Assessment:
+1. **Recurrent Acute Pharyngitis:**
+   Chronic episodes likely of mixed viral and bacterial etiology.
+2. **Recurrent Acute Suppurative Otitis Media:**
+   Multiple instances of ear infections with partial response to previous antibiotic therapies.
+3. **Fatigue:**
+   Possibly secondary to repeated infections and related symptoms affecting overall energy and health.
+
+---
+
+### Plan:
+1. **Recurrent Acute Pharyngitis:**
+   - Conduct a rapid antigen detection test to rule out streptococcal infection.
+   - Recommend saline gargles and warm fluids to soothe throat irritation.
+   - Continue using acetaminophen for pain and fever management, monitoring for any side effects.
+   - Refer the patient to an ENT specialist for further evaluation due to the frequency and chronic nature of these episodes.
+
+2. **Acute Suppurative Otitis Media:**
+   - Initiate a new course of antibiotics based on the latest culture and sensitivity results.
+   - Discuss the possibility of tympanostomy tube placement with an ENT specialist if infections persist despite medical management.
+   - Educate the patient and mother on methods to prevent future infections and maintain ear hygiene.
+
+3. **Fatigue:**
+   - Order a complete blood count (CBC) to identify underlying infections or anemia.
+   - Advise a nutritionally balanced diet rich in iron and vitamins to support overall health and energy levels.
+   - Encourage moderate physical activity while avoiding excessive physical exertion.
+
+4. **Follow-Up:**
+   - Instruct the patient and his mother to monitor symptoms closely and contact the clinic if pharyngitis or otitis media symptoms worsen or do not improve within a week.
+   - Schedule a follow-up appointment in two weeks to reassess the patient's condition and adjust the treatment plan as necessary.
+   - Ensure the patient and family understand the importance of completing the full course of antibiotics and provide guidance on symptom monitoring and prevention.
+
+Patient education was thoroughly provided, emphasizing the importance of adherence to the treatment plan. They were instructed to seek immediate medical attention if symptoms worsen or do not improve as expected.
+
+---

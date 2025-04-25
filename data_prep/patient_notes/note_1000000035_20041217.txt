@@ -1,0 +1,54 @@
+Visit Information:
+   - Patient Num: 1000000035
+   - Visit Date: Dec 17, 2004
+
+This is a 17-year-old Black male who has been receiving care at our clinic for approximately 7 years. He speaks Spanish and presents today for follow-up on 12/17/2004 regarding his ongoing asthma management, along with associated respiratory issues from congenital anomalies of the diaphragm.
+
+**Subjective:**
+The patient reports experiencing continued episodes of wheezing and shortness of breath, which are exacerbated by physical activities and mainly occurring in the early morning and at night, leading to sleep disturbances. He is currently using his bronchodilator about three times a week to manage acute symptoms. His medical history is notable for congenital anomalies of the diaphragm, which occasionally result in moderate respiratory distress, requiring periodic use of a respirator during severe episodes. Additionally, he has a history of chronic tonsillitis and benign neoplasm of the skin of the upper limb, including the shoulder, which does not currently pose significant issues but requires routine monitoring.
+
+His asthma is being managed with a daily inhaled corticosteroid (Qvar), which his mother confirms has helped in reducing the frequency of exacerbations. No new symptoms have been reported since the last visit, and the patient has not experienced any recent acute upper respiratory infections or otitis media.
+
+**Objective:**
+- Vital Signs:
+   - Blood Pressure: 90/60 mmHg
+   - Heart Rate: 86 bpm
+   - Respiratory Rate: 18 bpm
+   - Temperature: 98.6°F
+   - Oxygen Saturation: 96% on room air
+
+- Physical Examination:
+   - General Appearance: Well-nourished, alert, and cooperative, in no acute distress.
+   - Cardiovascular: Heart sounds regular, S1 and S2 present, no murmurs or gallops.
+   - Respiratory: Mild wheezing noted on expiration and prolonged expiratory phase. No retractions or nasal flaring observed.
+   - Abdomen: Soft, non-tender, no organomegaly, bowel sounds normal.
+   - Musculoskeletal: Full range of motion with no tenderness or swelling.
+   - Neurological: Cranial nerves II-XII intact, no focal deficits noted.
+   - Skin: No rashes or lesions, benign neoplasm of the upper limb with no signs of infection.
+
+- Laboratory Findings: Routine blood tests reveal stable hematology parameters with a slight elevation in eosinophils. Previous tests indicating anisocytosis and mild anemia have shown no significant changes.
+
+**Assessment:**
+- Primary: Asthma, unspecified without mention of status asthmaticus. Symptoms suggest possible environmental triggers and inadequate control of nocturnal symptoms.
+- Secondary: Congenital diaphragmatic anomaly, leading to periodic respiratory distress.
+- Tertiary: Historical chronic tonsillitis and benign neoplasm of the skin, both stable but require monitoring.
+
+**Plan:**
+1. Asthma:
+   - Continue inhaled corticosteroid (Qvar) therapy.
+   - Implement increased monitoring for symptom triggers, particularly environmental.
+   - Initiate leukotriene receptor antagonist to help manage nocturnal symptoms and improve overall asthma control.
+   - Referral to pulmonology to review current management plan and make necessary adjustments.
+
+2. Congenital Diaphragmatic Anomaly:
+   - Continue follow-up care with a pediatric surgeon and a pulmonologist.
+   - Maintain support of respiratory aids during severe episodes.
+
+3. Chronic Tonsillitis:
+   - Continue to monitor for signs of infection, prescribing antibiotics as needed.
+   - Referral to an ENT specialist if symptoms persist or recur.
+
+4. Benign Neoplasm of the Skin:
+   - Routine dermatological monitoring to assess for any changes or concerns.
+
+The patient and his mother have been instructed to contact the clinic if his symptoms do not improve within a week or if they worsen. They have been educated about recognizing early signs of asthma exacerbation and the importance of medication adherence. Both the patient’s mother and patient understood and agreed to the outlined treatment plan. A follow-up appointment is scheduled for one month to review the new treatment measures and monitor for symptom improvement.

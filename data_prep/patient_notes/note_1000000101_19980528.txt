@@ -1,0 +1,49 @@
+Patient Number: 1000000101
+Visit Date: May 28, 1998
+
+This is a 48-year-old Asian male who speaks Spanish, presenting for a follow-up visit to our clinic. The patient has been under our care for approximately four months. 
+
+Subjective:
+The patient’s chief complaints today include persistent lower back pain, hip pain, and occasional neck soreness. He reports that these symptoms have been ongoing for several months and have gradually worsened. The lower back pain, which he describes as a dull ache, is notably more severe upon waking in the morning and after prolonged periods of sitting. The hip pain is persistent and worsens with weight-bearing activities. The patient also mentions an intermittent sharp pain in his neck that radiates towards his shoulders. He has been taking ibuprofen as needed, which provides partial relief of his symptoms.
+
+The patient has a significant medical history of various musculoskeletal issues, namely, disorders of bone and cartilage, benign neoplasms in the pelvic region, and congenital spondylolysis in the lumbosacral area. He has a history of a lumbar sprain, a contusion of the hip, neck sprain, pain in joints involving the pelvic region and thigh, and osteoarthrosis involving the pelvic region and thigh.
+
+The patient reports compliance with his current medications, which include acetaminophen for pain management and a daily multivitamin. He has not tried any herbal supplements. He has no known allergies. The patient is a non-smoker and denies alcohol use but follows a sedentary lifestyle due to chronic pain issues. 
+
+Objective:
+Upon examination, the patient's vital signs are as follows: Blood Pressure 140/85 mmHg, Heart Rate 78 beats per minute, Respiratory Rate 16 breaths per minute, Temperature 98.6°F, and Oxygen Saturation 98% on room air.
+
+The patient appears to be in mild distress due to pain but is otherwise well-nourished and well-appearing. Cardiovascular examination reveals normal heart sounds with no murmurs, gallops, or rubs. Respiratory examination shows clear breath sounds bilaterally with no wheezing or crackles. Abdominal examination is unremarkable with no tenderness or organomegaly.
+
+Musculoskeletal examination reveals tenderness over the lower lumbar spine and pelvic region. There is a reduced range of motion in the lumbar spine and pain upon palpation of the hip joints. Neck examination shows tenderness over the cervical spine with normal range of motion but reproduces pain upon neck rotation. Neurological examination is within normal limits, with no focal deficits noted. Skin examination is unremarkable.
+
+Relevant Laboratory Findings (from current and previous visits):
+- ESR: Normal
+- Blood Urea Nitrogen: Normal
+- Electrolytes (Sodium, Potassium, Chloride, CO2): Normal
+- Calcium: Normal
+- Phosphorus: Normal
+- Magnesium: Normal
+- Complete Blood Count: Hemoglobin, Hematocrit, White Blood Cell Count, and Platelets are within normal limits.
+- Urinalysis: Specific Gravity, pH, Glucose, Ketones, Protein, Bilirubin, and Urobilinogen were normal.
+
+Assessment:
+1. Chronic lower back pain, likely secondary to osteoarthrosis and previous lumbar sprain.
+2. Hip pain, consistent with past contusion and osteoarthrosis.
+3. Chronic neck pain, likely musculoskeletal in nature.
+
+Plan:
+1. Continue current pain management regimen with acetaminophen as needed. Adjust dosage if inadequate pain control is reported.
+2. Initiate physical therapy referral focusing on strengthening exercises and mobility for the lower back and hip, with an essential component on core strengthening to improve musculoskeletal stability.
+3. Prescribe a trial of nonsteroidal anti-inflammatory drugs (NSAIDs) for better pain and inflammation management, monitoring for gastrointestinal side effects.
+4. Order a comprehensive metabolic panel (CMP) and repeat ESR to monitor for any underlying inflammatory disorder given the chronicity of the symptoms.
+5. Schedule follow-up for re-evaluation in 6 weeks to assess response to physical therapy and medication adjustments.
+6. Instruct patient to adhere to physical therapy exercises at home and maintain an active lifestyle as tolerated. Avoid prolonged sitting and implement regular breaks to improve mobility.
+  
+Patient Education and Understanding of the Plan:
+Discussed the importance of adhering to physical therapy and regularly taking prescribed medications. Advised taking NSAIDs with food to minimize gastrointestinal discomfort. The patient understands the importance of lifestyle modifications and the outlined management plan. 
+
+Instruct patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. 
+
+Follow-Up:
+The patient will return for follow-up in 6 weeks to evaluate progress and response to the new management plan. Further diagnostic testing, including imaging, may be considered if symptoms persist or worsen.

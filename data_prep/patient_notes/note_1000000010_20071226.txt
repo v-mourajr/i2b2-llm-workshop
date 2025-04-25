@@ -1,0 +1,53 @@
+\n**Visit Information:**
+    - Patient Num: 1000000010
+    - Visit Date: December 26, 2007
+
+This is a 32-year-old Hispanic female with a long history of care at the clinic. She speaks English and presented today for follow-up care. Her main complaints are generalized abdominal pain and episodes of dizziness that commenced over the last week. She describes the abdominal pain as dull and diffuse, which has been more or less continuous for the past three days. She also reports feeling dizzy intermittently, which sometimes feels like light-headedness. She denies any associated nausea, vomiting, or changes in bowel habits. Her medical history includes recurrent pharyngitis and sinusitis, with a prior episode of vaginitis effectively treated. She also has a history of neck and back sprains from a car accident two years ago, which were managed conservatively with physical therapy.
+
+Her currently prescribed medications include Allergra 180mg, Protonix 40mg, and Necon 10/11 biphasic tablets, which she tolerates well with no noted side effects. She uses Vitamin B-50 complex as a supplement. Her allergy status indicates no known drug, food, or environmental allergies.
+
+Socially, she is an active individual, employed as a marketing consultant. She exercises regularly, does not smoke, and avoids alcohol and illicit drugs. She lives with her partner and has a supportive home environment.
+
+Upon physical examination, her vital signs were stable, including blood pressure at 120/78 mmHg, heart rate at 72 beats per minute, a respiratory rate of 16 breaths per minute, body temperature at 98.7°F, and an oxygen saturation of 98% on room air. She appeared well-nourished, alert, and in no apparent distress.
+
+The cardiovascular examination showed normal heart sounds with a regular rhythm and no murmurs. Peripheral pulses were strong and equal bilaterally. Respiratory assessment revealed clear lung sounds with no wheezing or crackles.
+
+Abdominal examination showed a soft and non-distended abdomen with generalized mild tenderness but no rebound or guarding. Bowel sounds were normal in all quadrants, and there was no hepatosplenomegaly.
+
+The musculoskeletal examination of the neck and back showed no tenderness or deformities. She has a full range of motion in her cervical spine without any discomfort. An assessment of the lumbo-sacral spine showed similar findings. Additionally, extremities were without swelling, erythema, or tenderness.
+
+Neurological assessment revealed no focal deficits. Her strength was symmetrical with normal reflexes, sensation, and coordination.
+
+Her skin examination was unremarkable, exhibiting no rashes or lesions. A recent urinalysis noted amorphous crystals, bacteria, and mucus, which may suggest a urinary tract component.
+
+**Assessment:**
+1. **Generalized Abdominal Pain:**
+   - Likely functional in nature. Possible differentials include dyspepsia or early signs of a gastrointestinal inflammatory process.
+  
+2. **Dizziness and Giddiness:**
+   - Likely benign positional vertigo or related to orthostatic hypotension secondary to dehydration.
+  
+3. **Chronic Gastroesophageal Reflux Disease (GERD):**
+   - Controlled with Protonix, will monitor for any escalations needing gastroenterology referral.
+
+**Plan:**
+1. **For Generalized Abdominal Pain:**
+   - Recommend continued use of Protonix to manage any reflux-related symptoms.
+   - Encourage dietary modifications, including smaller, more frequent meals, avoiding spicy or acidic foods.
+   - Advise increasing fluid intake to ensure proper hydration.
+   - Plan for follow-up in one week to reassess symptoms, earlier if discomfort intensifies or new symptoms arise.
+
+2. **For Dizziness:**
+   - Suggest positional maneuvers to assess for benign positional vertigo.
+   - Recommend hydration optimization.
+   - Monitor orthostatic vital signs to determine if hypotension is contributing.
+
+3. **Routine Medical Care:**
+   - Continue adherence to current medications.
+   - Maintain scheduled preventive health care visits, including routine vaccinations and screenings.
+
+**Follow-Up:**
+- Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week or if any red-flag symptoms develop such as severe abdominal pain, signs of infection, or unmanageable dizziness.
+- Plan a routine follow-up in one month to reassess overall health, address ongoing symptoms, and monitor chronic conditions.
+
+The patient understood the care plan and expressed the importance of compliance with medication and follow-up visits. She was reassured and provided with educational materials to manage her GERD and instructions on what symptoms would require urgent reevaluation.

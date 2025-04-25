@@ -1,0 +1,75 @@
+demographics
+patient_num: 1000000130  age: 25
+patient_num: 1000000130  sex: F
+patient_num: 1000000130  race: black
+patient_num: 1000000130  language: english
+patient_num: 1000000130  vital_status: alive
+patient_num: 1000000130  earliest fact: Sep 13 1999 12:00AM
+patient_num: 1000000130  latest fact: Dec 27 2004 12:00AM
+patient_num: 1000000130  range in days: 1932
+totals
+patient_num: 1000000130  distinct concepts: 66
+patient_num: 1000000130  total facts: 176
+patient_num: 1000000130  total encounters: 28
+patient_num: 1000000130  total asthma: 5
+descriptive
+patient_num: 1000000130  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 3
+patient_num: 1000000130  asthma code: ICD9:493.00  name: Extrinsic asthma without mention of status asthmaticus  count: 1
+patient_num: 1000000130  asthma code: ICD9:493.10  name: Intrinsic asthma without mention of status asthmaticus  count: 1
+patient_num: 1000000130  diagnosis code: ICD9:783.1  name: Abnormal weight gain  count: 1
+patient_num: 1000000130  diagnosis code: ICD9:466.0  name: Acute bronchitis  count: 1
+patient_num: 1000000130  diagnosis code: ICD9:464.0  name: Acute laryngitis  count: 1
+patient_num: 1000000130  diagnosis code: ICD9:477.8  name: Allergic rhinitis due to other allergen  count: 2
+patient_num: 1000000130  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 3
+patient_num: 1000000130  diagnosis code: ICD9:216.5  name: Benign neoplasm of skin of trunk, except scrotum  count: 1
+patient_num: 1000000130  diagnosis code: ICD9:216.6  name: Benign neoplasm of skin of upper limb, including shoulder  count: 1
+patient_num: 1000000130  diagnosis code: ICD9:493.00  name: Extrinsic asthma without mention of status asthmaticus  count: 1
+patient_num: 1000000130  diagnosis code: ICD9:493.10  name: Intrinsic asthma without mention of status asthmaticus  count: 1
+patient_num: 1000000130  diagnosis code: ICD9:847.0  name: Neck sprain  count: 1
+patient_num: 1000000130  diagnosis code: ICD9:706.1  name: Other acne  count: 1
+patient_num: 1000000130  diagnosis code: ICD9:959.0  name: Other and unspecified injury to head, face, and neck  count: 1
+patient_num: 1000000130  diagnosis code: ICD9:E812.1  name: Other motor vehicle traffic accident involving collision with motor vehicle injuring passenger in motor vehicle other than motorcycle  count: 1
+patient_num: 1000000130  diagnosis code: ICD9:729.5  name: Pain in limb  count: 2
+patient_num: 1000000130  diagnosis code: ICD9:V65.5  name: Person with feared complaint in whom no diagnosis was made  count: 2
+patient_num: 1000000130  diagnosis code: ICD9:111.0  name: Pityriasis versicolor  count: 1
+patient_num: 1000000130  diagnosis code: ICD9:V70.0  name: Routine general medical examination at a health care facility  count: 2
+patient_num: 1000000130  diagnosis code: ICD9:V72.3  name: Special investigations and examinations  count: 3
+patient_num: 1000000130  diagnosis code: ICD9:847.9  name: Sprain of unspecified site of back  count: 1
+patient_num: 1000000130  diagnosis code: ICD9:382.9  name: Unspecified otitis media  count: 1
+patient_num: 1000000130  diagnosis code: ICD9:708.9  name: Unspecified urticaria  count: 1
+patient_num: 1000000130  medication code: NDC:00005306343  name: Albuterol Sulfate 4mg tablet ESI Lederle Generics  count: 4
+patient_num: 1000000130  medication code: NDC:00173033602  name: Beconase 0.042 mg/inh aerosol with adapter Glaxo Wellcome  count: 4
+patient_num: 1000000130  medication code: NDC:00003029320  name: Kenalog-40 acetonide 40 mg/ml suspension Bristol-Myers Squibb  count: 6
+patient_num: 1000000130  medication code: NDC:00781183010  name: Promethazine Hydrochloride 25mg tablet Geneva Pharmaceuticals  count: 8
+patient_num: 1000000130  laboratory code: LOINC:26444-0  name: Abs Basos (Group:ABASOP)  count: 1
+patient_num: 1000000130  laboratory code: LOINC:704-7  name: Abs Basos Auto (Group:ABASOS)  count: 1
+patient_num: 1000000130  laboratory code: LOINC:26449-9  name: Abs Eos (Group:AEOSN)  count: 1
+patient_num: 1000000130  laboratory code: LOINC:711-2  name: Abs EOS Auto (Group:AEOS)  count: 1
+patient_num: 1000000130  laboratory code: LOINC:26474-7  name: Abs Lymphs (Group:ALYMP)  count: 1
+patient_num: 1000000130  laboratory code: LOINC:731-0  name: Abs Lymphs Auto (Group:ALYMPHS)  count: 1
+patient_num: 1000000130  laboratory code: LOINC:26484-6  name: Abs Monos (Group:AMONS)  count: 1
+patient_num: 1000000130  laboratory code: LOINC:742-7  name: Abs Monos Auto (Group:AMONOS)  count: 1
+patient_num: 1000000130  laboratory code: LOINC:26499-4  name: Abs Neuts (Group:ANEU)  count: 1
+patient_num: 1000000130  laboratory code: LOINC:752-6  name: Abs Neuts Auto (Group:ANEUTS)  count: 1
+patient_num: 1000000130  laboratory code: LOINC:30180-4  name: Basophils (Group:BASOP)  count: 1
+patient_num: 1000000130  laboratory code: LOINC:706-2  name: Basophils - Auto (Group:BASOS)  count: 1
+patient_num: 1000000130  laboratory code: LOINC:X2012-1  name: Differential Request (Group:DIFFR)  count: 1
+patient_num: 1000000130  laboratory code: LOINC:26450-7  name: Eosinophils (Group:EOSP)  count: 1
+patient_num: 1000000130  laboratory code: LOINC:713-8  name: Eosinophils - Auto (Group:EOS)  count: 1
+patient_num: 1000000130  laboratory code: LOINC:2119-6  name: HCG-Quant (Group:HCG,QT)  count: 2
+patient_num: 1000000130  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 3
+patient_num: 1000000130  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 3
+patient_num: 1000000130  laboratory code: LOINC:26478-8  name: Lymphocytes (Group:LYMP)  count: 1
+patient_num: 1000000130  laboratory code: LOINC:736-9  name: Lymphocytes - Auto (Group:LYMPHS)  count: 1
+patient_num: 1000000130  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 3
+patient_num: 1000000130  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 3
+patient_num: 1000000130  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 3
+patient_num: 1000000130  laboratory code: LOINC:26485-3  name: Monocytes (Group:MON)  count: 1
+patient_num: 1000000130  laboratory code: LOINC:5905-5  name: Monocytes - Auto (Group:MONOS)  count: 1
+patient_num: 1000000130  laboratory code: LOINC:26511-6  name: Neutrophils (Group:NEUT)  count: 1
+patient_num: 1000000130  laboratory code: LOINC:770-8  name: Neutrophils - Auto (Group:POLYS)  count: 1
+patient_num: 1000000130  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 3
+patient_num: 1000000130  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 3
+patient_num: 1000000130  laboratory code: LOINC:788-0  name: RDW (Group:RDW)  count: 3
+patient_num: 1000000130  laboratory code: LOINC:3016-3  name: TSH (Group:TSH)  count: 1
+patient_num: 1000000130  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 3

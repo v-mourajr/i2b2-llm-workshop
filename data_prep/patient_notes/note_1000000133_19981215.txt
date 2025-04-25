@@ -1,0 +1,97 @@
+**Visit Information:**
+- Patient Num: 1000000133
+- Visit Date: 12/15/1998
+
+**Subjective:**
+- **Chief Complaints & History of Present Illness:**
+  This is a 6-year-old Asian female who is being seen today for follow-up care. Her primary complaint today is discomfort associated with a recent elbow dislocation. She reports persistent joint pain in the forearm and has had difficulty in fully flexing her elbow since the injury. Additionally, she has occasional mild symptoms of pharyngitis.
+  
+- **Past Medical & Surgical History:**
+  She has a history of closed anterior dislocation of the elbow, obesity, pain in the joint involving the forearm, and episodes of acute pharyngitis.
+
+- **Medications & Supplements:**
+  She is currently not taking any medications. Her parents manage her diet and weight through nutritional monitoring and encourage physical activity.
+
+- **Social History:**
+  The patient lives with her parents and attends school. Her primary language is Spanish, and her family practices a balanced diet as part of her obesity management. She participates in light physical activities suitable for her age.
+
+- **Allergies:**
+  No known drug allergies.
+
+- **Symptom Details:**
+  The patient describes intermittent elbow pain that intensifies with movement. The duration of pain varies, and it is alleviated partially by resting the arm. The pharyngitis symptoms include a sore throat and slight difficulty swallowing, which have been present intermittently for the past week.
+
+- **Additional Narrative:**
+  Non-pharmacological interventions, such as resting the elbow in a sling and applying ice, have provided some relief for the joint pain. Pharyngitis symptoms have been managed with warm fluids and rest. There have been no significant changes in her condition since the last visit three weeks ago.
+
+**Objective:**
+- **Vital Signs:**
+  - Blood Pressure: 95/56 mmHg
+  - Heart Rate: 78 bpm
+  - Respiratory Rate: 20 breaths per minute
+  - Temperature: 37.5°C (99.5°F)
+  - Oxygen Saturation: 98% on room air
+
+- **General Appearance:**
+  Appears well-nourished and in no acute distress. Alert and cooperative during the visit.
+
+- **Cardiovascular:**
+  Heart sounds are normal with no murmurs, rubs, or gallops detected. Pulses are strong and symmetrical.
+
+- **Respiratory:**
+  Lungs are clear to auscultation bilaterally. No wheezing, rales, or rhonchi present.
+
+- **Abdomen:**
+  Soft, nontender, and nondistended with normal bowel sounds. No masses or organomegaly detected.
+
+- **Musculoskeletal:**
+  Tenderness noted on palpation over the anterior aspect of the right elbow. Limited range of motion with mild swelling. No other joint abnormalities.
+
+- **Neurological:**
+  Cranial nerves II-XII intact. Motor and sensory examinations are normal. Deep tendon reflexes are 2+ and symmetrical.
+
+- **Skin:**
+  Skin is warm, dry, and intact. No rashes or lesions observed.
+
+**Assessment:**
+- Diagnosis or Clinical Impression:
+  - Primary diagnosis: History of closed anterior dislocation of the elbow with associated joint pain.
+  - Secondary diagnosis: Acute pharyngitis.
+  - Tertiary diagnosis: Obesity.
+
+- **Issue/Problem/Request 1:**
+  - Assessment:
+    - Likely diagnosis: Pain in joint involving the forearm secondary to previous elbow dislocation.
+    - Differential diagnosis: Overuse injury or other musculoskeletal conditions.
+  - Diagnostic Tests:
+    - Follow-up X-rays of the elbow to monitor healing and check for any complications.
+  - Treatment Plan:
+    - Continue with rest, ice, and elevation. Consider prescribing a non-steroidal anti-inflammatory drug (NSAID) if pain persists.
+    - Referral to orthopedics if no improvement within 2 weeks.
+
+- **Issue/Problem/Request 2:**
+  - Assessment:
+    - Likely diagnosis: Acute pharyngitis.
+    - Differential diagnosis: Viral upper respiratory infection.
+  - Diagnostic Tests:
+    - Throat swab to rule out streptococcal infection if symptoms worsen.
+  - Treatment Plan:
+    - Symptomatic treatment with warm fluids and rest. Encourage good hydration and monitor for signs of worsening infection.
+
+- **Issue/Problem/Request 3:**
+  - Assessment:
+    - Likely diagnosis: Obesity.
+    - Differential diagnosis: Dietary and lifestyle factors contributing to weight gain.
+  - Diagnostic Tests:
+    - No additional testing planned today.
+  - Treatment Plan:
+    - Continue with dietary monitoring, encourage physical activity, and follow-up with a nutritionist for further dietary counseling.
+
+**Follow-Up:**
+- Instructions for emergent follow-up care or monitoring:
+  Instruct patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.
+- Follow-Up for persistent, changing, or worsening symptoms:
+  Follow-up appointment in 2 weeks for reassessment and review of X-ray results if indicated.
+- Patient Education & Understanding of the Plan:
+  Detailed the plan with the patient's parents, emphasizing the importance of adherence to rest and monitoring for any changes in her symptoms. Encouraged them to maintain a healthy and active lifestyle to manage weight.
+

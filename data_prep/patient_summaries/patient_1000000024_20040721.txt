@@ -1,0 +1,76 @@
+demographics
+patient_num: 1000000024  age: 26
+patient_num: 1000000024  sex: M
+patient_num: 1000000024  race: black
+patient_num: 1000000024  language: english
+patient_num: 1000000024  vital_status: alive
+patient_num: 1000000024  earliest fact: Sep  4 1997 12:00AM
+patient_num: 1000000024  latest fact: Jul 21 2004 12:00AM
+patient_num: 1000000024  range in days: 2512
+totals
+patient_num: 1000000024  distinct concepts: 71
+patient_num: 1000000024  total facts: 240
+patient_num: 1000000024  total encounters: 29
+patient_num: 1000000024  total asthma: 9
+descriptive
+patient_num: 1000000024  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 9
+patient_num: 1000000024  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 9
+patient_num: 1000000024  diagnosis code: ICD9:427.9  name: Cardiac dysrhythmia, unspecified  count: 3
+patient_num: 1000000024  diagnosis code: ICD9:520.6  name: Disturbances in tooth eruption  count: 3
+patient_num: 1000000024  diagnosis code: ICD9:V03.8  name: Need for other specified vaccinations against single bacterial diseases  count: 1
+patient_num: 1000000024  diagnosis code: ICD9:786.09  name: Other dyspnea and respiratory abnormality  count: 1
+patient_num: 1000000024  diagnosis code: ICD9:23.19  name: Other surgical extraction of tooth  count: 1
+patient_num: 1000000024  diagnosis code: ICD9:287.3  name: Primary thrombocytopenia  count: 3
+patient_num: 1000000024  diagnosis code: ICD9:V70.0  name: Routine general medical examination at a health care facility  count: 1
+patient_num: 1000000024  diagnosis code: ICD9:V20.2  name: Routine infant or child health check  count: 1
+patient_num: 1000000024  diagnosis code: ICD9:786.05  name: Shortness of breath  count: 1
+patient_num: 1000000024  diagnosis code: ICD9:302.3  name: Transvestism  count: 1
+patient_num: 1000000024  medication code: NDC:00469042525  name: Multilyte-20 solution Fujisawa  count: 2
+patient_num: 1000000024  laboratory code: LOINC:763-3  name: Abs Bands Manual (Group:ABANDS)  count: 1
+patient_num: 1000000024  laboratory code: LOINC:26444-0  name: Abs Basos (Group:ABASOP)  count: 1
+patient_num: 1000000024  laboratory code: LOINC:704-7  name: Abs Basos Auto (Group:ABASOS)  count: 2
+patient_num: 1000000024  laboratory code: LOINC:26449-9  name: Abs Eos (Group:AEOSN)  count: 1
+patient_num: 1000000024  laboratory code: LOINC:711-2  name: Abs EOS Auto (Group:AEOS)  count: 2
+patient_num: 1000000024  laboratory code: LOINC:26474-7  name: Abs Lymphs (Group:ALYMP)  count: 1
+patient_num: 1000000024  laboratory code: LOINC:731-0  name: Abs Lymphs Auto (Group:ALYMPHS)  count: 2
+patient_num: 1000000024  laboratory code: LOINC:26484-6  name: Abs Monos (Group:AMONS)  count: 1
+patient_num: 1000000024  laboratory code: LOINC:742-7  name: Abs Monos Auto (Group:AMONOS)  count: 2
+patient_num: 1000000024  laboratory code: LOINC:26499-4  name: Abs Neuts (Group:ANEU)  count: 1
+patient_num: 1000000024  laboratory code: LOINC:752-6  name: Abs Neuts Auto (Group:ANEUTS)  count: 2
+patient_num: 1000000024  laboratory code: LOINC:1751-7  name: Albumin (Group:ALB)  count: 1
+patient_num: 1000000024  laboratory code: LOINC:1920-8  name: AST (SGOT) (Group:SGOT)  count: 1
+patient_num: 1000000024  laboratory code: LOINC:735-1  name: Atypical Lymphs (Group:ATYPS)  count: 1
+patient_num: 1000000024  laboratory code: LOINC:764-1  name: Bands - Manual (Group:BAND)  count: 1
+patient_num: 1000000024  laboratory code: LOINC:706-2  name: Basophils - Auto (Group:BASOS)  count: 2
+patient_num: 1000000024  laboratory code: LOINC:3094-0  name: Blood Urea Nitrogen (Group:BUN)  count: 1
+patient_num: 1000000024  laboratory code: LOINC:2075-0  name: Chloride (Group:CL)  count: 1
+patient_num: 1000000024  laboratory code: LOINC:2093-3  name: Cholesterol (Group:CHOL)  count: 2
+patient_num: 1000000024  laboratory code: LOINC:2160-0  name: Creatinine (Group:CRE)  count: 1
+patient_num: 1000000024  laboratory code: LOINC:X2012-1  name: Differential Request (Group:DIFFR)  count: 1
+patient_num: 1000000024  laboratory code: LOINC:26450-7  name: Eosinophils (Group:EOSP)  count: 1
+patient_num: 1000000024  laboratory code: LOINC:713-8  name: Eosinophils - Auto (Group:EOS)  count: 2
+patient_num: 1000000024  laboratory code: LOINC:4537-7  name: ESR (Group:ESR)  count: 1
+patient_num: 1000000024  laboratory code: LOINC:6777-7  name: Glucose (Group:GLU)  count: 1
+patient_num: 1000000024  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 6
+patient_num: 1000000024  laboratory code: LOINC:2086-7  name: HDL (Group:HDL)  count: 1
+patient_num: 1000000024  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 6
+patient_num: 1000000024  laboratory code: LOINC:26478-8  name: Lymphocytes (Group:LYMP)  count: 1
+patient_num: 1000000024  laboratory code: LOINC:736-9  name: Lymphocytes - Auto (Group:LYMPHS)  count: 2
+patient_num: 1000000024  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 6
+patient_num: 1000000024  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 6
+patient_num: 1000000024  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 6
+patient_num: 1000000024  laboratory code: LOINC:741-9  name: Microcytes (Group:MICROC)  count: 1
+patient_num: 1000000024  laboratory code: LOINC:26485-3  name: Monocytes (Group:MON)  count: 1
+patient_num: 1000000024  laboratory code: LOINC:5905-5  name: Monocytes - Auto (Group:MONOS)  count: 2
+patient_num: 1000000024  laboratory code: LOINC:26511-6  name: Neutrophils (Group:NEUT)  count: 1
+patient_num: 1000000024  laboratory code: LOINC:770-8  name: Neutrophils - Auto (Group:POLYS)  count: 2
+patient_num: 1000000024  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 6
+patient_num: 1000000024  laboratory code: LOINC:2823-3  name: Potassium (Group:K)  count: 1
+patient_num: 1000000024  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 5
+patient_num: 1000000024  laboratory code: LOINC:6742-1  name: RBC Morph Manual (Group:RCM-M)  count: 1
+patient_num: 1000000024  laboratory code: LOINC:788-0  name: RDW (Group:RDW)  count: 6
+patient_num: 1000000024  laboratory code: LOINC:X2021-0  name: Slide Review PLT (Group:MSRP)  count: 1
+patient_num: 1000000024  laboratory code: LOINC:2951-2  name: Sodium (Group:NA)  count: 1
+patient_num: 1000000024  laboratory code: LOINC:1975-2  name: Total Bilirubin (Group:TBILI)  count: 2
+patient_num: 1000000024  laboratory code: LOINC:2885-2  name: Total Protein (Group:TP)  count: 1
+patient_num: 1000000024  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 6

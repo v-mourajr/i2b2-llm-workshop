@@ -1,0 +1,33 @@
+Visit Information:
+- Patient Num: 1000000048
+- Visit Date: 09/19/2001
+
+Subjective:
+This is a 6-year-old Hispanic female who has been receiving care at our clinic for approximately 2 years. She speaks Spanish and presents today for follow-up care. Her primary caregiver reports that she has been experiencing fever and general discomfort for the past 3 days. Additionally, she seems more irritable than usual, which is causing concern. The patient has a history of acute pharyngitis, diaper rash, and upper respiratory infections. Her current medications include over-the-counter acetaminophen for fever management, which has been partially effective. There are no known herbal supplements being used. 
+
+The patient lives in a single-parent household, where her primary caregiver is her mother. Her mother reports that the patient attends school and interacts well with her peers, though she has had more absences recently due to illness. There are no known allergies. Symptoms include a fever that has had an intermittent pattern, peaking in the evening and occasionally causing night sweats. The patient has a recent history of difficulty drinking adequate fluids due to oral discomfort and has shown a reduced appetite over the last couple of days. The symptom severity has been moderate, with the fever reducing somewhat following acetaminophen administration.
+
+Objective:
+Vital signs today show:
+- Blood Pressure: 100/60 mmHg
+- Heart Rate: 105 bpm
+- Respiratory Rate: 22 breaths per minute
+- Temperature: 38.5°C (101.3°F)
+- Oxygen Saturation: 98%
+
+Upon examination, the patient appears tired and slightly flushed, but alert. Cardiovascular assessment reveals normal heart sounds with no murmurs, rubs, or gallops. Respiratory examination shows clear breath sounds with no wheezes or crackles. The abdominal exam is unremarkable, with no tenderness, organomegaly, or masses noted. Musculoskeletal examination is normal, with full range of motion and no joint swelling. Neurologically, the patient is alert, oriented, and demonstrates normal reflexes. Skin appears generally normal except for signs of mild diaper rash.
+
+Laboratory results from a prior visit show slightly elevated white blood cell count, indicating a potential infection. Urinalysis indicated a possible urinary tract infection due to mild bacteriuria and the presence of leukocyte esterase.
+
+Assessment:
+The primary diagnosis is acute febrile illness, likely of a viral etiology given the patient's symptoms and recent history of upper respiratory issues. Secondary concerns include mild dehydration and reduced oral intake due to discomfort from pharyngitis. The potential urinary tract infection has resolved based on clearance of symptoms and prior normal follow-up urinalysis.
+
+Plan:
+1. Continue over-the-counter acetaminophen for fever management, ensuring appropriate dosing and intervals.
+2. Encourage increased fluid intake to address mild dehydration and maintain hydration.
+3. Monitor the patient's oral intake and weight to ensure nutritional needs are met.
+4. If the fever persists beyond the next 48 hours or new symptoms develop, perform a complete blood count (CBC) and urinalysis to rule out bacterial infection and other underlying issues.
+5. Educate the caregiver on recognizing signs of worsening condition, including increased fever, lethargy, or persistent irritability.
+6. Schedule a follow-up appointment in one week to reassess the patient’s condition and evaluate the effectiveness of the current management plan.
+
+Instruct the patient’s caregiver to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. Emphasize the importance of maintaining hydration and providing comfort measures during this period.

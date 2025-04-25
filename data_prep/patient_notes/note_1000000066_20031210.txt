@@ -1,0 +1,54 @@
+Visit Information:
+- Patient Num: 1000000066
+- Visit Date: December 10, 2003
+
+This is a 17-year-old Black female who has been receiving care at our clinic since March 15, 1999. She presents today for a follow-up concerning her persistent asthma symptoms. She speaks English fluently and lives with her parents. 
+
+Subjective:
+The patient reports experiencing an increase in wheezing and shortness of breath, particularly at night, which seems to be exacerbated by physical activity and exposure to cold air. She has been using her rescue inhaler more frequently, approximately three times a day, which provides only temporary relief with her symptoms recurring shortly after use. Additionally, she mentions feeling generally fatigued, though she does not necessarily attribute this to her respiratory issues. 
+
+The patient’s past medical history is significant for asthma, unspecified without status asthmaticus, with a history of acute pharyngitis and multiple upper respiratory infections. She also has a history of generalized convulsive epilepsy, both with and without intractable epilepsy, and has experienced other convulsions. Currently, she continues to use her prescribed maintenance inhalers and has not had any new medications introduced since her last visit. She reports no hospitalizations or urgent care visits since her last encounter in late September.
+
+The patient is a non-smoker and does not have any exposure to secondhand smoke. She attends school where she engages in mild physical activities. Her family provides a supportive environment, and she has no known allergies.
+
+Objective:
+Vital signs on examination show a blood pressure of 110/70 mmHg, a heart rate of 78 bpm, a respiratory rate of 20 breaths per minute, a temperature of 98.6°F, and an oxygen saturation of 96% on room air.
+
+General appearance: The patient appears well-nourished, alert, and oriented, with no acute distress noted.
+
+Cardiovascular: Examination reveals regular heart sounds with no murmurs, rubs, or gallops.
+
+Respiratory: Expiratory wheezing is heard bilaterally with no crackles or rhonchi. Mild intercostal retractions are noted with deep breaths, and the respiratory effort appears slightly labored.
+
+Abdomen: The abdomen is soft, non-tender, and non-distended with bowel sounds present in all quadrants.
+
+Musculoskeletal: The patient has grossly normal muscle tone and strength in all extremities with no deformities or joint abnormalities observed.
+
+Neurological: There are no focal deficits, cranial nerves II-XII are intact, and the gait and balance are normal. There have been no recent seizures reported.
+
+Skin: The skin is warm, dry, with no rashes or lesions noted.
+
+Laboratory results reviewed include typical evaluations for airborne allergen sensitivity (elevated IgE) and general markers of infection or inflammation (CBC with Differential).
+
+Assessment:
+1. Asthma (Unspecified without status asthmaticus): The patient's asthma appears to be poorly controlled, as indicated by increased use of a rescue inhaler and nocturnal symptoms. Further evaluation of lung function through spirometry is recommended.
+2. Generalized Convulsive Epilepsy (Non-Intractable): The patient’s epilepsy is currently stable, with no recent seizure activity reported.
+3. Acute Pharyngitis and Upper Respiratory Infections: These have been recurrent and may be contributing to the exacerbation of asthma symptoms.
+
+Plan:
+1. Asthma Management:
+   - Initiate a trial of an inhaled corticosteroid and long-acting beta-agonist combination inhaler for better symptom control and reduction of nocturnal symptoms.
+   - Reassess the patient’s inhaler technique to ensure proper usage.
+   - Schedule spirometry to evaluate current pulmonary function and adjust the management plan accordingly.
+   - Provide education on the Asthma Action Plan, ensuring the patient and family can recognize early signs of an exacerbation and know when to seek medical attention.
+   - Discuss strategies to avoid known asthma triggers, including cold air exposure and strenuous activities.
+
+2. Generalized Convulsive Epilepsy:
+   - Continue current antiepileptic medications and maintain regular follow-ups with a neurologist. No changes to the regimen are recommended at this time due to the current stability.
+
+3. Acute Pharyngitis and Upper Respiratory Infections:
+   - Emphasize the importance of hydration and good nutritional support to bolster the immune system.
+   - Consider implementing saline nasal irrigation to assist in pulmonary hygiene and reduce upper respiratory tract irritation.
+
+Follow-Up:
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. Emphasize patient education about the necessity of adhering to the prescribed treatment plan and recognizing signs of worsening asthma.

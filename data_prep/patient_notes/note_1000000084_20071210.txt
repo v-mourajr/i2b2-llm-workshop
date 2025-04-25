@@ -1,0 +1,74 @@
+### Visit Information:
+- Patient Num: 1000000084
+- Visit Date: 12/10/2007
+
+### Subjective:
+
+This is a 23-year-old Black male who has been under our care for approximately four years. He presents today for a follow-up appointment, primarily for the management of his asthma. The patient reports that since his last visit, he has had ongoing issues with shortness of breath and wheezing, particularly at night. These symptoms have caused disturbances in his sleep due to nocturnal asthma-related attacks. Over the past week, he has increased the use of his albuterol inhaler to manage these exacerbations, but he has not required emergency department visits or hospital admissions.
+
+The patient has a notable history of asthma, which includes episodes of acute exacerbation and status asthmaticus. He also has a history of dental abnormalities, such as disturbances in tooth eruption and malocclusion, which have required surgical interventions. Current medications include Baci-Rx 100% powder, Droperidol 2.5 mg/ml solution, Midazolam Hydrochloride 1 mg/ml solution, Thiopental Sodium 5gm powder, and Ibuprofen 200 mg tablets. He reports being compliant with his medication regimen but notices occasional dry mouth, which he attributes to the use of inhalers.
+
+Socially, he lives with his parents, does not smoke, and does not use alcohol or recreational drugs. He is currently seeking employment. He has no known allergies. Non-pharmacological methods he employs include breathing exercises and maintaining a clean environment to minimize triggers, which he finds beneficial to some extent.
+
+### Objective:
+
+**Vital Signs:**
+- Blood Pressure: 122/80 mmHg
+- Heart Rate: 76 bpm
+- Respiratory Rate: 20 breaths per minute
+- Temperature: 98.7°F (37.1°C)
+- Oxygen Saturation: 95% on room air
+
+**General Appearance:**
+The patient appears well-groomed, well-nourished, and in no acute distress.
+
+**Cardiovascular:**
+Heart sounds are regular without murmurs, gallops, or rubs.
+
+**Respiratory:**
+Examination reveals bilateral decreased breath sounds with expiratory wheezing and mild tachypnea. There is no use of accessory muscles or nasal flaring.
+
+**Abdomen:**
+Soft, non-tender with normal bowel sounds. No organomegaly detected.
+
+**Musculoskeletal:**
+Full range of motion in all extremities without swelling, tenderness, or deformity.
+
+**Neurological:**
+The patient is alert and oriented to person, place, and time. Motor and sensory examinations are intact, and there are no focal neurological deficits.
+
+**Skin:**
+There are no rashes, lesions, or abnormalities. The skin is warm and dry.
+
+**Laboratory Findings:**
+- Hematological tests, including WBC, RBC, and HGB, are within normal ranges.
+- Eosinophil levels are mildly elevated, consistent with an allergic or asthmatic response.
+- Renal function tests, including Blood Urea Nitrogen (BUN) and Creatinine, as well as electrolytes, like Sodium and Potassium, are within normal limits.
+
+### Assessment:
+
+1. Asthma, unspecified type, with acute exacerbation.
+2. Asthma, unspecified type, with status asthmaticus.
+3. Chronic unspecified asthma without mention of status asthmaticus.
+4. Dental issues such as disturbances in tooth eruption and malocclusion, requiring surgical intervention.
+
+### Plan:
+
+1. **Asthma Management:**
+   - Continue the current regimen with Albuterol inhaler as needed and daily use of Baci-Rx powder.
+   - Prescribe an inhaled corticosteroid, such as Fluticasone, to enhance control of asthma symptoms.
+   - Educate the patient on proper inhaler technique and to identify and avoid asthma triggers.
+   - Implement daily peak flow monitoring to track asthma control efficiently.
+   - Schedule follow-up in one month or sooner if symptoms deteriorate.
+
+2. **Dental Management:**
+   - Refer the patient to a dental specialist to manage and treat ongoing dental issues.
+   - Advise the patient to maintain stringent oral hygiene practices.
+
+3. **Diagnostic Tests:**
+   - Arrange pulmonary function tests to examine asthma severity and control.
+   - Repeat eosinophil counts to assess any significant changes associated with asthma.
+
+### Follow-Up:
+
+Instruct the patient to contact the clinic if symptoms do not improve or worsen within a week, or if test results necessitate further evaluation. Emphasize the importance of adhering to the prescribed treatment and continuously monitoring symptoms to prevent severe exacerbations.

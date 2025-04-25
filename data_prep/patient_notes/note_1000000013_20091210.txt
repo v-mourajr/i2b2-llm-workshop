@@ -1,0 +1,69 @@
+**Visit Information:**
+
+- **Patient Num:** 1000000013
+- **Visit Date:** 12/10/2009
+
+**Subjective:**
+
+This is an 84-year-old Black female presented for a follow-up appointment today. She speaks German and has been a patient at our clinic for over a decade, typically accompanied by her daughter. The primary concerns today are persistent fatigue, generalized weakness, and recurring dizziness that have progressively worsened over the last few months. The patient characterizes her fatigue as severe, rating it as an 8 out of 10, and it remains constant, unrelieved by rest. She also experiences episodes of dizziness several times a week, often accompanied by mild headaches. She denies any new or acute symptoms.
+
+The patient's medical history includes significant non-asthma conditions such as hypertension, congestive heart failure, type 2 diabetes mellitus, benign neoplasms of the colon and breast, osteoarthritis, and nontoxic uninodular goiter. She has undergone multiple surgical procedures in the past, including a cholecystectomy and a complete thyroidectomy, both without postoperative complications.
+
+Currently, her medication regimen includes metformin 500 mg taken twice daily for diabetes, lisinopril 10 mg daily for hypertension, atorvastatin 20 mg once daily for hyperlipidemia, and calcium supplements. The patient has been compliant with her medications and has not experienced any negative side effects. 
+
+Socially, the patient is retired and lives alone but receives frequent visits from family to assist with daily activities. She does not smoke and consumes alcohol occasionally. Physical activity is significantly limited by her chronic fatigue, despite attempts to stay active.
+
+The patient has no known drug allergies. Despite non-pharmacological interventions such as increased rest, dietary modifications, and mild physical activity, her symptoms have shown little to no improvement.
+
+**Objective:**
+
+- **Vital Signs:**
+  - Blood Pressure: 150/90 mmHg
+  - Heart Rate: 78 beats per minute
+  - Respiratory Rate: 20 breaths per minute
+  - Temperature: 98.4°F
+  - Oxygen Saturation: 96% on room air
+
+- **General Appearance:** The patient is well-nourished and groomed but appears visibly fatigued. She is alert, cooperative, and communicative.
+
+- **Cardiovascular:** Heart sounds are regular with no murmurs, rubs, or gallops. Peripheral pulses are 2+ and symmetrical. There is no jugular venous distension.
+
+- **Respiratory:** Lungs are clear to auscultation bilaterally with no wheezes, crackles, or evidence of respiratory distress.
+
+- **Abdomen:** The abdomen is soft and non-tender with normoactive bowel sounds. No masses or hepatosplenomegaly are palpated.
+
+- **Musculoskeletal:** There is no swelling or tenderness in joints. Muscle tone appears normal, but muscle strength is recorded at 4/5 in all extremities indicative of generalized weakness.
+
+- **Neurological:** The patient is oriented to person, place, and time. Cranial nerves II-XII are intact. Motor function and gait are normal, although the patient reports feeling dizzy often.
+
+- **Skin:** The skin is intact with no rashes, lesions, or bruising. Skin color and turgor are normal.
+
+Complete blood count, electrolytes, kidney function tests, and thyroid function tests from today's visit are all within the normal range.
+
+**Assessment:**
+
+**Issue/Problem/Request 1: Fatigue and Generalized Weakness**
+- **Assessment:** The patient’s fatigue and generalized weakness likely point towards an underlying chronic condition. Considering her chronic medical and surgical history, anemia due to chronic disease or early renal insufficiency might be contributing factors.
+- **Diagnostic Tests:** Iron studies (including serum iron, ferritin, TIBC), comprehensive metabolic panel to further investigate renal function and potential vitamin levels.
+- **Treatment Plan:** Depending on test results, consider initiating iron supplements if iron deficiency anemia is confirmed and adjustment of existing medications as needed. Continue monitoring hematological parameters and educate the patient on energy conservation techniques and dietary changes to support iron levels.
+
+**Issue/Problem/Request 2: Hypertension**
+- **Assessment:** Her blood pressure appears slightly elevated but is generally well-managed with the current regimens.
+- **Diagnostic Tests:** Regular monitoring of blood pressure at home; obtain renal function tests to rule out hypertension-induced nephropathy.
+- **Treatment Plan:** Maintain current antihypertensive therapy. Educate on sodium restriction and encourage the patient to maintain a balanced, low-sodium diet. 
+
+**Issue/Problem/Request 3: Type 2 Diabetes Mellitus**
+- **Assessment:** The diabetes seems stable under her current treatment; however, an up-to-date HbA1c will provide better insight into long-term control, given her frequent fatigue.
+- **Diagnostic Tests:** HbA1c testing and fasting blood glucose test.
+- **Treatment Plan:** Adjust antidiabetic medications based on new HbA1c results. If needed, refer to an endocrinologist for more specialized management.
+
+**Plan:**
+
+1. Order iron study panel and renal function tests to investigate the cause of fatigue.
+2. Schedule a follow-up appointment in 4 weeks to review the lab results and possibly adjust the current treatment plan.
+3. Reinforce adherence to medication, encourage a balanced diet rich in iron, and advise regular but gentle physical activity to improve overall health and reduce fatigue.
+4. Educate the patient on symptom management and advise her to reach out immediately if symptoms worsen or new symptoms arise unexpectedly.
+
+**Follow-Up:**
+
+Instruct the patient to contact the clinic if there is no improvement in symptoms within a week, or if the results of the tests indicate a need for further evaluation. The patient understands the management plan and agrees to return for a follow-up in four weeks.

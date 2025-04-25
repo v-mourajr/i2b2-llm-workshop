@@ -1,0 +1,73 @@
+Visit Information:
+    - Patient Num: 1000000127
+    - Visit Date: 12/31/1997
+
+This is a 10-year-old Indian male who has been a patient at our clinic since April 14, 1997. He speaks German and has returned today, December 31, 1997, for a follow-up visit. Primary diagnoses involve retrolental fibroplasia, which has been under surveillance.
+
+Subjective:
+    - Chief Complaints & History of Present Illness:
+        The patient presents with complaints of intermittent eye discomfort and mild visual disturbances, which his parents report have been persistent over the past few weeks. He has a history of retrolental fibroplasia, with ongoing concerns related to this condition.
+    - Past Medical & Surgical History:
+        His past medical history is significant for retrolental fibroplasia diagnosed early in life. There are no reported surgical interventions.
+    - Medications & Supplements:
+        He is currently not on any medications or supplements.
+    - Social History:
+        The patient lives with his parents and attends school regularly. There are no known exposure risks or significant lifestyle factors affecting his health.
+    - Allergies:
+        No known allergies.
+    - Symptom Details:
+        The patient experiences episodes of eye discomfort and occasional visual disturbances, described as temporary blurriness, which occur mostly in the evening.
+    - Additional Narrative:
+        The family has tried adjusting lighting during the evening hours and ensuring he wears appropriate corrective lenses as prescribed. Despite these interventions, the symptoms have persisted.
+
+Objective:
+    - Vital Signs:
+        - Blood Pressure: 110/70 mmHg
+        - Heart Rate: 82 bpm
+        - Respiratory Rate: 16 breaths per minute
+        - Temperature: 98.6°F
+        - Oxygen Saturation: 99% on room air
+    - General Appearance:
+        The patient is alert and oriented, cooperative, and in no acute distress.
+    - Cardiovascular:
+        Regular rate and rhythm, no murmurs, gallops, or rubs.
+    - Respiratory:
+        Clear breath sounds bilaterally, no wheezes, rales, or rhonchi.
+    - Abdomen:
+        Soft, non-tender, no organomegaly.
+    - Musculoskeletal:
+        Normal range of motion in all extremities, no deformities.
+    - Neurological:
+        Cranial nerves intact, DTRs normal, no focal deficits.
+    - Skin:
+        No rashes, lesions, or other abnormalities.
+
+Assessment:
+    - Diagnosis or Clinical Impression:
+        The patient is being followed for retrolental fibroplasia. Current symptoms of eye discomfort and visual disturbances may indicate progression or changes related to this condition.
+    - Issue/Problem/Request 1:
+        Assessment:
+            - Likely diagnosis for Issue 1: Retrolental fibroplasia with symptomatic visual disturbances
+            - Differential diagnosis for Issue 1: Refractive errors, amblyopia
+        Diagnostic Tests:
+            - Suggested updating ophthalmologic examination and retinal imaging studies to evaluate for any progression.
+        Treatment Plan:
+            - Continue with current corrective lenses.
+            - Referral to pediatric ophthalmologist for further evaluation and management.
+
+    - Issue/Problem/Request 2:
+        Assessment:
+            - Likely diagnosis for Issue 2: Potential anemia
+            - Differential diagnosis for Issue 2: Nutritional anemia, aplastic anemia
+        Diagnostic Tests:
+            - Monitoring and occasional comprehensive blood count tests to reassess parameters involving hemoglobin, white blood cells, and other relevant indicators.
+        Treatment Plan:
+            - Continue dietary modifications to ensure adequate nutrition supporting hematologic health.
+
+Follow-Up:
+    - Instructions for emergent follow-up care or monitoring:
+        Instruct patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.
+    - Follow-Up for persistent, changing, or worsening symptoms:
+        Advised a return visit in three months unless earlier evaluation is warranted by symptom exacerbation.
+    - Patient Education & Understanding of the Plan:
+        Discussed with the patient and his parents the importance of vision care and regular follow-up appointments with both the clinic and ophthalmology. They verbalized understanding and agreement with the proposed management plan.

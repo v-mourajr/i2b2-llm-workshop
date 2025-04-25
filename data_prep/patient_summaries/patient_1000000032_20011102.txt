@@ -1,0 +1,18 @@
+demographics
+patient_num: 1000000032  age: 5
+patient_num: 1000000032  sex: F
+patient_num: 1000000032  race: indian
+patient_num: 1000000032  language: spanish
+patient_num: 1000000032  vital_status: alive
+patient_num: 1000000032  earliest fact: Aug  7 2000 12:00AM
+patient_num: 1000000032  latest fact: Nov  2 2001 12:00AM
+patient_num: 1000000032  range in days: 452
+totals
+patient_num: 1000000032  distinct concepts: 4
+patient_num: 1000000032  total facts: 7
+patient_num: 1000000032  total encounters: 7
+descriptive
+patient_num: 1000000032  diagnosis code: ICD9:460  name: Acute nasopharyngitis (common cold)  count: 1
+patient_num: 1000000032  diagnosis code: ICD9:786.09  name: Other dyspnea and respiratory abnormality  count: 1
+patient_num: 1000000032  diagnosis code: ICD9:V20.2  name: Routine infant or child health check  count: 3
+patient_num: 1000000032  diagnosis code: ICD9:382.9  name: Unspecified otitis media  count: 2

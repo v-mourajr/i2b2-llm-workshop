@@ -1,0 +1,48 @@
+**Visit Information:**
+- Patient Num: 1000000074
+- Visit Date: July 31, 1998
+
+**Subjective:**
+This is a 35-year-old Hispanic female presenting for a follow-up visit on 07/31/1998. Over the past few months, she has reported experiencing intermittent episodes of breathlessness, wheezing, and chest tightness, consistent with her diagnosed asthma. She has been managing these symptoms with her prescribed albuterol inhaler, which she uses as needed. However, she reports that the frequency of usage has increased to nearly every day.
+
+Her past medical history includes asthma, which was diagnosed several years ago, and she has managed with varying degrees of success. Her primary concern today is a recent worsening of symptoms, possibly triggered by summer allergens. She denies any recent upper respiratory infections or new environmental exposures. 
+
+Currently, she is on a daily regimen of inhaled corticosteroids (fluticasone propionate), along with the albuterol inhaler for acute symptoms. She follows the medication schedule diligently but feels her control is slipping.
+
+In her social history, she is a non-smoker, does not consume alcohol, and works as a teacher, which sometimes exposes her to various allergens in the school environment. She has tried non-pharmacologic interventions such as dust mite covers and air filters at home, alongside avoiding known triggers.
+
+**Objective:**
+- Vital Signs:
+  - Blood Pressure: 118/78 mmHg
+  - Heart Rate: 76 bpm
+  - Respiratory Rate: 20 breaths/min
+  - Temperature: 98.6°F (37°C)
+  - Oxygen Saturation: 98% on room air
+- General Appearance: Patient appears well-nourished and in no acute distress; however, she is slightly anxious about her asthma symptoms.
+- Cardiovascular: Regular rate and rhythm; no murmurs, rubs, or gallops.
+- Respiratory: Mild expiratory wheezing noted bilaterally; no use of accessory muscles or retractions. Lungs clear to percussion.
+- Abdomen: Soft, non-tender, non-distended. Normal bowel sounds.
+- Musculoskeletal: Normal range of motion in all extremities.
+- Neurological: Alert and oriented. Cranial nerves grossly intact.
+- Skin: No rashes or lesions noted.
+
+**Assessment:**
+This patient has a primary diagnosis of asthma that appears to be exacerbated, potentially due to seasonal allergens. Her symptoms are not wholly controlled despite adherence to her current medication regimen. 
+
+**Plan:**
+1. Asthma Exacerbation:
+   - Increase the dose of inhaled corticosteroids temporarily to manage increased symptoms.
+   - Continue with albuterol inhaler as needed; ensure proper technique and compliance.
+   - Consider starting a leukotriene receptor antagonist if symptoms do not improve.
+   - Referral to an allergist for further evaluation and possible allergy testing.
+   - Encourage the patient to continue avoiding known triggers and use air purifiers at home.
+
+2. Follow-up and Monitoring:
+   - Schedule follow-up appointment in 2 weeks to reassess asthma control and adjust medications as needed.
+   - Educate the patient on recognizing signs of asthma exacerbation that would necessitate emergent care (e.g., severe difficulty breathing, not relieved by rescue inhaler).
+   - Instruct the patient to keep a symptom diary to help identify potential triggers and monitor the effectiveness of new treatment adjustments.
+
+**Follow-Up:**
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. Reassess in 2 weeks to adjust the treatment plan based on symptomatology and medication response. Ensure the patient understands and adheres to the updated management plan. 
+
+This patient’s recent symptoms and medication adjustments, coupled with her increasing albuterol use, suggest the need for careful monitoring and potential modification of her long-term asthma management plan.

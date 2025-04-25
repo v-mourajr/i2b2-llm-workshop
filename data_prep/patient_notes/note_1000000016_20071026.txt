@@ -1,0 +1,72 @@
+### Visit Information
+- **Patient Num:** 1000000016
+- **Visit Date:** 10/26/2007
+
+This is a 25-year-old Indian female who has been attending our clinic regularly for six years. She is a native German speaker and today she presents for a follow-up to evaluate the progression of her asthma and review recent laboratory findings. Her medical history is notable for asthma, chronic pharyngitis, cardiomegaly, anemia, scoliosis, and recurrent bronchitis.
+
+### Subjective
+
+The patient reports an increase in asthma symptoms over the past month, characterized by frequent coughing, shortness of breath during physical activities, and occasional chest tightness. The exacerbations seem to correlate with colder weather. Although she adheres to her prescribed regimen of inhaled corticosteroids and a short-acting beta-agonist, she is concerned that her symptoms are not as well controlled as before. She asserts her asthma has been manageable, but stresses prompted this visit due to the recent uptick in severity.
+
+She denies any new exposures to allergens, changes in her activities, or recent upper respiratory infections. Her lifestyle includes regular participation in sports and active college life, albeit moderated during episodes of increased symptoms. There are no new complaints regarding her other chronic conditions including the non-asthma ailments mentioned above.
+
+### Objective
+
+#### Vital Signs
+- **Blood Pressure:** 116/77 mmHg
+- **Heart Rate:** 80 bpm
+- **Respiratory Rate:** 18 breaths/min
+- **Temperature:** 98.6°F (37°C)
+- **Oxygen Saturation:** 96% on room air
+
+#### General Appearance
+The patient appears well-developed and well-nourished with no signs of acute distress. She is alert, oriented, and cooperative throughout the examination.
+
+#### Cardiovascular
+Heart sounds are normal with a regular rate and rhythm. There are no murmurs, gallops, or rubs detected.
+
+#### Respiratory
+Lung auscultation reveals bilateral clear air entry with mild wheezing noticeable on forced expiration but no crackles or rhonchi.
+
+#### Abdomen
+The abdomen is soft, non-tender, and non-distended. Bowel sounds are normal.
+
+#### Musculoskeletal
+The patient’s previous scoliosis remains unchanged. There are no new deformities or joint abnormalities. Full range of motion in all extremities is observed without pain.
+
+#### Neurological
+The patient is alert and well-oriented. Cranial nerves II-XII are intact. No focal neurological deficits are identified.
+
+#### Skin
+The patient’s skin is warm and dry. No rashes or lesions are noted.
+
+### Assessment
+
+The patient continues to experience asthma, now with more frequent exacerbations and symptoms, likely in response to environmental changes and potential allergenic exposures. Secondary considerations include her chronic conditions such as bronchitis, chronic pharyngitis, scoliosis, and cardiomegaly, which could influence her respiratory status.
+
+**Issue/Problem/Request 1: Increased Asthma Exacerbations**
+
+- **Assessment:**
+  - Current increase in asthma exacerbations over the past month.
+  - Differential includes environmental triggers, physical exertion, and possibly subclinical infections.
+  
+- **Diagnostic Tests:**
+  - Perform Spirometry to assess the extent of airway obstruction.
+  - Conduct allergy testing to identify specific triggers.
+
+- **Treatment Plan:**
+  - Maintain current use of inhaled corticosteroids and SABA.
+  - Consider adding a leukotriene receptor antagonist if exacerbations persist.
+  - Educate patient on trigger avoidance and rigorous adherence to her asthma action plan.
+  - Refer to pulmonology for advanced management and possible adjustment of therapy.
+
+### Follow-Up
+
+**Instructions for Emergent Follow-Up Care:**
+The patient has been instructed to seek immediate medical attention if symptoms worsen significantly, do not improve within one week, or if she develops new symptoms such as fever or persistent cough.
+
+**Follow-Up for Persistent, Changing, or Worsening Symptoms:**
+A follow-up appointment has been scheduled in one month to review spirometry results and reassess the asthma management plan.
+
+**Patient Education & Understanding of the Plan:**
+The patient has been advised to continue her medication regimen and avoid known asthma triggers. She has been educated on recognizing early signs of exacerbation and correctly using her rescue inhaler. She has acknowledged understanding and demonstrates confidence in the outlined care plan.

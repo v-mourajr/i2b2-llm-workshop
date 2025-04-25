@@ -1,0 +1,59 @@
+Visit Information:
+    - Patient Num: 1000000100
+    - Visit Date: 08/08/1997
+
+Subjective:
+    - Chief Complaints & History of Present Illness:
+        This 7-year-old Hispanic male, who speaks English and has been under our care, presents today with complaints primarily related to persistent nasal obstruction, mouth breathing, and snoring. His mother reports these symptoms have been ongoing for approximately six months, worsening in the last two months.
+    - Past Medical & Surgical History:
+        The patient has a known history of hypertrophy of adenoids, which has been previously identified. There is no significant surgical history reported for the patient.
+    - Medications & Supplements:
+        Currently, the patient is not on any prescribed medication, nor are there any supplements or over-the-counter treatments being used at this time.
+    - Social History:
+        The patient lives at home with his parents and attends elementary school. There are no known environmental factors at home or school that could contribute to his symptoms. His diet and daily activities are typical for his age group.
+    - Allergies:
+        No known drug or food allergies have been reported.
+    - Symptom Details:
+        The nasal obstruction is constant, while the mouth breathing and snoring are more prominent during sleep. The symptoms are worse at night and seem unaffected by non-pharmacological interventions tried at home.
+    - Additional Narrative:
+        The patient's mother has tried using a saline nasal spray for symptom relief without significant improvement. No side effects from any over-the-counter treatments have been reported. There have been no recent upper respiratory infections or other illnesses noted that could exacerbate his condition.
+
+Objective:
+    - Vital Signs:
+        - Blood Pressure: 96/60 mmHg
+        - Heart Rate: 90 bpm
+        - Respiratory Rate: 20 breaths per minute
+        - Temperature: 98.6°F (37°C)
+        - Oxygen Saturation: 98% on room air
+    - General Appearance:
+        The patient appears well-nourished and in no acute distress. He is alert and cooperative during the examination.
+    - Cardiovascular:
+        Regular heart rate and rhythm with no audible murmurs or gallops.
+    - Respiratory:
+        Lung sounds are clear bilaterally with no wheezing, rales, or rhonchi. There is no evidence of respiratory distress.
+    - Abdomen:
+        Abdomen is soft, non-tender, with no organomegaly. Bowel sounds are present and normal.
+    - Musculoskeletal:
+        No abnormalities detected; the patient has normal range of motion and strength in all extremities.
+    - Neurological:
+        The patient is alert and oriented to person, place, and time. Cranial nerves II-XII are grossly intact. Reflexes are normal.
+    - Skin:
+        No rashes or lesions observed. Skin is warm and dry.
+
+Assessment:
+    - Diagnosis or Clinical Impression:
+        The primary diagnosis remains hypertrophy of adenoids. Given the patient’s chronic symptoms and lack of response to non-pharmacological interventions, continuation of this assessment is necessary.
+    - Issue/Problem/Request 1:
+        Assessment:
+            - Likely diagnosis for Issue 1 is hypertrophy of adenoids.
+            - Differential diagnosis includes chronic nasal obstruction due to other causes such as rhinitis or sinusitis.
+        Diagnostic Tests:
+            - No further diagnostic tests are planned at this time as diagnosis is established; however, review of any imaging studies (if not previously done) may be of benefit.
+        Treatment Plan:
+            - Considering the persistence and impact on the patient's quality of life, referral to a pediatric otolaryngologist for potential surgical consultation regarding adenoidectomy is warranted.
+            - Provide continued monitoring of symptoms and supportive care, including recommending the patient continue using saline nasal sprays and maintain good hydration.
+
+Follow-Up:
+    - Instruct patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.
+    - Follow-up with the ENT specialist should be scheduled promptly; the patient should return to the clinic for re-evaluation in 4 weeks or sooner if symptoms escalate.
+    - Discuss the treatment plan thoroughly with the patient’s mother, ensuring she understands the next steps and the reasons behind the referral for surgical evaluation.

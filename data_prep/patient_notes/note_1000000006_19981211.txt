@@ -1,0 +1,52 @@
+**Patient Narrative SOAP Note**
+
+**Visit Information:**
+- Patient Num: 1000000006
+- Visit Date: 12/11/1998
+
+**Subjective:**
+This is an 18-year-old Black female who has been under our care for recurring asthma and its various subtypes. She is primarily Spanish-speaking and presents today for a follow-up regarding her asthma management. She also reports an increase in frequency of acute pharyngitis episodes. Her asthma has been previously diagnosed as both unspecified and extrinsic asthma without mention of status asthmaticus. She mentioned experiencing difficulty breathing and wheezing, especially when exposed to allergens or engaging in physical activity. Additionally, she has a history of acute suppurative otitis media, headaches, and cellulitis. 
+
+Her current medications include albuterol as needed for asthma attacks, a daily inhaled corticosteroid for maintenance therapy, and antihistamines for her allergy symptoms. She reports compliance with her medications but noted that she still experiences nocturnal symptoms occasionally. She also attempts to limit exposure to allergens by staying indoors when pollen counts are high.
+
+Her social history reveals that she is a high school student, living with her parents and sister. She is non-smoker, denies alcohol use, and is not sexually active. There are no known drug allergies, and she has not had any major surgeries.
+
+**Objective:**
+- Vital Signs: 
+  - Blood Pressure: 118/76 mmHg
+  - Heart Rate: 72 bpm
+  - Respiratory Rate: 16 breaths per minute
+  - Temperature: 36.8°C (98.2°F)
+  - Oxygen Saturation: 98% on room air
+- General Appearance: The patient appears well-developed, well-nourished, and in no acute distress.
+- Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops.
+- Respiratory: Clear to auscultation bilaterally without wheezes, rales, or rhonchi. Mild expiratory wheezing noted on forced expiration.
+- Abdomen: Soft, non-tender, no hepatosplenomegaly.
+- Musculoskeletal: Full range of motion, no joint swelling or tenderness.
+- Neurological: Alert and oriented to person, place, and time. Cranial nerves II-XII intact.
+- Skin: No rashes, no cyanosis or clubbing.
+
+**Assessment:**
+- Primary Diagnosis: Asthma, unspecified without mention of status asthmaticus and Extrinsic asthma without mention of status asthmaticus
+- Secondary Diagnoses:
+  - Acute pharyngitis
+  - Acute suppurative otitis media without spontaneous rupture of ear drum
+  - Allergy, unspecified, not elsewhere classified
+  - Cellulitis and abscess of unspecified sites
+  - Conjunctivitis, unspecified
+
+Patient demonstrated adequate asthma control with some occurrences of exacerbation mostly triggered by allergens and physical activity. No evidence of acute infection but allergic responses are noted.
+
+**Plan:**
+1. Continue current asthma management with albuterol PRN and inhaled corticosteroid.
+2. Emphasize avoidance of known allergen triggers and adherence to medication regimen.
+3. Prescribe a course of oral antibiotics and analgesics for acute pharyngitis.
+4. Recommend follow-up appointment with an ENT specialist for recurrent otitis media.
+5. Encourage maintaining a healthy lifestyle, including adequate hydration, balanced diet, and regular exercise.
+6. Monitor for signs of asthma exacerbation or any worsening of respiratory symptoms.
+7. Patient instructed to return to the clinic immediately if there are signs of severe asthma attack (e.g., persistent breathlessness, not responding to usual medication).
+
+Patient education on asthma management, adherence to medication, and avoidance of allergens provided. She comprehends the management plan and seems motivated to comply. Follow-up in 4 weeks or sooner if symptoms worsen. 
+
+**Follow-Up:**
+Instruct patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. A follow-up appointment has been scheduled for 4 weeks to reassess the management plan and adjust as necessary.

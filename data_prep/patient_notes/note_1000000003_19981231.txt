@@ -1,0 +1,50 @@
+Visit Information:
+- Patient Num: 1000000003
+- Visit Date: 12/31/1998
+
+This is a 30-year-old Asian male who presents today for a routine follow-up visit. He has been under our care for various concerns over the past 3 months. He speaks German and has been compliant with his appointments and therapies. Today, he continues to experience chronic back and neck pain and needs a review of his current treatment plan.
+
+Subjective:
+The patient’s chief complaints are neck and back pain which has persisted over the past several months. The neck pain, diagnosed as cervicalgia and resulting from a prior neck sprain, radiates to the shoulders and is aggravated by prolonged sitting or computer work. The backache, primarily involving the lower back, is described as a dull, constant pain worsening with physical activity and alleviated somewhat by rest. He denies any recent trauma but notes occasional stiffness in both areas.
+
+Past medical history includes alopecia and atopic dermatitis, and the patient recalls episodic viral warts. He has no significant surgical history. Currently, he is taking nonsteroidal anti-inflammatory drugs (NSAIDs) for pain management with partial effectiveness. He also uses a topical emollient for atopic dermatitis, which he says has been well-tolerated and moderately effective.
+
+Socially, he leads a somewhat sedentary lifestyle due to his office-based job. He does not smoke and consumes alcohol socially. The patient has a supportive family environment, lives alone, and maintains a relatively healthy diet.
+
+He reports no known drug allergies. Symptoms include neck and back pain with stiffness, which he rates at a severity of 6/10. He has tried physical therapy with temporary relief. There have been no additional recent changes in his condition, though the pain continues to persist.
+
+Objective:
+Vital signs today are stable. Blood pressure is 120/80 mmHg, heart rate is 72 bpm, respiratory rate is 16 breaths per minute, and temperature is 36.8°C. Oxygen saturation on room air is 99%.
+
+On physical examination, the patient appears well-nourished and in no acute distress. The cardiovascular examination reveals normal heart sounds without murmurs, gallops, or rubs. Respiratory examination is clear to auscultation bilaterally with no wheezing or rales noted. The abdominal examination is benign, with no tenderness, masses, or organomegaly palpated. 
+
+In the musculoskeletal examination, there is tenderness to palpation over the cervical spine and paraspinal muscles and lumbar areas with noted muscle spasm. Range of motion is decreased in the cervical and lumbar spine, with pain on flexion and extension. No significant deformity is noted, and there are no neurovascular deficits. Neurological examination reveals no focal deficits; cranial nerves are intact, and reflexes are symmetric. Skin examination shows no new lesions of atopic dermatitis and no active warts present.
+
+Recent laboratory tests include a routine metabolic panel showing normal albumin and total protein levels, slightly elevated creatinine which has shown stability over several tests, and normal BUN. Liver function tests, including AST and bilirubin levels, remain within normal limits. Complete blood counts and differentials are unremarkable.
+
+Assessment:
+1. Chronic cervicalgia and lumbar back pain likely secondary to musculoskeletal strain and poor ergonomics.
+   - Differential diagnoses include myofascial pain syndrome and intervertebral disc disorders.
+
+2. Alopecia and atopic dermatitis, well-managed.
+   - Differential diagnoses for dermatitis include eczema and contact dermatitis.
+
+3. History of viral warts, currently not active.
+
+Plan:
+For chronic neck and back pain:
+1. Continue NSAID therapy with consideration of adding muscle relaxants for spasm relief.
+2. Refer to physical therapy for an extended treatment plan focusing on strengthening core muscles and improving posture.
+3. Recommend evaluation by a pain specialist if pain persists despite conservative measures.
+4. Discuss ergonomic adjustments to his work environment to alleviate strain, such as a properly positioned chair and monitor.
+
+For alopecia and atopic dermatitis:
+1. Continue current emollient therapy.
+2. Advise on avoidance of known irritants and use of hypoallergenic skin products.
+
+For general health:
+1. Encourage increased physical activity, aiming for 30 minutes of moderate exercise five days a week.
+2. Discuss the importance of a balanced diet, adequate hydration, and reducing sedentary behavior.
+
+Follow-Up:
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if new symptoms arise necessitating further evaluation. Follow-up appointment to be scheduled in four weeks to monitor progress and adjust treatment as necessary. Patient understands and agrees with the management plan.

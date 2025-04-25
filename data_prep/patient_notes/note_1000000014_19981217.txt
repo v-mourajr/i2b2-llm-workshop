@@ -1,0 +1,74 @@
+**Visit Information:**
+
+- Patient Num: 1000000014
+- Visit Date: 12/17/1998
+
+**Subjective:**
+
+This is a 43-year-old White male who has been receiving care at our clinic for approximately 1.5 years. He speaks German and presented today for a follow-up visit related to his asthma, which was initially diagnosed several years ago. He reports that over the past two weeks, he has experienced increased shortness of breath and wheezing despite using his prescribed inhaler regularly. The patient denies any exposure to new allergens or changes in his routine that could explain the exacerbation. There has been no history of fever, chills, or significant weight loss.
+
+In addition to his asthma, the patient also has a history of chronic rhinitis, which has been managed with antihistamines and nasal sprays. He undergoes periodic laboratory tests to monitor his condition and medications. 
+
+His current medications include:
+- Albuterol inhaler, as needed for asthma attacks
+- Loratadine for chronic rhinitis
+
+The patient denies any known drug allergies. He is a non-smoker and works in an office environment. He lives alone and follows a balanced diet but admits to a sedentary lifestyle, with minimal physical activity. There are no recent hospitalizations or surgical procedures reported.
+
+**Objective:**
+
+- Vital Signs:
+  - Blood Pressure: 128/84 mmHg
+  - Heart Rate: 82 bpm
+  - Respiratory Rate: 20 breaths per minute
+  - Temperature: 36.8°C
+  - Oxygen Saturation: 96% on room air
+
+- General Appearance: The patient is alert, oriented, and in no apparent distress.
+  
+- Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops.
+
+- Respiratory: Diminished breath sounds with prolonged expiratory phase and wheezes bilaterally. No crackles or rhonchi.
+
+- Abdomen: Soft, non-tender, non-distended, with normal bowel sounds.
+
+- Musculoskeletal: No muscle atrophy or joint deformities. Full range of motion in all extremities.
+
+- Neurological: Alert and oriented to person, place, and time. Cranial nerves intact. No focal deficits.
+
+- Skin: Warm and dry, no rashes or lesions noted.
+
+Laboratory tests from previous visits, including basic blood panel, liver function tests (ALT, AST), kidney function tests (creatinine, BUN), and specific indicators of inflammation and immune response such as ESR and IgE, have been within normal limits.
+
+**Assessment:**
+
+Primary Diagnosis: Asthma, unspecified without mention of status asthmaticus
+
+Secondary Diagnoses:
+- Chronic rhinitis
+
+The patient's asthma seems to be moderately controlled on his current regimen, with recent exacerbations likely due to inadequate response to as-needed medication alone. This assessment requires an adjustment in his asthma management plan.
+
+**Plan:**
+
+1. **Asthma Management:**
+   - Increase the use of Albuterol inhaler as needed for symptoms.
+   - Add a daily inhaled corticosteroid to help control inflammation (Fluticasone inhaler, 2 puffs twice daily).
+   - Educate the patient on proper inhaler technique and encourage regular follow-up to monitor efficacy and side effects.
+
+2. **Chronic Rhinitis:**
+   - Continue current treatment with Loratadine, reassess if symptoms worsen.
+   
+3. **Further Testing:**
+   - Review results of recent laboratory tests, including complete blood count and basic metabolic panel, to ensure no underlying issues are contributing to the symptoms.
+   - Consider spirometry at the next visit to assess lung function formally.
+
+4. **Lifestyle Modifications:**
+   - Encourage increased physical activity as tolerated.
+   - Discuss environmental changes to reduce exposure to potential allergens.
+
+**Follow-Up:**
+
+Instruct patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. The patient was advised to follow up in 4 weeks to reassess asthma control and adherence to the new medication regimen. Patient education was provided regarding inhaler use, recognizing signs of worsening asthma, and lifestyle modifications for better disease management.
+
+Patient's understanding and acceptance of the treatment plan were confirmed before the conclusion of the visit.

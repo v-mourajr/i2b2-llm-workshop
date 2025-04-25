@@ -1,0 +1,59 @@
+Visit Information:
+- Patient Num: 1000000129
+- Visit Date: 08/03/2004
+
+This note pertains to a 34-year-old Hispanic male who speaks German and has been under our care for approximately seven years. The patient has a history of asthma, including an episode of status asthmaticus. He also has recurrent acute sinusitis, acute pharyngitis, allergic rhinitis, cough, fever, unspecified chest pain, obesity, and convulsions. The patient's last visit to our clinic was on December 28, 2001. He presents today for a follow-up.
+
+Subjective:
+The patient’s primary complaint is a persistent productive cough that has lasted for the past week, producing yellowish sputum. Additionally, he reports intermittent nasal congestion and episodes of epistaxis, accompanied by a mild fever. He denies experiencing shortness of breath or chest pain. The patient is managing his asthma and obesity with prescribed medications and lifestyle changes. He uses a nasal saline spray for sinus symptoms and follows dietary restrictions and a daily physical activity regimen. He has not experienced recent hospitalizations or surgeries.
+
+The patient lives alone and works as a software engineer. He is a non-smoker, rarely consumes alcohol, and has no history of illicit drug use. He is compliant with his current asthma and obesity medications.
+
+Objective:
+- **Vital Signs:**
+  - Blood Pressure: 128/82 mmHg
+  - Heart Rate: 82 bpm
+  - Respiratory Rate: 20 breaths per minute
+  - Temperature: 99.6 °F
+  - Oxygen Saturation: 97% on room air
+
+- **General Appearance:** The patient appears well-nourished and in no respiratory distress.
+- **Cardiovascular:** Regular rate and rhythm without murmurs, gallops, or rubs.
+- **Respiratory:** Clear auscultation bilaterally with no wheezes, rales, or rhonchi. Positive tenderness over the maxillary sinuses.
+- **Abdomen:** Soft, non-tender, non-distended; bowel sounds normal.
+- **Musculoskeletal:** Full range of motion noted in all joints; mild diffuse myalgia reported.
+- **Neurological:** Alert and oriented, no focal deficits observed.
+- **Skin:** Erythematous dermatitis present on the extensor surfaces of the arms, stable with no new lesions.
+
+Recent lab results demonstrate normal kidney function with normal creatinine and blood urea nitrogen levels. Urinalysis shows no signs of infection.
+
+Assessment:
+The patient’s current symptoms suggest an exacerbation of acute sinusitis potentially complicated by an upper respiratory infection. Asthma management appears stable, and there has been no recent recurrence of convulsions. The patient’s erythematous dermatosis remains under control, and obesity management continues to be effective through lifestyle modifications.
+
+Plan:
+- **Acute Sinusitis/Upper Respiratory Infection:**
+  - Prescribe amoxicillin-clavulanate for a 10-day course.
+  - Continue nasal saline spray and commence corticosteroid nasal spray.
+  - Encourage adequate hydration and rest.
+
+- **Asthma:**
+  - Continue current asthma management plan, reinforcing the importance of medication adherence.
+  - Review the patient's asthma action plan during follow-up visits.
+
+- **Obesity:**
+  - Reinforce dietary modifications and regular physical activity.
+  - Schedule an appointment with a nutritionist for an updated dietary plan.
+
+- **Convulsions:**
+  - Continue current anticonvulsant medication.
+  - Plan a follow-up visit with neurology to review medication levels and seizure control.
+
+- **Erythematous Dermatitis:**
+  - Maintain current topical treatment regimen using emollients and topical corticosteroids as needed.
+
+- **General Recommendations:**
+  - Advise the patient to monitor symptoms closely and seek medical attention if symptoms do not improve or worsen within one week.
+  - Provide patient education materials on the importance of adherence to medication, symptom management, and lifestyle modifications.
+
+Follow-Up:
+The patient is instructed to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. Schedule a routine follow-up in three months to assess overall progress and health condition. The patient was provided with educational materials and demonstrated an understanding of the plan, consenting to the follow-up strategy.

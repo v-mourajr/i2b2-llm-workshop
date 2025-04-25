@@ -1,0 +1,63 @@
+**Visit Information:**
+- Patient Num: 1000000098
+- Visit Date: September 16, 2009
+
+**Subjective:**
+This is a 25-year-old Asian female who speaks English fluently and has been attending our clinic for the management of chronic conditions, especially asthma, over several years. Presenting today for a follow-up, she reports a recent exacerbation of her asthma. Over the past week, she has experienced increased wheezing, shortness of breath, and chest tightness, especially at night and with physical exertion. 
+
+She indicates she has been compliant with her prescribed medications, including Combivent inhaler, Flovent, Maxair, and Singulair. Despite this, she has noticed a heightened need for her rescue inhaler, now using it up to three times a day. She denies any fever, chills, or new respiratory infections. Past medical history is significant for acute pharyngitis, acute suppurative otitis media, abdominal pain, cellulitis and abscess of oral soft tissues, and various allergic conditions. She has also experienced slow transit constipation and nonspecific gastroenteritis.
+
+There have been no new medications added aside from already known treatments, and she maintains no known drug allergies. The patient resides with her supportive parents and is a college student. She remains active but has had to limit physical activity due to worsening asthma symptoms.
+
+**Objective:**
+- **Vital Signs:**
+  - Blood Pressure: 118/74 mmHg
+  - Heart Rate: 78 bpm
+  - Respiratory Rate: 20 breaths per minute
+  - Temperature: 98.7°F (37.1°C)
+  - Oxygen Saturation: 96% on room air
+
+- **General Appearance:**
+  The patient appears well-nourished, alert, and oriented, displaying no acute distress.
+
+- **Cardiovascular:**
+  Regular rate and rhythm with no murmurs, rubs, or gallops noted. Peripheral pulses are strong and symmetric.
+
+- **Respiratory:**
+  Lung auscultation reveals bilateral expiratory wheezing, more pronounced in the lower lung fields. There is no nasal flaring or use of accessory muscles observed.
+
+- **Abdomen:**
+  Abdomen is soft and non-tender with normal bowel sounds and no palpable masses or organomegaly.
+
+- **Musculoskeletal:**
+  Full range of motion is noted in all joints without swelling or tenderness.
+
+- **Neurological:**
+  Neurological exam is unremarkable with normal gait, intact cranial nerves, and symmetric reflexes.
+
+- **Skin:**
+  Skin remains warm, dry, and intact with no rashes or lesions apparent.
+
+**Assessment:**
+1. **Asthma, unspecified without mention of status asthmaticus:**
+   - Likely worsened due to suboptimal control or environmental triggers.
+2. **History of recurrent upper respiratory infections:**
+   - Potential contributing factor to recent asthma exacerbation.
+
+**Plan:**
+1. **Asthma Management:**
+   - Modify the asthma action plan to include the addition of a long-acting beta-agonist used with her current inhaled corticosteroid.
+   - Continue current use of the short-acting beta-agonist for acute symptoms, stressing a limit of four times daily.
+   - Educate on the use of a peak flow meter, advising daily monitoring and symptom diary maintenance.
+
+2. **Follow-Up:**
+   - Schedule a follow-up appointment in two weeks to assess the adequacy of asthma control and make any necessary adjustments to her treatment regimen.
+   - Conduct spirometry at the follow-up visit for pulmonary function evaluation.
+   - Emphasize the importance of identifying and avoiding known asthma triggers.
+
+3. **General Health Maintenance:**
+   - Advise on steps to minimize allergen exposure and manage respiratory infection symptoms promptly.
+   - Reinforce the significance of a balanced diet and regular activity tailored to her asthma condition.
+   - Instruct the patient to seek immediate medical attention or contact the clinic if experiencing an acute exacerbation or if there is no improvement in current symptoms.
+
+The patient and her parent have been provided with thorough educational materials regarding the updated asthma management strategy and have expressed understanding of the planned approach. Emergency contact information and directions for emergent care have been provided. Follow-up has been scheduled as discussed.

@@ -1,0 +1,58 @@
+Visit Information:
+- Patient Num: 1000000130
+- Visit Date: 12/09/2009
+
+This is a 31-year-old Black female who has been receiving care in our clinic for the past ten years. She is fluent in spoken English and presented today for a follow-up appointment primarily concerning her asthma management, which has been her predominant health issue. 
+
+Subjective:
+The patient reports a significant uptick in symptoms of asthma, including frequent episodes of shortness of breath and wheezing, particularly at night and in the early morning. She has been relying heavily on her Albuterol inhaler for relief but notes its effectiveness has waned with time. Additionally, the patient is experiencing increased nasal congestion and frequent sneezing, which she attributes to allergic rhinitis. She denies any new exposures or activities that could have potentially aggravated her symptoms but acknowledges the persistent poor air quality and pollution in her urban environment. 
+
+She mentions a history of chronic asthma with acute exacerbations, acute bronchitis, allergic rhinitis, obstructive abdominal pain, acute laryngitis, lumbago, and depressive disorder, as well as irregular menstrual cycles. Her medication regimen includes Albuterol Sulfate, Beconase, Flovent, Kenalog-40, and Promethazine Hydrochloride tablets. She has adhered well to her medication schedule but is concerned about the increased frequency of symptoms and medication use.
+
+Socially, the patient works as a retail associate in an urban setting where high levels of air pollution are an ongoing challenge. She is a non-smoker and employs various non-pharmacological measures including using air purifiers and staying indoors during peak pollution periods.
+
+Objective:
+- Vital Signs:
+  - Blood Pressure: 120/78 mmHg
+  - Heart Rate: 80 bpm
+  - Respiratory Rate: 20 breaths per minute
+  - Temperature: 98.6°F
+  - Oxygen Saturation: 95% on room air
+
+- General Appearance:
+  The patient appears alert and oriented but demonstrates mild respiratory distress with use of accessory muscles for breathing.
+- Cardiovascular:
+  Heart sounds are regular with no murmurs, rubs, or gallops.
+- Respiratory:
+  Bilateral inspiratory and expiratory wheezes were noted with mild intercostal retractions. The expiratory phase is prolonged. Skin and mucous membranes are without cyanosis or clubbing.
+- Abdomen:
+  Soft and non-tender; no hepatosplenomegaly or masses were palpated.
+- Musculoskeletal:
+  The patient has full range of motion in all extremities with no noted tenderness or swelling.
+- Neurological:
+  No focal neurological deficits noted; the patient is alert and oriented.
+- Skin:
+  Examination revealed warm and dry skin with several benign neoplasms that appeared stable.
+
+Assessment:
+Based on clinical findings and patient history, the assessment includes persistent asthma exacerbation likely influenced by environmental factors, ongoing allergic rhinitis, and stable benign skin neoplasms.
+
+- Issue/Problem/Request 1:
+  - Assessment: Persistent asthma exacerbation
+  - Diagnostic Tests: Lung function tests and a complete blood count will be ordered.
+  - Treatment Plan: Continue Albuterol inhaler, increasing the frequency as needed up to every 4 hours. Initiate a low-dose inhaled corticosteroid such as Fluticasone for long-term asthma management. Referral to pulmonology for further evaluation and potential advanced therapies like long-term bronchodilators or leukotriene inhibitors. Strongly advise minimizing outdoor activities during times of high pollution.
+
+- Issue/Problem/Request 2:
+  - Assessment: Allergic rhinitis
+  - Diagnostic Tests: No immediate tests required unless symptoms persist or worsen.
+  - Treatment Plan: Continue Beconase nasal spray and reinforce the implementation of environmental control measures.
+
+- Issue/Problem/Request 3:
+  - Assessment: Benign skin neoplasms follow-up
+  - Diagnostic Tests: Routine inspections and monitoring during scheduled visits.
+  - Treatment Plan: No immediate intervention required. Continue to monitor for any changes in existing skin lesions.
+
+Plan:
+- The patient was instructed to contact the clinic if her symptoms worsen or do not improve within a week, or if new symptoms arise.
+- Patient education focused on the consistent use of the inhaled corticosteroid, proper inhaler techniques, and strategies to reduce exposure to asthma triggers.
+- The patient agreed to a follow-up appointment in 4-6 weeks to reassess asthma control and medication efficacy.

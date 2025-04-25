@@ -1,0 +1,42 @@
+demographics
+patient_num: 1000000061  age: 33
+patient_num: 1000000061  sex: M
+patient_num: 1000000061  race: asian
+patient_num: 1000000061  language: spanish
+patient_num: 1000000061  vital_status: alive
+patient_num: 1000000061  earliest fact: Apr 17 1997 12:00AM
+patient_num: 1000000061  latest fact: Oct  9 2001 12:00AM
+patient_num: 1000000061  range in days: 1636
+totals
+patient_num: 1000000061  distinct concepts: 35
+patient_num: 1000000061  total facts: 56
+patient_num: 1000000061  total encounters: 9
+patient_num: 1000000061  total asthma: 2
+descriptive
+patient_num: 1000000061  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 2
+patient_num: 1000000061  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 2
+patient_num: 1000000061  diagnosis code: ICD9:490  name: Bronchitis, not specified as acute or chronic  count: 1
+patient_num: 1000000061  diagnosis code: ICD9:89.52  name: Electrocardiogram  count: 1
+patient_num: 1000000061  diagnosis code: ICD9:99.23  name: Injection of steroid  count: 1
+patient_num: 1000000061  diagnosis code: ICD9:729.1  name: Mylagia and myositis, unspecified  count: 1
+patient_num: 1000000061  diagnosis code: ICD9:891.1  name: Open wound of knee, leg (except thigh), and ankle, complicated  count: 1
+patient_num: 1000000061  diagnosis code: ICD9:891.0  name: Open wound of knee, leg (except thigh), and ankle, without mention of complication  count: 1
+patient_num: 1000000061  diagnosis code: ICD9:87.49  name: Other chest x-ray  count: 1
+patient_num: 1000000061  diagnosis code: ICD9:724.1  name: Pain in thoracic spine  count: 2
+patient_num: 1000000061  diagnosis code: ICD9:93.94  name: Respiratory medication administered by nebulizer  count: 2
+patient_num: 1000000061  diagnosis code: ICD9:89.37  name: Vital capacity determination  count: 1
+patient_num: 1000000061  laboratory code: LOINC:731-0  name: Abs Lymphs Auto (Group:ALYMPHS)  count: 1
+patient_num: 1000000061  laboratory code: LOINC:742-7  name: Abs Monos Auto (Group:AMONOS)  count: 1
+patient_num: 1000000061  laboratory code: LOINC:752-6  name: Abs Neuts Auto (Group:ANEUTS)  count: 1
+patient_num: 1000000061  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 1
+patient_num: 1000000061  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 1
+patient_num: 1000000061  laboratory code: LOINC:736-9  name: Lymphocytes - Auto (Group:LYMPHS)  count: 1
+patient_num: 1000000061  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 1
+patient_num: 1000000061  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 1
+patient_num: 1000000061  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 1
+patient_num: 1000000061  laboratory code: LOINC:5905-5  name: Monocytes - Auto (Group:MONOS)  count: 1
+patient_num: 1000000061  laboratory code: LOINC:770-8  name: Neutrophils - Auto (Group:POLYS)  count: 1
+patient_num: 1000000061  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 1
+patient_num: 1000000061  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 1
+patient_num: 1000000061  laboratory code: LOINC:788-0  name: RDW (Group:RDW)  count: 1
+patient_num: 1000000061  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 1

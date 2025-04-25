@@ -1,0 +1,78 @@
+Visit Information:
+    - Patient Num: 1000000082
+    - Visit Date: 09/25/2001
+
+Subjective:
+    The patient is a 46-year-old Hispanic female who has been under our care for approximately 14 months. She primarily communicates in German and presented today for a follow-up visit. Her chief complaints at this time include persistent neck pain and periodic headaches. She recounts a history of a head injury and neck sprain following a motor vehicle accident approximately six months ago. Since then, she has experienced chronic pain in her neck and occasional episodes of dizziness and nausea.
+
+    The patient has not had any significant surgical history. However, her medical history reveals several instances of non-specific injuries, including face and neck trauma, as well as unspecified injuries to the trunk. There are no known allergies, and she currently takes ibuprofen as needed for pain management. In addition to ibuprofen, the patient occasionally takes over-the-counter acetaminophen for headache relief. No herbal supplements are used.
+
+    Her social history remarks she lives with her family, maintains a non-smoking status, and consumes alcohol socially, approximately once or twice a month. She has remained physically active, engaging in light exercises and regular walking routines. She denies any recreational drug use.
+
+    Symptom details indicate that her neck pain is constant, located primarily at the base of her neck, and usually radiates to her shoulders. The headaches are described as pulsating and typically appear later in the day, exacerbated by prolonged periods of computer use or reading, while alleviated somewhat by rest in a dark room. No blurred vision or other neurological deficits reported. The patient expressed her frustration with the chronic nature of these symptoms and their impact on her daily activities, particularly her ability to work as an administrative assistant.
+
+Objective:
+    - Vital Signs:
+        - Blood Pressure: 118/74 mmHg
+        - Heart Rate: 72 bpm
+        - Respiratory Rate: 16 breaths per minute
+        - Temperature: 36.8°C
+        - Oxygen Saturation: 98% on room air
+      
+    - General Appearance:
+        The patient is well-groomed, alert, and in no acute distress. She is cooperative and oriented times three.
+
+    - Cardiovascular:
+        Regular rate and rhythm, no murmurs, gallops, or rubs appreciated on auscultation.
+
+    - Respiratory:
+        Breath sounds are clear bilaterally, no wheezes, rales, or rhonchi detected.
+
+    - Abdomen:
+        Soft, non-tender, normal bowel sounds, no hepatosplenomegaly noted.
+
+    - Musculoskeletal:
+        Cervical spine shows decreased range of motion, particularly in lateral flexion and rotation. Tenderness noted on palpation of the paraspinal muscles at C5-C7. No swelling or masses detected. Strength is 5/5 in upper and lower extremities. Straight-leg raise test negative bilaterally.
+
+    - Neurological:
+        Cranial nerves II-XII intact. Reflexes are 2+ and symmetric. The patient demonstrates normal gait and coordination for her age. Sensation intact to light touch, vibration, and proprioception.
+
+    - Skin:
+        No rashes or lesions, skin warm and dry to touch.
+
+Assessment:
+    - Diagnosis or Clinical Impression:
+        The patient is assessed with chronic neck pain likely secondary to cervical spondylosis and a past neck sprain, tension-type headaches likely exacerbated by musculoskeletal issues, and nonspecific complaints of dizziness/nausea post-head injury.
+
+    - Issue/Problem/Request 1: Chronic Neck Pain
+        Assessment:
+            Likely diagnosis is chronic neck pain associated with previous sprain and suspected cervical spondylosis.
+            Differential diagnosis includes cervical radiculopathy, muscular strain, and myofascial pain syndrome.
+        Diagnostic Tests:
+            Consider cervical spine X-rays for degenerative changes.
+        Treatment Plan:
+            Recommend continuation of NSAIDs for pain relief. Physical therapy referral for targeted neck exercises and posture training. Possible use of muscle relaxants for acute pain exacerbation.
+            Referral to orthopedics if no improvement in symptoms after six weeks of conservative management.
+      
+    - Issue/Problem/Request 2: Tension-Type Headaches
+        Assessment:
+            Most likely diagnosis tension-type headaches related to neck strain.
+            Differential diagnosis includes migraines, cervicogenic headaches, and sinusitis.
+        Diagnostic Tests:
+            No additional imaging needed unless symptoms worsen.
+        Treatment Plan:
+            Advise the patient to maintain healthy posture, reduce screen time, and take regular breaks. Recommend over-the-counter acetaminophen as needed, emphasize hydration and adequate sleep.
+            Referral to neurology if headaches persist or worsen.
+      
+    - Issue/Problem/Request 3: Dizziness/Nausea Post Head Injury
+        Assessment:
+            Most likely diagnosis is post-concussive syndrome.
+            Differential diagnosis includes vestibular migraine, benign paroxysmal positional vertigo (BPPV), and viral labyrinthitis.
+        Diagnostic Tests:
+            Consider vestibular testing if symptoms persist.
+        Treatment Plan:
+            Reassure the patient, advise on slow positional changes to minimize dizziness. Prescribe antiemetics if nausea is severe.
+            Referral to ENT if vestibular symptoms do not resolve.
+
+Follow-Up:
+    Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. Confirm understanding of the plan and encourage the patient to keep a symptom diary to track triggers and responses to treatment. Follow-up appointment scheduled in four weeks to reassess and adjust management as necessary.

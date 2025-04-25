@@ -1,0 +1,67 @@
+### SOAP Note
+
+**Visit Information:**
+- Patient Num: 1000000011
+- Visit Date: 04/04/2008
+
+---
+
+**Subjective:**
+
+The patient is a 62-year-old White female who has been under our clinic’s care since August 6, 1998, presenting today for a follow-up appointment. She communicates effectively in English and lives an active office-based lifestyle, which involves limited physical exertion. The primary concern prompting this visit is an exacerbation of her chronic asthma symptoms, including increased wheezing, shortness of breath, and chest tightness. These symptoms are notably triggered by physical exertion and environmental allergens, requiring daily use of her rescue inhaler for temporary relief. 
+
+Additionally, she reports experiencing intermittent lower abdominal discomfort for the past two weeks, described as cramping without changes in bowel habits. She does not describe any associated nausea, vomiting, or changes in urinary patterns.
+
+Significant past medical history includes recurrent asthma, acute bronchitis, acute sinusitis, aspergillosis, carcinoma in situ of the cervix uteri, dysplasia of the cervix, malignant neoplasm of the ovary, leiomyomas of the uterus, chronic lumbar spine conditions, recurrent shoulder dislocations, osteoarthrosis, and a past episode of depressive and panic disorders. She underwent a total abdominal hysterectomy in the past.
+
+Her medication regimen includes a daily inhaled corticosteroid, a short-acting beta-agonist as needed, and occasional NSAIDs or steroid injections for back pain. She has an allergy to sulfonamides. 
+
+Socially, she consumes alcohol occasionally and is a non-smoker. She does not report any new changes in lifestyle or recent travels.
+
+**Objective:**
+
+- Vital Signs: Blood Pressure: 120/78 mmHg; Heart Rate: 74 bpm; Respiratory Rate: 18 breaths/minute; Temperature: 98.6°F; Oxygen Saturation: 95% on room air.
+- General Appearance: The patient is well-nourished and appears in no acute distress.
+- Cardiovascular: Regular rate and rhythm, no murmurs, gallops, or rubs.
+- Respiratory: Bilateral expiratory wheezes present, no cyanosis or use of accessory muscles for respiration.
+- Abdomen: Mild tenderness in the lower quadrants, no palpable masses or organomegaly.
+- Musculoskeletal: No new findings in the examination of the lumbar spine; movement is within the expected range without exacerbation of pain.
+- Neurological: No focal deficits observed; normal reflexes and movements.
+- Skin: Unremarkable, no new lesions or abnormalities.
+
+Laboratory results from recent visits indicate normalized levels for basophils, eosinophils, lymphocytes, monocytes, and neutrophils. Hemoglobin, hematocrit, MCV, MCHC, MCH, and platelet counts have consistently remained within normal ranges.
+
+**Assessment:**
+
+1. **Chronic Asthma**: The patient exhibits suboptimal control of asthma with increased severity and frequency of symptoms despite adherence to her current medication regimen.
+2. **Abdominal Discomfort**: Mild lower quadrant tenderness with a differential diagnosis including gynecological and gastrointestinal etiologies necessitating further investigation.
+3. **Chronic Lumbar Pain**: Persistent lumbar pain consistent with existing lumbar spine conditions.
+
+**Plan:**
+
+1. **Asthma Management**:
+    - Continuation of the current inhaled corticosteroid regimen with an increase in dosage.
+    - Addition of a long-acting beta-agonist.
+    - Patient education on asthma triggers and proper inhaler technique.
+    - Follow-up appointment with a pulmonologist in 4 weeks.
+
+2. **Abdominal Discomfort**:
+    - Order a comprehensive abdominal ultrasound.
+    - Schedule a CT scan if indicated by the ultrasound results.
+    - Review past surgical and gynecological records for further context.
+
+3. **Chronic Lumbar Pain**:
+    - Continuation of NSAIDs as required for pain.
+    - Referral to physical therapy to develop a customized exercise program.
+    - Consultation with a pain management specialist for the possibility of further steroid injections.
+
+4. **Laboratory Monitoring**:
+    - Repeat CBC and arterial blood gases to monitor potential changes in her condition.
+
+**Follow-Up:**
+
+The patient has been instructed to contact the clinic immediately if asthma symptoms worsen or do not show improvement within the next week. A follow-up appointment has been scheduled for 2 weeks to re-evaluate asthma management and to review the abdominal imaging results. Educational materials on asthma management have been provided and the patient has displayed a good understanding of the treatment plan. 
+
+---
+
+This structured note offers a comprehensive narrative of the patient's current state, ensuring all relevant information is cohesively presented in alignment with the SOAP format.

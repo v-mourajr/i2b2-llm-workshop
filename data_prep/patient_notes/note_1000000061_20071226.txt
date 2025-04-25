@@ -1,0 +1,46 @@
+Visit Information:
+- Patient Num: 1000000061
+- Visit Date: December 26, 2007
+
+Subjective:
+This is a 39-year-old Asian male, who primarily speaks Spanish, presenting for a follow-up appointment regarding his asthma management and persisting spinal and lower leg issues. The patient has been under our consistent care for several years. He reports that his asthma, previously well-managed with albuterol sulfate, has been moderately symptomatic recently, particularly at night, necessitating increased use of his inhaler. His past medical history includes various forms of asthma, multiple acute respiratory infections, backache, and obesity. Notably, he also experiences occasional thoracic spine pain and discomfort in his left knee following an earlier injury.
+
+The patient currently takes albuterol sulfate tablets and uses a Flovent inhaler, which had been effective but recently seems less so during nocturnal hours. He uses Nizoral shampoo for a dermatological condition and Prilosec for esophageal reflux. His medication adherence appears consistent, and he reports no significant adverse effects. Socially, he works in construction, lives alone, and continues to face challenges attempting to quit smoking, still smoking approximately a pack per day. The patient denies any recent hospitalizations or surgeries and reports no known drug allergies.
+
+Objective:
+On examination, the patient appears in no acute distress, and his vital signs are as follows: Blood pressure is 120/80 mmHg, heart rate is 75 beats per minute, respiratory rate is 20 breaths per minute, temperature is 98.7°F, and oxygen saturation is 98% on room air.
+
+Cardiovascular examination reveals a regular heartbeat with no murmurs, gallops, or rubs, and symmetrical peripheral pulses. The respiratory examination shows clear bilateral breath sounds without wheezing or crackles, and chest expansion is symmetrical.
+
+Abdominal palpation is benign, showing no tenderness, palpable masses, or hepatosplenomegaly. Musculoskeletal examination shows tenderness and muscle spasms in the thoracic spine area. Examination of the left knee reveals a well-healed scar without erythema or localized heat but with mild residual swelling. Neurological examination is unremarkable, with intact cranial nerves and normal motor and sensory function. Skin assessment reveals no active rashes or new lesions.
+
+Review of recent laboratory results shows stable values for hematocrit, hemoglobin, red blood cells, lymphocytes, neutrophils, and white blood cells, indicating no acute hematological abnormalities. Routine metabolic panels including albumin, ALT, AST, creatinine, and glucose remain within normal limits.
+
+Assessment:
+1. Asthma — managed with albuterol and Flovent, though the recent increase in nocturnal symptoms suggests a need for adjustment in therapy.
+2. Thoracic spine pain — likely secondary to muscular strain, exacerbated by construction work.
+3. Post-wound recovery (left knee) — continuing to show healing with mild inflammation and discomfort.
+4. Obesity — contributing to overall physical strain and potentially exacerbating asthma and musculoskeletal issues.
+
+Plan:
+1. Asthma:
+   - Continue albuterol sulfate as rescue medication.
+   - Increase the dose of inhaled corticosteroid to manage nocturnal symptoms better.
+   - Reinforce the need for smoking cessation with referral to a cessation program and discuss the adverse effects of smoking on asthma.
+   
+2. Thoracic Spine Pain:
+   - Prescribe NSAIDs (such as ibuprofen) for symptom relief as needed.
+   - Refer to physical therapy for an exercise regimen to strengthen back and core muscles.
+   - Advise on proper ergonomics and body mechanics to prevent work-related strain.
+
+3. Post-Wound Recovery:
+   - Continue monitoring for any signs of infection or significant changes.
+   - Recommend intermittent ice application and leg elevation to decrease swelling.
+   - If persistent discomfort or swelling occurs, consider an orthopedic referral for further evaluation.
+   
+4. Obesity:
+   - Encourage dietary consultation and lifestyle modifications for weight loss.
+   - Discuss potential referral to a weight management program.
+
+Follow-Up:
+The patient was instructed to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. The next follow-up appointment was scheduled for 4 weeks' time to assess asthma control, thoracic spine pain, and general progress on other health fronts. Detailed instructions and patient education were provided in Spanish, ensuring his understanding and engagement with the treatment plan.

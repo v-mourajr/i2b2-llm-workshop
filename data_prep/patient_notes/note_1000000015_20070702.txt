@@ -1,0 +1,33 @@
+Visit Information:
+    - Patient Num: 1000000015
+    - Visit Date: 07/02/2007
+
+This is a 30-year-old Hispanic male who speaks Spanish and has been receiving care at our clinic for multiple medical issues, including asthma and recurrent otitis media. He presents today for a follow-up visit.
+
+Subjective:
+The patient reports that he has been experiencing persistent wheezing, chest tightness, and shortness of breath, which have been recurrent since childhood and have worsened in recent weeks. He mentions that these symptoms are aggravated by physical exertion and tend to improve with rest. He admits to not consistently using his inhaled corticosteroids and occasionally missing doses of montelukast. He uses a short-acting beta-agonist (albuterol) inhaler for acute symptoms but has had to use it more frequently recently. There have been no recent changes in his medication regimen, and he denies using any herbal supplements.
+
+His past medical history includes asthma, acute bronchitis, acute nonsuppurative and suppurative otitis media, adjustment reaction with mixed emotional features, contact dermatitis, atopic dermatitis, exposure to tuberculosis, streptococcal sore throats, and fatigue. He has no significant surgical history.
+
+He is a non-smoker, consumes minimal alcohol, and participates in community physical activities, though asthma limits his capacity. He reports no known allergies.
+
+Objective:
+His vital signs today are: Blood Pressure 118/76 mmHg, Heart Rate 82 beats per minute, Respiratory Rate 16 breaths per minute, Temperature 98.6°F, and Oxygen Saturation 98% on room air.
+
+On examination, he appears well-nourished and in no acute distress, although he is somewhat anxious. Cardiovascular examination reveals a regular heart rate and rhythm with no murmurs. Respiratory examination reveals bilateral wheezing, more pronounced in the upper lung fields, without the use of accessory muscles. The abdomen is non-tender, without masses. Musculoskeletal and neurological examinations are normal. Skin examination shows no rashes or cyanosis.
+
+His laboratory results indicate normal liver function, as evidenced by repeated ALT and AST tests. A complete blood count reveals slightly elevated eosinophils, suggesting poorly controlled asthma.
+
+Assessment:
+1. Asthma with acute exacerbation, primarily due to poor adherence to prescribed inhaled corticosteroids.
+2. History of recurrent otitis media.
+3. Adjustment reaction with mixed emotional features.
+
+Plan:
+1. Reinforce adherence to daily inhaled corticosteroids and montelukast.
+2. Prescribe a combination inhaler with a long-acting beta-agonist and inhaled corticosteroid to improve compliance.
+3. Schedule a follow-up pulmonary function test to evaluate airflow limitation.
+4. Refer to an allergist for evaluation of potential allergens contributing to asthma exacerbations.
+5. Educate the patient on using a peak flow meter to monitor and recognize early signs of exacerbation.
+
+The patient was instructed to contact the clinic if symptoms do not improve within a week or if test results suggest further evaluation. A follow-up appointment is scheduled in four weeks to assess compliance and progress. The patient verbalized understanding and agreed to adhere to the treatment plan.

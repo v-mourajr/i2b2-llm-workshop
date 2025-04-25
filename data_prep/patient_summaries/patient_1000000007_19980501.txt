@@ -1,0 +1,15 @@
+demographics
+patient_num: 1000000007  age: 18
+patient_num: 1000000007  sex: M
+patient_num: 1000000007  race: asian
+patient_num: 1000000007  language: spanish
+patient_num: 1000000007  vital_status: alive
+patient_num: 1000000007  earliest fact: May  1 1998 12:00AM
+patient_num: 1000000007  latest fact: May  1 1998 12:00AM
+patient_num: 1000000007  range in days: 0
+totals
+patient_num: 1000000007  distinct concepts: 1
+patient_num: 1000000007  total facts: 2
+patient_num: 1000000007  total encounters: 2
+descriptive
+patient_num: 1000000007  diagnosis code: ICD9:910.0  name: Abrasion or friction burn of face, neck, and scalp except eye, without mention of infection  count: 2

@@ -1,0 +1,78 @@
+Visit Information:
+    - Patient Num: 1000000025
+    - Visit Date: 12/11/2001
+
+Subjective:
+    - Chief Complaints & History of Present Illness:
+        This is a 69-year-old Hispanic female who has been under our care for 6 days. She speaks Spanish and presents today for a follow-up visit concerning asthma. The patient reports experiencing increased shortness of breath and wheezing over the past 48 hours despite adherence to her current medication regimen. She denies any recent respiratory infections or changes in her environment that could have triggered these symptoms.
+    - Past Medical & Surgical History:
+        The patient has a history of asthma, unspecified without mention of status asthmaticus. She also has been diagnosed with brachial neuritis or radiculitis NOS, carpal tunnel syndrome, disturbance of skin sensation, hyperhidrosis, and various types of chest pain. Her past surgical history includes a carpal tunnel release on the right hand.
+    - Medications & Supplements:
+        The patient is currently on inhaled corticosteroids and albuterol as needed for asthma. She also takes medications for her brachial neuritis and carpal tunnel syndrome, but she could not recall the names during this visit. She denies the use of herbal supplements.
+    - Social History:
+        She is a retired seamstress, lives alone, and has a limited support network. She does not smoke or consume alcohol. Her diet is generally healthy, consisting of home-cooked meals, and she tries to stay active by taking short walks around her neighborhood.
+    - Allergies:
+        She has no known drug allergies.
+    - Symptom Details:
+        The patient describes her wheezing as consistent and more pronounced at night. The shortness of breath occurs throughout the day, worsens with exertion, and is partially relieved by rest and albuterol use. She rates her current level of breathing difficulty as a 6 out of 10 in severity.
+    - Additional Narrative:
+        The patient has been using a home nebulizer, which provides temporary relief. She has noted no significant side effects from her medications. There have been no recent exacerbations requiring emergency care.
+
+Objective:
+    - Vital Signs:
+        - Blood Pressure: 128/82 mmHg
+        - Heart Rate: 78 bpm
+        - Respiratory Rate: 20 breaths per minute
+        - Temperature: 98.4°F
+        - Oxygen Saturation: 94% on room air
+    - General Appearance:
+        The patient is alert and oriented, appears mildly dyspneic but in no acute distress.
+    - Cardiovascular:
+        Regular rate and rhythm, no murmurs, rubs, or gallops. Peripheral pulses are 2+ bilaterally.
+    - Respiratory:
+        Diffuse wheezing on auscultation, prolonged expiratory phase. No rales or rhonchi. Use of accessory muscles noted.
+    - Abdomen:
+        Soft, non-tender, with no organomegaly. Bowel sounds are normal.
+    - Musculoskeletal:
+        Mild discomfort noted in both wrists with positive Tinel’s sign suggestive of carpal tunnel syndrome. Full range of motion in all extremities.
+    - Neurological:
+        No focal deficits observed. Sensation is intact; muscle strength is 5/5 in all extremities.
+    - Skin:
+        Warm, dry, with no signs of rash or cyanosis.
+
+Assessment:
+    - Diagnosis or Clinical Impression:
+        The primary diagnosis remains asthma, with an acute exacerbation noted today despite treatment. Secondary considerations include brachial neuritis or radiculitis, carpal tunnel syndrome, disturbance of skin sensation, and hyperhidrosis. Recurrent chest pain of unspecified origin is also documented.
+    - Issue/Problem/Request 1:
+        Assessment:
+            - Likely diagnosis: Asthma exacerbation.
+            - Differential diagnosis: Infection or environmental allergies.
+        Diagnostic Tests:
+            - Consider repeating spirometry to evaluate current pulmonary function.
+        Treatment Plan:
+            - Increase inhaled corticosteroid dosage. Continue albuterol as needed and add a short course of oral corticosteroids.
+            - Provide a referral to a pulmonologist for a more detailed evaluation.
+    - Issue/Problem/Request 2:
+        Assessment:
+            - Likely diagnosis: Carpal tunnel syndrome.
+            - Differential diagnosis: Worsening brachial neuritis.
+        Diagnostic Tests:
+            - Electromyography (EMG) for confirmation.
+        Treatment Plan:
+            - Recommend wrist splinting at night and nonsteroidal anti-inflammatory drugs (NSAIDs) for pain relief. Referral to orthopedics if symptoms persist.
+    - Issue/Problem/Request 3:
+        Assessment:
+            - Likely diagnosis: Chest pain of unspecified origin.
+            - Differential diagnosis: Gastroesophageal reflux disease vs. musculoskeletal pain.
+        Diagnostic Tests:
+            - Repeat electrocardiogram and consider a stress test.
+        Treatment Plan:
+            - Continue monitoring symptoms, provide reassurance, and consider referral to cardiology if chest pain persists.
+
+Follow-Up:
+    - Instructions for emergent follow-up care or monitoring:
+        Instruct patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.
+    - Follow-Up for persistent, changing, or worsening symptoms:
+        A follow-up appointment in 1 week to reassess her asthma symptoms and review any new diagnostic test results.
+    - Patient Education & Understanding of the Plan:
+        The patient was provided with an asthma action plan, including instructions for the increased inhaled corticosteroid usage and the additional short course of oral corticosteroids. She verbalized understanding and agreed with the follow-up plan. 

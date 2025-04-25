@@ -1,0 +1,70 @@
+demographics
+patient_num: 1000000131  age: 14
+patient_num: 1000000131  sex: M
+patient_num: 1000000131  race: asian
+patient_num: 1000000131  language: english
+patient_num: 1000000131  vital_status: alive
+patient_num: 1000000131  earliest fact: Apr 23 1997 12:00AM
+patient_num: 1000000131  latest fact: Jan 22 2001 12:00AM
+patient_num: 1000000131  range in days: 1370
+totals
+patient_num: 1000000131  distinct concepts: 62
+patient_num: 1000000131  total facts: 239
+patient_num: 1000000131  total encounters: 35
+patient_num: 1000000131  total asthma: 2
+descriptive
+patient_num: 1000000131  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 1
+patient_num: 1000000131  asthma code: ICD9:493.00  name: Extrinsic asthma without mention of status asthmaticus  count: 1
+patient_num: 1000000131  diagnosis code: ICD9:466.0  name: Acute bronchitis  count: 2
+patient_num: 1000000131  diagnosis code: ICD9:465.9  name: Acute upper respiratory infections of unspecified site  count: 2
+patient_num: 1000000131  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 1
+patient_num: 1000000131  diagnosis code: ICD9:V55.0  name: Attention to tracheostomy  count: 1
+patient_num: 1000000131  diagnosis code: ICD9:490  name: Bronchitis, not specified as acute or chronic  count: 1
+patient_num: 1000000131  diagnosis code: ICD9:381.10  name: Chronic serous otitis media, simple or unspecified  count: 2
+patient_num: 1000000131  diagnosis code: ICD9:922.2  name: Contusion of abdominal wall  count: 2
+patient_num: 1000000131  diagnosis code: ICD9:786.2  name: Cough  count: 1
+patient_num: 1000000131  diagnosis code: ICD9:110.9  name: Dermatophytosis of unspecified site  count: 1
+patient_num: 1000000131  diagnosis code: ICD9:493.00  name: Extrinsic asthma without mention of status asthmaticus  count: 1
+patient_num: 1000000131  diagnosis code: ICD9:780.6  name: Fever  count: 2
+patient_num: 1000000131  diagnosis code: ICD9:784.0  name: Headache  count: 2
+patient_num: 1000000131  diagnosis code: ICD9:474.12  name: Hypertrophy of adenoids alone  count: 1
+patient_num: 1000000131  diagnosis code: ICD9:756.51  name: Osteogenesis imperfecta  count: 1
+patient_num: 1000000131  diagnosis code: ICD9:388.70  name: Otalgia, unspecified  count: 1
+patient_num: 1000000131  diagnosis code: ICD9:519.1  name: Other diseases of trachea and bronchus, not elsewhere classified  count: 1
+patient_num: 1000000131  diagnosis code: ICD9:132.9  name: Pediculosis, unspecified  count: 1
+patient_num: 1000000131  diagnosis code: ICD9:V70.0  name: Routine general medical examination at a health care facility  count: 5
+patient_num: 1000000131  diagnosis code: ICD9:382.9  name: Unspecified otitis media  count: 3
+patient_num: 1000000131  diagnosis code: ICD9:478.30  name: Unspecified paralysis of vocal cords  count: 2
+patient_num: 1000000131  diagnosis code: ICD9:788.30  name: Urinary incontinence, unspecified  count: 1
+patient_num: 1000000131  laboratory code: LOINC:1834-1  name: Alpha-Fetoprotein (Group:AFP)  count: 1
+patient_num: 1000000131  laboratory code: LOINC:702-1  name: Anisocytosis (Group:ANISO)  count: 2
+patient_num: 1000000131  laboratory code: LOINC:764-1  name: Bands - Manual (Group:BAND)  count: 2
+patient_num: 1000000131  laboratory code: LOINC:707-0  name: Basophils - Manual (Group:BASO)  count: 2
+patient_num: 1000000131  laboratory code: LOINC:X2012-1  name: Differential Request (Group:DIFFR)  count: 1
+patient_num: 1000000131  laboratory code: LOINC:714-6  name: Eosinophils - Manual (Group:EO)  count: 2
+patient_num: 1000000131  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 4
+patient_num: 1000000131  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 4
+patient_num: 1000000131  laboratory code: LOINC:728-6  name: Hypochromia (Group:HYPO)  count: 2
+patient_num: 1000000131  laboratory code: LOINC:736-9  name: Lymphocytes - Auto (Group:LYMPHS)  count: 1
+patient_num: 1000000131  laboratory code: LOINC:737-7  name: Lymphocytes - Manual (Group:LYMPH)  count: 2
+patient_num: 1000000131  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 4
+patient_num: 1000000131  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 4
+patient_num: 1000000131  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 4
+patient_num: 1000000131  laboratory code: LOINC:5905-5  name: Monocytes - Auto (Group:MONOS)  count: 1
+patient_num: 1000000131  laboratory code: LOINC:744-3  name: Monocytes - Manual (Group:MONO)  count: 2
+patient_num: 1000000131  laboratory code: LOINC:770-8  name: Neutrophils - Auto (Group:POLYS)  count: 1
+patient_num: 1000000131  laboratory code: LOINC:769-0  name: Neutrophils - Manual (Group:POLY)  count: 2
+patient_num: 1000000131  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 4
+patient_num: 1000000131  laboratory code: LOINC:9317-9  name: PLT Estimate (Group:PLTEST)  count: 2
+patient_num: 1000000131  laboratory code: LOINC:779-9  name: Poikilocytosis (Group:POIK)  count: 2
+patient_num: 1000000131  laboratory code: LOINC:10378-8  name: Polychromasia (Group:POLYCH)  count: 2
+patient_num: 1000000131  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 4
+patient_num: 1000000131  laboratory code: LOINC:6742-1  name: RBC Morph Manual (Group:RCM-M)  count: 2
+patient_num: 1000000131  laboratory code: LOINC:3026-2  name: Thyroxine T4 (Group:T4)  count: 2
+patient_num: 1000000131  laboratory code: LOINC:3053-6  name: Total T3 (Group:T3)  count: 1
+patient_num: 1000000131  laboratory code: LOINC:3016-3  name: TSH (Group:TSH)  count: 2
+patient_num: 1000000131  laboratory code: LOINC:2161-8  name: Urine Creatinine (Group:UCRE)  count: 1
+patient_num: 1000000131  laboratory code: LOINC:2695-5  name: Urine Osmolality (Group:UOSM)  count: 1
+patient_num: 1000000131  laboratory code: LOINC:2955-3  name: Urine Sodium (Group:UNA)  count: 1
+patient_num: 1000000131  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 4
+patient_num: 1000000131  laboratory code: LOINC:11156-7  name: WBC Comments (Group:W-COM)  count: 1

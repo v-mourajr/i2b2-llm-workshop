@@ -1,0 +1,134 @@
+demographics
+patient_num: 1000000108  age: 67
+patient_num: 1000000108  sex: M
+patient_num: 1000000108  race: asian
+patient_num: 1000000108  language: english
+patient_num: 1000000108  vital_status: alive
+patient_num: 1000000108  earliest fact: Apr 30 1997 12:00AM
+patient_num: 1000000108  latest fact: Dec  3 2009 12:00AM
+patient_num: 1000000108  range in days: 4600
+totals
+patient_num: 1000000108  distinct concepts: 124
+patient_num: 1000000108  total facts: 573
+patient_num: 1000000108  total encounters: 76
+patient_num: 1000000108  total asthma: 8
+descriptive
+patient_num: 1000000108  asthma code: ICD9:493.92  name: Asthma, unspecified type, with acute exacerbation  count: 1
+patient_num: 1000000108  asthma code: ICD9:493.91  name: Asthma, unspecified type, with status asthmaticus  count: 1
+patient_num: 1000000108  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 6
+patient_num: 1000000108  diagnosis code: ICD9:335.20  name: Amyotrophic lateral sclerosis  count: 4
+patient_num: 1000000108  diagnosis code: ICD9:493.92  name: Asthma, unspecified type, with acute exacerbation  count: 1
+patient_num: 1000000108  diagnosis code: ICD9:493.91  name: Asthma, unspecified type, with status asthmaticus  count: 1
+patient_num: 1000000108  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 6
+patient_num: 1000000108  diagnosis code: ICD9:553.3  name: Diaphragmatic hernia without mention of obstruction or gangrene  count: 1
+patient_num: 1000000108  diagnosis code: ICD9:275.0  name: Disorders of iron metabolism  count: 2
+patient_num: 1000000108  diagnosis code: ICD9:780.4  name: Dizziness and giddiness  count: 1
+patient_num: 1000000108  diagnosis code: ICD9:787.2  name: Dysphagia  count: 3
+patient_num: 1000000108  diagnosis code: ICD9:790.93  name: Elevated prostate specific antigen [PSA]  count: 3
+patient_num: 1000000108  diagnosis code: ICD9:96.6  name: Enteral infusion of concentrated nutritional substances  count: 1
+patient_num: 1000000108  diagnosis code: ICD9:530.81  name: Esophageal reflux  count: 1
+patient_num: 1000000108  diagnosis code: ICD9:V67.09  name: Follow-up examination following other surgery  count: 1
+patient_num: 1000000108  diagnosis code: ICD9:787.1  name: Heartburn  count: 1
+patient_num: 1000000108  diagnosis code: ICD9:600  name: Hyperplasia of prostate  count: 3
+patient_num: 1000000108  diagnosis code: ICD9:600.0  name: Hypertrophy (benign) of prostate  count: 1
+patient_num: 1000000108  diagnosis code: ICD9:276.1  name: Hyposmolality and/or hyponatremia  count: 1
+patient_num: 1000000108  diagnosis code: ICD9:607.84  name: Impotence of organic origin  count: 2
+patient_num: 1000000108  diagnosis code: ICD9:780.7  name: Malaise and fatigue  count: 1
+patient_num: 1000000108  diagnosis code: ICD9:185  name: Malignant neoplasm of prostate  count: 14
+patient_num: 1000000108  diagnosis code: ICD9:358.00  name: Myasthenia gravis without (acute) exacerbation  count: 1
+patient_num: 1000000108  diagnosis code: ICD9:793.1  name: Nonspecific abnormal findings on radiological and other examination of lung field  count: 2
+patient_num: 1000000108  diagnosis code: ICD9:V71.9  name: Observation for unspecified suspected mental condition  count: 1
+patient_num: 1000000108  diagnosis code: ICD9:715.89  name: Osteoarthrosis involving or with mention of multiple sites, but not specified as generalized  count: 2
+patient_num: 1000000108  diagnosis code: ICD9:272.4  name: Other and unspecified hyperlipidemia  count: 1
+patient_num: 1000000108  diagnosis code: ICD9:57.32  name: Other cystoscopy  count: 1
+patient_num: 1000000108  diagnosis code: ICD9:518.89  name: Other diseases of lung, not elsewhere classified  count: 1
+patient_num: 1000000108  diagnosis code: ICD9:786.09  name: Other dyspnea and respiratory abnormality  count: 1
+patient_num: 1000000108  diagnosis code: ICD9:425.4  name: Other primary cardiomyopathies  count: 2
+patient_num: 1000000108  diagnosis code: ICD9:518.82  name: Other pulmonary insufficiency, not elsewhere classified  count: 1
+patient_num: 1000000108  diagnosis code: ICD9:414.8  name: Other specified forms of chronic ischemic heart disease  count: 1
+patient_num: 1000000108  diagnosis code: ICD9:784.9  name: Other symptoms involving head and neck  count: 1
+patient_num: 1000000108  diagnosis code: ICD9:43.11  name: Percutaneous [endoscopic] gastrostomy [PEG]  count: 1
+patient_num: 1000000108  diagnosis code: ICD9:V72.81  name: Preoperative cardiovascular examination  count: 2
+patient_num: 1000000108  diagnosis code: ICD9:60.5  name: Radical prostatectomy  count: 1
+patient_num: 1000000108  diagnosis code: ICD9:40.3  name: Regional lymph node excision  count: 1
+patient_num: 1000000108  diagnosis code: ICD9:786.05  name: Shortness of breath  count: 1
+patient_num: 1000000108  diagnosis code: ICD9:789.2  name: Splenomegaly  count: 1
+patient_num: 1000000108  diagnosis code: ICD9:250.00  name: type II diabetes mellitus [non-insulin dependent type] [NIDDM type] [adult-onset type] or unspecified type, not stated as uncontrolled, without mention of complication  count: 1
+patient_num: 1000000108  diagnosis code: ICD9:401.9  name: Unspecified essential hypertension  count: 6
+patient_num: 1000000108  diagnosis code: ICD9:356.9  name: Unspecified idiopathic peripheral neuropathy  count: 3
+patient_num: 1000000108  diagnosis code: ICD9:V49.9  name: Unspecified problems with limbs and other problems  count: 2
+patient_num: 1000000108  medication code: NDC:00364246533  name: Cefazolin Sodium 1gm powder for injection Schein Pharmaceuticals Inc  count: 4
+patient_num: 1000000108  medication code: NDC:00013243606  name: Fragmin 10000 u/ml solution Pharmacia and Upjohn  count: 3
+patient_num: 1000000108  medication code: NDC:00002751101  name: Humalog Mix 25 u-75 u/ml suspension Lilly Eli and Company  count: 2
+patient_num: 1000000108  medication code: NDC:63323006402  name: Magnesium Sulfate Injectable 50% solution American Pharmaceutical Partners  count: 12
+patient_num: 1000000108  medication code: NDC:00597002901  name: Mobic 7.5mg tablet Boehringer-Ingelheim  count: 4
+patient_num: 1000000108  medication code: NDC:00209686020  name: Morphine Sulfate 25 mg/ml solution Marsam Pharmaceuticals Inc  count: 3
+patient_num: 1000000108  medication code: NDC:00469042525  name: Multilyte-20 solution Fujisawa  count: 2
+patient_num: 1000000108  medication code: NDC:00364021702  name: Prednisolone Acetate 5mg tablet Schein Pharmaceuticals Inc  count: 4
+patient_num: 1000000108  medication code: NDC:61113074331  name: Prilosec 40mg enteric coated capsule Astra-Zeneca Pharmaceuticals  count: 4
+patient_num: 1000000108  medication code: NDC:00074641590  name: Tricor 200mg capsule Abbott Pharmaceutical  count: 4
+patient_num: 1000000108  medication code: NDC:00245012112  name: Uniserts 120mg suppository Upsher-Smith Laboratories Inc  count: 8
+patient_num: 1000000108  medication code: NDC:00165005410  name: Uro-Mag 140mg capsule Blaine Company Inc  count: 4
+patient_num: 1000000108  medication code: NDC:74312000580  name: Vitamin B-50 Vitamin B Complex tablet Nature's Bounty  count: 3
+patient_num: 1000000108  laboratory code: LOINC:704-7  name: Abs Basos Auto (Group:ABASOS)  count: 1
+patient_num: 1000000108  laboratory code: LOINC:711-2  name: Abs EOS Auto (Group:AEOS)  count: 1
+patient_num: 1000000108  laboratory code: LOINC:731-0  name: Abs Lymphs Auto (Group:ALYMPHS)  count: 1
+patient_num: 1000000108  laboratory code: LOINC:742-7  name: Abs Monos Auto (Group:AMONOS)  count: 1
+patient_num: 1000000108  laboratory code: LOINC:752-6  name: Abs Neuts Auto (Group:ANEUTS)  count: 1
+patient_num: 1000000108  laboratory code: LOINC:1751-7  name: Albumin (Group:ALB)  count: 2
+patient_num: 1000000108  laboratory code: LOINC:1742-6  name: ALT (SGPT) (Group:SGPT)  count: 4
+patient_num: 1000000108  laboratory code: LOINC:10466-1  name: Anion Gap (Group:ANION)  count: 1
+patient_num: 1000000108  laboratory code: LOINC:1920-8  name: AST (SGOT) (Group:SGOT)  count: 2
+patient_num: 1000000108  laboratory code: LOINC:706-2  name: Basophils - Auto (Group:BASOS)  count: 1
+patient_num: 1000000108  laboratory code: LOINC:3094-0  name: Blood Urea Nitrogen (Group:BUN)  count: 6
+patient_num: 1000000108  laboratory code: LOINC:2000-8  name: Calcium (Group:CA)  count: 5
+patient_num: 1000000108  laboratory code: LOINC:2028-9  name: Carbon Dioxide (Group:CO2)  count: 6
+patient_num: 1000000108  laboratory code: LOINC:9830-1  name: Cardiac Risk Ratio (Group:CardRR)  count: 1
+patient_num: 1000000108  laboratory code: LOINC:2075-0  name: Chloride (Group:CL)  count: 6
+patient_num: 1000000108  laboratory code: LOINC:9830-1  name: Chol/HDL Ratio (Group:CHOL/HDL)  count: 1
+patient_num: 1000000108  laboratory code: LOINC:2093-3  name: Cholesterol (Group:CHOL)  count: 2
+patient_num: 1000000108  laboratory code: LOINC:6773-6  name: CK-MB QUANT (Group:CPK-MB)  count: 1
+patient_num: 1000000108  laboratory code: LOINC:2157-6  name: CPK (Group:CPK)  count: 2
+patient_num: 1000000108  laboratory code: LOINC:2160-0  name: Creatinine (Group:CRE)  count: 7
+patient_num: 1000000108  laboratory code: LOINC:1968-7  name: Direct Bilirubin (Group:DBILI)  count: 2
+patient_num: 1000000108  laboratory code: LOINC:713-8  name: Eosinophils - Auto (Group:EOS)  count: 1
+patient_num: 1000000108  laboratory code: LOINC:4537-7  name: ESR (Group:ESR)  count: 1
+patient_num: 1000000108  laboratory code: LOINC:2276-4  name: Ferritin (Group:FER)  count: 2
+patient_num: 1000000108  laboratory code: LOINC:2284-8  name: Folic Acid (Group:FOLATE)  count: 1
+patient_num: 1000000108  laboratory code: LOINC:4548-4  name: GHBA1C (Group:GHBA1C)  count: 1
+patient_num: 1000000108  laboratory code: LOINC:2336-6  name: Globulin (Group:GLOB)  count: 2
+patient_num: 1000000108  laboratory code: LOINC:6777-7  name: Glucose (Group:GLU)  count: 6
+patient_num: 1000000108  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 6
+patient_num: 1000000108  laboratory code: LOINC:2086-7  name: HDL (Group:HDL)  count: 2
+patient_num: 1000000108  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 6
+patient_num: 1000000108  laboratory code: LOINC:13965-9  name: Homocyst(e)ine (Group:PBH)  count: 1
+patient_num: 1000000108  laboratory code: LOINC:13965-9  name: Homocysteine (Group:HCYS)  count: 1
+patient_num: 1000000108  laboratory code: LOINC:2498-4  name: Iron (Group:FE)  count: 2
+patient_num: 1000000108  laboratory code: LOINC:2532-0  name: LDH (Group:LDH)  count: 2
+patient_num: 1000000108  laboratory code: LOINC:2090-9  name: LDL (Group:LDL)  count: 2
+patient_num: 1000000108  laboratory code: LOINC:736-9  name: Lymphocytes - Auto (Group:LYMPHS)  count: 1
+patient_num: 1000000108  laboratory code: LOINC:11554-3  name: Magnesium (Group:MG)  count: 3
+patient_num: 1000000108  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 6
+patient_num: 1000000108  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 6
+patient_num: 1000000108  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 6
+patient_num: 1000000108  laboratory code: LOINC:5905-5  name: Monocytes - Auto (Group:MONOS)  count: 1
+patient_num: 1000000108  laboratory code: LOINC:770-8  name: Neutrophils - Auto (Group:POLYS)  count: 1
+patient_num: 1000000108  laboratory code: LOINC:2692-2  name: Osmolality (Group:OSM)  count: 1
+patient_num: 1000000108  laboratory code: LOINC:2777-1  name: Phosphorus (Group:PHOS)  count: 3
+patient_num: 1000000108  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 6
+patient_num: 1000000108  laboratory code: LOINC:2823-3  name: Potassium (Group:K)  count: 8
+patient_num: 1000000108  laboratory code: LOINC:5902-2  name: PT (Group:PT)  count: 2
+patient_num: 1000000108  laboratory code: LOINC:6301-6  name: PT-INR (Group:PT-INR)  count: 1
+patient_num: 1000000108  laboratory code: LOINC:5898-2  name: PTT (Group:PTT)  count: 2
+patient_num: 1000000108  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 6
+patient_num: 1000000108  laboratory code: LOINC:788-0  name: RDW (Group:RDW)  count: 6
+patient_num: 1000000108  laboratory code: LOINC:X2023-2  name: Slide Review WBC (Group:MSRW)  count: 1
+patient_num: 1000000108  laboratory code: LOINC:2951-2  name: Sodium (Group:NA)  count: 6
+patient_num: 1000000108  laboratory code: LOINC:2500-7  name: TIBC (Group:TIBC)  count: 1
+patient_num: 1000000108  laboratory code: LOINC:1975-2  name: Total Bilirubin (Group:TBILI)  count: 6
+patient_num: 1000000108  laboratory code: LOINC:2885-2  name: Total Protein (Group:TP)  count: 2
+patient_num: 1000000108  laboratory code: LOINC:2571-8  name: Triglycerides (Group:TRIG)  count: 2
+patient_num: 1000000108  laboratory code: LOINC:3016-3  name: TSH (Group:TSH)  count: 2
+patient_num: 1000000108  laboratory code: LOINC:3084-1  name: Uric Acid (Group:URIC)  count: 1
+patient_num: 1000000108  laboratory code: LOINC:2170-9  name: Vitamin B12 (Group:B12)  count: 1
+patient_num: 1000000108  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 6

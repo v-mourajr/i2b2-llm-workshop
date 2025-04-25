@@ -1,0 +1,96 @@
+**Visit Information:**
+- Patient Num: 1000000093
+- Visit Date: 10/26/2001
+
+**Subjective:**
+This is a 23-year-old Black female who presents to our clinic for follow-up care. She has been receiving care at our facility for approximately 3 years. She communicates fluently in English and appears today with the chief complaints of generalized abdominal pain and shoulder discomfort.
+
+The patient reports experiencing a diffuse, non-localized abdominal pain that has been persistent for the past several weeks. The pain is described as a dull ache and is not associated with any specific triggers or relieving factors. She denies any nausea, vomiting, diarrhea, or changes in bowel habits. Additionally, she has been experiencing intermittent shoulder pain. She has a history of recurrent dislocation of her shoulder and feels instability in the joint. She expresses concern about possible recurrent dislocations and finds that certain movements exacerbate the discomfort while rest alleviates it to a degree.
+
+The patient's medical history includes acute pharyngitis, unspecified anemia, and Ehlers-Danlos syndrome, which may contribute to her frequent joint issues. She also has a documented history of multiple joint-related complaints. Previous surgeries include a repair of recurrent shoulder dislocation. Medications include a daily multivitamin and iron supplement for her anemia. There are no other current medications or herbal supplements.
+
+Socially, she leads an active lifestyle, works part-time as a cashier while attending college. She adheres to a balanced diet and engages in regular physical exercise. There is no history of smoking, alcohol use, or recreational drug use. She lives with her parents, who provide a supportive environment.
+
+She has no known allergies. She has tried non-pharmacological interventions such as physical therapy and shoulder strengthening exercises, which have provided limited relief. She expresses a moderate level of anxiety regarding her shoulder instability due to past experiences of dislocation.
+
+**Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 118/78 mmHg
+- Heart Rate: 78 beats per minute
+- Respiratory Rate: 18 breaths per minute
+- Temperature: 98.4°F
+- Oxygen Saturation: 99% on room air
+
+**General Appearance:**
+The patient appears well-nourished, alert, and oriented. She is in no acute distress and demonstrates good personal hygiene.
+
+**Cardiovascular:**
+Normal heart sounds (S1, S2) with no murmurs, rubs, or gallops. Peripheral pulses are strong and symmetrical, and there is no edema.
+
+**Respiratory:**
+Clear breath sounds heard bilaterally with no wheezes, rales, or rhonchi. The patient exhibits no respiratory distress.
+
+**Abdomen:**
+The abdomen is soft and non-tender with normal bowel sounds in all four quadrants. There are no masses or organomegaly.
+
+**Musculoskeletal:**
+Examination of the shoulder reveals mild tenderness upon palpation. There is a noticeable apprehension during the shoulder abduction and external rotation indicative of instability. Full range of motion is present, but discomfort limits some abduction. No joint swelling or deformity is visualized. The remaining musculoskeletal system shows full range of motion without abnormalities.
+
+**Neurological:**
+The patient is alert and oriented to person, place, and time. Cranial nerves II-XII are intact. Motor strength is 5/5, and sensation is intact throughout. Reflexes are 2+ and equal bilaterally.
+
+**Skin:**
+The skin is warm and dry with no rashes, lesions, or signs of infection.
+
+**Laboratory Findings:**
+Recent urinalysis shows:
+- Bilirubin: Negative
+- Color: Yellow, clear
+- Glucose: Negative
+- Ketones: Negative
+- Nitrites: Negative
+- Occult Blood: Negative
+- pH: 6.0
+- Protein: Negative
+- Specific Gravity: 1.018
+- Turbidity: Clear
+- Urobilinogen: Normal
+- WBC Screen: Negative
+
+**Assessment:**
+1. Generalized Abdominal Pain:
+    - Likely diagnosis: Functional abdominal pain
+    - Differential diagnosis: Irritable bowel syndrome, mild gastritis
+
+2. Recurrent Shoulder Dislocation and Associated Pain:
+    - Likely diagnosis: Shoulder instability secondary to Ehlers-Danlos syndrome
+    - Differential diagnosis: Rotator cuff injury, arthritis
+
+3. Anemia, unspecified:
+    - Likely diagnosis: Iron deficiency anemia, stable
+    - Differential diagnosis: Chronic disease anemia
+
+**Plan:**
+- **Generalized Abdominal Pain:**
+    - Continue monitoring symptoms.
+    - Recommend dietary adjustments to avoid exacerbating foods, increase fiber intake.
+    - Prescribe a trial of antacid as needed.
+    - Follow-up in 6 weeks to reassess.
+
+- **Recurrent Shoulder Dislocation & Pain:**
+    - Continue physical therapy with a focus on strengthening the shoulder stabilizing muscles.
+    - Recommend minimizing activities that may place undue stress on the shoulder.
+    - Refer to orthopedic specialist to discuss potential need for further surgical intervention if instability persists despite conservative management.
+
+- **Anemia:**
+    - Continue current iron supplementation.
+    - Educate the patient on iron-rich foods.
+    - Recheck CBC in 3 months to assess hemoglobin/hematocrit levels.
+
+**Follow-Up:**
+- Instruct patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.
+- Schedule routine follow-ups in line with the management plan.
+- Reiterate the importance of maintaining a balanced diet, regular exercise, and continuous follow-up of ongoing medical concerns to ensure optimal health management.
+
+The patient has expressed a clear understanding of the plan and agrees to adhere to the recommendations provided.

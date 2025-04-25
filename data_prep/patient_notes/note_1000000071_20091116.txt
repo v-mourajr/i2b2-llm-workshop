@@ -1,0 +1,44 @@
+This is an 85-year-old Black female who has been receiving care at our clinic for approximately nine years. She speaks primarily German and presents today, 11/16/2009, for follow-up to address several ongoing health concerns.
+
+**Subjective:**
+The patient reports experiencing increased urinary frequency and dysuria over the past week, significantly disrupting her daily activities and quality of life. She also mentions intermittent episodes of nausea and vomiting, which she attributes to her current antibiotic medication, trimethoprim-sulfamethoxazole, prescribed for a recurrent urinary tract infection. Over the past three months, she has been treated for recurrent urinary tract infections and suspects a reaction to a past antibiotic.
+
+Her medical history includes a benign neoplasm of the colon, diagnosed during a routine colonoscopy last year. She does not report any recent gastrointestinal symptoms, such as abdominal pain or changes in bowel habits. She currently takes a multivitamin, omeprazole for gastroesophageal reflux disease, and the antibiotic for her urinary symptoms. She has been compliant with her medications but finds the gastrointestinal discomfort from the antibiotic troublesome.
+
+From a social standpoint, she lives alone but maintains an active lifestyle, including daily walks with her dog. She retired from teaching 11 years ago and denies any history of smoking or alcohol use. She does not report any known allergies.
+
+Her urinary symptoms consist of a sharp, burning sensation during urination and increased urgency that disrupts her routines. The nausea and vomiting typically occur after taking her morning medications and during meal times. She has not found any alleviating factors for these symptoms. She rates her dysuria a 6 out of 10 and her nausea and vomiting a 4 out of 10 in severity.
+
+**Objective:**
+On physical examination, the patient presents in no acute distress and is alert and oriented to person, place, and time. Her vital signs are as follows:
+- Blood Pressure: 140/85 mmHg
+- Heart Rate: 82 beats per minute
+- Respiratory Rate: 16 breaths per minute
+- Temperature: 98.6°F
+- Oxygen Saturation: 98% on room air
+
+Her general appearance is consistent with her age, with no signs of acute distress. A cardiovascular examination reveals regular heart sounds with no murmurs, gallops, or rubs. Peripheral pulses are 2+ bilaterally, and there is no edema. On respiratory examination, breath sounds are clear bilaterally without wheezes, rhonchi, or rales. The abdominal examination reveals a soft, non-tender, and non-distended abdomen with normal bowel sounds and no palpable masses or hepatosplenomegaly. The musculoskeletal examination shows a full range of motion in all extremities without joint swelling or deformity. The neurological examination reveals intact cranial nerves II-XII, with normal strength and sensation in all extremities. Reflexes are 2+ and symmetric. The skin examination shows warm, dry skin without rashes, lesions, or significant bruising.
+
+Recent laboratory results show normal values for albumin, amylase, AST, various blood counts, kidney function parameters, and other indicators. Notably, blood urea nitrogen and creatinine levels suggest possible renal involvement but are within acceptable limits for her age and medical history.
+
+**Assessment:**
+1. **Recurrent Urinary Tract Infection:**
+   - Likely diagnosis: Recurrent UTI
+   - Differential diagnosis: Interstitial cystitis, overactive bladder
+   - Diagnostic Tests: Urinalysis and urine culture
+   - Treatment Plan: Continue trimethoprim-sulfamethoxazole for 7 days. Encourage the patient to increase fluid intake. Closely monitor for symptom resolution or progression.
+
+2. **Dyspepsia secondary to antibiotic use:**
+   - Likely diagnosis: Medication-induced dyspepsia
+   - Differential diagnosis: GERD exacerbation, peptic ulcer disease
+   - Diagnostic Tests: Complete blood count, hepatic function panel
+   - Treatment Plan: Continue omeprazole. Consider supplementation with antacids as needed.
+
+3. **Nausea and Vomiting:**
+   - Likely diagnosis: Medication-induced nausea
+   - Differential diagnosis: Gastroenteritis, gastritis
+   - Diagnostic Tests: Electrolyte panel
+   - Treatment Plan: Prescribe an antiemetic, such as ondansetron, as needed. Advise on maintaining proper hydration and consuming small, frequent meals.
+
+**Follow-Up:**
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. Schedule a follow-up visit in two weeks to reassess urinary symptoms and review laboratory results. Provide education on the importance of completing the antibiotic course and managing side effects with over-the-counter options if needed. The patient verbalizes an understanding of the treatment plan and agrees to follow the outlined instructions.

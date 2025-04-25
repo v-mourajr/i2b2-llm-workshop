@@ -1,0 +1,67 @@
+**Visit Information:**
+- Patient Num: 1000000009
+- Visit Date: 11/09/2004
+
+**Subjective:**
+This is a 16-year-old Hispanic female who has been receiving care at our clinic for several years. She speaks English and presents today for a follow-up appointment. The patient reports experiencing generalized abdominal pain for the past three days. She describes the pain as diffuse and aching, with intermittent sharp episodes. She has experienced nausea and a decreased appetite but denies vomiting or changes in bowel habits. Eating or drinking exacerbates the pain, while resting provides some alleviation. No associated fever is noted; she denies recent illnesses or significant changes in her diet or daily activities.
+
+The patient's past medical history is notable for recurrent upper respiratory infections, acute pharyngitis, croup, and unspecified otitis media. She has also been diagnosed with essential hypertension and had a foreign body removed from her larynx in the past. Her medication regimen includes a daily antihypertensive medication, which she has been compliant with and finds effective. For her current abdominal discomfort, her parents have given her over-the-counter acetaminophen with limited success.
+
+Socially, the patient lives with her parents and is a middle school student. There is no exposure to tobacco smoke at home. She actively participates in school activities and physical education. There are no known drug allergies. Her abdominal pain began three days ago and has been persistent, with no vomiting but notable nausea. The pain is worse after consuming food or fluids. Non-pharmacological interventions attempted include dietary adjustments and warm compresses, with minimal relief.
+
+**Objective:**
+- **Vital Signs:**
+  - Blood Pressure: 108/68 mmHg
+  - Heart Rate: 82 beats per minute
+  - Respiratory Rate: 18 breaths per minute
+  - Temperature: 99.1°F
+  - Oxygen Saturation: 98% on room air
+
+- **General Appearance:**
+  The patient appears alert, cooperative, and in mild discomfort. She is well-hydrated and displays no signs of acute distress.
+
+- **Cardiovascular:**
+  Heart sounds are normal with a regular rhythm. No murmurs, rubs, or gallops are detected.
+
+- **Respiratory:**
+  Breath sounds are clear bilaterally without wheezes, rales, or rhonchi. No signs of respiratory distress.
+
+- **Abdomen:**
+  The abdomen is soft with diffuse tenderness, more prominent in the lower quadrants. No rebound tenderness or guarding is noted. Bowel sounds are present and normal. There is no hepatosplenomegaly or palpable masses.
+
+- **Musculoskeletal:**
+  Full range of motion is noted in all extremities without joint swelling, tenderness, or deformities.
+
+- **Neurological:**
+  The patient is alert and oriented to person, place, and time. Cranial nerves II-XII are grossly intact. Motor strength is 5/5 in all extremities, and the sensory examination is normal. Reflexes are intact and symmetric.
+
+- **Skin:**
+  Skin is warm, dry, and intact without any rashes, lesions, or signs of infection.
+
+**Assessment:**
+The patient presents with generalized abdominal pain, the etiology of which remains undetermined. Essential hypertension is also noted, which is being managed effectively with medication.
+- Issue/Problem/Request 1: 
+  **Generalized Abdominal Pain:**
+  - Likely Diagnosis: Generalized abdominal pain with possible gastrointestinal or urinary etiology.
+  - Differential Diagnosis: Gastrointestinal infection, urinary tract infection, constipation, functional abdominal pain.
+  - Diagnostic Tests:
+    - Complete blood count (CBC) to evaluate for infection or anemia.
+    - Comprehensive metabolic panel (CMP) to assess liver and kidney function.
+    - Urinalysis to rule out urinary tract infection (UTI).
+    - Abdominal ultrasound if symptoms persist or worsen.
+  - Treatment Plan:
+    - Encourage adequate hydration and a bland diet.
+    - Prescribe an antacid or H2 blocker if symptoms suggest gastritis.
+    - Consider a probiotic supplement to support gut health.
+    - Follow-up visit in one week to reassess symptoms and lab results.
+
+- Issue/Problem/Request 2:
+  **Essential Hypertension:**
+  - Diagnostic Tests: Routine blood pressure monitoring.
+  - Treatment Plan:
+    - Continue current antihypertensive medication.
+    - Lifestyle modifications including a balanced diet and regular physical activity.
+    - Routine follow-ups every 3-6 months to monitor blood pressure and medication effectiveness.
+
+**Follow-Up:**
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate the need for further evaluation. Follow-up in one week to reassess abdominal pain and review lab results. The patient and her parents were educated about the importance of hydration, dietary adjustments, and adherence to medications. They understood the plan and acknowledged that worsening or new symptoms should be reported promptly.

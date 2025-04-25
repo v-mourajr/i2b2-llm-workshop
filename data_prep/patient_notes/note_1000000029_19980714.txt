@@ -1,0 +1,59 @@
+**Visit Information:**
+- Patient Num: 1000000029
+- Visit Date: 07/14/1998
+
+**Subjective:**
+This is a 14-year-old Hispanic male who has been receiving care at our clinic over the past few months. He communicates effectively in English and presents today for follow-up regarding previously diagnosed conditions including major depressive disorder (single episode, unspecified degree) and unspecified psychosis. The patient has recently experienced an increase in anxiety and depressive symptoms, including persistent sadness, lack of interest in activities, and changes in sleep patterns. Currently, he is not on any prescribed medications for his mental health conditions and has not undergone any surgeries in the past.
+
+Regarding his social history, the patient lives with his parents and attends high school. He denies the use of tobacco, alcohol, or illicit drugs. The patient and his family have been attempting lifestyle changes such as regular physical activity and a balanced diet to assist with his overall well-being.
+
+He has reported no known allergies. His symptoms of depression and psychosis have been progressively worsening over the past two weeks, with increased irritability and difficulty concentrating at school. He has also attempted relaxation techniques, which have provided some relief, though minimal. 
+
+**Objective:**
+- **Vital Signs:**
+  - Blood Pressure: 110/70 mmHg
+  - Heart Rate: 78 bpm
+  - Respiratory Rate: 16 breaths/min
+  - Temperature: 98.6°F
+  - Oxygen Saturation: 98% on room air
+
+- **General Appearance:**
+  The patient appears anxious but is cooperative during the examination. He is well-groomed and in no apparent distress.
+
+- **Cardiovascular:**
+  Normal heart sounds with a regular rate and rhythm. No murmurs, gallops, or rubs detected.
+
+- **Respiratory:**
+  Clear to auscultation bilaterally, no wheezes, rales, or rhonchi noted.
+
+- **Abdomen:**
+  Soft, non-tender, and non-distended with normal bowel sounds. No organomegaly or masses palpated.
+
+- **Musculoskeletal:**
+  No joint swelling or deformities. Full range of motion in all extremities.
+
+- **Neurological:**
+  Alert and oriented to person, place, and time. Cranial nerves II-XII intact. Both motor and sensory functions appear normal.
+
+- **Skin:**
+  No rashes, lesions, or abnormalities observed.
+
+**Assessment:**
+This patient presents with exacerbation of major depressive disorder (single episode, unspecified degree) and unspecified psychosis. The current symptoms align with his previous diagnosis and suggest a need for further intervention.
+
+**Plan:**
+1. **Major Depressive Disorder and Psychosis:**
+   - Initiate cognitive-behavioral therapy (CBT) and schedule weekly sessions to help manage depressive and psychotic symptoms. 
+   - Consider starting a selective serotonin reuptake inhibitor (SSRI), such as fluoxetine, starting at a lower dosage with gradual increments based on the patient's response.
+   - Referral to a child and adolescent psychiatrist for further evaluation and management of psychosis.
+   - Monitor symptom progression and side effects of medications every two weeks.
+
+2. **Labs:**
+   - Monitor complete blood count and comprehensive metabolic panel at follow-up to assess baseline and medication effects, particularly liver and renal function.
+
+3. **Follow-Up:**
+   - Schedule a follow-up appointment in one month to assess the patient’s response to therapy and medication.
+   - Instruct the patient and family to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.
+
+**Patient Education & Understanding:**
+The patient and his family have been advised on the importance of adherence to prescribed treatments, the potential side effects of medications, and non-pharmacologic methods such as lifestyle changes that could positively impact his mental health. He was encouraged to maintain open communication regarding his symptoms and any concerns. The patient and his family verbalized understanding of the treatment plan and follow-up instructions.

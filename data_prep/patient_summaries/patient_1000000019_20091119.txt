@@ -1,0 +1,102 @@
+demographics
+patient_num: 1000000019  age: 12
+patient_num: 1000000019  sex: M
+patient_num: 1000000019  race: indian
+patient_num: 1000000019  language: german
+patient_num: 1000000019  vital_status: alive
+patient_num: 1000000019  earliest fact: Jul  2 2002 12:00AM
+patient_num: 1000000019  latest fact: Nov 19 2009 12:00AM
+patient_num: 1000000019  range in days: 2697
+totals
+patient_num: 1000000019  distinct concepts: 104
+patient_num: 1000000019  total facts: 487
+patient_num: 1000000019  total encounters: 47
+patient_num: 1000000019  total asthma: 8
+descriptive
+patient_num: 1000000019  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 2
+patient_num: 1000000019  asthma code: ICD9:493.02  name: Extrinsic asthma with acute exacerbation  count: 2
+patient_num: 1000000019  asthma code: ICD9:493.00  name: Extrinsic asthma without mention of status asthmaticus  count: 5
+patient_num: 1000000019  diagnosis code: ICD9:466.19  name: Acute bronchiolitis due to other infectious organisms  count: 5
+patient_num: 1000000019  diagnosis code: ICD9:466.11  name: Acute bronchiolitis due to respiratory syncytial virus (RSV)  count: 2
+patient_num: 1000000019  diagnosis code: ICD9:466.0  name: Acute bronchitis  count: 2
+patient_num: 1000000019  diagnosis code: ICD9:461.9  name: Acute sinusitis, unspecified  count: 1
+patient_num: 1000000019  diagnosis code: ICD9:465.9  name: Acute upper respiratory infections of unspecified site  count: 2
+patient_num: 1000000019  diagnosis code: ICD9:708.0  name: Allergic urticaria  count: 2
+patient_num: 1000000019  diagnosis code: ICD9:493  name: Asthma  count: 1
+patient_num: 1000000019  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 2
+patient_num: 1000000019  diagnosis code: ICD9:64.0  name: Circumcision  count: 1
+patient_num: 1000000019  diagnosis code: ICD9:372.30  name: Conjunctivitis, unspecified  count: 1
+patient_num: 1000000019  diagnosis code: ICD9:692.5  name: Contact dermatitis and other eczema due to food in contact with skin  count: 1
+patient_num: 1000000019  diagnosis code: ICD9:786.2  name: Cough  count: 4
+patient_num: 1000000019  diagnosis code: ICD9:V72.7  name: Diagnostic skin and sensitization tests  count: 1
+patient_num: 1000000019  diagnosis code: ICD9:493.02  name: Extrinsic asthma with acute exacerbation  count: 2
+patient_num: 1000000019  diagnosis code: ICD9:493.00  name: Extrinsic asthma without mention of status asthmaticus  count: 5
+patient_num: 1000000019  diagnosis code: ICD9:763.2  name: Forceps delivery affecting fetus or newborn  count: 1
+patient_num: 1000000019  diagnosis code: ICD9:041.5  name: Hemophilus influenzae (H. influenzae) infection in conditions classified elsewhere and of unspecified site  count: 1
+patient_num: 1000000019  diagnosis code: ICD9:770.1  name: Meconium aspiration syndrome  count: 1
+patient_num: 1000000019  diagnosis code: ICD9:V29.0  name: Observation for suspected infectious condition  count: 1
+patient_num: 1000000019  diagnosis code: ICD9:691.8  name: Other atopic dermatitis and related conditions  count: 1
+patient_num: 1000000019  diagnosis code: ICD9:518.89  name: Other diseases of lung, not elsewhere classified  count: 2
+patient_num: 1000000019  diagnosis code: ICD9:786.09  name: Other dyspnea and respiratory abnormality  count: 1
+patient_num: 1000000019  diagnosis code: ICD9:770.8  name: Other newborn respiratory problems  count: 1
+patient_num: 1000000019  diagnosis code: ICD9:V50.2  name: Routine or ritual circumcision  count: 2
+patient_num: 1000000019  diagnosis code: ICD9:V30.00  name: Single liveborn, born in hospital, delivered without mention of cesarean section  count: 3
+patient_num: 1000000019  diagnosis code: ICD9:564.0  name: Slow transit constipation  count: 1
+patient_num: 1000000019  diagnosis code: ICD9:382.9  name: Unspecified otitis media  count: 2
+patient_num: 1000000019  medication code: NDC:00364021702  name: Prednisolone Acetate 5mg tablet Schein Pharmaceuticals Inc  count: 8
+patient_num: 1000000019  medication code: NDC:00245012112  name: Uniserts 120mg suppository Upsher-Smith Laboratories Inc  count: 4
+patient_num: 1000000019  medication code: NDC:00069315083  name: Zithromax IV 500mg powder for injection Pfizer U.S. Pharmaceuticals  count: 4
+patient_num: 1000000019  laboratory code: LOINC:763-3  name: Abs Bands Manual (Group:ABANDS)  count: 1
+patient_num: 1000000019  laboratory code: LOINC:26444-0  name: Abs Basos (Group:ABASOP)  count: 2
+patient_num: 1000000019  laboratory code: LOINC:26449-9  name: Abs Eos (Group:AEOSN)  count: 2
+patient_num: 1000000019  laboratory code: LOINC:26474-7  name: Abs Lymphs (Group:ALYMP)  count: 2
+patient_num: 1000000019  laboratory code: LOINC:731-0  name: Abs Lymphs Auto (Group:ALYMPHS)  count: 4
+patient_num: 1000000019  laboratory code: LOINC:26484-6  name: Abs Monos (Group:AMONS)  count: 2
+patient_num: 1000000019  laboratory code: LOINC:26499-4  name: Abs Neuts (Group:ANEU)  count: 2
+patient_num: 1000000019  laboratory code: LOINC:702-1  name: Anisocytosis (Group:ANISO)  count: 2
+patient_num: 1000000019  laboratory code: LOINC:764-1  name: Bands - Manual (Group:BAND)  count: 5
+patient_num: 1000000019  laboratory code: LOINC:30180-4  name: Basophils (Group:BASOP)  count: 5
+patient_num: 1000000019  laboratory code: LOINC:5770-3  name: Bilirubin (Group:UA-BILI)  count: 2
+patient_num: 1000000019  laboratory code: LOINC:3094-0  name: Blood Urea Nitrogen (Group:BUN)  count: 2
+patient_num: 1000000019  laboratory code: LOINC:2028-9  name: Carbon Dioxide (Group:CO2)  count: 2
+patient_num: 1000000019  laboratory code: LOINC:2075-0  name: Chloride (Group:CL)  count: 2
+patient_num: 1000000019  laboratory code: LOINC:5778-6  name: Color (Group:UA-COLOR)  count: 2
+patient_num: 1000000019  laboratory code: LOINC:2157-6  name: CPK (Group:CPK)  count: 1
+patient_num: 1000000019  laboratory code: LOINC:2160-0  name: Creatinine (Group:CRE)  count: 2
+patient_num: 1000000019  laboratory code: LOINC:X2036-5  name: Diff Method (Group:DIFMET)  count: 2
+patient_num: 1000000019  laboratory code: LOINC:X2012-1  name: Differential Request (Group:DIFFR)  count: 2
+patient_num: 1000000019  laboratory code: LOINC:1968-7  name: Direct Bilirubin (Group:DBILI)  count: 2
+patient_num: 1000000019  laboratory code: LOINC:26450-7  name: Eosinophils (Group:EOSP)  count: 6
+patient_num: 1000000019  laboratory code: LOINC:4537-7  name: ESR (Group:ESR)  count: 1
+patient_num: 1000000019  laboratory code: LOINC:5792-7  name: Glucose - UA (Group:UA-GLUC)  count: 2
+patient_num: 1000000019  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 9
+patient_num: 1000000019  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 9
+patient_num: 1000000019  laboratory code: LOINC:728-6  name: Hypochromia (Group:HYPO)  count: 1
+patient_num: 1000000019  laboratory code: LOINC:2462-0  name: IgE (Group:IGE)  count: 1
+patient_num: 1000000019  laboratory code: LOINC:5797-6  name: Ketones (Group:UA-KET)  count: 2
+patient_num: 1000000019  laboratory code: LOINC:26478-8  name: Lymphocytes (Group:LYMP)  count: 6
+patient_num: 1000000019  laboratory code: LOINC:738-5  name: Macrocytes (Group:MACRO)  count: 2
+patient_num: 1000000019  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 9
+patient_num: 1000000019  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 9
+patient_num: 1000000019  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 9
+patient_num: 1000000019  laboratory code: LOINC:741-9  name: Microcytes (Group:MICROC)  count: 3
+patient_num: 1000000019  laboratory code: LOINC:26485-3  name: Monocytes (Group:MON)  count: 6
+patient_num: 1000000019  laboratory code: LOINC:26511-6  name: Neutrophils (Group:NEUT)  count: 6
+patient_num: 1000000019  laboratory code: LOINC:5802-4  name: Nitrites (Group:UA-NIT)  count: 2
+patient_num: 1000000019  laboratory code: LOINC:5794-3  name: Occult Blood (Group:UA-BLD)  count: 2
+patient_num: 1000000019  laboratory code: LOINC:5803-2  name: PH (Group:UA-PH)  count: 2
+patient_num: 1000000019  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 9
+patient_num: 1000000019  laboratory code: LOINC:2823-3  name: Potassium (Group:K)  count: 2
+patient_num: 1000000019  laboratory code: LOINC:5804-0  name: Protein (Group:UA-ALB)  count: 2
+patient_num: 1000000019  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 9
+patient_num: 1000000019  laboratory code: LOINC:6742-1  name: RBC Morph Manual (Group:RCM-M)  count: 3
+patient_num: 1000000019  laboratory code: LOINC:788-0  name: RDW (Group:RDW)  count: 9
+patient_num: 1000000019  laboratory code: LOINC:X2021-0  name: Slide Review PLT (Group:MSRP)  count: 1
+patient_num: 1000000019  laboratory code: LOINC:X2023-2  name: Slide Review WBC (Group:MSRW)  count: 2
+patient_num: 1000000019  laboratory code: LOINC:2951-2  name: Sodium (Group:NA)  count: 2
+patient_num: 1000000019  laboratory code: LOINC:5811-5  name: Specific Gravity (Group:UA-SPGR)  count: 2
+patient_num: 1000000019  laboratory code: LOINC:7791-7  name: Tear Drops (Group:TEARDR)  count: 1
+patient_num: 1000000019  laboratory code: LOINC:1975-2  name: Total Bilirubin (Group:TBILI)  count: 2
+patient_num: 1000000019  laboratory code: LOINC:5767-9  name: Turbidity (Group:UA-TURB)  count: 2
+patient_num: 1000000019  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 9
+patient_num: 1000000019  laboratory code: LOINC:5799-2  name: WBC Screen (Group:UA-WBC)  count: 2

@@ -1,0 +1,55 @@
+Visit Information:
+- Patient Num: 1000000034
+- Visit Date: November 6, 2008
+
+This is a 41-year-old Indian male who has been a patient at our clinic since March 14, 2001. The patient is proficient in English and presents today for a follow-up visit regarding his asthma management and associated conditions.
+
+Subjective:
+The patient reports experiencing intermittent exacerbations of his asthma, including symptoms such as shortness of breath, wheezing, and tightness in the chest. These episodes are particularly triggered by exposure to pollen and colder weather. He indicates that the use of fluticasone (Flovent) and albuterol has generally kept his asthma under control, with no side effects reported from these medications. Additionally, the patient mentions persistent nasal congestion and postnasal drip, likely due to his chronic sinusitis and allergic rhinitis. He denies any known allergies to medications.
+
+He lives an active lifestyle, works as a software engineer, and practices physical activities including running and yoga. He resides with his partner and does not smoke or engage in substance misuse. 
+
+Objective:
+Vital Signs:
+- Blood Pressure: 118/76 mmHg
+- Heart Rate: 80 bpm
+- Respiratory Rate: 16 rpm
+- Temperature: 98.1°F
+- Oxygen Saturation: 96% on room air
+
+Physical Examination:
+The patient appears well-nourished and in good health, exhibiting no signs of acute distress. The cardiovascular assessment reveals a regular heart rate and rhythm without any audible murmurs, gallops, or abnormalities. Respiratory examination indicates normal breath sounds overall, with occasional end-expiratory wheezing in both lungs. There is no use of accessory muscles nor significant retractions. The abdominal examination shows a soft and non-tender abdomen, free of any palpable masses or organomegaly. Musculoskeletal evaluation demonstrates no swelling or tenderness in the joints. Neurologically, the patient is alert, oriented, and without any focal deficits. The skin examination reveals no notable rashes or lesions.
+
+Laboratory Results:
+Recent laboratory tests that monitor liver and renal function, as well as a complete blood count, show results within normal ranges. Urinalysis does not reveal any abnormalities.
+
+Assessment:
+Primary Diagnosis: Asthma, unspecified, without mention of status asthmaticus.
+Secondary Diagnoses: Chronic sinusitis, Allergic rhinitis.
+Other Considerations: Resolved acute pharyngitis, obesity, and joint pain involving the ankle and foot.
+
+The patient is managing a chronic course of asthma, which remains under control with prescribed medications. Contributory factors to his respiratory symptoms include chronic sinusitis and allergic rhinitis. He has a history of acute pharyngitis that has since resolved. Obesity and joint pain are noted, with ongoing management recommended.
+
+Plan:
+1. Asthma:
+   - The patient will continue using fluticasone inhaler regularly and albuterol as needed.
+   - Reinforce the importance of adherence to the inhaled corticosteroid regimen.
+   - Recommend administration of the annual influenza vaccine.
+   - Schedule the next follow-up appointment in three months or sooner if symptoms worsen.
+
+2. Chronic Sinusitis:
+   - Begin treatment with fluticasone nasal spray.
+   - Suggest saline nasal irrigation twice daily to relieve congestion.
+   - If no improvement, consider referral to an otolaryngologist for further evaluation.
+
+3. Allergic Rhinitis:
+   - Advise the patient to minimize exposure to known allergens.
+   - Continue over-the-counter antihistamines during peak allergy periods.
+
+4. Other:
+   - Implement weight management strategies to address obesity.
+   - Encourage continuation of a regular physical activity regimen that accommodates respiratory limitations.
+   - Manage joint pain with NSAIDs as required.
+
+Follow-Up:
+Instruct the patient to contact the clinic if symptoms persist, worsen, or fail to improve within a week, or if further evaluation is indicated based on test outcomes. Education on the importance of medication adherence, recognizing asthma exacerbation signs, and the management of sinusitis and allergic rhinitis symptoms was provided. The patient acknowledged understanding the treatment plan and agreed to follow the outlined management strategies.

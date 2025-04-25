@@ -1,0 +1,64 @@
+**Visit Information:**
+- Patient Num: 1000000023
+- Visit Date: 03/11/2009
+
+**Subjective:**
+This is a 35-year-old Hispanic male who has been receiving care at our clinic for approximately 11 years, presenting today for follow-up. He speaks English fluently. His chief complaints are generalized abdominal pain and nausea, which he has been experiencing intermittently over the past month. The abdominal pain is described as crampy, with fluctuating intensity, sometimes accompanied by vomiting. The patient reports temporary relief from over-the-counter antacids and nonsteroidal anti-inflammatory drugs (NSAIDs) such as ibuprofen. No clear correlation has been identified between his symptoms and specific dietary intake.
+
+Additionally, the patient is experiencing a persistent, non-productive cough, particularly worsening at night, which started approximately one week ago. This began after an upper respiratory infection. He has not experienced fever, chills, or chest pain associated with the cough. The patient denies smoking or regular alcohol use and reports no history of previous surgeries.
+
+His medical history includes essential hypertension, which he manages with hydrochlorothiazide 25 mg daily and lifestyle modifications. He confirms compliance with his medication regimen and denies any known drug allergies.
+
+**Objective:**
+The patient’s vital signs are stable: blood pressure 128/82 mmHg, heart rate 76 beats per minute, respiratory rate 18 breaths per minute, and oral temperature 98.6°F. Oxygen saturation on room air is 99%. He appears well-nourished, in no acute distress, alert, and oriented to time, place, and person.
+
+**General Appearance:**
+The patient is comfortable and not in any apparent distress during the examination.
+
+**Cardiovascular:**
+Cardiac examination reveals a regular rate and rhythm without murmurs, gallops, or rubs. Peripheral pulses are strong and symmetrical bilaterally. There is no jugular venous distention or peripheral edema.
+
+**Respiratory:**
+Chest auscultation shows clear lung fields bilaterally, without wheezes, rales, or rhonchi. Respiratory movements are normal, and there is no use of accessory muscles.
+
+**Abdomen:**
+The abdomen is soft and non-distended with normal bowel sounds. There is mild generalized tenderness upon palpation, without rebound tenderness or guarding. No organomegaly or masses are detected.
+
+**Musculoskeletal:**
+The musculoskeletal examination shows no joint tenderness, swelling, or deformities. Range of motion is normal in all joints.
+
+**Neurological:**
+Cranial nerves II-XII are intact. Motor strength is 5/5 in all extremities, and deep tendon reflexes are normal.
+
+**Skin:**
+No rashes, lesions, or signs of infection are observed.
+
+**Laboratory Findings:**
+Previous laboratory studies, including a complete blood count and comprehensive metabolic panel, were mostly within normal limits. There were slightly elevated liver enzymes (AST) and trace ketones and protein noted in urinalysis.
+
+**Assessment and Plan:**
+
+1. **Abdominal Pain and Gastroenteritis:**
+The likely diagnosis is nonspecific gastroenteritis, considering the symptoms of generalized abdominal pain, nausea, and vomiting. Differential diagnoses such as gastritis and peptic ulcer disease are also considered.
+- **Diagnostic Tests:** An abdominal ultrasound and an upper GI endoscopy will be ordered to evaluate for peptic ulcer disease.
+- **Treatment Plan:** Initiate a trial of proton pump inhibitors such as omeprazole and prescribe ondansetron for nausea. Continue recommending over-the-counter antacids as needed.
+- **Follow-Up:** Patient should return for a follow-up in two weeks if symptoms persist or worsen.
+
+2. **Upper Respiratory Infection with Cough:**
+The symptoms suggest a viral etiology due to the acute presentation and absence of bacterial infection indicators.
+- **Diagnostic Tests:** No further immediate tests are necessary.
+- **Treatment Plan:** Supportive care measures will be emphasized, including hydration, rest, and the use of over-the-counter cough suppressants (dextromethorphan).
+- **Follow-Up:** The patient should return if the cough persists beyond one week or if it worsens, potentially necessitating a chest x-ray.
+
+3. **Hypertension:**
+The patient's hypertension is currently controlled with hydrochlorothiazide.
+- **Diagnostic Tests:** Routine blood pressure monitoring will continue.
+- **Treatment Plan:** Maintain the current hydrochlorothiazide regimen at 25 mg daily. Reinforce the importance of a low-sodium diet and regular physical activity.
+- **Follow-Up:** Routine 3-month appointments to monitor blood pressure and reinforce lifestyle modifications are recommended.
+
+**Follow-Up:**
+The patient is instructed to contact the clinic if symptoms worsen or do not improve within a week, or if the test results indicate further evaluation is needed. A two-week follow-up appointment is scheduled to reassess the abdominal symptoms if no improvement is noted.
+
+The patient received education on staying hydrated, the use of current medications, and recognizing signs requiring immediate attention, such as severe or persistent pain or vomiting. The patient confirmed understanding of the management plan and agreed to adhere to the recommendations.
+
+The visit concluded with a review of the plan, and the patient was advised to monitor his condition closely.

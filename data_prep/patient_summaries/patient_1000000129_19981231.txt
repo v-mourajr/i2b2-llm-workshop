@@ -1,0 +1,43 @@
+demographics
+patient_num: 1000000129  age: 28
+patient_num: 1000000129  sex: M
+patient_num: 1000000129  race: hispanic
+patient_num: 1000000129  language: german
+patient_num: 1000000129  vital_status: alive
+patient_num: 1000000129  earliest fact: Jul  3 1997 12:00AM
+patient_num: 1000000129  latest fact: Dec 31 1998 12:00AM
+patient_num: 1000000129  range in days: 546
+totals
+patient_num: 1000000129  distinct concepts: 38
+patient_num: 1000000129  total facts: 91
+patient_num: 1000000129  total encounters: 14
+descriptive
+patient_num: 1000000129  diagnosis code: ICD9:461.9  name: Acute sinusitis, unspecified  count: 1
+patient_num: 1000000129  diagnosis code: ICD9:780.3  name: Convulsions  count: 2
+patient_num: 1000000129  diagnosis code: ICD9:786.2  name: Cough  count: 1
+patient_num: 1000000129  diagnosis code: ICD9:784.7  name: Epistaxis  count: 2
+patient_num: 1000000129  diagnosis code: ICD9:690  name: Erythematosquamous dermatosis  count: 1
+patient_num: 1000000129  diagnosis code: ICD9:780.6  name: Fever  count: 1
+patient_num: 1000000129  diagnosis code: ICD9:783.4  name: Lack of expected normal physiological development  count: 2
+patient_num: 1000000129  diagnosis code: ICD9:729.1  name: Mylagia and myositis, unspecified  count: 1
+patient_num: 1000000129  diagnosis code: ICD9:278.0  name: Obesity  count: 2
+patient_num: 1000000129  diagnosis code: ICD9:959.7  name: Other and unspecified injury to knee, leg, ankle, and foot  count: 1
+patient_num: 1000000129  diagnosis code: ICD9:719.40  name: Pain in joint, site unspecified  count: 1
+patient_num: 1000000129  diagnosis code: ICD9:511  name: Pleurisy  count: 1
+patient_num: 1000000129  diagnosis code: ICD9:V70.0  name: Routine general medical examination at a health care facility  count: 1
+patient_num: 1000000129  laboratory code: LOINC:5770-3  name: Bilirubin (Group:UA-BILI)  count: 1
+patient_num: 1000000129  laboratory code: LOINC:5778-6  name: Color (Group:UA-COLOR)  count: 1
+patient_num: 1000000129  laboratory code: LOINC:3022-1  name: Free T4 index (Group:FT4I)  count: 2
+patient_num: 1000000129  laboratory code: LOINC:5792-7  name: Glucose - UA (Group:UA-GLUC)  count: 1
+patient_num: 1000000129  laboratory code: LOINC:5797-6  name: Ketones (Group:UA-KET)  count: 1
+patient_num: 1000000129  laboratory code: LOINC:5802-4  name: Nitrites (Group:UA-NIT)  count: 1
+patient_num: 1000000129  laboratory code: LOINC:5794-3  name: Occult Blood (Group:UA-BLD)  count: 1
+patient_num: 1000000129  laboratory code: LOINC:5803-2  name: PH (Group:UA-PH)  count: 1
+patient_num: 1000000129  laboratory code: LOINC:5804-0  name: Protein (Group:UA-ALB)  count: 1
+patient_num: 1000000129  laboratory code: LOINC:5811-5  name: Specific Gravity (Group:UA-SPGR)  count: 1
+patient_num: 1000000129  laboratory code: LOINC:3055-1  name: THBI (T3 resin) (Group:THBI)  count: 2
+patient_num: 1000000129  laboratory code: LOINC:3026-2  name: Thyroxine T4 (Group:T4)  count: 2
+patient_num: 1000000129  laboratory code: LOINC:3016-3  name: TSH (Group:TSH)  count: 2
+patient_num: 1000000129  laboratory code: LOINC:5767-9  name: Turbidity (Group:UA-TURB)  count: 1
+patient_num: 1000000129  laboratory code: LOINC:5818-0  name: Urobilinogen (Group:UA-UROBI)  count: 1
+patient_num: 1000000129  laboratory code: LOINC:5799-2  name: WBC Screen (Group:UA-WBC)  count: 1

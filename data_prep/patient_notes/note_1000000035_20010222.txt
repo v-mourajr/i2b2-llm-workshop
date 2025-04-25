@@ -1,0 +1,56 @@
+Patient: [Patient Num: 1000000035]     
+Initial Visit: 06/13/1997     
+Latest Visit: 02/22/2001     
+Age: 14 years     
+Sex: Male     
+Race: Black     
+Language: Spanish     
+Vital status: Alive     
+
+This narrative-style SOAP note pertains to a 14-year-old Black male who has been under follow-up care at our clinic for approximately three years. He has presented today for a follow-up regarding his asthma management, alongside concerns related to congenital anomalies of the diaphragm and previous episodes of otitis media. 
+
+**Subjective:**
+The patient’s mother reports continued episodes of wheezing and shortness of breath, notably exacerbated by physical activities and primarily occurring early in the morning and at night, causing disturbances in his sleep. Currently, he uses a bronchodilator approximately three times a week. His medical history is significant for congenital anomalies of the diaphragm, contributing to occasional moderate respiratory distress and necessitating reliance on a respirator during particularly severe episodes. Although there have been no recent occurrences of otitis media, it remains part of his medical history. 
+
+The patient is managed with a daily inhaled corticosteroid, which his mother confirms has decreased the frequency of asthma exacerbations. No new symptoms have been reported since his last visit. 
+
+**Objective:**
+- Vital Signs:
+   - Blood Pressure: 90/60 mmHg
+   - Heart Rate: 86 bpm
+   - Respiratory Rate: 18 bpm
+   - Temperature: 98.6°F
+   - Oxygen Saturation: 96% on room air
+
+- Physical Examination:
+   - General Appearance: The patient appears well-nourished, alert, and in no acute distress.
+   - Cardiovascular: Heart sounds are regular, with no murmurs or additional abnormalities.
+   - Respiratory: Notable for mild wheezing on expiration and an extended expiratory phase, without retractions or nasal flaring.
+   - Abdomen: Non-tender, no hepatosplenomegaly, and benign overall.
+   - Neurological: No focal deficits, cranial nerves intact.
+   - Skin: Clear, no rashes or lesions.
+
+- Laboratory Findings: 
+   - Consistent complete blood count parameters have been monitored, revealing a slight elevation in eosinophils. Historical observations of anisocytosis and mild anemia remain stable with no significant changes noted.
+
+**Assessment:**
+- Primary: Asthma, unspecified without mention of status asthmaticus. The frequency and timing of symptoms suggest possible environmental triggers.
+- Secondary: Congenital diaphragmatic anomaly associated with intermittent respiratory distress.
+- Tertiary: History of otitis media, currently stable but requiring monitoring for potential resurgence.
+
+**Plan:**
+1. Asthma:
+   - Continue with the current regimen of daily inhaled corticosteroid.
+   - Increase monitoring for symptomatic triggers, particularly environmental factors.
+   - Introduce a leukotriene receptor antagonist to address nocturnal symptoms.
+   - Refer to a pulmonologist for a comprehensive assessment to consider any necessary adjustments in the therapeutic approach.
+
+2. Congenital Diaphragmatic Anomaly:
+   - Ensure ongoing follow-up with both a pediatric surgeon and a pulmonologist.
+   - Maintain the option for respirator usage during severe respiratory episodes.
+
+3. Otitis Media:
+   - Remain vigilant for signs of acute infection, treating with antibiotics as needed.
+   - Referral to an ENT specialist if episodes persist or recur.
+
+The patient's mother has been instructed to contact the clinic if his symptoms worsen or do not improve within a week, or in the event that test results necessitate further evaluation. Education regarding the recognition of early signs of exacerbation, adherence to asthma management, and understanding the outlined plan was provided, with the patient's mother expressing comprehension and agreement. A follow-up appointment is scheduled for one month to evaluate the efficacy of the new treatment additions and monitor symptom progression.

@@ -1,0 +1,67 @@
+Visit Information:
+    - Patient Num: 1000000030
+    - Visit Date: 11/13/2007
+
+Subjective:
+This is a 9-year-old Black female who speaks Spanish and has been under our care for approximately 4 months. She presents today for a follow-up appointment regarding her primary diagnosis of asthma, with a notable history of status asthmaticus. The patient's mother reports increased wheezing and shortness of breath in the past week, mostly at night and during physical exertion. There has also been a persistent cough disturbing sleep. Despite consistent use of her daily medications, including an albuterol inhaler as needed and a recently initiated low-dose inhaled corticosteroid, her symptoms have not substantially improved.
+
+The patient's past medical history includes recurrent episodes of acute upper respiratory infections and an instance of acute bronchiolitis, with no significant surgical history. For medications, she currently takes albuterol on an as-needed basis and an inhaled corticosteroid. She denies taking any herbal supplements or additional medications. Previous treatments were generally well-tolerated until her current exacerbation.
+
+She lives with her family in an urban environment with potential exposure to environmental allergens. Her condition has limited her physical activities, as she attends school and engages in social activities. There are no known allergies reported.
+
+Symptom details:
+- Onset last week.
+- Located primarily in the chest.
+- Duration has been ongoing, with increased nighttime frequency and on physical activity.
+- Symptoms characterized by wheezing, shortness of breath, and persistent cough.
+- Temporarily relieved by inhaler usage.
+- Aggravated by physical activities and nighttime.
+- Symptoms are frequent and moderately severe, disrupting sleep and limiting activity.
+
+The mother noted no significant improvement despite increasing the inhaler frequency and mild throat irritation from the corticosteroids.
+
+Objective:
+Today's vital signs are:
+- Blood Pressure: 102/65 mmHg
+- Heart Rate: 98 bpm
+- Respiratory Rate: 24 breaths/minute
+- Temperature: 37.0°C
+- Oxygen Saturation: 94% on room air
+
+The physical exam findings are as follows:
+General appearance: The patient appears mildly distressed with labored breathing but remains alert and oriented.
+Cardiovascular: Regular rhythm without murmurs or gallops.
+Respiratory: Audible wheezing throughout all lung fields, prolonged expiratory phase, no crackles or rhonchi, use of accessory muscles noted.
+Abdomen: Soft, non-tender, no organomegaly.
+Musculoskeletal: No joint swelling or tenderness, normal range of motion.
+Neurological: Alter, oriented, moves all extremities well with normal reflexes.
+Skin: No rashes or lesions.
+
+Recent laboratory results noted normal Blood Urea Nitrogen, Creatinine, Sodium, and Potassium levels. Eosinophils and certain white blood cell counts are elevated, indicating an eosinophilic response often associated with asthma exacerbations. Capillary blood gases show a mild elevation in PCO2.
+
+Assessment:
+Primary Diagnosis: Asthma exacerbation
+The patient is experiencing a worsening of asthma, as evidenced by increased wheezing, shortness of breath, and cough. Differential diagnoses include other respiratory tract infections or exacerbations of underlying allergic conditions. 
+
+Plan:
+- Increase the dosage of inhaled corticosteroid.
+- Introduce a short course of oral corticosteroids.
+- Review the proper use and frequency of the albuterol inhaler.
+- Implement peak flow monitoring.
+- Consider repeat pulmonary function tests.
+  
+Secondary Diagnosis: Acute upper respiratory infection
+Likely contributing to the exacerbation. Symptomatic monitoring is indicated.
+
+Plan:
+- Symptomatic management with adequate fluids, rest, and OTC antipyretics as needed.
+- Consider throat culture if symptoms persist.
+
+Tertiary Diagnosis: Hypopotassemia, resolved
+Likely secondary to prior treatment for respiratory distress. Regular monitoring of electrolytes remains essential.
+
+Plan:
+- Ensure adequate dietary potassium intake and hydration.
+
+Patient education and follow-up:
+The patient and her mother were educated on medication adherence, proper inhaler and spacer use, and environmental trigger avoidance. A follow-up is scheduled in two weeks to reassess her symptoms and asthma management. The family is instructed to contact the clinic if symptoms worsen or if no improvement within a week. They acknowledged understanding and agreed with the management plan.

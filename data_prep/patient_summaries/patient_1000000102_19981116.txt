@@ -1,0 +1,19 @@
+demographics
+patient_num: 1000000102  age: 24
+patient_num: 1000000102  sex: M
+patient_num: 1000000102  race: indian
+patient_num: 1000000102  language: spanish
+patient_num: 1000000102  vital_status: alive
+patient_num: 1000000102  earliest fact: Sep 29 1998 12:00AM
+patient_num: 1000000102  latest fact: Nov 16 1998 12:00AM
+patient_num: 1000000102  range in days: 48
+totals
+patient_num: 1000000102  distinct concepts: 3
+patient_num: 1000000102  total facts: 4
+patient_num: 1000000102  total encounters: 4
+patient_num: 1000000102  total asthma: 1
+descriptive
+patient_num: 1000000102  asthma code: ICD9:493.9  name: Asthma, unspecified  count: 1
+patient_num: 1000000102  diagnosis code: ICD9:493.9  name: Asthma, unspecified  count: 1
+patient_num: 1000000102  diagnosis code: ICD9:959.3  name: Other and unspecified injury to elbow, forearm, and wrist  count: 2
+patient_num: 1000000102  diagnosis code: ICD9:914  name: Superficial injury of hand(s) except finger(s) alone  count: 1

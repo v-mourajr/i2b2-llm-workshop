@@ -1,0 +1,84 @@
+### Visit Information:
+
+- Patient Num: 1000000123
+- Visit Date: 11/05/2007
+
+---
+
+### Subjective:
+
+This is a 25-year-old Indian male who speaks German and has been under our care since January 2, 1998. He presents today for a follow-up on his asthma management and recent episodes of allergy symptoms. Over the past month, the patient has experienced increased wheezing, breathlessness on exertion, and nocturnal coughing. These symptoms have been exacerbating over the last several weeks despite his adherence to asthma medications. He also reports persistent nasal congestion, sneezing, and itchy eyes, particularly intense in the past two weeks, which he attributes to seasonal allergies.
+
+The patient’s history includes allergic rhinitis, epilepsy, and past developmental delays. His epilepsy is well-controlled with no seizures over the last two years. The patient managed developmental delays with gradual and significant improvement, integrating well into daily functioning.
+
+Current medications include Flovent (inhaled corticosteroids), a short-acting beta-agonist for acute asthma episodes, and over-the-counter antihistamines for allergic rhinitis. The patient leads a typical student life, engaging in various activities, and denies smoking, alcohol, and drug use. He has no known drug allergies except anaphylactic reactions to peanuts and tree nuts, necessitating strict avoidance.
+
+---
+
+### Objective:
+
+- **Vital Signs:**
+    - Blood Pressure: 118/76 mmHg
+    - Heart Rate: 78 bpm
+    - Respiratory Rate: 20 breaths/min
+    - Temperature: 98.5°F
+    - Oxygen Saturation: 97% on room air
+
+- **General Appearance:**
+    The patient appears well-nourished, alert, and in no acute distress.
+
+- **Cardiovascular:**
+    Normal S1 and S2, no murmurs, rubs, or gallops.
+
+- **Respiratory:**
+    Mild bilateral expiratory wheezes, normal chest expansion, clear breath sounds otherwise.
+
+- **Abdomen:**
+    Soft, non-tender, normal bowel sounds.
+
+- **Musculoskeletal:**
+    Normal range of motion, no joint abnormalities.
+
+- **Neurological:**
+    Alert and oriented, with no focal deficits.
+
+- **Skin:**
+    No rashes or lesions observed.
+
+Recent laboratory results show slightly elevated eosinophils, in line with his allergic history. Hematologic parameters were otherwise within normal limits.
+
+---
+
+### Assessment:
+
+The patient’s primary diagnosis is asthma, unspecified without mention of status asthmaticus. Secondary diagnoses include allergic rhinitis of unspecified cause and a history of developmental delays. The patient’s epilepsy remains well-controlled with no recent seizures. Anaphylactic reactions to peanuts and tree nuts are under strict avoidance.
+
+- **Issue 1: Asthma Management**
+  - Assessment: Persistent asthma symptoms with increased incidents of wheezing and nocturnal coughing indicate potential exacerbation.
+  - Diagnostic Tests: Monitor pulmonary function tests at the next follow-up.
+  - Treatment Plan: Continue current inhaled corticosteroid regimen and short-acting beta-agonist as needed. Emphasize the use of the spacer device for better medication delivery and adherence.
+
+- **Issue 2: Allergic Rhinitis**
+  - Assessment: Increased allergic symptoms correlate with seasonal changes.
+  - Diagnostic Tests: No additional tests required at this time.
+  - Treatment Plan: Continue over-the-counter antihistamines. Advise on minimizing exposure to allergens and maintaining a clean living environment.
+
+- **Issue 3: Epilepsy and Developmental Delays**
+  - Assessment: Stable, with no seizures reported in the last two years.
+  - Diagnostic Tests: Routine monitoring by neurologist as previously scheduled.
+  - Treatment Plan: No changes in current management. Continue monitoring for developmental support from specialists.
+
+---
+
+### Plan:
+
+- Continue inhaled corticosteroid and short-acting beta-agonist regimen for asthma.
+- Use of spacer device with the inhaler to ensure effective delivery of medication.
+- Maintain over-the-counter antihistamines for managing allergic rhinitis and emphasize minimizing allergen exposure.
+- Encourage routine follow-up with pediatric developmental specialists and neurologist for ongoing evaluation.
+- Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if new symptoms develop.
+- Schedule the next follow-up appointment in three months to reassess asthma control and overall health. Ensure patient and guardian understand the importance of medication adherence and the steps to manage acute asthma exacerbations at home.
+
+---
+
+The patient and his guardian expressed understanding of the treatment plan and are confident in managing symptoms with the provided instructions.

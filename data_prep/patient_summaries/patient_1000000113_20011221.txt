@@ -1,0 +1,16 @@
+demographics
+patient_num: 1000000113  age: 4
+patient_num: 1000000113  sex: F
+patient_num: 1000000113  race: asian
+patient_num: 1000000113  language: english
+patient_num: 1000000113  vital_status: alive
+patient_num: 1000000113  earliest fact: Jun  4 2001 12:00AM
+patient_num: 1000000113  latest fact: Dec 21 2001 12:00AM
+patient_num: 1000000113  range in days: 200
+totals
+patient_num: 1000000113  distinct concepts: 11
+patient_num: 1000000113  total facts: 32
+patient_num: 1000000113  total encounters: 5
+descriptive
+patient_num: 1000000113  diagnosis code: ICD9:382.9  name: Unspecified otitis media  count: 2
+patient_num: 1000000113  laboratory code: LOINC:4545-0  name: MHCT (Group:MHCT)  count: 3

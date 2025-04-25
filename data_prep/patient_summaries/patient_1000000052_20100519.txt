@@ -1,0 +1,133 @@
+demographics
+patient_num: 1000000052  age: 39
+patient_num: 1000000052  sex: M
+patient_num: 1000000052  race: asian
+patient_num: 1000000052  language: spanish
+patient_num: 1000000052  vital_status: alive
+patient_num: 1000000052  earliest fact: May 16 2001 12:00AM
+patient_num: 1000000052  latest fact: May 19 2010 12:00AM
+patient_num: 1000000052  range in days: 3290
+totals
+patient_num: 1000000052  distinct concepts: 125
+patient_num: 1000000052  total facts: 519
+patient_num: 1000000052  total encounters: 94
+patient_num: 1000000052  total asthma: 7
+descriptive
+patient_num: 1000000052  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 6
+patient_num: 1000000052  asthma code: ICD9:493.10  name: Intrinsic asthma without mention of status asthmaticus  count: 1
+patient_num: 1000000052  diagnosis code: ICD9:E919.8  name: Accidents caused by other specified machinery  count: 1
+patient_num: 1000000052  diagnosis code: ICD9:522.4  name: Acute apical periodontitis of pulpal origin  count: 1
+patient_num: 1000000052  diagnosis code: ICD9:410.60  name: Acute myocardial infarction, true posterior wall infarction, episode of care unspecified  count: 2
+patient_num: 1000000052  diagnosis code: ICD9:465.9  name: Acute upper respiratory infections of unspecified site  count: 4
+patient_num: 1000000052  diagnosis code: ICD9:477.0  name: Allergic rhinitis due to pollen  count: 2
+patient_num: 1000000052  diagnosis code: ICD9:477.9  name: Allergic rhinitis, cause unspecified  count: 1
+patient_num: 1000000052  diagnosis code: ICD9:84.01  name: Amputation and disarticulation of finger  count: 1
+patient_num: 1000000052  diagnosis code: ICD9:285.9  name: Anemia, unspecified  count: 1
+patient_num: 1000000052  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 6
+patient_num: 1000000052  diagnosis code: ICD9:314.00  name: Attention deficit disorder of childhood without mention of hyperactivity  count: 2
+patient_num: 1000000052  diagnosis code: ICD9:724.5  name: Backache, unspecified  count: 2
+patient_num: 1000000052  diagnosis code: ICD9:482.9  name: Bacterial pneumonia, unspecified  count: 1
+patient_num: 1000000052  diagnosis code: ICD9:222.1  name: Benign neoplasm of penis  count: 6
+patient_num: 1000000052  diagnosis code: ICD9:216.7  name: Benign neoplasm of skin of lower limb, including hip  count: 1
+patient_num: 1000000052  diagnosis code: ICD9:490  name: Bronchitis, not specified as acute or chronic  count: 1
+patient_num: 1000000052  diagnosis code: ICD9:427.9  name: Cardiac dysrhythmia, unspecified  count: 1
+patient_num: 1000000052  diagnosis code: ICD9:009.1  name: Colitis, enteritis, and gastroenteritis of presumed infectious origin  count: 1
+patient_num: 1000000052  diagnosis code: ICD9:692.9  name: Contact dermatitis and other eczema, unspecified cause  count: 3
+patient_num: 1000000052  diagnosis code: ICD9:786.2  name: Cough  count: 4
+patient_num: 1000000052  diagnosis code: ICD9:521.0  name: Dental caries  count: 3
+patient_num: 1000000052  diagnosis code: ICD9:722.0  name: Displacement of cervical intervertebral disc without myelopathy  count: 1
+patient_num: 1000000052  diagnosis code: ICD9:919.4  name: Insect bite, nonvenomous, of other, multiple, and unspecified sites, without mention of infection  count: 1
+patient_num: 1000000052  diagnosis code: ICD9:493.10  name: Intrinsic asthma without mention of status asthmaticus  count: 1
+patient_num: 1000000052  diagnosis code: ICD9:389.2  name: Mixed conductive and sensorineural hearing loss  count: 5
+patient_num: 1000000052  diagnosis code: ICD9:847.0  name: Neck sprain  count: 1
+patient_num: 1000000052  diagnosis code: ICD9:V05.9  name: Need for prophylactic vaccination and inoculation against unspecified single disease  count: 8
+patient_num: 1000000052  diagnosis code: ICD9:237.71  name: Neurofibromatosis, type 1 [von Recklinghausen's disease]  count: 7
+patient_num: 1000000052  diagnosis code: ICD9:237.70  name: Neurofibromatosis, unspecified  count: 3
+patient_num: 1000000052  diagnosis code: ICD9:795.5  name: Nonspecific reaction to tuberculin skin test without active tuberculosis  count: 1
+patient_num: 1000000052  diagnosis code: ICD9:959.5  name: Other and unspecified injury to finger  count: 1
+patient_num: 1000000052  diagnosis code: ICD9:215.6  name: Other benign neoplasm of connective and other soft tissue of pelvis  count: 2
+patient_num: 1000000052  diagnosis code: ICD9:372.14  name: Other chronic allergic conjunctivitis  count: 1
+patient_num: 1000000052  diagnosis code: ICD9:348.8  name: Other conditions of brain  count: 1
+patient_num: 1000000052  diagnosis code: ICD9:519.1  name: Other diseases of trachea and bronchus, not elsewhere classified  count: 1
+patient_num: 1000000052  diagnosis code: ICD9:04.07  name: Other excision or avulsion of cranial and peripheral nerves  count: 2
+patient_num: 1000000052  diagnosis code: ICD9:780.9  name: Other general symptoms  count: 2
+patient_num: 1000000052  diagnosis code: ICD9:780.79  name: Other malaise and fatigue  count: 3
+patient_num: 1000000052  diagnosis code: ICD9:89.38  name: Other nonoperative respiratory measurements  count: 1
+patient_num: 1000000052  diagnosis code: ICD9:386.19  name: Other peripheral vertigo  count: 1
+patient_num: 1000000052  diagnosis code: ICD9:389.8  name: Other specified forms of hearing loss  count: 1
+patient_num: 1000000052  diagnosis code: ICD9:482.41  name: Pneumonia due to Staphylococcus aureus  count: 4
+patient_num: 1000000052  diagnosis code: ICD9:93.94  name: Respiratory medication administered by nebulizer  count: 2
+patient_num: 1000000052  diagnosis code: ICD9:V70.0  name: Routine general medical examination at a health care facility  count: 3
+patient_num: 1000000052  diagnosis code: ICD9:724.3  name: Sciatia  count: 2
+patient_num: 1000000052  diagnosis code: ICD9:389.18  name: Sensorineural hearing loss of combined types  count: 5
+patient_num: 1000000052  diagnosis code: ICD9:786.05  name: Shortness of breath  count: 3
+patient_num: 1000000052  diagnosis code: ICD9:388.31  name: Subjective tinnitus  count: 1
+patient_num: 1000000052  diagnosis code: ICD9:785.0  name: Tachycardia, unspecified  count: 1
+patient_num: 1000000052  diagnosis code: ICD9:886.0  name: Traumatic amputation of other finger(s) (complete) (partial), without mention of complication  count: 8
+patient_num: 1000000052  diagnosis code: ICD9:786.50  name: Unspecified chest pain  count: 3
+patient_num: 1000000052  diagnosis code: ICD9:389.9  name: Unspecified hearing loss  count: 1
+patient_num: 1000000052  diagnosis code: ICD9:079.99  name: Unspecified viral infection in conditions classified elsewhere and of unspecified site  count: 2
+patient_num: 1000000052  medication code: NDC:00005306343  name: Albuterol Sulfate 4mg tablet ESI Lederle Generics  count: 4
+patient_num: 1000000052  medication code: NDC:00088110947  name: Allegra 180mg tablet extended release Aventis Pharmaceuticals  count: 4
+patient_num: 1000000052  medication code: NDC:00173049900  name: Flovent 220 mcg/inh aerosol with adapter Glaxo Wellcome  count: 4
+patient_num: 1000000052  medication code: NDC:00364015101  name: Isoniazid 300mg tablet Schein Pharmaceuticals Inc  count: 4
+patient_num: 1000000052  medication code: NDC:00003029320  name: Kenalog-40 acetonide 40 mg/ml suspension Bristol-Myers Squibb  count: 6
+patient_num: 1000000052  medication code: NDC:63323018001  name: Pyridoxine HCl 100 mg/ml solution American Pharmaceutical Partners  count: 3
+patient_num: 1000000052  medication code: NDC:45802005435  name: Triamcinolone Acetonide Topical 0.025% ointment Clay-Park Laboratories Inc  count: 4
+patient_num: 1000000052  medication code: NDC:00003010960  name: Trimox 500mg capsule Bristol-Myers Squibb  count: 8
+patient_num: 1000000052  laboratory code: LOINC:26444-0  name: Abs Basos (Group:ABASOP)  count: 1
+patient_num: 1000000052  laboratory code: LOINC:704-7  name: Abs Basos Auto (Group:ABASOS)  count: 2
+patient_num: 1000000052  laboratory code: LOINC:26449-9  name: Abs Eos (Group:AEOSN)  count: 1
+patient_num: 1000000052  laboratory code: LOINC:711-2  name: Abs EOS Auto (Group:AEOS)  count: 2
+patient_num: 1000000052  laboratory code: LOINC:26474-7  name: Abs Lymphs (Group:ALYMP)  count: 1
+patient_num: 1000000052  laboratory code: LOINC:731-0  name: Abs Lymphs Auto (Group:ALYMPHS)  count: 2
+patient_num: 1000000052  laboratory code: LOINC:26484-6  name: Abs Monos (Group:AMONS)  count: 1
+patient_num: 1000000052  laboratory code: LOINC:742-7  name: Abs Monos Auto (Group:AMONOS)  count: 2
+patient_num: 1000000052  laboratory code: LOINC:26499-4  name: Abs Neuts (Group:ANEU)  count: 1
+patient_num: 1000000052  laboratory code: LOINC:752-6  name: Abs Neuts Auto (Group:ANEUTS)  count: 2
+patient_num: 1000000052  laboratory code: LOINC:1742-6  name: ALT (SGPT) (Group:SGPT)  count: 2
+patient_num: 1000000052  laboratory code: LOINC:10466-1  name: Anion Gap (Group:ANION)  count: 2
+patient_num: 1000000052  laboratory code: LOINC:1920-8  name: AST (SGOT) (Group:SGOT)  count: 2
+patient_num: 1000000052  laboratory code: LOINC:30180-4  name: Basophils (Group:BASOP)  count: 2
+patient_num: 1000000052  laboratory code: LOINC:706-2  name: Basophils - Auto (Group:BASOS)  count: 2
+patient_num: 1000000052  laboratory code: LOINC:3094-0  name: Blood Urea Nitrogen (Group:BUN)  count: 3
+patient_num: 1000000052  laboratory code: LOINC:2000-8  name: Calcium (Group:CA)  count: 2
+patient_num: 1000000052  laboratory code: LOINC:14815-5  name: Calculated LDL (Group:LDLCAL)  count: 2
+patient_num: 1000000052  laboratory code: LOINC:2028-9  name: Carbon Dioxide (Group:CO2)  count: 4
+patient_num: 1000000052  laboratory code: LOINC:2075-0  name: Chloride (Group:CL)  count: 4
+patient_num: 1000000052  laboratory code: LOINC:2093-3  name: Cholesterol (Group:CHOL)  count: 3
+patient_num: 1000000052  laboratory code: LOINC:2160-0  name: Creatinine (Group:CRE)  count: 3
+patient_num: 1000000052  laboratory code: LOINC:X2012-1  name: Differential Request (Group:DIFFR)  count: 1
+patient_num: 1000000052  laboratory code: LOINC:26450-7  name: Eosinophils (Group:EOSP)  count: 2
+patient_num: 1000000052  laboratory code: LOINC:713-8  name: Eosinophils - Auto (Group:EOS)  count: 2
+patient_num: 1000000052  laboratory code: LOINC:4537-7  name: ESR (Group:ESR)  count: 1
+patient_num: 1000000052  laboratory code: LOINC:2276-4  name: Ferritin (Group:FER)  count: 1
+patient_num: 1000000052  laboratory code: LOINC:3246-6  name: Fibrin Split Products/D-Dimer (Group:FSP/DD)  count: 1
+patient_num: 1000000052  laboratory code: LOINC:6777-7  name: Glucose (Group:GLU)  count: 4
+patient_num: 1000000052  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 6
+patient_num: 1000000052  laboratory code: LOINC:2086-7  name: HDL (Group:HDL)  count: 3
+patient_num: 1000000052  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 6
+patient_num: 1000000052  laboratory code: LOINC:2498-4  name: Iron (Group:FE)  count: 1
+patient_num: 1000000052  laboratory code: LOINC:26478-8  name: Lymphocytes (Group:LYMP)  count: 2
+patient_num: 1000000052  laboratory code: LOINC:736-9  name: Lymphocytes - Auto (Group:LYMPHS)  count: 2
+patient_num: 1000000052  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 6
+patient_num: 1000000052  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 6
+patient_num: 1000000052  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 6
+patient_num: 1000000052  laboratory code: LOINC:26485-3  name: Monocytes (Group:MON)  count: 2
+patient_num: 1000000052  laboratory code: LOINC:5905-5  name: Monocytes - Auto (Group:MONOS)  count: 2
+patient_num: 1000000052  laboratory code: LOINC:26511-6  name: Neutrophils (Group:NEUT)  count: 2
+patient_num: 1000000052  laboratory code: LOINC:770-8  name: Neutrophils - Auto (Group:POLYS)  count: 2
+patient_num: 1000000052  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 6
+patient_num: 1000000052  laboratory code: LOINC:2823-3  name: Potassium (Group:K)  count: 4
+patient_num: 1000000052  laboratory code: LOINC:5902-2  name: PT (Group:PT)  count: 1
+patient_num: 1000000052  laboratory code: LOINC:5898-2  name: PTT (Group:PTT)  count: 1
+patient_num: 1000000052  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 6
+patient_num: 1000000052  laboratory code: LOINC:788-0  name: RDW (Group:RDW)  count: 6
+patient_num: 1000000052  laboratory code: LOINC:4679-7  name: Retic count (Group:RETIC)  count: 1
+patient_num: 1000000052  laboratory code: LOINC:2951-2  name: Sodium (Group:NA)  count: 4
+patient_num: 1000000052  laboratory code: LOINC:2500-7  name: TIBC (Group:TIBC)  count: 1
+patient_num: 1000000052  laboratory code: LOINC:2571-8  name: Triglycerides (Group:TRIG)  count: 2
+patient_num: 1000000052  laboratory code: LOINC:3016-3  name: TSH (Group:TSH)  count: 1
+patient_num: 1000000052  laboratory code: LOINC:2170-9  name: Vitamin B12 (Group:B12)  count: 1
+patient_num: 1000000052  laboratory code: LOINC:2092-5  name: VLDL (Group:VLDL)  count: 2
+patient_num: 1000000052  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 6

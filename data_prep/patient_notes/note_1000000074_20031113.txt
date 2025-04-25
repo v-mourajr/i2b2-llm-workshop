@@ -1,0 +1,58 @@
+**Visit Information:**
+- Patient Num: 1000000074
+- Visit Date: 11/13/2003
+
+**Subjective:**
+
+This is a 41-year-old Hispanic female who has been an established patient in our clinic for several years. She presents today for a follow-up visit primarily concerning her asthma management. The patient reports that her asthma control has been suboptimal, with frequent exacerbations characterized by episodes of breathlessness, wheezing, and chest tightness occurring almost daily over the past month. She has been using her rescue inhaler more frequently, sometimes multiple times a day, despite adhering to her prescribed regimen of inhaled corticosteroids. She denies any recent infections or new exposures to environmental triggers.
+
+The patient’s medical history is significant for asthma, including past episodes with status asthmaticus. Other medical conditions include allergic rhinitis, cervicalgia, classical migraines, acquired kyphosis, and recurrent neck sprains. She uses a muscle relaxant for neck pain and has an effective abortive treatment for migraines. Her social history reveals that she is a non-smoker, does not consume alcohol, and works as a teacher, where she may encounter allergens. She employs measures at home to minimize allergen exposure, such as using dust mite covers and air purifiers. She has no known drug allergies.
+
+**Objective:**
+
+- Vital Signs:
+    - Blood Pressure: 122/82 mmHg
+    - Heart Rate: 80 bpm
+    - Respiratory Rate: 20 breaths/min
+    - Temperature: 98.6°F
+    - Oxygen Saturation: 96% on room air
+- General Appearance: The patient appears in no acute distress but exhibits mild respiratory distress upon exertion. She is well-nourished, alert, and cooperative.
+- Cardiovascular: Regular rate and rhythm with no murmurs, rubs, or gallops.
+- Respiratory: Diffuse expiratory wheezes heard on auscultation bilaterally, increased breath sounds, and mild use of accessory muscles observed during deep inspiration.
+- Abdomen: Soft and non-tender with normal bowel sounds.
+- Musculoskeletal: Mild tenderness along the cervical spine, full range of motion, and no gross deformities.
+- Neurological: Cranial nerves II-XII intact; the patient is alert, oriented, with normal motor function and reflexes.
+- Skin: Clear with no rashes or lesions noted.
+
+**Assessment:**
+
+- **Primary Diagnosis:** Asthma, unspecified type, with status asthmaticus, currently under suboptimal control.
+- **Secondary Diagnoses:**
+    - Allergic rhinitis due to other allergens
+    - Cervicalgia
+    - Classical migraine without intractable migraine
+    - Acquired kyphosis
+    - Recurrent neck sprains
+
+**Plan:**
+
+1. **Asthma Management:**
+    - Increase the dose of inhaled corticosteroids to improve symptom control and reduce reliance on the rescue inhaler.
+    - Ensure the patient continues to carry and use the albuterol inhaler correctly for acute symptoms.
+    - Consider starting a leukotriene receptor antagonist (e.g., montelukast) if no improvement is noted within an initial period.
+    - Referral to an allergist for comprehensive testing and potential immunotherapy.
+
+2. **Allergic Rhinitis:**
+    - Continue current antihistamine use and recommend intranasal corticosteroids as needed for symptom control.
+ 
+3. **Cervicalgia and Neck Sprains:**
+    - Continue current use of muscle relaxants and recommend physical therapy exercises to strengthen and improve cervical spine stability.
+
+4. **Classical Migraines:**
+    - Continue the current abortive therapy and document the frequency and severity of migraines. Discuss prophylactic treatment if migraines become more frequent.
+
+5. **Overall Management:**
+    - Address each condition by monitoring and scheduling follow-up appointments where necessary. Ensure comprehensive review of the patient's symptoms and treatment efficacy.
+
+**Follow-Up:**
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week or if any abnormal test results necessitate further evaluation. Reassess the patient in 2 weeks to evaluate updates in asthma management, ensuring effective symptom control and patient's adherence to the revised plan. Provide education on recognizing severe asthma exacerbation signs and when to seek emergent care.

@@ -1,0 +1,59 @@
+Visit Information:
+    - Patient Number: 1000000004
+    - Visit Date: December 20, 2001
+
+Subjective:
+    This is a 26-year-old Black male who has been receiving care at our clinic for a variety of health issues over the past year. He speaks English and has chronic respiratory issues, with a primary diagnosis of asthma. Today, he presents for a follow-up due to ongoing management of his asthma and other health concerns.
+    
+    The patient reports experiencing increased episodes of shortness of breath and wheezing, particularly at night and with exertion, despite adherence to his prescribed asthma medications. He denies any recent hospitalizations but mentions that he had to use his rescue inhaler several times in the past week. He also reports that his adjustments to a new life situation have been challenging, leading to symptoms of anxiety and depression. 
+    
+    Regarding his asthma, the patient states that he adheres to his daily use of an inhaled corticosteroid and a long-acting beta-agonist. He is also on albuterol, which he uses as needed. He has a history of adjustment disorder with emotional features. Additionally, he has struggled with substance use, including alcohol, cannabis, and cocaine, but denies current use.
+    
+    The patient’s social history includes occasional alcohol consumption but denies current tobacco use. He lives alone and works in a physically demanding job, which contributes to his respiratory difficulties. He is compliant with his medical appointments and has no known allergies.
+
+Objective:
+    Vital Signs:
+        - Blood Pressure: 120/78 mmHg
+        - Heart Rate: 82 beats per minute
+        - Respiratory Rate: 18 breaths per minute
+        - Temperature: 98.6°F
+        - Oxygen Saturation: 97% on room air
+    
+    General Appearance:
+        The patient appears well-nourished and in no acute distress. He is alert and oriented.
+    
+    Cardiovascular:
+        Normal S1 and S2 heart sounds, no murmurs, rubs, or gallops. No peripheral edema present.
+    
+    Respiratory:
+        Mild wheezing noted on auscultation in all lung fields. No crackles or rhonchi. Mild dyspnea on exertion reported.
+    
+    Abdomen:
+        Soft, non-tender, and non-distended. Normal bowel sounds present. No masses or hepatosplenomegaly detected.
+    
+    Musculoskeletal:
+        No joint swelling or tenderness. Full range of motion in all extremities.
+    
+    Neurological:
+        Alert and oriented to person, place, and time. Cranial nerves II-XII intact. No focal deficits.
+    
+    Skin:
+        Warm, dry, and intact with no rashes or lesions observed.
+
+Assessment:
+    The patient presents with chronic asthma, currently managed with inhaled medications, but with recent increase in symptom frequency and reliance on rescue inhaler. Emotional stress and adjustment disorder may be contributing to his general well-being and respiratory function.
+    
+    Additionally, the patient's history of alcohol, cannabis, and cocaine abuse, though currently not active, still necessitates monitoring.
+
+Plan:
+    - Continue current asthma medications: inhaled corticosteroid and long-acting beta-agonist. Increase education on proper inhaler technique.
+    - Prescribe a short course of oral corticosteroids to manage the acute increase in symptoms.
+    - Monitor respiratory status closely, including peak flow monitoring.
+    - Recommend follow-up visit in 6 weeks for reassessment of asthma control.
+    - Refer to a mental health professional for management of adjustment disorder and to provide coping strategies.
+    - Substance abuse counseling referral to maintain abstinence and provide support.
+    - Encourage regular physical activity, with avoidance of known asthma triggers.
+    - Educate patient on the importance of avoiding environmental triggers and proper use of rescue inhaler.
+    
+Follow-Up:
+    The patient is instructed to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. Follow-up in 6 weeks for reassessment of asthma control and emotional well-being. Patient demonstrates understanding and agrees to the plan.

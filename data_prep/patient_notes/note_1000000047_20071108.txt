@@ -1,0 +1,40 @@
+Visit Information:
+
+- Patient Num: 1000000047
+- Visit Date: 11/08/2007
+
+Subjective:
+
+This is a 37-year-old Black male who has been receiving care at our clinic for approximately 8 years. He speaks English fluently and presented today for follow-up concerning persistent allergic rhinitis and occasional abdominal pain. He reported increased nasal congestion, sneezing, itchy eyes, and a feeling of malaise for the past several weeks. Despite using Hismanal, he does not find significant relief.
+
+He has intermittent right lower quadrant abdominal pain, which has been occurring on and off for several months. He denies nausea, vomiting, changes in bowel habits, or urinary symptoms associated with these episodes. He sometimes feels fatigued and has concerns about his liver function based on previous lab results suggesting abnormalities.
+
+The patient has a relevant past medical history including allergic rhinitis caused by various allergens, instances of acute sinusitis, and depressive disorder. He has had episodes of acute pharyngitis and bronchitis in the past but is not currently experiencing symptoms. He also has a history of benign neoplasm of the scalp and a neurofibroma of the spinal cord, which was surgically excised.
+
+His current medications include Hismanal for allergic rhinitis, Metronidazole for a previous gastrointestinal infection, and Clindamycin for bacterial infections. He reports no new allergies to medications, food, or environmental factors.
+
+Socially, he maintains a healthy lifestyle, exercises regularly, and follows an appropriate diet. He denies smoking or alcohol use and has no history of illicit drug use. He lives alone and works in a clerical position, which he finds manageable despite his health conditions.
+
+Objective:
+
+Vital signs were recorded as Blood Pressure: 128/82 mmHg, Heart Rate: 72 bpm, Respiratory Rate: 18 breaths/min, Temperature: 98.4°F, and Oxygen Saturation: 98% on room air.
+
+The physical examination showed a well-nourished, alert, and oriented male in no acute distress. The cardiovascular examination was normal with a regular rhythm and no murmurs, gallops, or rubs heard. The respiratory examination revealed clear lung fields bilaterally with no evidence of wheezing or rales. Abdominal examination indicated mild tenderness in the right lower quadrant without masses, hepatomegaly, or evidence of ascites.
+
+Musculoskeletal evaluation showed a full range of motion and no joint abnormalities. Neurological examination was normal, showing intact cranial nerves, motor strength, sensory function, and reflexes. Skin inspection identified no rashes, lesions, or abnormal growths, and skin turgor appeared normal.
+
+Laboratory results show persistent elevation of liver enzymes including ALT and AST, and abnormalities in direct bilirubin and total bilirubin levels. His lipid profile remains elevated, reflecting ongoing hyperlipidemia. Routine blood glucose and protein levels were within normal limits.
+
+Assessment:
+
+1. Allergic rhinitis, multifactorial, with suboptimal control despite current therapy.
+2. Elevated liver enzymes suggestive of possible chronic liver disease secondary to underlying pathology.
+3. Intermittent right lower quadrant abdominal pain potentially indicative of gastrointestinal issues without acute pathology at this time.
+
+Plan:
+
+1. Allergic rhinitis: Continue current Hismanal therapy and introduce a nasal corticosteroid such as Fluticasone for better symptom control. Referral to an allergist for further evaluation and possible allergen-specific immunotherapy is recommended.
+2. Liver function abnormalities: Repeat comprehensive liver function tests to monitor enzyme levels and other liver values. An abdominal ultrasound is planned to investigate possible liver pathology further. Patient will be referred to gastroenterology for advanced evaluation and management.
+3. Abdominal pain: Educate the patient on dietary modifications, recommending the avoidance of potential triggers. Suggest keeping a symptom diary to identify any aggravating factors. A follow-up evaluation is scheduled to reassess symptoms and review test results.
+
+Patient education was reinforced, emphasizing adherence to medication regimens, healthy lifestyle modifications, and dietary recommendations. The patient was instructed to contact the clinic if there are any worsening symptoms or persistent issues within a week, or if test results necessitate further intervention. A follow-up appointment was arranged for two weeks to discuss ongoing management and review any new findings.

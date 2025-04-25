@@ -1,0 +1,54 @@
+Patient ID: 1000000126  
+Visit Date: 07/06/2004  
+
+**Subjective:**
+This is a 13-year-old Indian male who has been receiving care at our clinic for nearly 7 years and communicates predominantly with the assistance of his German-speaking parents. He presents today for a scheduled follow-up visit concerning his asthma, which has recently exacerbated. Over the past two weeks, he has reported increased episodes of wheezing and shortness of breath, frequently triggered by physical activities. These symptoms have been partially mitigated by the use of his prescribed bronchodilator inhaler, yet control remains insufficient. Accompanying these respiratory symptoms are a mild cough and nasal congestion, indicating a possible upper respiratory tract involvement. 
+
+His past medical history is significant for an unspecified type of asthma without status asthmaticus, adjustment disorder with mixed emotional features, and a benign brain neoplasm. Additionally, he has experienced episodes of acute pharyngitis, enterobiasis, and otitis media in the past. He attends routine childhood health check-ups diligently. 
+
+Currently, he uses a bronchodilator inhaler, which he has been using more frequently, and an over-the-counter saline nasal spray. There are no known allergies reported. Recently, he sustained a minor injury to his right great toe while playing, which has shown improvement.
+
+**Objective:**
+- **Vital Signs:**
+  - Blood Pressure: 100/60 mmHg
+  - Heart Rate: 88 bpm
+  - Respiratory Rate: 26 breaths/min
+  - Temperature: 36.8°C
+  - Oxygen Saturation: 95% on room air
+
+- **General Appearance:** The patient appears well-nourished, slightly fatigued, but in no acute distress.
+- **Cardiovascular:** Heart sounds are normal with no murmurs or abnormalities.
+- **Respiratory:** Examination reveals mild intercostal retractions and bilateral expiratory wheezes. Airflow appears slightly reduced, and no crackles or rhonchi are present.
+- **Abdomen:** The abdomen is soft, non-tender with no detectable organomegaly.
+- **Musculoskeletal:** Full range of motion in all extremities is observed. A fading bruise is present on the right great toe, with no evidence of ongoing trauma or infection.
+- **Neurological:** Alert, oriented, and demonstrates no focal neurological deficits.
+- **Skin:** No rashes or lesions noted.
+
+**Assessment:**
+1. **Primary Diagnosis:** Asthma, unspecified without mention of status asthmaticus, with an increase in episodes and symptom severity likely exacerbated by upper respiratory symptoms.
+2. **Secondary Diagnoses:**
+   - Adjustment reaction with mixed emotional features, currently stable.
+   - Benign neoplasm of the brain, stable without active symptoms.
+3. **Other Clinical Considerations:**
+   - Minor contusion to the right great toe, healing without complications.
+   - History of resolved enterobiasis, acute pharyngitis, and otitis media.
+
+**Plan:**
+1. **Asthma Management:**
+   - Initiate treatment with an inhaled corticosteroid for daily use with continued usage of the bronchodilator inhaler as needed. 
+   - Educate the patient and his parents on proper inhaler technique and asthma management.
+   - Introduce daily peak flow monitoring to track pulmonary function.
+   - Schedule a follow-up appointment in one month to evaluate the treatment effectiveness, with consideration for pediatric pulmonologist referral if no significant improvement is noted.
+   - Advise reducing potential asthma triggers in the home environment and provide educational materials.
+
+2. **Adjustment Disorder:**
+   - Continue supportive management through family engagement and structured activities.
+
+3. **Toe Contusion:**
+   - Monitor for signs of complications; no specific treatment required at this stage.
+
+4. **Preventive Care:**
+   - Maintain vigilance for recurrent ear infections, with immediate medical attention if symptoms reappear.
+   - Emphasize importance of routine check-ups and vaccinations.
+
+The patient and his parents have been instructed to contact the clinic if symptoms worsen, do not improve within a week, or if adverse reactions to the new inhaler occur. The family has been educated on the signs of an asthma attack and the critical need for adherence to the treatment plan. They have acknowledged their understanding. The next follow-up is scheduled for one month.

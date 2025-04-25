@@ -1,0 +1,51 @@
+**Visit Information:**
+- Patient Num: 1000000114
+- Visit Date: 12/29/2004
+
+**Subjective:**
+This is a 26-year-old Hispanic female who has been receiving care at our clinic for asthma and various conditions for over a year. She speaks English fluently and is here today for a routine follow-up on her asthma, abdominal pain, and joint discomfort. She reports ongoing issues with wheezing and shortness of breath, particularly at night. Despite using her prescribed medications, she experiences difficulty breathing when exposed to allergens like dust and pollen. Additionally, she has been having generalized abdominal pain, which she describes as dull and constant, occasionally intensifying to sharp cramps. She also mentions occasional pain and effusion in her lower leg joints, which worsens after physical activity.
+
+Her asthma treatment includes Albuterol Sulfate, which she takes as needed, and Beconase for regular management. She reports adherence to her medication regimen but still experiences breakthrough symptoms. She is also taking Demulen as her oral contraceptive without any reported issues. 
+
+**Objective:**
+- **Vital Signs:**
+    - Blood Pressure: 118/76 mmHg
+    - Heart Rate: 72 bpm
+    - Respiratory Rate: 18 breaths/min
+    - Temperature: 98.6°F
+    - Oxygen Saturation: 98% on room air
+- **General Appearance:** Patient appears well-nourished and in no acute distress.
+- **Cardiovascular:** Heart sounds are normal. No murmurs, rubs, or gallops detected.
+- **Respiratory:** Breath sounds are clear bilaterally. Expiratory wheezing noted in the bases. No crackles or rhonchi.
+- **Abdomen:** Soft, non-tender with normal bowel sounds. No organomegaly or masses detected.
+- **Musculoskeletal:** Mild effusion and tenderness in bilateral knee joints. Range of motion mildly limited in the right knee, without signs of acute inflammation.
+- **Neurological:** No focal neurological deficits observed. Reflexes are intact and symmetrical.
+- **Skin:** Examination reveals no rashes or lesions. Skin appears normal in color and texture.
+
+**Assessment:**
+1. **Asthma, unspecified without mention of status asthmaticus:** The patient continues to exhibit symptoms indicative of poorly controlled asthma, despite regular use of prescribed medications.
+2. **Generalized abdominal pain:** Chronic and non-specific in nature, possibly related to gastrointestinal issues or another underlying pathology.
+3. **Effusion and pain in lower leg joints:** Bilateral knee effusion with associated pain that is likely due to an inflammatory or degenerative joint process.
+
+**Plan:**
+1. **Asthma:**
+   - Continue current medications: Albuterol Sulfate as needed and Beconase daily.
+   - Reinforce the importance of avoidance strategies for known triggers such as dust and pollen.
+   - Consider adding a long-acting bronchodilator if symptoms persist.
+   - Schedule spirometry to assess lung function and determine control level.
+   - Referral to Pulmonology for further evaluation and management if symptoms do not improve.
+2. **Generalized Abdominal Pain:**
+   - Order a comprehensive metabolic panel (CMP) and abdominal ultrasound to rule out any underlying conditions.
+   - Advise the patient to keep a symptom diary, noting any triggers or alleviating factors.
+   - Follow up in two weeks or earlier if symptoms worsen.
+3. **Effusion and Pain in Lower Leg Joints:**
+   - Recommend NSAIDs for pain relief and inflammation control.
+   - Advise rest, ice, compression, and elevation (RICE) for managing joint effusion.
+   - Referral to Rheumatology for further assessment to rule out any systemic inflammatory conditions.
+   - Consider physical therapy to improve joint function and reduce pain.
+
+**Follow-Up:**
+- Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.
+- Patient education provided on the importance of medication adherence and trigger avoidance for asthma. Understanding confirmed.
+
+This comprehensive approach ensures continuous management and monitoring of the patient's conditions, aiming to improve her quality of life and symptom control.

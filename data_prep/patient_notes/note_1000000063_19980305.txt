@@ -1,0 +1,74 @@
+\nPlease note: In all sections below, include details only if they can be inferred from the ICD9, NDC, or LOINC codes provided in the patient_summary; otherwise, leave blank.\n\n
+
+Visit Information:
+    - Patient Num: 1000000063
+    - Visit Date: 03/05/1998
+
+Subjective:
+
+This is a 37-year-old Black female who is a native German speaker and has been receiving care at our clinic. She arrived today for a follow-up visit due to ongoing symptoms and management of existing conditions. The patient reports continuing urinary discomfort, evidenced by difficulties in urination marked by burning sensations and frequency, suggestive of chronic or recurrent urinary tract infections. She mentions having experienced these symptoms for several weeks with no significant change in severity. Furthermore, she reports episodes of fatigue and generalized weakness. Despite this, she denies any nausea, vomiting, or recent weight loss.
+
+The patient’s medical history includes recurrent urinary tract infections, anemia, and a tendency for urinary stone formation. She has not undergone any significant surgeries in the past. Currently, she is on a regimen of Preven EC 0.05 mg-0.25 mg tablets for emergency contraception and Sulfamethoxazole-Trimethoprim solution, 80 mg-16 mg/ml, presumably prescribed to manage her recurrent infections.
+
+In terms of her social history, the patient leads a somewhat sedentary lifestyle, which is impacted by her chronic symptoms. She consumes alcohol occasionally and denies the use of tobacco or illicit drugs. She lives alone and works as a translator, which involves long hours of sedentary activity.
+
+The patient is allergic to penicillin, reporting a past episode of rash and itching following its administration. Symptom details reveal that her urinary discomfort is continuous, particularly during micturition, with peak severity described as moderate. She alleviates the discomfort by maintaining hydration, although the infections persist.
+
+She reports no recent significant changes in her condition aside from the mentioned symptoms and no new non-pharmacological interventions have been attempted.
+
+Objective:
+
+- Vital Signs:
+    - Blood Pressure: 118/78 mmHg
+    - Heart Rate: 74 bpm
+    - Respiratory Rate: 16 breaths per minute
+    - Temperature: 36.8°C (98.2°F)
+    - Oxygen Saturation: 98% on room air
+
+- General Appearance: The patient appears alert, well-nourished, and in no acute distress. She communicates effectively and is cooperative throughout the evaluation.
+- Cardiovascular: Heart sounds are regular, with no murmurs, gallops, or rubs. Peripheral pulses are strong and symmetrical.
+- Respiratory: Lungs are clear to auscultation bilaterally, with no wheezes, rales, or rhonchi.
+- Abdomen: Soft, non-tender, and non-distended. Bowel sounds are present in all quadrants, no hepatosplenomegaly.
+- Musculoskeletal: Full range of motion in all joints. No swelling, erythema, or deformities noted.
+- Neurological: Cranial nerves II-XII are intact. Motor and sensory functions are normal, with no focal deficits. Reflexes are 2+ and symmetric.
+- Skin: Warm and dry with good turgor. No rashes, lesions, or pallor.
+
+Laboratory Findings:
+
+Recent laboratory findings from the patient’s last visit indicate:
+- Normal levels of albumin, amylase, and total protein.
+- Blood tests reveal a slight elevation of neutrophils but within the acceptable range for ongoing infections.
+- Urinalysis shows the presence of bacteria, amorphous crystals, and increased specific gravity, supporting recurrent urinary tract infections.
+- HCT, HGB, RBCs are slightly depressed, suggesting persistent mild anemia.
+- Bilirubin and glucose levels are within normal limits.
+
+Assessment:
+
+The patient presents with persistent symptoms of a recurrent urinary tract infection and mild anemia. No new symptoms have developed since her previous visit.
+
+1. **Recurrent Urinary Tract Infection:**
+   - Likely diagnosis: Chronic or recurrent UTI.
+   - Planned investigations: Complete urinalysis and urine culture to identify microbial resistance.
+   - Treatment plan: Continue with the current antibiotics while awaiting culture results. Consider a longer course of antibiotics if cultures suggest chronic infection.
+   - Relevant referrals: Urology consult if recurrent infections persist despite antibiotic therapy.
+
+2. **Mild Anemia:**
+   - Likely diagnosis: Chronic mild anemia, potentially secondary to recurrent infections and overall health status.
+   - Planned investigations: Complete blood count (CBC).
+   - Treatment plan: Consider supplementing with oral iron if iron deficiency is confirmed.
+   - Relevant referrals: Nutritionist for dietary counseling and hematology if anemia worsens.
+
+3. **Symptoms of Fatigue and Generalized Weakness:**
+   - Likely diagnosis: Symptoms secondary to anemia or chronic infection.
+   - Planned investigations: Basic metabolic panel, thyroid function tests.
+   - Treatment plan: Address underlying cause (UTI and/or anemia).
+
+Plan:
+
+- Urinalysis and culture are ordered to guide ongoing antibiotic treatment. Continue the use of Sulfamethoxazole-Trimethoprim until results return.
+- Single dose iron supplementation is recommended pending lab result confirmation of iron deficiency anemia.
+- Encourage increased fluid intake and rehydration strategies.
+- Instruct patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.
+- Schedule a follow-up visit in two weeks to reassess symptoms and review lab results, with potential referral to urology or hematology as indicated by findings.
+
+Patient education was provided regarding the importance of completing the prescribed antibiotic course and maintaining adequate hydration. The patient acknowledged understanding and agreed with the plan.

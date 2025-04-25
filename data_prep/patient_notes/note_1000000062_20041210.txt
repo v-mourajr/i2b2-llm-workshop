@@ -1,0 +1,41 @@
+**Visit Information:**
+- Patient Number: 1000000062
+- Visit Date: December 10, 2004
+
+**Subjective:**
+This is a 32-year-old White male who speaks English, presenting to the clinic today for a follow-up visit to manage his chronic asthma, which has seen minimal improvement over the past several weeks. He reports that his asthma symptoms, including wheezing, chest tightness, and shortness of breath, have escalated, particularly during the night and early morning. His short-acting beta-agonist (SABA) inhaler offers only transient relief, leading him to seek reassessment.
+
+The patient’s medical history is significant for chronic asthma without mention of status asthmaticus, chronic pharyngitis, unspecified chronic sinusitis, abnormal weight loss, and ongoing dyspnea, possibly linked to respiratory conditions. He does not report any related surgical history or new diagnoses since his last visit.
+
+He currently adheres strictly to an inhaled corticosteroid and SABAs as needed for acute relief. There are no recorded allergies, and he reports a generally healthy lifestyle without smoking, alcohol, or drug use. His occupation as a graphic designer does not expose him to respiratory hazards. He lives alone and manages his daily activities independently. 
+
+The patient has made several lifestyle adjustments to mitigate his symptoms, such as using an air purifier and avoiding known allergens. Despite these efforts, his symptoms persist, resulting in significant discomfort and disrupted sleep.
+
+**Objective:**
+On examination today, the patient appears well-groomed and is in no acute distress. He interacts appropriately with clear orientation to person, time, and place. Vital signs are as follows: Blood Pressure 120/80 mmHg, Heart Rate 78 bpm, Respiratory Rate 18 breaths/min, Temperature 98.6°F, and Oxygen Saturation at 98% on room air.
+
+- **Cardiovascular:** Examination reveals a regular heart rate and rhythm without murmurs, rubs, or gallops.
+- **Respiratory:** Bilateral expiratory wheezes are noted without crackles or rhonchi. Mild intercostal retractions are visible upon deep inhalation.
+- **Abdomen:** The abdomen is soft, non-tender, and bowel sounds are normal.
+- **Musculoskeletal:** The musculoskeletal exam is unremarkable with a full range of motion and no joint deformities or tenderness.
+- **Neurological:** The patient is alert and oriented with intact cranial nerves II-XII. Motor strength is 5/5 in all extremities.
+- **Skin:** Normal skin turgor without rashes or lesions.
+
+Recent laboratory results, including CBC with hemoglobin, hematocrit, and total cell counts, are within normal limits.
+
+**Assessment:**
+- Primary diagnosis: chronic asthma (unspecified type without status asthmaticus), with an exacerbation potentially linked to environmental factors or the current medication regimen's suboptimal efficacy.
+- Secondary diagnoses: chronic pharyngitis, unspecified chronic sinusitis, abnormal weight loss, and dyspnea.
+- Asthma control may need adjustments, considering the reported increase in nocturnal and early morning symptoms.
+
+**Plan:**
+1. Adjust the current asthma treatment by increasing the dose of the inhaled corticosteroid and prescribing a long-acting beta-agonist (LABA) for maintenance alongside the current corticosteroid regimen.
+2. Educate the patient on correct inhaler use and emphasize the avoidance of environmental triggers known to aggravate asthma symptoms.
+3. Schedule a follow-up visit in one month to evaluate the symptomatology and the effectiveness of the revised asthma management plan.
+4. Order spirometry to assess lung function and determine the impact of the adjusted medication regimen.
+5. Consider pulmonology referral if there is no notable improvement or if symptoms continue to escalate.
+6. Continue monitoring daily peak expiratory flow rates to keep track of lung function and recognize early signs of exacerbation.
+7. Provide patient education materials focused on asthma management and improving air quality within the home to further reduce symptom exacerbations.
+
+**Follow-Up:**
+The patient is instructed to contact the clinic if symptoms worsen or remain unchanged within a week or if test outcomes suggest additional evaluation is necessary. An understanding of the necessity for medication adherence and accurate inhaler use is reemphasized. A return visit is set for one month but with advisement to return sooner if necessary.

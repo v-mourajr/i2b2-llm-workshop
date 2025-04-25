@@ -1,0 +1,73 @@
+Visit Information:
+- Patient Num: 1000000092
+- Visit Date: 11/24/1998
+
+Subjective:
+This is a 29-year-old Black male who has been a patient at our clinic for a period spanning six encounters. He is fluent in English and came in today for a follow-up appointment. The patient has a primary diagnosis of asthma. During this visit, he reports experiencing increased frequency of wheezing and a sensation of chest tightness, particularly during night time. He states that his symptoms have been partially alleviated by his prescribed medication but have worsened over the past week, particularly with exertion and exposure to cold air.
+
+His past medical history includes chronic asthma, for which he has been on long-term bronchodilator therapy. He denies any past surgical history. The patient is currently taking a combination of an inhaled corticosteroid and a short-acting beta agonist. He reports adherence to his medication regimen but mentions occasional missed doses.
+
+Social history reveals that the patient is currently a non-smoker and lives with his spouse. He works in an office setting and denies any illicit drug use. The patient has no known allergies.
+
+Additional narrative:
+The patient has attempted non-pharmacological interventions such as using a humidifier at night and avoiding triggers like cold air and vigorous exercise, which sometimes helps in reducing his symptoms. However, he has noticed a recent escalation in the severity of his symptoms despite these measures. He denies experiencing any new symptoms such as fever, chills, or weight loss.
+
+Objective:
+Vital Signs:
+- Blood Pressure: 130/85 mmHg
+- Heart Rate: 82 bpm
+- Respiratory Rate: 18 breaths per minute
+- Temperature: 98.7°F
+- Oxygen Saturation: 96% on room air
+
+General Appearance:
+The patient appears well-nourished, in no acute distress, but exhibits slight dyspnea.
+
+Cardiovascular:
+Regular rhythm, no murmurs, gallops, or rubs. Peripheral pulses are intact.
+
+Respiratory:
+Inspiratory and expiratory wheezes heard bilaterally. No rales or rhonchi. Patient uses accessory muscles minimally.
+
+Abdomen:
+Non-tender, non-distended, active bowel sounds present in all four quadrants.
+
+Musculoskeletal:
+No joint swelling or tenderness. Full range of motion in all extremities.
+
+Neurological:
+Alert and oriented to person, place, and time. Cranial nerves II-XII are intact. Reflexes are normoactive.
+
+Skin:
+No rashes or lesions. Skin is warm and dry.
+
+Recent lab results highlight normal values for liver function tests, including AST and ALT, indicating no hepatic issues. Routine blood testing shows no significant abnormalities in WBC, eosinophils, or baseline metabolic panel components.
+
+Assessment:
+The patient presents with exacerbation of chronic asthma, likely influenced by environmental triggers and potential seasonal changes. His symptoms of wheezing and chest tightness have worsened, requiring adjustment in management to prevent acute episodes.
+
+Plan:
+1. Medication adjustment:
+   - Increase dosage of inhaled corticosteroid.
+   - Continue the use of short-acting beta agonist as needed for acute symptoms.
+
+2. Diagnostic Tests:
+   - Repeat spirometry to assess current lung function.
+   - Check allergy panel to identify any new potential allergens.
+
+3. Referral:
+   - Referral to a pulmonology specialist for further evaluation and management.
+
+4. Patient Education:
+   - Reinforce adherence to medication regimen, emphasizing the importance of not missing doses.
+   - Educate about triggers and the importance of avoiding known factors exacerbating asthma.
+   - Emphasize the use of a peak flow meter to monitor and manage asthma symptoms effectively.
+
+5. Follow-Up:
+   - Schedule a follow-up appointment in 2 weeks to reassess asthma control.
+   - Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.
+
+6. Emergency Instructions:
+   - Educate the patient on recognizing and acting upon signs of acute asthma exacerbations, stressing the importance of seeking emergent care if respiratory distress occurs.
+
+The patient demonstrates understanding of the treatment plan and agrees to adhere to the prescribed modifications.

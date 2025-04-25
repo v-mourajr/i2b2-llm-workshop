@@ -1,0 +1,68 @@
+**Visit Information:**
+- Patient Num: 1000000122
+- Visit Date: 11/15/2007
+
+**Subjective:**
+This is a 9-year-old Indian female who has been receiving care at our clinic for nearly five years and speaks German. She presents today for a follow-up visit regarding her chronic asthma, which has exacerbated recently. Her mother reports that the patient has experienced a notable increase in wheezing and shortness of breath over the past week. These symptoms have been more pronounced during physical activities and while sleeping. The patient was last evaluated for an acute upper respiratory infection three weeks ago. Since that time, she has consistently exhibited symptoms of nasal congestion, cough, and throat irritation.
+
+The patient has a significant medical history of asthma, with multiple documented episodes of acute exacerbations and status asthmaticus. She has a history of acute bronchiolitis, anaphylactic shock due to adverse reactions to peanuts and tree nuts, and recurrent otitis media. There is no noted surgical history.
+
+Currently, she is on Atrovent 18 mcg/inh aerosol as needed for respiratory symptoms and Prednisolone Acetate 5 mg tablets during exacerbations. For her gastroesophageal reflux disease (GERD), she takes Zantac 1 mg/ml solution as needed. Her mother reports adherence to the medication regimen but notes that there has been no significant improvement in her asthma symptoms during the current exacerbation.
+
+**Objective:**
+- **Vital Signs:**
+  - Blood Pressure: 88/58 mmHg
+  - Heart Rate: 98 bpm
+  - Respiratory Rate: 24 breaths/min
+  - Temperature: 98.3 °F
+  - Oxygen Saturation: 96% on room air
+  
+- **General Appearance:**
+  - Alert and cooperative child appearing in mild respiratory distress.
+  
+- **Cardiovascular:**
+  - Regular rate and rhythm, no murmurs.
+  
+- **Respiratory:**
+  - Bilateral expiratory wheezes, decreased breath sounds at the bases, use of accessory muscles noted.
+  
+- **Abdomen:**
+  - Soft, non-tender, no organomegaly.
+  
+- **Musculoskeletal:**
+  - Normal range of motion, no joint swelling or tenderness.
+  
+- **Neurological:**
+  - Alert and oriented, no focal deficits.
+  
+- **Skin:**
+  - No rashes or lesions, no signs of eczema exacerbation.
+
+The patient's urinalysis revealed normal glucose, ketones, nitrites, and occult blood levels, all within expected ranges for a routine check. White blood cells were within normal limits.
+
+**Assessment:**
+This 9-year-old female is experiencing chronic asthmatic symptoms compounded by a recent upper respiratory infection, leading to an acute exacerbation. In addition to her chronic asthma, she has a history of severe allergic reactions, acute bronchiolitis, and recurrent otitis media. The patient also exhibits symptoms consistent with intermittent GERD.
+
+**Plan:**
+1. **Asthma Management:**
+   - Increase the frequency of Atrovent inhalations as needed during acute exacerbations.
+   - Continue using Prednisolone Acetate 5 mg tablets throughout the current exacerbation.
+   - Initiate a short course of oral corticosteroids with a taper to manage inflammation.
+   - Referral to a pulmonologist specializing in pediatric asthma to reevaluate and potentially adjust the long-term asthma management plan.
+   - Provide comprehensive education to the mother on identifying early signs of an asthma exacerbation and when to seek emergency care.
+
+2. **Allergy Management:**
+   - Maintain strict avoidance of peanuts and tree nuts.
+   - Educate the mother on the proper usage and importance of carrying an epinephrine auto-injector at all times for potential anaphylactic reactions.
+
+3. **Infection and Upper Respiratory Management:**
+   - Increase vigilance in monitoring symptoms to differentiate between viral and bacterial etiologies that may require antibiotics.
+   - Continue supportive care, ensuring adequate hydration and utilizing humidified air to ease respiratory symptoms.
+
+4. **GERD Management:**
+   - Continue administration of Zantac solution as needed, with close monitoring of gastroesophageal symptoms.
+
+**Follow-Up:**
+- Educate the patient's mother to contact the clinic if symptoms worsen or do not improve within a week, or if further testing indicates the need for additional intervention.
+- Schedule a follow-up appointment in one week to reassess her respiratory and overall management.
+- Ensure the patient's mother fully understands the treatment plan and the importance of adherence to the prescribed medications and emergency interventions.

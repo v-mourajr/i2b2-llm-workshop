@@ -1,0 +1,75 @@
+## Physician's Note
+
+### Visit Information:
+- **Patient Num:** 1000000088
+- **Visit Date:** 12/28/2009
+
+### Subjective:
+This is a follow-up visit for a 16-year-old Asian male, primarily German-speaking, who has been receiving care at our clinic for asthma and various associated comorbid conditions for over eight years. The patient, escorted by his mother, reports a significant exacerbation of asthma symptoms over the past week, characterized by increased nocturnal coughing and dyspnea leading to interrupted sleep and reduced daytime energy. Despite consistent use of his prescribed medications—Flovent 220 mcg inhaler daily and Atrovent 18 mcg as needed—his symptoms have worsened. Of note, the family recently relocated to an urban area, which may have introduced new environmental allergens exacerbating his asthma.
+
+The patient has a complex medical history including recurrent episodes of allergic rhinitis due to various allergens, a previous episode of anaphylactic shock from an unspecified food, chronic ethmoidal and maxillary sinusitis, cystic fibrosis, and mild postinflammatory pulmonary fibrosis. Additionally, there are historical concerns of nutritional deficiencies impacting his growth and normal physiological development. He has been managing respiratory symptoms with rigorous environmental controls such as air purifiers, hypoallergenic bedding, and vigilance regarding dietary allergens.
+
+Socially, the patient maintains a relatively restricted lifestyle to avoid asthma triggers, leading to minimal physical exertion. Recent exacerbations have increased concern for both the patient and his mother.
+
+### Objective:
+- **Vital Signs:**
+  - Blood Pressure: 100/60 mmHg
+  - Heart Rate: 110 bpm
+  - Respiratory Rate: 28 breaths/min
+  - Temperature: 98.4 °F
+  - Oxygen Saturation: 94% on room air
+
+- **General Appearance:**
+  The patient appears well-nourished but anxious, with mild respiratory distress evidenced by the use of accessory muscles during respiration.
+
+- **Cardiovascular:**
+  Heart sounds are regular without murmurs, rubs, or gallops.
+
+- **Respiratory:**
+  Examination reveals mild intercostal retractions with bilateral wheezing and decreased breath sounds at the lung bases on auscultation. Percussion is resonant, and there is no notable accessory muscle use at rest.
+
+- **Abdomen:**
+  Abdomen is soft, non-tender, with normal bowel sounds and no organomegaly.
+
+- **Musculoskeletal:**
+  Full range of motion in all extremities, with no reported pain or observed deformities.
+
+- **Neurological:**
+  The patient is alert and oriented, with intact cranial nerves II-XII and no focal neurological deficits.
+
+- **Skin:**
+  Skin is warm, well-hydrated, without rashes or lesions.
+
+### Assessment:
+- Poorly controlled asthma, unspecified without status asthmaticus, potentially exacerbated by new environmental allergens.
+- Chronic cystic fibrosis requiring sustained management.
+- Postinflammatory pulmonary fibrosis contributing to overall respiratory compromise.
+- History of anaphylactic shock due to an unspecified food, necessitating ongoing vigilance.
+- Concerns about nutritional deficiencies affecting growth, warranting further support and monitoring.
+
+### Plan:
+1. **Asthma Management:**
+   - Increase the dosage of Flovent inhaler to 440 mcg daily.
+   - Add a long-acting beta-agonist to the treatment regimen.
+   - Continue using Atrovent 18 mcg as needed.
+   - Reinforce peak flow monitoring and revise the asthma action plan.
+   - Refer the patient to a pulmonologist for further assessment and potential optimization of asthma management.
+
+2. **Cystic Fibrosis:**
+   - Arrange a follow-up appointment with a cystic fibrosis specialist.
+   - Maintain regular use of prophylactic antibiotics and nutritional support as per specialist recommendations.
+
+3. **Anaphylaxis and Allergies:**
+   - Strict avoidance of known food allergens.
+   - Provide an epinephrine auto-injector for emergency use, including training on its administration.
+   - Refer to an allergist for a comprehensive allergen panel and a personalized management plan.
+
+4. **Nutritional Deficiency:**
+   - Refer to a dietitian to develop a comprehensive nutritional plan.
+   - Consider nutritional supplements according to dietitian recommendations.
+
+5. **Follow-Up:**
+   - The patient and family were instructed to closely monitor symptoms and contact the clinic if there is no improvement within a week or if symptoms worsen.
+   - Schedule a follow-up appointment in four weeks to assess the effectiveness of the adjusted treatment plan.
+
+Patient education was provided, emphasizing the updated asthma action plan, recognizing signs of respiratory distress, medication adherence, and appropriate dietary practices. The importance of follow-up appointments and ongoing communication with healthcare providers was discussed thoroughly with the patient’s mother.

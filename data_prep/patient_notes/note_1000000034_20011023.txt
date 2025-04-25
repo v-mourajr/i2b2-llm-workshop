@@ -1,0 +1,52 @@
+Patient Visit Information:
+- Patient Num: 1000000034
+- Visit Date: 10/23/2001
+
+This is a 32-year-old Indian male who speaks English and has been under the care at our clinic for approximately 7 months. He presented today for a follow-up evaluation of his previously diagnosed asthma and an episode of acute pharyngitis. The patient has had a history of asthma, unspecified without mention of status asthmaticus, and chronic sinusitis. He reports experiencing ongoing respiratory symptoms that include intermittent wheezing and shortness of breath, particularly with exposure to allergens and cold air. Currently taking an inhaled corticosteroid (fluticasone) and a short-acting beta-agonist (albuterol) as needed for acute symptoms.
+
+The patient's medical history is also notable for a diagnosis of acute pharyngitis, which occurred a month prior and was treated with a course of antibiotics. On his last visit, vital signs revealed tachycardia likely secondary to acute respiratory distress. The patient has no known drug allergies. Socially, he is a non-smoker, works as a software engineer, lives with his partner, and engages in moderate physical activities including running and yoga.
+
+Subjective:
+The patient continues to experience episodic exacerbations of asthma characterized by dyspnea, wheezing, chest tightness, and occasional coughing. He denies hemoptysis, weight loss, or night sweats. The patient reports adherence to the prescribed inhalers and denies experiencing any adverse effects. Additionally, he complains of nasal congestion and postnasal drip, suggesting persistent sinusitis.
+
+Objective:
+Vital Signs:
+- Blood Pressure: 120/80 mmHg
+- Heart Rate: 85 bpm
+- Respiratory Rate: 18 rpm
+- Temperature: 98.2°F
+- Oxygen Saturation: 97% on room air
+
+Physical Examination:
+- General Appearance: The patient appears well-nourished and in no acute distress.
+- Cardiovascular: Regular rate and rhythm, no murmurs or gallops.
+- Respiratory: Normal breath sounds with occasional end-expiratory wheezes heard bilaterally. No retractions or use of accessory muscles.
+- Abdomen: Soft, non-tender, non-distended. Bowel sounds present, no hepatosplenomegaly.
+- Musculoskeletal: No joint swelling or tenderness.
+- Neurological: Alert and oriented, no focal deficits.
+- Skin: No rashes or lesions.
+
+Laboratory Results:
+Recent labs include normal liver function tests (bilirubin), renal function tests (Blood Urea Nitrogen), and a complete urinalysis showed no abnormalities. Hematology panel revealed normal white blood cell count and normal hemoglobin and hematocrit levels.
+
+Assessment:
+Primary Diagnosis: Asthma, unspecified without mention of status asthmaticus.
+Secondary Diagnoses: Acute pharyngitis, chronic sinusitis.
+The patient is experiencing a chronic course of asthma with persistent, but controlled symptoms under current pharmacotherapy. The sinusitis is likely contributing to the symptomatic post-nasal drip.
+
+Plan:
+1. Asthma: 
+   - Continue current medications: fluticasone inhaler and albuterol as needed. 
+   - Emphasize the importance of adherence to the inhaled corticosteroid.
+   - Recommending a flu vaccine.
+   - Follow up in 3 months or sooner if exacerbations increase.
+2. Chronic Sinusitis:
+   - Start a nasal corticosteroid spray (fluticasone nasal).
+   - Recommend saline nasal irrigation twice daily.
+   - Consideration to refer to an ENT specialist if symptoms persist despite treatment.
+3. Acute Pharyngitis:
+   - The pharyngitis has resolved with antibiotics.
+   - Patient advised to maintain good hydration and throat lozenges if symptomatic relief needed.
+
+Follow-Up:
+Instruct patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed. Understanding of the plan and instructions for emergent follow-up care were confirmed.

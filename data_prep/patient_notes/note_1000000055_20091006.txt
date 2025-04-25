@@ -1,0 +1,38 @@
+**Visit Information:**
+
+- Patient Num: 1000000055
+- Visit Date: October 6, 2009
+
+**Subjective:**
+
+This is a 20-year-old Hispanic female who has been receiving care at our clinic for over a decade for a range of chronic and episodic health concerns, primarily asthma. She presents today for a follow-up visit to manage her asthma and associated symptoms. Her asthma history includes both unspecified and extrinsic forms, occasionally exacerbating to status asthmaticus. Despite her current regimen, which includes as-needed albuterol and a daily low-dose inhaled corticosteroid, she has experienced increased nocturnal coughing and dyspnea during physical activities over the past month. 
+
+She reports that she lives in a smoke-free, pet-free home with her mother and attends college where she engages in moderate physical activities. There are no known medication allergies. Her medical history is significant for abdominal pain of varying locations and causes, acute cystitis, acute tonsillitis, allergic rhinitis, appendicitis, attention deficit disorder of childhood with hyperactivity, neurotic depression, scoliosis, and prolonged post-traumatic stress disorder. 
+
+Her current medications include as-needed albuterol for asthma, a daily low-dose inhaled corticosteroid, and she has been compliant with these medications without recent changes or new side effects. Her symptoms have been exacerbated by recent seasonal changes but tend to improve with rest and inhaler use.
+
+**Objective:**
+
+- Blood Pressure: 110/70 mmHg
+- Heart Rate: 90 bpm
+- Respiratory Rate: 24 breaths per minute
+- Temperature: 98.8°F
+- Oxygen Saturation: 95% on room air
+
+The patient appears well-nourished and in no acute distress but does exhibit signs of respiratory effort. On cardiovascular examination, her heart rate and rhythm are regular, with no murmurs or abnormal heart sounds. Respiratory examination reveals increased effort and bilateral expiratory wheezes, particularly in the lower lung fields; no accessory muscle use is evident. The abdominal examination is unremarkable, with the abdomen being soft and non-tender and normal bowel sounds present. Musculoskeletal examination shows a normal range of motion in all extremities without joint swelling or tenderness. Neurologically, the patient is alert, oriented, and shows no focal deficits. The skin exam reveals no rashes or lesions.
+
+**Assessment:**
+
+1. **Asthma Exacerbation with Increased Nocturnal Cough:** The primary concern is an exacerbation of asthma, likely due to environmental triggers and insufficient asthma control. There is also a consideration for a respiratory infection contributing to her symptoms.
+   - **Diagnostic Tests:** Spirometry and peak flow measurements will be performed to assess lung function.
+   - **Treatment Plan:** Increase the dosage of inhaled corticosteroids and continue the use of albuterol as needed. Provide the patient and her mother with an asthma action plan and educate them on recognizing signs of worsening asthma.
+
+2. **Nocturnal Cough:** This is likely related to her asthma, with differential considerations including gastroesophageal reflux and postnasal drip.
+   - **Treatment Plan:** Antihistamine use may be trialed at night if nocturnal symptoms persist. Reinforce measures for asthma management, particularly focusing on controlling nighttime symptoms.
+
+3. **Activity-Related Dyspnea:** This is presumed to be due to exercise-induced bronchospasm, though other causes such as general exertion-related dyspnea should be considered.
+   - **Treatment Plan:** Advise the pre-exercise use of albuterol and monitor oxygen saturation during physical activities. Adjust her activity levels to minimize asthma triggers and ensure asthma-friendly exercises.
+
+**Plan:**
+
+The patient and her mother were instructed to follow up at the clinic if symptoms did not improve within a week or if any concerns about increased exacerbation arise, necessitating further evaluation. A routine follow-up appointment is scheduled for one month to reassess her asthma control and overall condition. The patient and her mother received education on asthma triggers, the importance of medication adherence, and proper inhaler use technique, which they understood and accepted as integral to ongoing monitoring and management.

@@ -1,0 +1,60 @@
+**Visit Information:**
+- Patient Num: 1000000111
+- Visit Date: June 8, 2010
+
+**Subjective:**
+This is a 50-year-old Black male who has been a patient at our clinic for approximately 13 years. Fluent in English, he presents today for the management of his chronic asthma and related respiratory issues. He reports frequent episodes of wheezing, chest tightness, and dyspnea which are particularly intense during nighttime. These episodes have been exacerbated by exposure to strong odors, cold air, and dust, especially from his work in construction. Despite regular use of inhaled corticosteroids and albuterol, he continues to experience significant nocturnal symptoms. 
+
+He also suffers from allergic rhinitis, characterized by episodes of nasal congestion and sneezing, primarily occurring during spring and fall. The patient’s past medical history is notable for acute upper respiratory infections and unspecified allergies. He reports a history of cardiac dysrhythmia, hyperlipidemia, hypertension, and hypothyroidism, all of which are currently managed with medication. 
+
+The patient uses a humidifier and wears protective masks at work to mitigate symptoms, though he finds these measures to be of limited effectiveness. He lives alone, leads an active lifestyle, and denies the use of tobacco or alcohol.
+
+**Medications:**
+The patient is currently taking a low-dose inhaled corticosteroid and albuterol for asthma. He also uses Axid Pulvules 300mg for other associated conditions.
+
+**Objective:**
+
+**Vital Signs:**
+- Blood Pressure: 130/85 mmHg
+- Heart Rate: 78 beats per minute
+- Respiratory Rate: 20 breaths per minute
+- Temperature: 98.4°F
+- Oxygen Saturation: 95% on room air
+
+**General Appearance:**
+The patient appears well-nourished and in no acute distress. He is alert and oriented.
+
+**Cardiovascular:**
+Heart sounds are normal with a regular rate and rhythm; no murmurs, rubs, or gallops detected.
+
+**Respiratory:**
+Breath sounds are slightly diminished at the bases with occasional wheezing heard on expiration. There is no use of accessory muscles, and the patient exhibits symmetrical diaphragmatic movement.
+
+**Abdomen:**
+The abdomen is soft and non-tender with no palpable masses; bowel sounds are normal.
+
+**Musculoskeletal:**
+No joint swelling or deformities present; full range of motion in all extremities.
+
+**Neurological:**
+Cranial nerves II-XII are intact; reflexes are normal, and there are no focal neurological deficits.
+
+**Skin:**
+The skin is warm, dry, and without lesions or rashes.
+
+**Lab Results:**
+Recent comprehensive metabolic panel results, including blood urea nitrogen, creatinine, glucose, and electrolytes, are within normal limits. Complete blood count results, including hemoglobin, hematocrit, and white blood cells, are also normal.
+
+**Assessment:**
+The patient continues to have chronic intermittent asthma, which remains suboptimally controlled, particularly at night. He is regularly exposed to environmental irritants in his construction work, which continues to exacerbate his symptoms. He also presents with coexisting allergic rhinitis. His comprehensive medical history includes cardiac dysrhythmia, hyperlipidemia, hypertension, and hypothyroidism, which are all well-managed with medication.
+
+**Plan:**
+1. Continue the current low-dose inhaled corticosteroid and albuterol regimen.
+2. Educate the patient on proper inhaler technique and the use of a spacer to improve medication delivery.
+3. Add a leukotriene receptor antagonist to address the persistent nocturnal symptoms.
+4. Advise avoidance of known respiratory triggers and recommend increased use of protective gear, such as masks or respirators, at work.
+5. Schedule a follow-up appointment in 4-6 weeks to reassess asthma control and make necessary adjustments.
+6. Instruct the patient to closely monitor his symptoms and contact the clinic if no improvement is noted within a week, if symptoms worsen, or if new respiratory issues arise.
+
+**Follow-Up:**
+The patient was educated about the importance of adherence to the prescribed medication regimen and minimizing exposure to triggers. He was able to verbalize understanding and agreement with the proposed management plan and follow-up instructions. He is to contact the clinic should his symptoms deteriorate or fail to improve within the designated time frame.

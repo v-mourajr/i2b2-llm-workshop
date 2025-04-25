@@ -1,0 +1,69 @@
+**Visit Information:**
+- Patient Num: 1000000097
+- Visit Date: 10/19/2006
+
+**Subjective:**
+This is a 27-year-old white Spanish-speaking male who has been followed in our clinic since July 1997. He presents today for a routine follow-up primarily concerning his asthma. His chief complaints are persistent wheezing and dyspnea that have increased over the past week, particularly with physical exertion and exposure to environmental triggers such as smoke and strong odors. He reports partial relief with the use of his albuterol inhaler.
+
+The patient's medical history includes various forms of asthma, specifically extrinsic asthma without status asthmaticus, adjustment disorder with mixed emotional features, attention deficit disorder with hyperactivity, and neurotic depression. He has not undergone any significant surgical interventions. His current medications include a daily inhaled corticosteroid (budesonide), an albuterol inhaler used as needed, and occasionally, over-the-counter antihistamines.
+
+Socially, he resides with his parents and is currently a college student. He remains active in sports and maintains a healthy lifestyle, avoiding tobacco, alcohol, and illicit drug use. He has no known allergies. He expresses anxiety stemming from the limitations that asthma imposes on his physical activities and seeks advice on better symptom control.
+
+**Objective:**
+
+Vital Signs:
+- Blood Pressure: 118/78 mmHg
+- Heart Rate: 80 bpm
+- Respiratory Rate: 18 breaths per minute
+- Temperature: 98.5°F
+- Oxygen Saturation: 97% on room air
+
+General Appearance:
+The patient appears well-nourished, well-developed, and in no acute distress. He is alert, cooperative, and displays mild anxiety concerning his respiratory symptoms.
+
+Cardiovascular:
+Cardiac examination reveals a regular rate and rhythm with no murmurs, rubs, or gallops.
+
+Respiratory:
+On auscultation, bilateral wheezing is noted, more pronounced during forced expiration, without any crackles or rhonchi. There is no evidence of accessory muscle use, and the chest wall demonstrates symmetrical expansion.
+
+Abdomen:
+The abdomen is soft, non-tender, with no hepatosplenomegaly. Bowel sounds are active.
+
+Musculoskeletal:
+The patient shows a full range of motion in all joints, with no tenderness, swelling, or deformities.
+
+Neurological:
+The patient is alert and oriented to person, place, and time. Cranial nerves II-XII are intact. Motor strength is 5/5 in all extremities, and sensation is intact.
+
+Skin:
+The skin is clear, with no rashes, lesions, or discolorations.
+
+Laboratory Analysis:
+Recent laboratory tests showed the presence of amorphous crystals and bacteria in urine, but no significant proteinuria or glycosuria. The renal panel and previous organ function tests, including liver enzymes and electrolytes, were within normal limits.
+
+**Assessment:**
+1. Asthma, moderate persistent, with a recent exacerbation likely due to environmental triggers.
+2. Anxiety and adjustment disorder with mixed emotional features, likely exacerbated by the challenges of managing asthma.
+3. Attention deficit disorder with hyperactivity and stable neurotic depression, current management continues to be effective.
+
+**Plan:**
+
+1. **Asthma Management:**
+   - Continue with the daily use of budesonide and albuterol as needed.
+   - Start montelukast to enhance symptom control.
+   - Schedule spirometry to assess current lung function and guide any adjustments in the treatment plan.
+
+2. **Exacerbation Management:**
+   - Advise the patient to avoid known asthma triggers such as smoke and strong odors.
+   - Recommend using a peak flow meter daily to monitor lung function and detect early signs of an exacerbation.
+
+3. **Patient Education:**
+   - Reinforce the importance of proper inhaler usage technique and adherence to the medication regimen.
+   - Educate on the emergency use of rescue medication and the recognition of symptoms that necessitate immediate medical attention.
+
+4. **Follow-Up:**
+   - Schedule a follow-up appointment in 4 weeks to reassess asthma control and make necessary adjustments in treatment.
+   - Instruct the patient to contact the clinic if symptoms exacerbate, fail to improve within a week, or if test results indicate the need for further evaluation.
+
+The patient has understood the management plan and is committed to following it closely. He recognizes the need for continuous monitoring and timely response to worsening symptoms.

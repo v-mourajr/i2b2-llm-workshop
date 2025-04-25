@@ -1,0 +1,80 @@
+**Visit Information:**
+- Patient Num: 1000000056
+- Visit Date: 11/27/2009
+
+**Subjective:**
+This is a 13-year-old Black female whose primary language is German. She has been under our care for multiple chronic conditions, predominantly asthma, since June 2, 2003. Her caretaker brought her in today for a follow-up visit primarily due to concerns about her asthma. The patient has experienced recent episodes of worsening wheezing, nocturnal shortness of breath, and a persistent cough that has intensified over the past month. These symptoms are notably aggravated by physical activity and exposure to dust in her environment.
+
+Mrs. Doe mentions that there were three instances in the past week when the patient woke up due to severe coughing spells, which greatly distressed her. The patient’s asthma history includes acute exacerbations, status asthmaticus, extrinsic, and intrinsic types of asthma without mention of status asthmaticus. Her medical history is also significant for cystic fibrosis and allergic rhinitis. 
+
+Her ongoing medication regimen for these conditions includes Atrovent (ipratropium bromide), Flovent (fluticasone), Prednisolone, Zantac (ranitidine), and Zithromax (azithromycin). The patient adheres to her medication schedule without notable side effects. Socially, she lives in a non-smoking household with her parents, situated in a dusty industrial area, and she attends school regularly. There have been no recent changes in her activities or environment that might explain the exacerbations. 
+
+She has no noted allergies to medications.
+
+**Objective:**
+- **Vital Signs:**
+  - Blood Pressure: 102/68 mmHg
+  - Heart Rate: 94 bpm
+  - Respiratory Rate: 22 breaths per minute
+  - Temperature: 36.8°C (98.2°F)
+  - Oxygen Saturation: 97% on room air
+
+- **General Appearance:**
+  The patient is alert, well-oriented, and in no acute distress. Her nutrition and hydration appear adequate.
+
+- **Cardiovascular:**
+  Regular heart rate and rhythm with no detectable murmurs or extra heart sounds.
+
+- **Respiratory:**
+  Auscultation reveals bilateral diffuse wheezing, more pronounced with forced exhalation, but absent retractions or accessory muscle use. Her lungs are resonant on percussion.
+
+- **Abdomen:**
+  The examination shows a soft, non-tender, non-distended abdomen with normal bowel sounds and no evidence of organomegaly.
+
+- **Musculoskeletal:**
+  The patient has a normal range of motion in all extremities, without joint pain or swelling.
+
+- **Neurological:**
+  No focal neurological deficits identified. The patient is alert and cranial nerves II-XII are intact.
+
+- **Skin:**
+  The patient’s skin is clear with no rashes or lesions. No signs of atopic dermatitis are observed.
+
+A recent lab panel showed a complete blood count within normal limits. IgE levels were elevated, consistent with the diagnosis of allergic rhinitis, and her eosinophil counts were at the upper limit of normal, indicating an allergic response.
+
+**Assessment:**
+The clinical impression is as follows:
+
+1. **Asthma**:
+   - The primary diagnosis of unspecified asthma with recent acute exacerbations, likely related to environmental dust exposure.
+   - Other subtypes of asthma are considered including extrinsic and intrinsic asthma which are stable without status asthmaticus.
+
+2. **Allergic Rhinitis**:
+   - Allergic rhinitis, likely induced by environmental allergens, contributing to the respiratory symptoms.
+
+3. **Cystic Fibrosis**:
+   - Continued monitoring and coordination with specialized cystic fibrosis care are essential.
+
+**Plan:**
+
+1. **Asthma Management**:
+   - Continue with Atrovent and Flovent as prescribed.
+   - Prescribe a short course of oral Prednisolone for acute exacerbation management, one week duration.
+   - Reinforce the need for using a rescue inhaler during acute episodes of wheezing or dyspnea.
+   - Educate the patient and caregiver about minimizing dust exposure at home and during transit.
+
+2. **Allergic Rhinitis**:
+   - Continue current antihistamine therapy.
+   - Introduce montelukast as a leukotriene receptor antagonist to better manage allergic symptoms and their impact on asthma.
+
+3. **Cystic Fibrosis Management**:
+   - Maintain regular follow-ups with the cystic fibrosis clinic.
+   - Coordinate respiratory therapy care and nutritional monitoring.
+
+**Follow-Up:**
+
+The patient and caregiver were informed to observe her symptoms closely and contact the clinic if her condition does not improve or worsens. Emphasis was placed on seeking immediate care if severe asthma symptoms arise. A follow-up visit is scheduled in three months, or earlier if necessary.
+
+**Patient Education & Understanding of the Plan:**
+
+The patient’s mother demonstrated an understanding of the treatment plan and proper use of medication. She was particularly attentive to the action plan for acute asthma exacerbations and avoidance of triggers.

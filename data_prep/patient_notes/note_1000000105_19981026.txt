@@ -1,0 +1,76 @@
+### Visit Information:
+- **Patient Num:** 1000000105
+- **Visit Date:** 10/26/1998
+
+### Subjective:
+This is a 55-year-old Hispanic male who has been under care for conditions including asthma, chronic obstructive asthma, bipolar disorder, and other chronic ailments. He speaks German and has been visiting our clinic for a variety of health issues over the course of approximately 18 months. Today, he presents for a follow-up visit primarily to manage his asthma but also has additional concerns related to his ongoing medical conditions.
+
+He reports experiencing increased wheezing and shortness of breath over the past two weeks, particularly at night. He also notes a persistent cough that produces clear sputum. His asthma symptoms are exacerbated by physical exertion and exposure to cold air. He has been using his prescribed inhalers regularly but feels they have been less effective recently. For his bipolar disorder, he has been stable on his medication regimen without significant mood episodes. He also mentions intermittent chest discomfort and reflux symptoms, managed partially by dietary changes. His lower back pain, associated with intervertebral disc displacement and spinal stenosis, remains managed by physical therapy and occasional use of analgesics.
+
+Medications include a long-acting beta agonist inhaler, a corticosteroid inhaler, and an as-needed short-acting bronchodilator. He takes medications for his bipolar disorder, hypertension, hypercholesterolemia, and gout.
+
+The patient denies any recent hospitalizations or emergency department visits. He is a non-smoker, lives a sedentary lifestyle, and his diet lacks severe restrictions.
+
+### Objective:
+**Vital Signs:**
+- Blood Pressure: 140/85 mmHg
+- Heart Rate: 78 beats/min
+- Respiratory Rate: 20 breaths/min
+- Temperature: 98.6°F
+- Oxygen Saturation: 94% on room air
+
+**General Appearance:**
+The patient appears well-nourished but slightly dyspneic on exertion. He is alert and oriented, cooperative during the examination.
+
+**Cardiovascular:**
+Regular rate and rhythm, no murmurs, gallops, or rubs detected. Peripheral pulses are palpable and symmetrical.
+
+**Respiratory:**
+Increased work of breathing noted. Expiratory wheezes present in all lung fields, with a prolonged expiratory phase. No crackles or rhonchi detected.
+
+**Abdomen:**
+Soft, non-tender, bowel sounds present in all quadrants. No hepatosplenomegaly or masses observed.
+
+**Musculoskeletal:**
+Mild tenderness to palpation in the lumbar region, limited range of motion secondary to pain. No deformities or swelling in the joints.
+
+**Neurological:**
+No focal deficits. Sensation and motor function are intact in all extremities. Reflexes are 2+ and symmetrical.
+
+**Skin:**
+No rashes, lesions, or discolorations noted. Skin is warm and dry to touch.
+
+**Laboratory Results:**
+Recent labs indicate stable liver function with normal aspartate aminotransferase and alanine aminotransferase levels. Blood Urea Nitrogen and Creatinine levels are also within normal limits, indicating good renal function. Lipid profile shows elevated LDL cholesterol despite current statin therapy.
+
+### Assessment:
+The patient has a history of asthma, unspecified and chronic obstructive types, exacerbated by environmental triggers and physical activity. Additionally, he has other chronic conditions including bipolar disorder, intervertebral disc displacement, esophageal reflux, gout, lumbar spinal stenosis, and essential hypertension.
+
+### Plan:
+- **Asthma:**
+   - Continue current inhaler regimen, increase the dose of corticosteroid inhaler temporarily for exacerbation.
+   - Add a leukotriene receptor antagonist to the medication regimen.
+   - Follow-up with pulmonary function tests to assess the status and management efficacy.
+   - Patient education on avoiding known triggers and proper inhaler technique.
+- **Bipolar Disorder:**
+   - Maintain current medication regimen.
+   - Schedule a follow-up with psychiatry for medication review and mental health evaluation.
+- **Chronic Back Pain:**
+   - Continue physical therapy sessions.
+   - Prescribe a short course of oral NSAIDs for symptomatic relief.
+   - Referral to orthopedic specialist for evaluation of back pain and consideration of imaging studies if symptoms persist.
+- **Esophageal Reflux:**
+   - Continue dietary modifications and current proton pump inhibitor.
+   - Follow up in 3 months or sooner if symptoms persist or worsen.
+- **Hypertension and Hypercholesterolemia:**
+   - Maintain current antihypertensive and lipid-lowering therapy.
+   - Schedule a follow-up for blood pressure monitoring and lipid check in 3 months.
+- **Gout:**
+   - Encourage adherence to allopurinol therapy.
+   - Regular monitoring of serum uric acid levels.
+
+### Follow-Up:
+- Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate further evaluation is needed.
+- Educate the patient on the importance of medication adherence and lifestyle modifications to manage chronic conditions effectively. 
+
+The patient acknowledges and understands the outlined treatment plan and follow-up instructions.

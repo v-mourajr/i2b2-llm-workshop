@@ -1,0 +1,77 @@
+**Visit Information:**
+- Patient Num: 1000000130
+- Visit Date: 08/20/2001
+
+**Subjective:**
+This is a 22-year-old Black female who has been under our care for approximately two years. She speaks English and presented today for a follow-up appointment regarding her asthma. The patient reports experiencing increasing shortness of breath and wheezing episodes occurring more frequently over the past month, particularly at night and early mornings. She mentioned that these symptoms initially improve with the use of her prescribed albuterol inhaler, but they return after a few hours.
+
+In her past medical history, the patient has been diagnosed with asthma, which was unspecified without mention of status asthmaticus, and this is her most pressing health issue today. She also has a history of acute laryngitis and a previous unspecified injury to the head, face, and neck with no lasting sequelae reported.
+
+The patient is currently on albuterol inhaler, which she uses as needed. She has previously tried over-the-counter medications and herbal teas, which provided minimal relief. There have been no recent changes to her medications, but she expresses concern over the increasing need to use her inhaler.
+
+In her social history, she is a non-smoker, works as a retail associate, and lives in an urban area with high levels of air pollution, which she believes may be aggravating her asthma.
+
+She has no known allergies.
+
+Symptoms are characterized by intermittent wheezing and shortness of breath, starting approximately a month ago. These symptoms are aggravated by physical activity and prolonged exposure to outdoor air. They are partially relieved by using her inhaler. There is no purulent sputum production or fever.
+
+**Objective:**
+- **Vital Signs:**
+  - Blood Pressure: 120/80 mmHg
+  - Heart Rate: 78 bpm
+  - Respiratory Rate: 20 breaths per minute
+  - Temperature: 98.6°F
+  - Oxygen Saturation: 98% on room air
+
+- **General Appearance:**
+  The patient appears alert and oriented, in no acute distress, but uses accessory muscles slightly for breathing.
+
+- **Cardiovascular:**
+  Regular rate and rhythm, no murmurs, gallops, or rubs.
+
+- **Respiratory:**
+  Bilateral expiratory wheezes, prolonged expiration, mild intercostal retractions. No cyanosis or clubbing noted.
+
+- **Abdomen:**
+  Soft, non-tender, no organomegaly or masses.
+
+- **Musculoskeletal:**
+  Full range of motion in all extremities, no tenderness or swelling.
+
+- **Neurological:**
+  Grossly intact, no focal deficits.
+
+- **Skin:**
+  Warm, dry, no rashes or lesions.
+
+**Assessment:**
+- **Diagnosis or Clinical Impression:**
+  The patient has chronic asthma, currently experiencing an exacerbation likely triggered by environmental factors. Her chronic lung disease is effectively managed with intermittent exacerbation.
+
+  - Issue/Problem/Request 1:
+    - Assessment: Likely diagnosis of asthma with an exacerbation.
+    - Diagnostic Tests: None needed at this time as the diagnosis is clinically apparent.
+    - Treatment Plan:
+      - Continue with albuterol inhaler, instructing to use it every 4-6 hours as needed.
+      - Introduce a low-dose inhaled corticosteroid (such as fluticasone) for long-term control.
+      - Referral to a pulmonologist for further evaluation and management, considering possible need for additional interventions such as a peak flow meter for home monitoring.
+  - Issue/Problem/Request 2:
+    - Assessment: Acute laryngitis, previously resolved.
+    - Diagnostic Tests: None needed if no new symptoms.
+    - Treatment Plan:
+      - Continue to monitor for any recurrence.
+  - Issue/Problem/Request 3:
+    - Assessment: Previous injury to head, face, and neck, resolved without complication.
+    - Diagnostic Tests: None needed if no new symptoms.
+    - Treatment Plan:
+      - No further action required unless new symptoms arise.
+
+**Plan:**
+- Follow-up care:
+  Instruct the patient to return to the clinic if symptoms worsen, do not improve within a week, or if they experience any new symptoms.
+- Patient Education:
+  Educated the patient on the correct use of inhalers, the importance of adherence to the prescribed medications, and the potential triggers for asthma exacerbations.
+- Follow-Up Visit:
+  Schedule a follow-up appointment in 4-6 weeks to reassess asthma control and effectiveness of the inhaled corticosteroid.
+
+The patient demonstrates understanding of the plan and agrees to the proposed follow-up care and referrals.

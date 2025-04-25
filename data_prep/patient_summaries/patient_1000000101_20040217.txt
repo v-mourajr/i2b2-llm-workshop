@@ -1,0 +1,105 @@
+demographics
+patient_num: 1000000101  age: 54
+patient_num: 1000000101  sex: M
+patient_num: 1000000101  race: asian
+patient_num: 1000000101  language: spanish
+patient_num: 1000000101  vital_status: alive
+patient_num: 1000000101  earliest fact: Jan 29 1998 12:00AM
+patient_num: 1000000101  latest fact: Feb 17 2004 12:00AM
+patient_num: 1000000101  range in days: 2210
+totals
+patient_num: 1000000101  distinct concepts: 100
+patient_num: 1000000101  total facts: 405
+patient_num: 1000000101  total encounters: 66
+patient_num: 1000000101  total asthma: 5
+descriptive
+patient_num: 1000000101  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 5
+patient_num: 1000000101  diagnosis code: ICD9:477.8  name: Allergic rhinitis due to other allergen  count: 7
+patient_num: 1000000101  diagnosis code: ICD9:477.0  name: Allergic rhinitis due to pollen  count: 1
+patient_num: 1000000101  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 5
+patient_num: 1000000101  diagnosis code: ICD9:724.5  name: Backache, unspecified  count: 2
+patient_num: 1000000101  diagnosis code: ICD9:213.9  name: Benign neoplasm of bone and articular cartilage, site unspecified  count: 1
+patient_num: 1000000101  diagnosis code: ICD9:213.6  name: Benign neoplasm of pelvic bones, sacrum, and coccyx  count: 1
+patient_num: 1000000101  diagnosis code: ICD9:213.3  name: Benign neoplasm of ribs, sternum, and clavicle  count: 1
+patient_num: 1000000101  diagnosis code: ICD9:490  name: Bronchitis, not specified as acute or chronic  count: 2
+patient_num: 1000000101  diagnosis code: ICD9:232.5  name: Carcinoma in situ of skin of trunk, except scrotum  count: 1
+patient_num: 1000000101  diagnosis code: ICD9:924.01  name: Contusion of hip  count: 1
+patient_num: 1000000101  diagnosis code: ICD9:780.3  name: Convulsions  count: 1
+patient_num: 1000000101  diagnosis code: ICD9:733.90  name: Disorder of bone and cartilage, unspecified  count: 5
+patient_num: 1000000101  diagnosis code: ICD9:722.11  name: Displacement of thoracic intervertebral disc without myelopathy  count: 11
+patient_num: 1000000101  diagnosis code: ICD9:780.4  name: Dizziness and giddiness  count: 1
+patient_num: 1000000101  diagnosis code: ICD9:719.06  name: Effusion of lower leg joint  count: 1
+patient_num: 1000000101  diagnosis code: ICD9:80.51  name: Excision of intervertebral disc  count: 1
+patient_num: 1000000101  diagnosis code: ICD9:722.72  name: Intervertebral disc disorder with myelopathy, thoracic region  count: 4
+patient_num: 1000000101  diagnosis code: ICD9:724.2  name: Lumbago  count: 3
+patient_num: 1000000101  diagnosis code: ICD9:847.2  name: Lumbar sprain  count: 1
+patient_num: 1000000101  diagnosis code: ICD9:847.0  name: Neck sprain  count: 1
+patient_num: 1000000101  diagnosis code: ICD9:V71.1  name: Observation for suspected malignant neoplasm  count: 1
+patient_num: 1000000101  diagnosis code: ICD9:715.95  name: Osteoarthrosis, unspecified whether generalized or localized, involving pelvic region and thigh  count: 1
+patient_num: 1000000101  diagnosis code: ICD9:303.91  name: Other and unspecified alcohol dependence, continuous drinking behavior  count: 1
+patient_num: 1000000101  diagnosis code: ICD9:303.90  name: Other and unspecified alcohol dependence, unspecified drinking behavior  count: 1
+patient_num: 1000000101  diagnosis code: ICD9:722.92  name: Other and unspecified disc disorder of thoracic region  count: 2
+patient_num: 1000000101  diagnosis code: ICD9:959.6  name: Other and unspecified injury to hip and thigh  count: 1
+patient_num: 1000000101  diagnosis code: ICD9:959.7  name: Other and unspecified injury to knee, leg, ankle, and foot  count: 2
+patient_num: 1000000101  diagnosis code: ICD9:780.57  name: Other and unspecified sleep apnea  count: 1
+patient_num: 1000000101  diagnosis code: ICD9:372.14  name: Other chronic allergic conjunctivitis  count: 1
+patient_num: 1000000101  diagnosis code: ICD9:733.99  name: Other disorders of bone and cartilage  count: 2
+patient_num: 1000000101  diagnosis code: ICD9:86.3  name: Other local excision or destruction of lesion or tissue of skin and subcutaneous tissue  count: 1
+patient_num: 1000000101  diagnosis code: ICD9:786.9  name: Other symptoms involving respiratory system and chest  count: 1
+patient_num: 1000000101  diagnosis code: ICD9:719.45  name: Pain in joint involving pelvic region and thigh  count: 3
+patient_num: 1000000101  diagnosis code: ICD9:V72.81  name: Preoperative cardiovascular examination  count: 1
+patient_num: 1000000101  diagnosis code: ICD9:V82.8  name: Screening for other specified conditions  count: 2
+patient_num: 1000000101  diagnosis code: ICD9:756.11  name: Spondylolysis, congenital, lumbosacral region  count: 1
+patient_num: 1000000101  diagnosis code: ICD9:721.90  name: Spondylosis of unspecified site without mention of myelopathy  count: 1
+patient_num: 1000000101  diagnosis code: ICD9:721.41  name: Spondylosis with myelopathy, thoracic region  count: 1
+patient_num: 1000000101  diagnosis code: ICD9:336.9  name: Unspecified disease of spinal cord  count: 1
+patient_num: 1000000101  medication code: NDC:00364246533  name: Cefazolin Sodium 1gm powder for injection Schein Pharmaceuticals Inc  count: 4
+patient_num: 1000000101  medication code: NDC:58437000218  name: Cimetidine 400mg tablet SmithKline Beecham  count: 4
+patient_num: 1000000101  laboratory code: LOINC:704-7  name: Abs Basos Auto (Group:ABASOS)  count: 2
+patient_num: 1000000101  laboratory code: LOINC:711-2  name: Abs EOS Auto (Group:AEOS)  count: 2
+patient_num: 1000000101  laboratory code: LOINC:731-0  name: Abs Lymphs Auto (Group:ALYMPHS)  count: 2
+patient_num: 1000000101  laboratory code: LOINC:742-7  name: Abs Monos Auto (Group:AMONOS)  count: 2
+patient_num: 1000000101  laboratory code: LOINC:752-6  name: Abs Neuts Auto (Group:ANEUTS)  count: 2
+patient_num: 1000000101  laboratory code: LOINC:10466-1  name: Anion Gap (Group:ANION)  count: 1
+patient_num: 1000000101  laboratory code: LOINC:706-2  name: Basophils - Auto (Group:BASOS)  count: 2
+patient_num: 1000000101  laboratory code: LOINC:5770-3  name: Bilirubin (Group:UA-BILI)  count: 2
+patient_num: 1000000101  laboratory code: LOINC:3094-0  name: Blood Urea Nitrogen (Group:BUN)  count: 4
+patient_num: 1000000101  laboratory code: LOINC:2000-8  name: Calcium (Group:CA)  count: 2
+patient_num: 1000000101  laboratory code: LOINC:2028-9  name: Carbon Dioxide (Group:CO2)  count: 4
+patient_num: 1000000101  laboratory code: LOINC:2075-0  name: Chloride (Group:CL)  count: 4
+patient_num: 1000000101  laboratory code: LOINC:5778-6  name: Color (Group:UA-COLOR)  count: 2
+patient_num: 1000000101  laboratory code: LOINC:2160-0  name: Creatinine (Group:CRE)  count: 3
+patient_num: 1000000101  laboratory code: LOINC:713-8  name: Eosinophils - Auto (Group:EOS)  count: 2
+patient_num: 1000000101  laboratory code: LOINC:4537-7  name: ESR (Group:ESR)  count: 1
+patient_num: 1000000101  laboratory code: LOINC:6777-7  name: Glucose (Group:GLU)  count: 4
+patient_num: 1000000101  laboratory code: LOINC:5792-7  name: Glucose - UA (Group:UA-GLUC)  count: 2
+patient_num: 1000000101  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 5
+patient_num: 1000000101  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 5
+patient_num: 1000000101  laboratory code: LOINC:5797-6  name: Ketones (Group:UA-KET)  count: 2
+patient_num: 1000000101  laboratory code: LOINC:2532-0  name: LDH (Group:LDH)  count: 2
+patient_num: 1000000101  laboratory code: LOINC:736-9  name: Lymphocytes - Auto (Group:LYMPHS)  count: 2
+patient_num: 1000000101  laboratory code: LOINC:11554-3  name: Magnesium (Group:MG)  count: 2
+patient_num: 1000000101  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 5
+patient_num: 1000000101  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 5
+patient_num: 1000000101  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 5
+patient_num: 1000000101  laboratory code: LOINC:5905-5  name: Monocytes - Auto (Group:MONOS)  count: 2
+patient_num: 1000000101  laboratory code: LOINC:770-8  name: Neutrophils - Auto (Group:POLYS)  count: 2
+patient_num: 1000000101  laboratory code: LOINC:5802-4  name: Nitrites (Group:UA-NIT)  count: 2
+patient_num: 1000000101  laboratory code: LOINC:5794-3  name: Occult Blood (Group:UA-BLD)  count: 2
+patient_num: 1000000101  laboratory code: LOINC:5803-2  name: PH (Group:UA-PH)  count: 2
+patient_num: 1000000101  laboratory code: LOINC:2777-1  name: Phosphorus (Group:PHOS)  count: 2
+patient_num: 1000000101  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 5
+patient_num: 1000000101  laboratory code: LOINC:2823-3  name: Potassium (Group:K)  count: 4
+patient_num: 1000000101  laboratory code: LOINC:5804-0  name: Protein (Group:UA-ALB)  count: 2
+patient_num: 1000000101  laboratory code: LOINC:5902-2  name: PT (Group:PT)  count: 2
+patient_num: 1000000101  laboratory code: LOINC:5898-2  name: PTT (Group:PTT)  count: 2
+patient_num: 1000000101  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 5
+patient_num: 1000000101  laboratory code: LOINC:788-0  name: RDW (Group:RDW)  count: 4
+patient_num: 1000000101  laboratory code: LOINC:2951-2  name: Sodium (Group:NA)  count: 4
+patient_num: 1000000101  laboratory code: LOINC:5811-5  name: Specific Gravity (Group:UA-SPGR)  count: 2
+patient_num: 1000000101  laboratory code: LOINC:3026-2  name: Thyroxine T4 (Group:T4)  count: 1
+patient_num: 1000000101  laboratory code: LOINC:3016-3  name: TSH (Group:TSH)  count: 1
+patient_num: 1000000101  laboratory code: LOINC:5767-9  name: Turbidity (Group:UA-TURB)  count: 2
+patient_num: 1000000101  laboratory code: LOINC:5818-0  name: Urobilinogen (Group:UA-UROBI)  count: 2
+patient_num: 1000000101  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 5
+patient_num: 1000000101  laboratory code: LOINC:5799-2  name: WBC Screen (Group:UA-WBC)  count: 2

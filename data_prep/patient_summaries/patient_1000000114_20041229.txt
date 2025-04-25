@@ -1,0 +1,46 @@
+demographics
+patient_num: 1000000114  age: 26
+patient_num: 1000000114  sex: F
+patient_num: 1000000114  race: hispanic
+patient_num: 1000000114  language: english
+patient_num: 1000000114  vital_status: alive
+patient_num: 1000000114  earliest fact: Jul 29 2003 12:00AM
+patient_num: 1000000114  latest fact: Dec 29 2004 12:00AM
+patient_num: 1000000114  range in days: 519
+totals
+patient_num: 1000000114  distinct concepts: 38
+patient_num: 1000000114  total facts: 67
+patient_num: 1000000114  total encounters: 9
+patient_num: 1000000114  total asthma: 2
+descriptive
+patient_num: 1000000114  asthma code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 2
+patient_num: 1000000114  diagnosis code: ICD9:789.07  name: Abdominal pain, generalized  count: 1
+patient_num: 1000000114  diagnosis code: ICD9:493.90  name: Asthma, unspecified without mention of status asthmaticus  count: 2
+patient_num: 1000000114  diagnosis code: ICD9:719.06  name: Effusion of lower leg joint  count: 2
+patient_num: 1000000114  diagnosis code: ICD9:611.71  name: Mastodynia  count: 1
+patient_num: 1000000114  diagnosis code: ICD9:719.46  name: Pain in joint involving lower leg  count: 1
+patient_num: 1000000114  diagnosis code: ICD9:V70.0  name: Routine general medical examination at a health care facility  count: 1
+patient_num: 1000000114  medication code: NDC:00005306343  name: Albuterol Sulfate 4mg tablet ESI Lederle Generics  count: 4
+patient_num: 1000000114  medication code: NDC:00173033602  name: Beconase 0.042 mg/inh aerosol with adapter Glaxo Wellcome  count: 4
+patient_num: 1000000114  medication code: NDC:00025016124  name: Demulen 1/35 35 mcg-1mg tablet Searle  count: 4
+patient_num: 1000000114  laboratory code: LOINC:3094-0  name: Blood Urea Nitrogen (Group:BUN)  count: 1
+patient_num: 1000000114  laboratory code: LOINC:2028-9  name: Carbon Dioxide (Group:CO2)  count: 1
+patient_num: 1000000114  laboratory code: LOINC:9830-1  name: Cardiac Risk Ratio (Group:CardRR)  count: 1
+patient_num: 1000000114  laboratory code: LOINC:2075-0  name: Chloride (Group:CL)  count: 1
+patient_num: 1000000114  laboratory code: LOINC:9830-1  name: Chol/HDL Ratio (Group:CHOL/HDL)  count: 1
+patient_num: 1000000114  laboratory code: LOINC:2093-3  name: Cholesterol (Group:CHOL)  count: 1
+patient_num: 1000000114  laboratory code: LOINC:2160-0  name: Creatinine (Group:CRE)  count: 1
+patient_num: 1000000114  laboratory code: LOINC:6777-7  name: Glucose (Group:GLU)  count: 1
+patient_num: 1000000114  laboratory code: LOINC:4544-3  name: HCT (Group:HCT)  count: 1
+patient_num: 1000000114  laboratory code: LOINC:2086-7  name: HDL (Group:HDL)  count: 1
+patient_num: 1000000114  laboratory code: LOINC:718-7  name: HGB (Group:HGB)  count: 1
+patient_num: 1000000114  laboratory code: LOINC:2090-9  name: LDL (Group:LDL)  count: 1
+patient_num: 1000000114  laboratory code: LOINC:785-6  name: MCH (Group:MCH)  count: 1
+patient_num: 1000000114  laboratory code: LOINC:786-4  name: MCHC (Group:MCHC)  count: 1
+patient_num: 1000000114  laboratory code: LOINC:787-2  name: MCV (Group:MCV)  count: 1
+patient_num: 1000000114  laboratory code: LOINC:777-3  name: PLT (Group:PLT)  count: 1
+patient_num: 1000000114  laboratory code: LOINC:2823-3  name: Potassium (Group:K)  count: 1
+patient_num: 1000000114  laboratory code: LOINC:789-8  name: RBC (Group:RBC)  count: 1
+patient_num: 1000000114  laboratory code: LOINC:2951-2  name: Sodium (Group:NA)  count: 1
+patient_num: 1000000114  laboratory code: LOINC:2571-8  name: Triglycerides (Group:TRIG)  count: 1
+patient_num: 1000000114  laboratory code: LOINC:6690-2  name: WBC (Group:WBC)  count: 1

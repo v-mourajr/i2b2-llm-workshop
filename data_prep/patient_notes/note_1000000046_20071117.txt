@@ -1,0 +1,68 @@
+Visit Information:
+    - Patient Num: 1000000046
+    - Visit Date: 11/17/2007
+
+This is a 20-year-old Hispanic male who has been receiving care at our clinic for approximately ten years. He speaks English and presents today for a follow-up appointment. The patient is diagnosed primarily with asthma, including unspecified asthma with acute exacerbation and status asthmaticus, as well as extrinsic asthma with status asthmaticus. He also has a history of allergic rhinitis, pneumonia, undiagnosed cardiac murmurs, hypertrophic obstructive cardiomyopathy, and interstitial emphysema.
+
+Subjective:
+The patient reports experiencing frequent asthma exacerbations over the past month, with increased episodes of shortness of breath, wheezing, and chest tightness. These exacerbations, often occurring at night, have significantly impacted his sleep and daily activities. Physical exertion and allergens such as dust exacerbate the symptoms. His current medication regimen includes albuterol for acute episodes and a daily inhaled corticosteroid, which has provided only partial relief.
+
+Despite adherence to his medication regimen, the patient has had to visit the emergency department multiple times in the past for severe asthma attacks, including episodes of status asthmaticus. He has no known allergies. The patient denies recent respiratory infections but mentions occasional cough productive of clear sputum. His social history includes living in a smoke-free home with his parents and attending college. There have been no significant changes in his living conditions or exposures recently.
+
+Objective:
+Vital Signs:
+    - Blood Pressure: 120/80 mmHg
+    - Heart Rate: 88 bpm
+    - Respiratory Rate: 22 breaths per minute
+    - Temperature: 98.4°F
+    - Oxygen Saturation: 93% on room air
+
+General Appearance:
+The patient appears in mild respiratory distress, using accessory muscles to assist in breathing. He is alert and oriented, engaging in the conversation appropriately.
+
+Cardiovascular:
+Cardiac auscultation reveals a soft, grade II/VI systolic murmur at the apex, with no additional abnormal heart sounds. Heart rate and rhythm are regular.
+
+Respiratory:
+Examination reveals mild intercostal retractions. Auscultation shows expiratory wheezes throughout both lung fields, more pronounced basally, without crackles. There is a prolonged expiratory phase.
+
+Abdomen:
+The abdomen is soft and non-tender with normal bowel sounds. No organomegaly is noted.
+
+Musculoskeletal:
+No joint swelling or deformities; muscle strength and tone are appropriate with good range of motion.
+
+Neurological:
+The patient is neurologically intact with no focal deficits. Cranial nerves are grossly intact.
+
+Skin:
+The skin appears normal in texture and color without rashes, cyanosis, or clubbing.
+
+Assessment:
+The primary clinical impression centers on poorly controlled asthma with frequent exacerbations. His history of extrinsic and unspecified asthma, including status asthmaticus, suggests a high severity that requires optimized management. Secondary clinical concerns include hypertrophic obstructive cardiomyopathy and undiagnosed cardiac murmur, both necessitating ongoing cardiological evaluation. The patient's allergic rhinitis and interstitial emphysema further complicate his respiratory status.
+
+Plan:
+1. Asthma Management:
+   - Continue the use of albuterol as a rescue inhaler and the daily inhaled corticosteroids.
+   - Introduce a long-acting beta-agonist (LABA) combined with an inhaled corticosteroid to improve symptom control.
+   - Referral to a pediatric allergist for consideration of allergen immunotherapy and advanced asthma management strategies.
+   - Spirometry and peak flow monitoring to assess pulmonary function and guide therapy adjustments.
+
+2. Monitoring for Pneumonia:
+   - Educate on recognizing early signs of respiratory infections and the importance of prompt treatment.
+   - Recommend vaccination for influenza and pneumococcus to reduce the risk of respiratory infections.
+
+3. Cardiac Murmur and Hypertrophic Obstructive Cardiomyopathy:
+   - Schedule follow-up with pediatric cardiology to further evaluate the systolic murmur and assess cardiac function.
+   - Echocardiogram to monitor hypertrophic obstructive cardiomyopathy and identify potential complications.
+
+4. Allergic Rhinitis:
+   - Initiate a daily antihistamine to manage allergic symptoms.
+   - Implement environmental control measures to reduce allergen exposure, including using high-efficiency particulate air (HEPA) filters and maintaining a dust-free environment.
+
+Patient Education & Follow-Up:
+- Instruct the patient to use the rescue inhaler at the onset of an asthma attack and to avoid known triggers. Encourage regular use of the controller medication and adherence to follow-up appointments.
+- Emphasize the importance of monitoring symptoms and seeking immediate medical attention if symptoms worsen or do not improve within a week.
+- Plan for a follow-up visit in one month to reassess asthma control and adjust medication as required. Ensure the patient understands and agrees to the treatment recommendations.
+
+The patient and his family verbalized understanding of the new treatment plan and confirmed their commitment to comply with the management regimen, agreeing to the follow-up schedule.

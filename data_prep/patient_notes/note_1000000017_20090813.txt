@@ -1,0 +1,67 @@
+**Visit Information:**
+
+- Patient Num: 1000000017
+- Visit Date: 08/13/2009
+
+**Subjective:**
+
+This is a 50-year-old Black male, who has been attending our clinic since October 1997, presenting today for a follow-up visit. The patient continues to struggle with asthma, expressing concerns about increased shortness of breath and wheezing aggravated by dust and cold weather, as well as physical exertion. Despite regular use of his albuterol inhaler, which provides partial relief, his symptoms have curtailed his activity, especially at his construction job. He denies any recent chest pain, fever, or productive cough.
+
+The patient also reports exacerbation of knee pain, stiffness, and functional limitations due to osteoarthrosis, particularly influenced by cooler temperatures and a demanding work environment. His medical history includes anemia, facing ongoing fatigue, and recurrent respiratory infections like bronchitis and pneumonia. He feels malaise but manages with acetaminophen.
+
+Regarding his current medications, he remains on an albuterol inhaler, a medium-dose inhaled corticosteroid, and acetaminophen, reporting no significant side effects and affirming compliance with his treatment plan. He is non-smoker, consumes alcohol socially, and engages in construction work, exposing him to respiratory irritants. There are no known drug allergies.
+
+**Objective:**
+
+- **Vital Signs:**
+  - Blood Pressure: 128/82 mmHg
+  - Heart Rate: 76 beats per minute
+  - Respiratory Rate: 21 breaths per minute
+  - Temperature: 98.2°F (36.8°C)
+  - Oxygen Saturation: 93% on room air
+
+- **General Appearance:** The patient appears alert and in mild respiratory distress.
+- **Cardiovascular:** Regular heart rate and rhythm; no murmurs, gallops, or rubs present.
+- **Respiratory:** Audible bilateral expiratory wheezes on auscultation; no use of accessory muscles observed with normal resonance on percussion.
+- **Abdomen:** Soft, non-tender, and non-distended with no hepatosplenomegaly.
+- **Musculoskeletal:** Mild tenderness over both knees without visible swelling or erythema; full range of motion is present but painful.
+- **Neurological:** Cranial nerves II-XII intact; muscle strength rated 5/5 in all limbs with no focal deficits.
+- **Skin:** Normal turgor and color; no rashes or lesions noted.
+
+Laboratory findings reveal persistent mild anemia with consistent hemoglobin and hematocrit levels slightly below the normal range. Liver function tests, including AST and bilirubin, are within normal limits. 
+
+**Assessment:**
+
+1. **Asthma, unspecified without mention of status asthmaticus:** Exacerbation likely related to environmental exposure.
+2. **Anemia, unspecified:** Mild and stable, requiring routine monitoring.
+3. **Osteoarthrosis, unspecified:** Chronic knee pain, managed with analgesics.
+4. **Recurrent respiratory infections:** Necessitates ongoing surveillance and preventive measures.
+
+**Plan:**
+
+1. **Asthma Management:**
+   - Increase inhaled corticosteroids.
+   - Maintain albuterol for acute symptom relief and add montelukast for daily use.
+   - Instruct on using a peak flow meter for at-home monitoring of lung function.
+   - Refer to pulmonology for evaluation of further intervention, considering long-acting bronchodilators.
+   - Advise avoiding known triggers and ensuring compliance with medications.
+
+2. **Anemia Management:**
+   - Continue with periodic CBC monitoring.
+   - Advise an iron-rich diet and contemplate starting iron supplements if necessary.
+
+3. **Osteoarthrosis Management:**
+   - Continue with acetaminophen for pain relief.
+   - Recommend engaging in low-impact activities and consider physical therapy referral to support joint health.
+
+4. **Respiratory Health:**
+   - Schedule regular follow-up visits to monitor respiratory status.
+   - Verify and update immunizations, notably influenza and pneumococcal vaccines.
+
+**Follow-Up:**
+
+Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results necessitate further evaluation. Arrange a follow-up appointment in two weeks to reassess asthma management and repeat CBC in one month for anemia monitoring.
+
+**Patient Education & Understanding of the Plan:**
+
+The patient was educated about the importance of adhering to asthma medications, proper use of the peak flow meter, and strategies to minimize exposure to asthma triggers. He demonstrated an understanding of the treatment plan and agreed to the proposed interventions.

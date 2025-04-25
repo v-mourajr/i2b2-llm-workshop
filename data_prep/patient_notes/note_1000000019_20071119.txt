@@ -1,0 +1,62 @@
+**Visit Information:**
+- Patient Num: 1000000019
+- Visit Date: 11/19/2007
+
+This is a 9-year-old Indian male who has been receiving regular care at our clinic for approximately 5 years. He speaks German and currently resides in a non-smoking household with his parents, attending school regularly. The patient presented today for a follow-up visit concerning asthma management and recent respiratory symptoms.
+
+**Subjective:**
+The patient's mother reports an increase in her son’s coughing and difficulty breathing, particularly noticeable at night. These symptoms have persisted for the past week and have only been partially alleviated by his albuterol inhaler. Additionally, he has a runny nose and a mild sore throat, suspected to be due to a recent cold. His asthma has been managed with albuterol inhaler as needed, but the current exacerbation raises concerns about adequate control.
+
+The patient’s medical history includes a diagnosis of asthma without status asthmaticus, recurrent episodes of acute bronchitis, and an episode of acute sinusitis last fall. He experienced acute upper respiratory infection earlier in the year. He also has a history of slow transit constipation managed through dietary adjustments. His medications include albuterol as needed for asthma symptoms.
+
+No medication allergies are reported. The patient’s social history indicates he lives in a supportive household free of environmental tobacco smoke.
+
+**Objective:**
+- **Vital Signs:**
+    - Blood Pressure: 102/68 mmHg
+    - Heart Rate: 108 bpm
+    - Respiratory Rate: 26 breaths per minute
+    - Temperature: 37.1°C (98.8°F)
+    - Oxygen Saturation: 95% on room air
+
+- **General Appearance:**
+    The patient appears slightly distressed by his coughing fits but remains alert and cooperative.
+
+- **Cardiovascular:**
+    Regular rate and rhythm; no audible murmurs, gallops, or rubs.
+
+- **Respiratory:**
+    Auscultation reveals bilateral expiratory wheezes with prolonged expiration. Mild intercostal retractions are present, and no rales or rhonchi are noted.
+
+- **Abdomen:**
+    Soft, non-tender, non-distended, with normal active bowel sounds.
+
+- **Musculoskeletal:**
+    Normal muscle tone and range of motion, no swelling or tenderness in the joints and extremities.
+
+- **Neurological:**
+    Alert, oriented, and appropriate for age. Cranial nerves II-XII intact.
+
+- **Skin:**
+    No rashes, lesions, or abnormalities noted.
+
+**Assessment:**
+The primary diagnosis is asthma, with the patient currently experiencing an exacerbation likely triggered by a concurrent acute respiratory infection. Despite using his albuterol inhaler, he continues to present with increased coughing and nocturnal symptoms, indicating suboptimal control of his asthma.
+
+- **Issue 1: Asthma exacerbation**
+    - Assessment: Likely secondary to a recent upper respiratory infection, indicating perhaps the need for more comprehensive management.
+    - Diagnostic Tests: No new diagnostic tests required at this juncture. Previous laboratory results will be reviewed to monitor any significant abnormalities.
+    - Treatment Plan: Initiate a short course of oral corticosteroids (prednisolone) to manage the acute exacerbation. Increase the frequency of albuterol use as necessary. If symptoms persist, consider initiating a long-term controller medication such as an inhaled corticosteroid. Schedule a follow-up appointment in one week to reassess.
+
+- **Issue 2: Acute respiratory infection**
+    - Assessment: Most likely viral, contributing to the current asthma exacerbation.
+    - Diagnostic Tests: Not indicated at this time as the clinical presentation aligns with a common viral infection.
+    - Treatment Plan: Provide supportive care including rest, increased fluid intake, and over-the-counter decongestants if needed. Continue monitoring symptoms at home.
+
+- **Issue 3: Constipation**
+    - Assessment: Currently managed well with dietary modifications.
+    - Diagnostic Tests: None required at this visit.
+    - Treatment Plan: Continue emphasizing dietary fiber and adequate hydration.
+
+**Plan:**
+The patient's mother is advised to monitor her son closely for signs of worsening respiratory distress, such as increased use of accessory muscles, cyanosis, or a drop in oxygen saturation. She should contact the clinic immediately if his symptoms worsen or do not improve within a few days. Follow-up is scheduled for one week to monitor the response to the initiated treatment plan and make any necessary adjustments. Both the patient and his mother were educated on the importance of medication adherence, the correct use of inhalers, recognizing signs of an asthma attack, and supportive care measures for respiratory infections. The mother demonstrated understanding of the treatment plan and follow-up instructions.

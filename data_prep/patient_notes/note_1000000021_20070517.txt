@@ -1,0 +1,70 @@
+Visit Information:
+- Patient Num: 1000000021
+- Visit Date: 05/17/2007
+
+Subjective:
+This is a 32-year-old Black male who has been receiving care at our clinic for approximately 8 years. He speaks Spanish and presents today for a follow-up appointment on May 17, 2007, reporting escalated symptoms of asthma over the past month. The patient describes increased wheezing, shortness of breath, and nocturnal coughing, particularly exacerbated by physical exertion and exposure to cold air. He reports occasional adherence issues with his medication regimen due to forgetfulness but denies experiencing chest pain or fever.
+
+The patient has a significant past medical history of various forms of asthma with episodes of status asthmaticus, allergic rhinitis, chronic rhinitis, and abnormal weight loss. Additionally, he has a history of acute pharyngitis and non-specific lower back pain. Current medications include Albuterol Sulfate 4mg tablets, Allegra-D, and Pulmicort Turbuhaler. The patient reports using Albuterol more frequently over the past month due to increased symptom severity. 
+
+He lives alone and works in a shipping warehouse, a setting that potentially exacerbates his respiratory symptoms. He does not smoke but consumes alcohol occasionally on weekends. No known drug allergies were reported.
+
+Objective:
+- Vital Signs:
+  - Blood Pressure: 122/80 mmHg
+  - Heart Rate: 90 bpm
+  - Respiratory Rate: 22 breaths/min
+  - Temperature: 98.7 °F
+  - Oxygen Saturation: 93% on room air
+
+- General Appearance:
+  The patient appears slightly anxious but in no acute distress, with occasional coughing.
+
+- Cardiovascular:
+  Regular rate and rhythm without murmurs, rubs, or gallops.
+
+- Respiratory:
+  Diffuse expiratory wheezes heard bilaterally with a prolonged expiratory phase. Mild use of accessory muscles noted during respiration.
+
+- Abdomen:
+  Soft, non-tender, and non-distended with normal bowel sounds.
+
+- Musculoskeletal:
+  No joint deformities or swelling. Full range of motion in all extremities.
+
+- Neurological:
+  Alert and oriented, cranial nerves II-XII intact, no focal deficits.
+
+- Skin:
+  No rashes, lesions, or discoloration.
+
+Assessment:
+1. **Asthma, unspecified without mention of status asthmaticus**:
+   The patient exhibits symptoms suggestive of asthma exacerbation, likely influenced by environmental allergens and work exposure. 
+
+2. **Chronic and Allergic rhinitis**:
+   Contributing to upper respiratory irritation and the exacerbation of asthma symptoms.
+
+3. **Acute pharyngitis**:
+   Recent infection noted, potentially aggravating his respiratory condition.
+
+Plan:
+1. **Asthma Management**:
+   - Continue Albuterol Sulfate 4mg as needed for acute symptoms.
+   - Initiate an increased dosage frequency of Fluticasone inhaler to 2 puffs twice daily to improve symptom control.
+   - Provide a peak flow meter and instruct on daily lung function monitoring to identify early signs of exacerbation.
+
+2. **Diagnostic Tests**:
+   - Order a chest X-ray to rule out other causes of cough and shortness of breath.
+   - Conduct routine pulmonary function tests to gauge current asthma severity.
+
+3. **Management of Rhinitis and Pharyngitis**:
+   - Prescribe a nasal corticosteroid spray for chronic rhinitis.
+   - Educate the patient on allergen avoidance strategies and proper nasal hygiene.
+
+Follow-Up:
+- Schedule a follow-up appointment in 2 weeks to reassess asthma control and adherence to the new inhaler regimen.
+- Instruct the patient to contact the clinic if symptoms worsen or do not improve within a week, or if test results indicate the need for further evaluation.
+- Emphasize the importance of seeking immediate medical attention for emergent symptoms such as severe chest pain or significant breathing difficulties.
+
+The patient has been provided detailed education on the updated treatment plan, including medication use, peak flow monitoring, and allergen avoidance. He has confirmed understanding of the instructions and the importance of adhering to the prescribed management plan.

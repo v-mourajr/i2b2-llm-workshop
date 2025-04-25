@@ -1,0 +1,32 @@
+This is a 17-year-old Hispanic female, who speaks English and has been receiving care at our clinic for nine years. She presents today, December 12, 2007, for a routine follow-up visit to manage her asthma, along with other chronic and episodic health concerns.
+
+**Subjective:**
+The patient has a longstanding history of asthma, both unspecified and extrinsic, which has occasionally exacerbated to status asthmaticus. Her asthma management includes the use of as-needed albuterol and a daily low-dose inhaled corticosteroid. Despite this regimen, she reports an increase in nocturnal coughing and shortness of breath during physical activities over the past month. She lives in a pet-free, smoke-free home with her mother, and attends high school where she partakes in moderate physical activities. She has no known medication allergies.
+
+In addition to asthma, the patient has a history of generalized and right lower quadrant abdominal pain, acute cystitis, tonsillitis, allergic rhinitis, appendicitis, attention deficit disorder with hyperactivity, neurotic depression, scoliosis, and prolonged post-traumatic stress disorder. She has no significant surgical history.
+
+Her current medications include albuterol as needed for asthma, and a low-dose inhaled corticosteroid daily. There have been no recent changes to her medication regimen. Recently, her symptoms flare up with seasonal changes and slightly improve with rest and the use of her inhaler. No new side effects of medications have been reported.
+
+**Objective:**
+Upon examination:
+- Blood Pressure: 110/70 mmHg
+- Heart Rate: 90 bpm
+- Respiratory Rate: 24 breaths per minute
+- Temperature: 98.8°F
+- Oxygen Saturation: 95% on room air
+
+The patient appears well-nourished and in no acute distress but demonstrates an intermittent non-productive cough. Cardiovascular examination reveals regular heart rate and rhythm with no murmurs or extra sounds. On respiratory examination, there is increased respiratory effort with bilateral expiratory wheezes more prominent in the lower lung fields, but no use of accessory muscles is noted. The abdomen is soft and non-tender with normal bowel sounds. The musculoskeletal examination shows a normal range of motion in all extremities with no joint swelling or tenderness. Neurologically, she is alert and oriented, with no focal deficits. Her skin is warm and dry without any rashes or lesions.
+
+**Assessment:**
+1. **Asthma Exacerbation:** The primary diagnosis is asthma exacerbation, likely due to a combination of environmental triggers and suboptimal asthma control. Differential diagnosis includes potential respiratory infection exacerbating the asthma.
+   - Diagnostic Tests: Spirometry and peak flow measurements will be monitored to assess lung function.
+   - Treatment Plan: Increase the dosage of inhaled corticosteroids and continue albuterol as needed. Provide an asthma action plan and educate the mother about signs of asthma worsening.
+
+2. **Nocturnal Cough:** This symptom is most likely asthma-related, with other considerations including gastroesophageal reflux and postnasal drip.
+   - Treatment Plan: A trial of nighttime antihistamines may be considered if nocturnal symptoms continue. Reinforce asthma management measures, particularly focusing on nighttime symptom control.
+
+3. **Activity-Related Dyspnea:** Likely secondary to exercise-induced bronchospasm, with other differential diagnoses such as general dyspnea associated with physical exertion.
+   - Treatment Plan: Advise pre-exercise use of albuterol, monitor oxygen saturation during physical activities, and adjust her activities to avoid known triggers and ensure they are asthma-friendly.
+
+**Plan:**
+The patient is instructed to follow up with the clinic if symptoms do not improve within a week or if there is any concern for exacerbation requiring further evaluation. A routine follow-up appointment is scheduled for one month. Detailed education on asthma triggers, the importance of medication adherence, and proper inhaler technique were reviewed with the patient and her mother, who both expressed understanding of the plan and the necessity for ongoing monitoring.
