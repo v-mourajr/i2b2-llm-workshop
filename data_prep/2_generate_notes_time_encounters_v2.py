@@ -23,16 +23,16 @@ model = AzureChatOpenAI(
 
 # Define input and output directories
 input_dir = "patient_summaries"
-output_dir = "patient_notes"
-os.makedirs(output_dir, exist_ok=True)
+output_dir_txt = "patient_notes_txt"
+os.makedirs(output_dir_txt, exist_ok=True)
 
 # List of patient numbers for which to use the "no asthma" prompt
 no_asthma_patient_nums = {
-    "1000000071", "1000000003", "1000000047", "1000000068", "1000000048",
-    "1000000093", "1000000103", "1000000009", "1000000002", "1000000087",
-    "1000000101", "1000000107", "1000000040", "1000000036", "1000000052",
-    "1000000086", "1000000023", "1000000010", "1000000063", "1000000082",
-    "1000000064", "1000000013"
+    "1000000002", "1000000003", "1000000009", "1000000010", "1000000013",
+    "1000000023", "1000000036", "1000000040", "1000000047", "1000000048",
+    "1000000052", "1000000063", "1000000064", "1000000068", "1000000071",
+    "1000000082", "1000000086", "1000000087", "1000000093", "1000000101",
+    "1000000103", "1000000107"
 }
 
 # Flag: If set to True, process only files for patients in the no-asthma list.
@@ -46,12 +46,15 @@ count = 0
 # Loop over each patient summary file in the input directory
 last_narrative_note = {}
 last_patient_num = {}
-for filename in txt_files:
-    parts = filename.split("_")
-    patient_num = parts[1]
-    latest_fact = parts[-1].replace(".txt", "")
+consolidated_rows = []
 
-    visit_date = datetime.strptime(latest_fact, '%Y%m%d').strftime('%m/%d/%Y')
+for filename in txt_files:
+    parts = filename.split("-")
+    patient_num = parts[0].split(':')[1]
+    encounter_id = parts[1].split(':')[1]
+    encounter_start_date = parts[3].split(':')[1]
+
+    visit_date = datetime.strptime(encounter_start_date, '%Y%m%d').strftime('%m/%d/%Y')
 
     # If the flag is set, skip files not in the no_asthma list
     if process_only_no_asthma and patient_num not in no_asthma_patient_nums:
@@ -62,7 +65,6 @@ for filename in txt_files:
 
     count += 1
     print(f"Working on summary {count} of {total} - {filename}")
-
 
     file_path = os.path.join(input_dir, filename)
     with open(file_path, "r") as file:
@@ -92,11 +94,12 @@ for filename in txt_files:
     last_narrative_note = narrative_note
     last_patient_num = patient_num
 
-    # Replace 'patient_' with 'note_' in the output filename
-    output_filename = filename.replace("patient_", "note_")
-    output_file_path = os.path.join(output_dir, output_filename)
+    # Save narrative note in a text file
+    output_file_path = os.path.join(output_dir_txt, filename)
 
     with open(output_file_path, "w") as output_file:
         output_file.write(narrative_note)
 
-    print(f"Generated narrative note for {filename} and saved to {output_file_path}\n")
+    print(f" --> Generated narrative note for {filename}\n")
+
+print(f"\n\n------------>  COMPLETED <------------")
