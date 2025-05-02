@@ -6,7 +6,8 @@ soap_template = [
 Please note: In all sections below, include details only if they can be inferred from the ICD9, NDC, or LOINC codes provided in the patient_summary; otherwise, leave blank.
 
 Visit Information:
-    - Patient Num: {{patient_num}}
+    - Patient ID: {{patient_num}}
+    - Encounter ID: {{encounter_id}}
     - Visit Date: {{visit_date}}
 
 Subjective:
@@ -99,7 +100,7 @@ Instructions:
 3. Create a cohesive, made-up physical exam occurred on the visit date provided that aligns with the patient's primary or frequent conditions (e.g., findings related to respiratory status, mental status if depressive disorder is mentioned, etc.).
 4. When referencing labs (LOINC codes), do not include the codes themselves or their counts. Instead, mention their common names (e.g., "Aspartate Aminotransferase" instead of "AST") and any relevant significance or normal/abnormal findings suggested by repeated monitoring.
 5. Use a SOAP format:
-   - **Visit Information**: Provide the patient_num, {{visit_date}} in structured way as specified on the SOAP template.
+   - **Visit Information**: Provide the patient_num, encounter_num, {{visit_date}} in structured way as specified on the SOAP template.
    - **Subjective**: Summarize the patient's chief complaints, relevant history (asthma), and background. Make sure that current medications are mentioned. Write in full sentences.
    - **Objective**: Provide a plausible and narrative physical exam, vital signs, symptoms, and any relevant lab findings. 
    - **Assessment**: Offer a clinical impression or diagnosis summary, grouping chronic issues together.
@@ -132,7 +133,7 @@ Instructions:
 4. Create a cohesive, made-up physical exam that aligns with the patient's non-asthma conditions. For example, if there are indications of mental health concerns or cardiac issues, include appropriate exam findings for those areas.
 5. When referencing laboratory tests (LOINC codes), do not include the codes themselves or their counts. Instead, mention their common names (e.g., "Aspartate Aminotransferase" rather than "AST") and note any relevant significance suggested by repeated monitoring.
 6. Use the SOAP format:
-   - **Visit Information**: Provide the patient_num, {{visit_date}} in structured way as specified on the SOAP template.
+   - **Visit Information**: Provide the patient_num, encounter_num, {{visit_date}} in structured way as specified on the SOAP template.
    - **Subjective**: Summarize the patient's chief complaints, relevant history, and background in full sentences. Make sure that current medications (excluding asthma related) are mentioned.
    - **Objective**: Provide a plausible and narrative physical exam, vital signs (if applicable), and any relevant lab findings.
    - **Assessment**: Offer a clinical impression or diagnosis summary, grouping chronic issues (other than asthma) together.
