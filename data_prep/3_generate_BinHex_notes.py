@@ -67,17 +67,16 @@ for filename in txt_files:
         inout_cd,
         location_cd,
         location_path,
-        f"0x{hex_text}",
-        filename
+        f"0x{hex_text}"
     ])
 
     print(f" --> Generated BinHex note for {filename}\n")
 
 # Write consolidated CSV
-csv_file_path = os.path.join("../datafiles", "i2b2_visit_dimension.csv")
+csv_file_path = os.path.join("../datafiles", "i2b2_encounter_table_full_old.csv")
 with open(csv_file_path, "w", newline='', encoding="utf-8") as csvfile:
     writer = csv.writer(csvfile)
-    writer.writerow(["encounter_num", "patient_num", "start_date", "end_date", "inout_cd", "location_cd", "location_path", "visit_blob", "file_name"])
+    writer.writerow(["encounter_num", "patient_num", "start_date", "end_date", "inout_cd", "location_cd", "location_path", "visit_blob"])
     writer.writerows(consolidated_data)
 
 print("\n\n------------>  COMPLETED <------------")

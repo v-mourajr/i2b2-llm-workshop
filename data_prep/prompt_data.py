@@ -25,59 +25,19 @@ Subjective:
         Describe symptoms including onset, location, duration, characteristics, alleviating/aggravating factors, timing, and severity in full sentences.
     - Additional Narrative:
         Include details on non-pharmacological interventions tried, the patient's experience managing symptoms, any side effects experienced, and any recent changes in condition. Write in full sentences.
-
+    
 Objective:
-    - Vital Signs:
-        - Blood Pressure
-        - Heart Rate
-        - Respiratory Rate
-        - Temperature
-        - Oxygen Saturation
-    - General Appearance:
-        Describe overall appearance.
-    - Cardiovascular:
-        Describe cardiovascular exam findings.
-    - Respiratory:
-        Describe respiratory exam findings.
-    - Abdomen:
-        Describe abdominal exam findings.
-    - Musculoskeletal:
-        Describe musculoskeletal exam findings.
-    - Neurological:
-        Describe neurological exam findings.
-    - Skin:
-        Describe skin exam findings.
+    Summarize the physical exam, vital signs, and lab findings in **a single paragraph**.
+    Only include findings that relate directly to the patient's current complaints or diagnoses.
+    Avoid listing systems with normal or unrelated findings.
 
 Assessment:
     - Diagnosis or Clinical Impression:
-        Provide a summary of the clinical impression.
-    - Issue/Problem/Request 1:
-        Assessment:
-            - Likely diagnosis for Issue 1
-            - Differential diagnosis for Issue 1
-        Diagnostic Tests:
-            - Planned investigations or tests for Issue 1
-        Treatment Plan:
-            - Treatment plan for Issue 1
-            - Relevant referrals for Issue 1
-    - Issue/Problem/Request 2:
-        Assessment:
-            - Likely diagnosis for Issue 2
-            - Differential diagnosis for Issue 2
-        Diagnostic Tests:
-            - Planned investigations or tests for Issue 2
-        Treatment Plan:
-            - Treatment plan for Issue 2
-            - Relevant referrals for Issue 2
-    - Issue/Problem/Request 3:
-        Assessment:
-            - Likely diagnosis for Issue 3
-            - Differential diagnosis for Issue 3
-        Diagnostic Tests:
-            - Planned investigations or tests for Issue 3
-        Treatment Plan:
-            - Treatment plan for Issue 3
-            - Relevant referrals for Issue 3
+        A brief 2–3 sentence narrative summarizing key issues.
+    - Issues/Problems:
+        For each issue (limit to 3), provide:
+            - Assessment: 1–2 sentences summarizing the issue and differential
+            - Plan: 1–2 sentences summarizing tests, treatments, and referrals
 
 Follow-Up:
     - Instructions for emergent follow-up care or monitoring:
@@ -109,6 +69,9 @@ Instructions:
 7. Do not list the codes explicitly (ICD, LOINC, NDC). Reference them conceptually (e.g., "This patient’s record indicates repeated tests for liver function" or "He has multiple diagnoses related to various forms of asthma...").
 8. Focus on transforming all relevant data into a cohesive narrative physician’s note while respecting the SOAP structure. Ensure the final product reads naturally and includes a short, invented physical exam that matches the patient's conditions.
 9. When available, review the latest patient's note to build a more accurate patient narrative. Include a progress from their last visit and mention past visit dates when available, however focus on the NEW patient summary provided. 
+10. Limit the **Objective section** to a single paragraph summarizing only relevant exam findings and labs. Do not list every body system unless it's related to the primary issue.
+11. For the **Assessment and Plan**, summarize each issue in 2–3 sentences total, combining diagnosis, differential, treatment plan, and next steps. Avoid redundancy and unnecessary elaboration.
+12. Avoid repeating findings from the Subjective or Objective sections.
 
 Please produce a single, integrated narrative note that respects these guidelines, using the following SOAP template in a cohesive manner: {soap_template}. 
 
