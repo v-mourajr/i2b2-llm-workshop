@@ -30,7 +30,10 @@ cd i2b2-llm-workshop
 
 ```bash
 python -m venv i2b2_llm
-source i2b2_llm/bin/activate  # On Windows: .\i2b2_llm\Scripts\activate
+# On MacOS/Linux:
+source i2b2_llm/bin/activate  
+# On Windows: 
+.\i2b2_llm\Scripts\activate
 ```
 
 ### 3. Install Python Dependencies
