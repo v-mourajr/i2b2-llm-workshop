@@ -97,11 +97,7 @@ These enable full support for notebooks inside VS Code.
 
 You’ll run all notebooks **inside VS Code**, not in your browser.
 
-### 1. Launch VS Code from the Terminal
-
-```bash
-code .
-```
+### 1. Open Visula Studio Code
 
 ### 2. Open a Notebook
 
@@ -137,15 +133,6 @@ code .
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions! If you find issues or have suggestions:
-
-* Open an issue in the GitHub repository
-* Submit a pull request
-
----
-
 ## 📜 License
 
 Developed by the **Center for AI and Biomedical Informatics for the Learning Healthcare System (CAIBILS)** at Massachusetts General Brigham.
@@ -155,5 +142,4 @@ Developed by the **Center for AI and Biomedical Informatics for the Learning Hea
 By following this guide, you’ll be ready to explore and apply cutting-edge LLM techniques to real-world patient notes using open tools and models.
 **Let’s build smarter healthcare together.**
 
-```
 
