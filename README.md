@@ -29,10 +29,14 @@ cd i2b2-llm-workshop
 ### 2. Create and Activate a Virtual Environment
 
 ```bash
-python -m venv i2b2_llm
-# On MacOS/Linux:
+
+#Create the Environment on MacOS/Linux or Windows:
+python3 -m venv i2b2_llm
+
+# Activate On MacOS/Linux:
 source i2b2_llm/bin/activate  
-# On Windows: 
+
+# Activate On Windows: 
 .\i2b2_llm\Scripts\activate
 ```
 
@@ -55,7 +59,7 @@ We use **Qwen2**, a local open LLM, for this workshop.
 * After installation, open a terminal and verify:
 
 ```bash
-ollama version
+ollama -v
 ```
 
 ### 2. Pull the Qwen2 Model
