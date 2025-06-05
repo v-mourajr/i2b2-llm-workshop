@@ -104,7 +104,7 @@ These enable full support for notebooks inside VS Code.
 
 You’ll run all notebooks **inside VS Code**, not in your browser.
 
-### 1. Open Visula Studio Code
+### 1. Open Visual Studio Code
 
 ### 2. Open a Notebook
 
