@@ -139,7 +139,8 @@ You’ll run all notebooks **inside VS Code**, not in your browser.
 * **Full RAG pipeline using ChromaDB** and Maximal Marginal Relevance (MMR)
 * Structured summarization from retrieved notes using a local LLM
 
----
+![roadmap](./images/roadmap.png)
+
 
 ## 📜 License
 
