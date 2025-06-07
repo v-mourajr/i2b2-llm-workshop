@@ -145,7 +145,7 @@ You’ll run all notebooks **inside VS Code**, not in your browser.
 
 Developed by Valdery Moura Junior, PhD, MBA, at the **Center for AI and Biomedical Informatics for the Learning Healthcare System (CAIBILS)**, Massachusetts General Brigham, for the i2b2 Annual Symposium.
 
-This material is for educational use only. No guarantees are made regarding accuracy or completeness. Unless stated otherwise, it may be shared and adapted with proper attribution.---
+This material is for educational use only. No guarantees are made regarding accuracy or completeness. Unless stated otherwise, it may be shared and adapted with proper attribution.
 
 ---
 By following this guide, you’ll be ready to explore and apply cutting-edge LLM techniques to real-world patient notes using open tools and models.
